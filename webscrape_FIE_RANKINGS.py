@@ -77,7 +77,7 @@ for category in categories:
         time.sleep(1)
         table_rows = driver.find_elements(By.CSS_SELECTOR, "table.table tr")
     
-    for _ in range(76):
+    for _ in range(100):
         table_rows = driver.find_elements(By.CSS_SELECTOR, "table.table tr")
         
         data = []  
