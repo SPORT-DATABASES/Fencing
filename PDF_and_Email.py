@@ -16,7 +16,7 @@ print("Loading rankings data...")
 rankings_df = pd.read_csv('Rankings.csv')
 
 # Filter for country 'United Arab Emirates'
-qatar_rankings_df = rankings_df[rankings_df['Country'] == 'UNITED ARAB EMIRATES']
+qatar_rankings_df = rankings_df[rankings_df['Country'] == 'QATAR']
 qatar_rankings_df = qatar_rankings_df.drop(columns=['id', 'Country'])
 
 # Ensure necessary columns are in the DataFrame and remove duplicates
