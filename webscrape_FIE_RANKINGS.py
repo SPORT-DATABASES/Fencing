@@ -17,7 +17,7 @@ ua = UserAgent()
 user_agent = ua.random
 edge_options = webdriver.EdgeOptions()
 edge_options.add_argument(f"user-agent={user_agent}")
-edge_options.add_argument("--headless")
+#edge_options.add_argument("--headless")
 edge_options.add_argument("--incognito")
 
 # Disable images
@@ -71,7 +71,7 @@ for category in categories:
     driver.execute_script("arguments[0].click();", level_option)
     wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "table.table tr")))
     
-    time.sleep(3)
+    time.sleep(5)
 
     for _ in range(76):
         table_rows = driver.find_elements(By.CSS_SELECTOR, "table.table tr")

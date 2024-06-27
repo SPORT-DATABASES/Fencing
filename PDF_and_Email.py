@@ -62,7 +62,7 @@ class PDF(FPDF):
 
     def chapter_body(self, data):
         self.set_font('Arial', '', 12)
-        col_widths = [50, 30, 30, 30, 50]  # Define column widths: Name, Rank, Points, AgeGroup, Weapon
+        col_widths = [70, 30, 30, 30, 30]  # Define column widths: Name, Rank, Points, AgeGroup, Weapon
         # Check if there's enough space on the page for the table and title
         if self.get_y() + len(data) * 10 + 30 > self.h - self.b_margin:
             self.add_page()

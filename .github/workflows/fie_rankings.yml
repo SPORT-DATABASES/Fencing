@@ -59,7 +59,7 @@ jobs:
           git add Rankings.csv
           if ! git diff-index --quiet HEAD; then
             git commit -m "Update Rankings.csv, PDF and email"
-            git push https://x-access-token:${{ secrets.SPORTS_DATABASE_TOKEN }}@github.com/SPORTS-DATABASES/FIE_Rankings.git HEAD:main
+            git push https://x-access-token:${{ secrets.SPORTS_DATABASE_TOKEN }}@github.com/SPORT-DATABASES/FIE_Rankings.git HEAD:main
           else
             echo "No changes to commit"
           fi
