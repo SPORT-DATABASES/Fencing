@@ -44,7 +44,7 @@ jobs:
         run: |
           Xvfb :99 -ac &
           sleep 3 # Give Xvfb some time to start
-          python FIE_RANKINGS.py
+          python webscrape_FIE_RANKINGS.py
 
       - name: Create PDF and email
         run: |
