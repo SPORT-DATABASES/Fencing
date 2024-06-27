@@ -2,7 +2,7 @@ name: Run FIE Rankings Scrape
 
 on:
   schedule:
-    - cron: "0 6 * * 1" # 6am every Monday
+    - cron: "0 5 * * 2" # 5am every Tuesday
  
   workflow_dispatch:
 
