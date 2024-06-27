@@ -26,10 +26,10 @@ edge_options.add_experimental_option("prefs", prefs)
 
 driver_service = Service(EdgeChromiumDriverManager().install())
 driver = webdriver.Edge(service=driver_service, options=edge_options)
-driver.set_page_load_timeout(600) 
+driver.set_page_load_timeout(600)
 print("1. Installed driver")
 
-wait = WebDriverWait(driver, 5)  # Reduced wait time
+wait = WebDriverWait(driver, 10)  # Increased wait time for robustness
 
 driver.get('https://fie.org/athletes')
 wait.until(EC.presence_of_element_located((By.ID, "weaponFoil")))
@@ -54,7 +54,7 @@ all_data = []
 
 for category in categories:
     driver.get('https://fie.org/athletes')
-    time.sleep(3)
+    wait.until(EC.presence_of_element_located((By.ID, category["weapon"])))
     
     # Select weapon
     weapon_option = driver.find_element(By.ID, category["weapon"])
@@ -70,12 +70,15 @@ for category in categories:
     level_option = driver.find_element(By.ID, category["level"])
     driver.execute_script("arguments[0].click();", level_option)
     wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "table.table tr")))
-    
-    time.sleep(5)
 
+    # Ensure the table data is fully loaded
+    table_rows = driver.find_elements(By.CSS_SELECTOR, "table.table tr")
+    while not table_rows:
+        time.sleep(1)
+        table_rows = driver.find_elements(By.CSS_SELECTOR, "table.table tr")
+    
     for _ in range(76):
         table_rows = driver.find_elements(By.CSS_SELECTOR, "table.table tr")
-
         
         data = []  
         for row in table_rows[1:]:  
@@ -105,7 +108,7 @@ df['Scrape_Date'] = scrape_date
 df['id'] = range(1, len(df) + 1)
 
 # Save to CSV
-df.to_csv('Rankings.csv', index = False)
+df.to_csv('Rankings.csv', index=False)
 
 # Print the number of rows, head(10) and tail(10)
 print(f"3. Finished web scrape of FIE Points and Rankings. Total rows scraped: {len(df)}")
@@ -115,3 +118,4 @@ print("Last 10 rows:")
 print(df.tail(10))
 
 driver.quit()
+
