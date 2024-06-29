@@ -90,7 +90,7 @@ rankings_df.to_csv('Ranking_data.csv', index=False)
 team = "QATAR"
 
 sender_email = "kennymcmillan29@gmail.com"
-receiver_emails = ["kennymcmillan29@gmail.com", "kenneth.mcmillan@aspire.qa"]
+receiver_emails = ["kennymcmillan29@gmail.com", "kenneth.mcmillan@aspire.qa", "massimo.omeri@aspire.qa"]
 password = "sqzi vduz elbn jyna"
 
 rankings_df = rankings_df[rankings_df['Country'] == team]
