@@ -102,7 +102,6 @@ rankings_df = rankings_df[['Name', 'Rank', 'Points', 'Gender', 'Level', 'Weapon'
 individuals_df = rankings_df[rankings_df['Type'] == 'Individual']
 teams_df = rankings_df[rankings_df['Type'] == 'Team']
 
-
 # Sort the DataFrames: Men first, then Women; Seniors first, then Juniors
 for df in [individuals_df, teams_df]:
     df['Gender'] = pd.Categorical(df['Gender'], categories=['Men', 'Women'], ordered=True)
