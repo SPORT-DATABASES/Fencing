@@ -1,12 +1,9 @@
-name: Scrape Athletes Data
+name: Scrape Athletes FIE Rankings Data
 
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+  workflow_dispatch:
+
+  
 
 jobs:
   scrape:
