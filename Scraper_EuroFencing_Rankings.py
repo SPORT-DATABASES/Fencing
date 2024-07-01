@@ -54,7 +54,7 @@ for gender in options_gender_l:
 
                 table_html = driver.find_element(By.TAG_NAME,'html').get_attribute('innerHTML')
                                 
-                table_2 = pd.read_html(table_html)[1]
+                table_2 = pd.read_html(StringIO(table_html))[1]
                 table_2['Gender']=gender
                 table_2['Weapon']=weapon
                 table_2['Age']=age
