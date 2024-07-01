@@ -9,16 +9,16 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import pandas as pd
 import os
+from io import StringIO
 
 # Set up headless option
 options = Options()
-options.headless = True
+options.headless = False
 
 driver = webdriver.Chrome(options=options)
 
 # go to website
 driver.get("https://www.eurofencing.info/rankings/individual-rankings")
-
 
 # Select id of appropriate tag
 select_gender = Select(driver.find_element(By.ID,'gender'))  # using Select from Selenium
@@ -86,15 +86,11 @@ driver.quit()
 #len(table1)
 
 table2 = pd.concat(table_2_data, sort = True)
-len(table2)
 
-columns_t2=[ 'Rank','Pts.','Name','Nat.', 'YoB',  '1.',  '2.', '3.', '4.', '5.', '6.', '7.', '8.',
-       '9.','10.', '11.', '12.', 'Age', 'Gender',   'Weapon',
-       'Year']
+columns_t2=[ 'Rank','Points.','Name','Nationality', 'YearofBirth',  'Comp_1',  'Comp_2', 
+            'Comp_3', 'Comp_4', 'Comp_5', 'Comp_6', 'Comp_7', 'Comp_8',
+            'Comp_9','Comp_10', 'Comp_11', 'Comp_12', 'Age', 'Gender', 
+            'Weapon', 'Year']
 
 table2=table2[columns_t2]
-
-path=os.getcwd() #default path
-
-#table1.to_csv(path +'\\table1new12apr2023-2.csv') 
-table2.to_csv('Eurofencing_Rankings.csv')
+table2.to_csv('Eurofencing_Individual_Rankings.csv', index=False)
