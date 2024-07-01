@@ -1,7 +1,6 @@
 from selenium import webdriver
-from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.edge.options import Options
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -11,17 +10,14 @@ import pandas as pd
 import os
 from io import StringIO
 
-# Set up headless option
 options = Options()
 options.headless = False
 
-driver = webdriver.Chrome(options=options)
-
-# go to website
+driver = webdriver.Edge(options=options)
 driver.get("https://www.eurofencing.info/rankings/individual-rankings")
 
 # Select id of appropriate tag
-select_gender = Select(driver.find_element(By.ID,'gender'))  # using Select from Selenium
+select_gender = Select(driver.find_element(By.ID,'gender'))
 select_weapon = Select(driver.find_element(By.ID,'weapon'))
 select_age = Select(driver.find_element(By.ID,'age'))
 select_year = Select(driver.find_element(By.ID,'year'))
@@ -36,7 +32,6 @@ options_weapon_l=[i.text for i in options_weapon]
 options_age_l=[i.text for i in options_age[0:2]]
 options_year_l=[i.text for i in options_year[0:5]]
 
-# Create open lists
 c=[]
 table_1_data=[]
 table_2_data=[]
@@ -51,34 +46,23 @@ for gender in options_gender_l:
                 select_age = Select(driver.find_element(By.ID,'age'))
                 select_year = Select(driver.find_element(By.ID,'year'))
                 
-                #select_by_visible_text() is a method of the Select class in Selenium that allows you to select an option from a drop-down list by its visible text.
-                
                 select_gender.select_by_visible_text(gender) # select women
                 select_weapon.select_by_visible_text(weapon) # select weapon
                 select_age.select_by_visible_text(age) # select age
                 select_year.select_by_visible_text(year) # select year
-                driver.find_element(By.XPATH, '//*[@id="print-rankings"]/div/form/div/div[6]/div/input').click() # clicking to see data
+                driver.find_element(By.XPATH, '//*[@id="print-rankings"]/div/form/div/div[6]/div/input').click()
 
                 table_html = driver.find_element(By.TAG_NAME,'html').get_attribute('innerHTML')
-                    
-                #table_1 = pd.read_html(table_html)[0] # get first table
-                #table_1['Gender']=gender
-                #table_1['Weapon']=weapon
-                #table_1['Age']=age
-                #table_1['Year']=year
-                #print(f"Scraping table_1 for {gender}, {weapon}, {age}, {year}")
-                #table_1_data.append(table_1)  # append table1 to list
-                
-                
-                table_2 = pd.read_html(table_html)[1] # get second table
+                                
+                table_2 = pd.read_html(table_html)[1]
                 table_2['Gender']=gender
                 table_2['Weapon']=weapon
                 table_2['Age']=age
                 table_2['Year']=year
                 print(f" Scraping table_2 for {gender}, {weapon}, {age}, {year}")
-                table_2_data.append(table_2) # append table1 to list
+                table_2_data.append(table_2)
                 
-                driver.implicitly_wait(10) # implicit wait not to break website with many requests.. and being blocked
+                driver.implicitly_wait(10)
                 
 driver.quit()
 
@@ -87,10 +71,24 @@ driver.quit()
 
 table2 = pd.concat(table_2_data, sort = True)
 
-columns_t2=[ 'Rank','Points.','Name','Nationality', 'YearofBirth',  'Comp_1',  'Comp_2', 
-            'Comp_3', 'Comp_4', 'Comp_5', 'Comp_6', 'Comp_7', 'Comp_8',
-            'Comp_9','Comp_10', 'Comp_11', 'Comp_12', 'Age', 'Gender', 
-            'Weapon', 'Year']
+table2 = table2.rename(columns={
+    'Pts.': 'Points',
+    'Nat.': 'Nationality',
+    'YoB': 'YearOfBirth',
+    'Rank' : 'Ranking',
+    '1.': 'Comp_1',
+    '2.': 'Comp_2',
+    '3.': 'Comp_3',
+    '4.': 'Comp_4',
+    '5.': 'Comp_5',
+    '6.': 'Comp_6',
+    '7.': 'Comp_7',
+    '8.': 'Comp_8',
+    '9.': 'Comp_9',
+    '10.': 'Comp_10',
+    '11.': 'Comp_11',
+    '12.': 'Comp_12'
+})
 
-table2=table2[columns_t2]
+
 table2.to_csv('Eurofencing_Individual_Rankings.csv', index=False)

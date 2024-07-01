@@ -1,49 +1,70 @@
-name: EuroFencing Indiv Rankings, MySQL update
+name: EuroFencing Scrape and MySQL
 
 on:
   schedule:
-    - cron: '0 6 * * MON' # Runs every Monday at midnight
+    - cron: "0 6 * * 1" # 6am every Monday
+ 
   workflow_dispatch:
 
 jobs:
-  update-rankings:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.8'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12' # Specify the Python version you need
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install mysql-connector-python pandas requests SQLAlchemy pymysql
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install selenium webdriver-manager fake-useragent beautifulsoup4 pandas certifi pymysql sqlalchemy fpdf datetime 
 
-    - name: Fetch data
-      run: |
-        python Scraper_EuroFencing_Rankings.py
+      - name: Install Edge
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget apt-transport-https
+          wget https://packages.microsoft.com/keys/microsoft.asc
+          sudo apt-key add microsoft.asc
+          sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/edge stable main" > /etc/apt/sources.list.d/microsoft-edge.list'
+          sudo apt-get update
+          sudo apt-get install -y microsoft-edge-stable
+          sudo apt-get install -y wget unzip xvfb
 
-    - name: Check for changes
-      run: |
-        git add Eurofencing_Individual_Rankings.csv
-        if git diff-index --quiet HEAD; then
-          echo "No changes to commit"
-          exit 0
-        fi
+      - name: Verify Edge Installation
+        run: microsoft-edge --version
 
-    - name: Commit and push updated data
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add Eurofencing_Individual_Rankings.csv
-        git commit -m 'Update Eurofencing rankings data' || exit 0
-        git push || exit 0
+      - name: Run web scrape script
+        env:
+          DISPLAY: ":99.0"
+        run: |
+          Xvfb :99 -ac &
+          sleep 3 # Give Xvfb some time to start
+          python Scraper_EuroFencing_Rankings.py
 
-    - name: Update MySQL database
-      run: |
-        python Eurofencing_update_MySQL.py
+      - name: Update Aiven MySQL Database
+        run: |
+          python Eurofencing_update_MySQL.py
+          
+      - name: Commit and push changes if necessary
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add EuroFencing_Individual_Rankings.csv
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Update Rankings.csv, push to Databases, PDF and email"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SPORT-DATABASES/Fencing.git HEAD:main
+          else
+            echo "No changes to commit"
+          fi
+
+
+
+
 
