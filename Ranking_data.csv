@@ -24,7 +24,7 @@ Id,Name,Country,Weapon,Gender,Points,Date,Level,Hand,Height,Rank,Flag,Image,Type
 48895,YASSEEN Mohamed,EGYPT,Epee,Men,61.000,2004-01-05,Senior,Left,,23,EGY,https://static.fie.org/uploads/26/133529-mohamed%20mahmoud%20yassin%20j.jpeg,Individual,Egypt,EGY,EGY
 39355,LAN Minghao,CHINA,Epee,Men,61.000,1996-08-28,Senior,Right,,24,CHN,https://static.fie.org/uploads/30/152354-7d3b758131a6b9ce7558a44324a0a3b%281%29.jpg,Individual,"China, People's Republic of[4]",CHN,CHN
 12246,LIMARDO Francisco,VENEZUELA,Epee,Men,59.750,1987-03-27,Senior,Right,180,25,VEN,https://static.fie.org/uploads/9/49050-LIMARDO%20FRANCISCO.jpg,Individual,Venezuela,VEN,VEN
-30882,HO Wai Hang,"HONG KONG, CHINA",Epee,Men,58.625,1996-04-07,Senior,Right,,26,HKG,https://static.fie.org/uploads/2/11836-30882.jpg,Individual,Hong Kong[11],HKG,HKG
+30882,HO Wai Hang,"HONG KONG, CHINA",Epee,Men,58.625,1996-04-07,Senior,Right,,26,HKG,https://static.fie.org/uploads/34/170188-WhatsApp%20Image%202024-06-30%20at%2012.42.08_143a8f71.jpg,Individual,Hong Kong[11],HKG,HKG
 28840,NG Ho Tin,"HONG KONG, CHINA",Epee,Men,57.750,1996-08-08,Senior,Left,,27,HKG,https://static.fie.org/uploads/2/11455-28840.jpg,Individual,Hong Kong[11],HKG,HKG
 16463,KWEON Youngjun,KOREA,Epee,Men,55.500,1987-03-29,Senior,Right,,28,KOR,https://static.fie.org/uploads/17/88633-KOR_Athlete_KWEON_Youngjun.jpg,Individual,"Korea, Republic of (South)[14]",KOR,KOR
 24970,ELKORD Houssam,MOROCCO,Epee,Men,55.250,1993-02-24,Senior,Left,,29,MAR,https://static.fie.org/uploads/23/119037-176E9BE1-E910-43C4-BAE2-FE72B23D5140.jpeg,Individual,Morocco,MAR,MAR
@@ -985,60 +985,67 @@ Id,Name,Country,Weapon,Gender,Points,Date,Level,Hand,Height,Rank,Flag,Image,Type
 36790,SAY Ali Ege,TÜRKIYE,Epee,Men,0.000,1999-01-14,Senior,Right,,984,TUR,https://static.fie.org/uploads/5/29695-TUR_SAY_ALI_EGE.jpg,Individual,Turkey,TUR,TUR
 30099,FJERMESTAD Tord,NORWAY,Epee,Men,0.000,1996-12-19,Senior,Left,,985,NOR,https://static.fie.org/uploads/2/11855-30099.jpg,Individual,Norway,NOR,NOR
 47316,MARINAKIS Georgios,GREECE,Epee,Men,0.000,1966-04-04,Senior,Right,,986,GRE,https://static.fie.org/uploads/19/95964-marinakis_georgios.jpg,Individual,Greece,GRE,GRC
-6955,FRANCE,FRANCE,Epee,Men,324.000,,Senior,,,1,FRA,FR,Team,France,FRA,FRA
-6959,ITALY,ITALY,Epee,Men,292.000,,Senior,,,2,ITA,IT,Team,Italy,ITA,ITA
-6960,JAPAN,JAPAN,Epee,Men,260.000,,Senior,,,3,JPN,JP,Team,Japan,JPN,JPN
-6958,HUNGARY,HUNGARY,Epee,Men,224.000,,Senior,,,4,HUN,HU,Team,Hungary,HUN,HUN
-9593,EGYPT,EGYPT,Epee,Men,203.000,,Senior,,,5,EGY,EG,Team,Egypt,EGY,EGY
-6961,KAZAKHSTAN,KAZAKHSTAN,Epee,Men,198.000,,Senior,,,6,KAZ,KZ,Team,Kazakhstan,KAZ,KAZ
-6881,CZECHIA,CZECHIA,Epee,Men,188.000,,Senior,,,7,CZE,CZ,Team,Czech Republic,CZE,CZE
-6945,VENEZUELA,VENEZUELA,Epee,Men,180.000,,Senior,,,8,VEN,VE,Team,Venezuela,VEN,VEN
-8860,KOREA,KOREA,Epee,Men,179.000,,Senior,,,9,KOR,KR,Team,"Korea, Republic of (South)[14]",KOR,KOR
-9044,SWITZERLAND,SWITZERLAND,Epee,Men,146.000,,Senior,,,10,SUI,CH,Team,Switzerland,SUI,CHE
-9454,SPAIN,SPAIN,Epee,Men,138.000,,Senior,,,11,ESP,ES,Team,Spain,ESP,ESP
-6957,GERMANY,GERMANY,Epee,Men,136.000,,Senior,,,12,GER,DE,Team,Germany,GER,DEU
-6879,CHINA,CHINA,Epee,Men,133.000,,Senior,,,13,CHN,CN,Team,"China, People's Republic of[4]",CHN,CHN
-6895,ISRAEL,ISRAEL,Epee,Men,129.000,,Senior,,,14,ISR,IL,Team,Israel,ISR,ISR
-6979,UKRAINE,UKRAINE,Epee,Men,126.000,,Senior,,,15,UKR,UA,Team,Ukraine,UKR,UKR
-6878,CANADA,CANADA,Epee,Men,114.000,,Senior,,,16,CAN,CA,Team,Canada,CAN,CAN
-14877,MOROCCO,MOROCCO,Epee,Men,100.000,,Senior,,,17,MAR,MA,Team,Morocco,MAR,MAR
-6971,POLAND,POLAND,Epee,Men,82.000,,Senior,,,18,POL,PL,Team,Poland,POL,POL
-19701,FINLAND,FINLAND,Epee,Men,74.000,,Senior,,,19,FIN,FI,Team,Finland,FIN,FIN
-8445,AUSTRIA,AUSTRIA,Epee,Men,68.000,,Senior,,,20,AUT,AT,Team,Austria,AUT,AUT
-6924,USA,USA,Epee,Men,63.000,,Senior,,,21,USA,US,Team,United States,USA,USA
-6969,NETHERLANDS,NETHERLANDS,Epee,Men,62.000,,Senior,,,22,NED,NL,Team,Netherlands,NED,NLD
-6929,COLOMBIA,COLOMBIA,Epee,Men,60.000,,Senior,,,23,COL,CO,Team,Colombia,COL,COL
-6884,ESTONIA,ESTONIA,Epee,Men,58.000,,Senior,,,24,EST,EE,Team,Estonia,EST,EST
-6882,DENMARK,DENMARK,Epee,Men,50.000,,Senior,,,25,DEN,DK,Team,Denmark,DEN,DNK
-6888,"HONG KONG, CHINA","HONG KONG, CHINA",Epee,Men,48.000,,Senior,,,26,HKG,HK,Team,Hong Kong[11],HKG,HKG
-6900,SAUDI ARABIA,SAUDI ARABIA,Epee,Men,48.000,,Senior,,,27,KSA,SA,Team,Saudi Arabia,KSA,SAU
-6925,UZBEKISTAN,UZBEKISTAN,Epee,Men,46.000,,Senior,,,28,UZB,UZ,Team,Uzbekistan,UZB,UZB
-6914,SOUTH AFRICA,SOUTH AFRICA,Epee,Men,40.000,,Senior,,,29,RSA,ZA,Team,South Africa,RSA,ZAF
-45254,ANGOLA,ANGOLA,Epee,Men,36.000,,Senior,,,30,ANG,AO,Team,Angola,ANG,AGO
-6922,CHINESE TAIPEI,CHINESE TAIPEI,Epee,Men,36.000,,Senior,,,31,TPE,TW,Team,Taiwan[19],TPE,TWN
-29879,BENIN,BENIN,Epee,Men,32.000,,Senior,,,32,BEN,BJ,Team,Benin,BEN,BEN
-6919,SWEDEN,SWEDEN,Epee,Men,32.000,,Senior,,,33,SWE,SE,Team,Sweden,SWE,SWE
-6926,ARGENTINA,ARGENTINA,Epee,Men,24.000,,Senior,,,34,ARG,AR,Team,Argentina,ARG,ARG
-6972,PORTUGAL,PORTUGAL,Epee,Men,24.000,,Senior,,,35,POR,PT,Team,Portugal,POR,PRT
-6951,BRAZIL,BRAZIL,Epee,Men,24.000,,Senior,,,36,BRA,BR,Team,Brazil,BRA,BRA
-6916,SINGAPORE,SINGAPORE,Epee,Men,16.000,,Senior,,,37,SGP,SG,Team,Singapore,SGP,SGP
-11562,"MACAO, CHINA","MACAO, CHINA",Epee,Men,16.000,,Senior,,,38,MAC,MO,Team,,,
-6886,GREAT BRITAIN,GREAT BRITAIN,Epee,Men,16.000,,Senior,,,39,GBR,GB,Team,United Kingdom[21],GBR,GBR
-6874,AUSTRALIA,AUSTRALIA,Epee,Men,16.000,,Senior,,,40,AUS,AU,Team,Australia,AUS,AUS
-6938,MEXICO,MEXICO,Epee,Men,16.000,,Senior,,,41,MEX,MX,Team,Mexico,MEX,MEX
-28178,LIBYA,LIBYA,Epee,Men,8.000,,Senior,,,42,LBA,LY,Team,Libya,LBA,LBY
-6956,GEORGIA,GEORGIA,Epee,Men,8.000,,Senior,,,43,GEO,GE,Team,Georgia,GEO,GEO
-17391,UNITED ARAB EMIRATES,UNITED ARAB EMIRATES,Epee,Men,8.000,,Senior,,,44,UAE,AE,Team,United Arab Emirates,UAE,ARE
-6913,QATAR,QATAR,Epee,Men,0.000,,Senior,,,45,QAT,QA,Team,Qatar,QAT,QAT
-6910,NEW ZEALAND,NEW ZEALAND,Epee,Men,0.000,,Senior,,,46,NZL,NZ,Team,New Zealand,NZL,NZL
-15680,KYRGYZSTAN,KYRGYZSTAN,Epee,Men,0.000,,Senior,,,47,KGZ,KG,Team,Kyrgyzstan,KGZ,KGZ
-6890,INDIA,INDIA,Epee,Men,0.000,,Senior,,,48,IND,IN,Team,India,IND,IND
-6940,PANAMA,PANAMA,Epee,Men,0.000,,Senior,,,49,PAN,PA,Team,Panama,PAN,PAN
-6911,PHILIPPINES,PHILIPPINES,Epee,Men,0.000,,Senior,,,50,PHI,PH,Team,Philippines,PHI,PHL
-6934,EL SALVADOR,EL SALVADOR,Epee,Men,0.000,,Senior,,,51,ESA,SV,Team,El Salvador,ESA,SLV
-6901,KUWAIT,KUWAIT,Epee,Men,0.000,,Senior,,,52,KUW,KW,Team,Kuwait,KUW,KWT
-6921,TURKMENISTAN,TURKMENISTAN,Epee,Men,0.000,,Senior,,,53,TKM,TM,Team,Turkmenistan,TKM,TKM
-6954,CROATIA,CROATIA,Epee,Men,0.000,,Senior,,,54,CRO,HR,Team,Croatia,CRO,HRV
+6955,FRANCE,FRANCE,Epee,Men,388.000,,Senior,,,1,FRA,FR,Team,France,FRA,FRA
+6959,ITALY,ITALY,Epee,Men,344.000,,Senior,,,2,ITA,IT,Team,Italy,ITA,ITA
+6960,JAPAN,JAPAN,Epee,Men,312.000,,Senior,,,3,JPN,JP,Team,Japan,JPN,JPN
+6961,KAZAKHSTAN,KAZAKHSTAN,Epee,Men,262.000,,Senior,,,4,KAZ,KZ,Team,Kazakhstan,KAZ,KAZ
+6958,HUNGARY,HUNGARY,Epee,Men,256.000,,Senior,,,5,HUN,HU,Team,Hungary,HUN,HUN
+6945,VENEZUELA,VENEZUELA,Epee,Men,244.000,,Senior,,,6,VEN,VE,Team,Venezuela,VEN,VEN
+6881,CZECHIA,CZECHIA,Epee,Men,224.000,,Senior,,,7,CZE,CZ,Team,Czech Republic,CZE,CZE
+8860,KOREA,KOREA,Epee,Men,211.000,,Senior,,,8,KOR,KR,Team,"Korea, Republic of (South)[14]",KOR,KOR
+9593,EGYPT,EGYPT,Epee,Men,203.000,,Senior,,,9,EGY,EG,Team,Egypt,EGY,EGY
+9454,SPAIN,SPAIN,Epee,Men,178.000,,Senior,,,10,ESP,ES,Team,Spain,ESP,ESP
+6879,CHINA,CHINA,Epee,Men,173.000,,Senior,,,11,CHN,CN,Team,"China, People's Republic of[4]",CHN,CHN
+9044,SWITZERLAND,SWITZERLAND,Epee,Men,170.000,,Senior,,,12,SUI,CH,Team,Switzerland,SUI,CHE
+6957,GERMANY,GERMANY,Epee,Men,166.000,,Senior,,,13,GER,DE,Team,Germany,GER,DEU
+6979,UKRAINE,UKRAINE,Epee,Men,154.000,,Senior,,,14,UKR,UA,Team,Ukraine,UKR,UKR
+6878,CANADA,CANADA,Epee,Men,150.000,,Senior,,,15,CAN,CA,Team,Canada,CAN,CAN
+6895,ISRAEL,ISRAEL,Epee,Men,150.000,,Senior,,,16,ISR,IL,Team,Israel,ISR,ISR
+6929,COLOMBIA,COLOMBIA,Epee,Men,112.000,,Senior,,,17,COL,CO,Team,Colombia,COL,COL
+6971,POLAND,POLAND,Epee,Men,105.000,,Senior,,,18,POL,PL,Team,Poland,POL,POL
+14877,MOROCCO,MOROCCO,Epee,Men,100.000,,Senior,,,19,MAR,MA,Team,Morocco,MAR,MAR
+6924,USA,USA,Epee,Men,95.000,,Senior,,,20,USA,US,Team,United States,USA,USA
+19701,FINLAND,FINLAND,Epee,Men,94.000,,Senior,,,21,FIN,FI,Team,Finland,FIN,FIN
+8445,AUSTRIA,AUSTRIA,Epee,Men,90.000,,Senior,,,22,AUT,AT,Team,Austria,AUT,AUT
+6969,NETHERLANDS,NETHERLANDS,Epee,Men,88.000,,Senior,,,23,NED,NL,Team,Netherlands,NED,NLD
+6888,"HONG KONG, CHINA","HONG KONG, CHINA",Epee,Men,84.000,,Senior,,,24,HKG,HK,Team,Hong Kong[11],HKG,HKG
+6884,ESTONIA,ESTONIA,Epee,Men,77.000,,Senior,,,25,EST,EE,Team,Estonia,EST,EST
+6900,SAUDI ARABIA,SAUDI ARABIA,Epee,Men,76.000,,Senior,,,26,KSA,SA,Team,Saudi Arabia,KSA,SAU
+6882,DENMARK,DENMARK,Epee,Men,75.000,,Senior,,,27,DEN,DK,Team,Denmark,DEN,DNK
+6951,BRAZIL,BRAZIL,Epee,Men,64.000,,Senior,,,28,BRA,BR,Team,Brazil,BRA,BRA
+6922,CHINESE TAIPEI,CHINESE TAIPEI,Epee,Men,60.000,,Senior,,,29,TPE,TW,Team,Taiwan[19],TPE,TWN
+6926,ARGENTINA,ARGENTINA,Epee,Men,54.000,,Senior,,,30,ARG,AR,Team,Argentina,ARG,ARG
+6874,AUSTRALIA,AUSTRALIA,Epee,Men,46.000,,Senior,,,31,AUS,AU,Team,Australia,AUS,AUS
+6925,UZBEKISTAN,UZBEKISTAN,Epee,Men,46.000,,Senior,,,32,UZB,UZ,Team,Uzbekistan,UZB,UZB
+6916,SINGAPORE,SINGAPORE,Epee,Men,41.000,,Senior,,,33,SGP,SG,Team,Singapore,SGP,SGP
+6914,SOUTH AFRICA,SOUTH AFRICA,Epee,Men,40.000,,Senior,,,34,RSA,ZA,Team,South Africa,RSA,ZAF
+6919,SWEDEN,SWEDEN,Epee,Men,40.000,,Senior,,,35,SWE,SE,Team,Sweden,SWE,SWE
+45254,ANGOLA,ANGOLA,Epee,Men,36.000,,Senior,,,36,ANG,AO,Team,Angola,ANG,AGO
+11562,"MACAO, CHINA","MACAO, CHINA",Epee,Men,34.000,,Senior,,,37,MAC,MO,Team,,,
+6886,GREAT BRITAIN,GREAT BRITAIN,Epee,Men,34.000,,Senior,,,38,GBR,GB,Team,United Kingdom[21],GBR,GBR
+29879,BENIN,BENIN,Epee,Men,32.000,,Senior,,,39,BEN,BJ,Team,Benin,BEN,BEN
+6928,CHILE,CHILE,Epee,Men,28.000,,Senior,,,40,CHI,CL,Team,Chile,CHI,CHL
+15680,KYRGYZSTAN,KYRGYZSTAN,Epee,Men,26.000,,Senior,,,41,KGZ,KG,Team,Kyrgyzstan,KGZ,KGZ
+6940,PANAMA,PANAMA,Epee,Men,26.000,,Senior,,,42,PAN,PA,Team,Panama,PAN,PAN
+6934,EL SALVADOR,EL SALVADOR,Epee,Men,25.000,,Senior,,,43,ESA,SV,Team,El Salvador,ESA,SLV
+6942,PERU,PERU,Epee,Men,24.000,,Senior,,,44,PER,PE,Team,Peru,PER,PER
+6972,PORTUGAL,PORTUGAL,Epee,Men,24.000,,Senior,,,45,POR,PT,Team,Portugal,POR,PRT
+6930,COSTA RICA,COSTA RICA,Epee,Men,23.000,,Senior,,,46,CRC,CR,Team,Costa Rica,CRC,CRI
+6901,KUWAIT,KUWAIT,Epee,Men,23.000,,Senior,,,47,KUW,KW,Team,Kuwait,KUW,KWT
+6911,PHILIPPINES,PHILIPPINES,Epee,Men,22.000,,Senior,,,48,PHI,PH,Team,Philippines,PHI,PHL
+8636,VIETNAM,VIETNAM,Epee,Men,21.000,,Senior,,,49,VIE,VN,Team,Vietnam,VIE,VNM
+6913,QATAR,QATAR,Epee,Men,20.000,,Senior,,,50,QAT,QA,Team,Qatar,QAT,QAT
+6891,IRAN,IRAN,Epee,Men,19.000,,Senior,,,51,IRI,IR,Team,Iran,IRI,IRN
+6938,MEXICO,MEXICO,Epee,Men,16.000,,Senior,,,52,MEX,MX,Team,Mexico,MEX,MEX
+6893,IRAQ,IRAQ,Epee,Men,8.000,,Senior,,,53,IRQ,IQ,Team,Iraq,IRQ,IRQ
+6923,TÜRKIYE,TÜRKIYE,Epee,Men,8.000,,Senior,,,54,TUR,TR,Team,Turkey,TUR,TUR
+28178,LIBYA,LIBYA,Epee,Men,8.000,,Senior,,,55,LBA,LY,Team,Libya,LBA,LBY
+6956,GEORGIA,GEORGIA,Epee,Men,8.000,,Senior,,,56,GEO,GE,Team,Georgia,GEO,GEO
+17391,UNITED ARAB EMIRATES,UNITED ARAB EMIRATES,Epee,Men,8.000,,Senior,,,57,UAE,AE,Team,United Arab Emirates,UAE,ARE
+6910,NEW ZEALAND,NEW ZEALAND,Epee,Men,0.000,,Senior,,,58,NZL,NZ,Team,New Zealand,NZL,NZL
+6890,INDIA,INDIA,Epee,Men,0.000,,Senior,,,59,IND,IN,Team,India,IND,IND
+6921,TURKMENISTAN,TURKMENISTAN,Epee,Men,0.000,,Senior,,,60,TKM,TM,Team,Turkmenistan,TKM,TKM
+6954,CROATIA,CROATIA,Epee,Men,0.000,,Senior,,,61,CRO,HR,Team,Croatia,CRO,HRV
 22439,KONG Man Wai Vivian,"HONG KONG, CHINA",Epee,Women,204.000,1994-02-08,Senior,Left,,1,HKG,https://static.fie.org/uploads/23/117346-vivian.jpg,Individual,Hong Kong[11],HKG,HKG
 20179,CANDASSAMY Marie-Florence,FRANCE,Epee,Women,183.000,1991-02-26,Senior,Right,,2,FRA,https://static.fie.org/uploads/28/140558-WomenEpee%20CANDASSAMY%20Marie-Florence.jpg,Individual,France,FRA,FRA
 23170,SANTUCCIO Alberta,ITALY,Epee,Women,163.000,1994-10-22,Senior,Right,,3,ITA,https://static.fie.org/uploads/34/170068-SANTUCCIO%20Roberta.jpg,Individual,Italy,ITA,ITA
@@ -4914,50 +4921,47 @@ Id,Name,Country,Weapon,Gender,Points,Date,Level,Hand,Height,Rank,Flag,Image,Type
 45020,CURWEN Becci,GREAT BRITAIN,Foil,Women,0.000,2001-06-09,Senior,Right,,663,GBR,https://static.fie.org/uploads/18/90070-GBR_CURWEN_Becci.jpeg,Individual,United Kingdom[21],GBR,GBR
 37012,TANTAST Yasmine,ALGERIA,Foil,Women,0.000,2001-05-02,Senior,Right,,664,ALG,https://static.fie.org/uploads/8/41899-SCAN0001.jpg,Individual,Algeria,ALG,DZA
 6959,ITALY,ITALY,Foil,Women,436.000,,Senior,,,1,ITA,IT,Team,Italy,ITA,ITA
-6924,USA,USA,Foil,Women,328.000,,Senior,,,2,USA,US,Team,United States,USA,USA
-6955,FRANCE,FRANCE,Foil,Women,326.000,,Senior,,,3,FRA,FR,Team,France,FRA,FRA
+6924,USA,USA,Foil,Women,340.000,,Senior,,,2,USA,US,Team,United States,USA,USA
+6955,FRANCE,FRANCE,Foil,Women,310.000,,Senior,,,3,FRA,FR,Team,France,FRA,FRA
 6960,JAPAN,JAPAN,Foil,Women,300.000,,Senior,,,4,JPN,JP,Team,Japan,JPN,JPN
-6878,CANADA,CANADA,Foil,Women,239.000,,Senior,,,5,CAN,CA,Team,Canada,CAN,CAN
-6971,POLAND,POLAND,Foil,Women,230.000,,Senior,,,6,POL,PL,Team,Poland,POL,POL
+6971,POLAND,POLAND,Foil,Women,250.000,,Senior,,,5,POL,PL,Team,Poland,POL,POL
+6878,CANADA,CANADA,Foil,Women,227.000,,Senior,,,6,CAN,CA,Team,Canada,CAN,CAN
 6879,CHINA,CHINA,Foil,Women,224.000,,Senior,,,7,CHN,CN,Team,"China, People's Republic of[4]",CHN,CHN
-6957,GERMANY,GERMANY,Foil,Women,205.000,,Senior,,,8,GER,DE,Team,Germany,GER,DEU
-6958,HUNGARY,HUNGARY,Foil,Women,194.000,,Senior,,,9,HUN,HU,Team,Hungary,HUN,HUN
-8860,KOREA,KOREA,Foil,Women,193.000,,Senior,,,10,KOR,KR,Team,"Korea, Republic of (South)[14]",KOR,KOR
-6979,UKRAINE,UKRAINE,Foil,Women,190.000,,Senior,,,11,UKR,UA,Team,Ukraine,UKR,UKR
-6888,"HONG KONG, CHINA","HONG KONG, CHINA",Foil,Women,169.000,,Senior,,,12,HKG,HK,Team,Hong Kong[11],HKG,HKG
-9454,SPAIN,SPAIN,Foil,Women,161.000,,Senior,,,13,ESP,ES,Team,Spain,ESP,ESP
-8445,AUSTRIA,AUSTRIA,Foil,Women,159.000,,Senior,,,14,AUT,AT,Team,Austria,AUT,AUT
+8860,KOREA,KOREA,Foil,Women,201.000,,Senior,,,8,KOR,KR,Team,"Korea, Republic of (South)[14]",KOR,KOR
+6958,HUNGARY,HUNGARY,Foil,Women,198.000,,Senior,,,9,HUN,HU,Team,Hungary,HUN,HUN
+6957,GERMANY,GERMANY,Foil,Women,191.000,,Senior,,,10,GER,DE,Team,Germany,GER,DEU
+6979,UKRAINE,UKRAINE,Foil,Women,188.000,,Senior,,,11,UKR,UA,Team,Ukraine,UKR,UKR
+6888,"HONG KONG, CHINA","HONG KONG, CHINA",Foil,Women,165.000,,Senior,,,12,HKG,HK,Team,Hong Kong[11],HKG,HKG
+8445,AUSTRIA,AUSTRIA,Foil,Women,165.000,,Senior,,,13,AUT,AT,Team,Austria,AUT,AUT
+9454,SPAIN,SPAIN,Foil,Women,163.000,,Senior,,,14,ESP,ES,Team,Spain,ESP,ESP
 9593,EGYPT,EGYPT,Foil,Women,145.000,,Senior,,,15,EGY,EG,Team,Egypt,EGY,EGY
-6916,SINGAPORE,SINGAPORE,Foil,Women,138.000,,Senior,,,16,SGP,SG,Team,Singapore,SGP,SGP
-6974,ROMANIA,ROMANIA,Foil,Women,95.000,,Senior,,,17,ROU,RO,Team,Romania,ROU,ROU
-6938,MEXICO,MEXICO,Foil,Women,80.000,,Senior,,,18,MEX,MX,Team,Mexico,MEX,MEX
-6946,ALGERIA,ALGERIA,Foil,Women,76.000,,Senior,,,19,ALG,DZ,Team,Algeria,ALG,DZA
-6874,AUSTRALIA,AUSTRALIA,Foil,Women,62.000,,Senior,,,20,AUS,AU,Team,Australia,AUS,AUS
-6951,BRAZIL,BRAZIL,Foil,Women,54.000,,Senior,,,21,BRA,BR,Team,Brazil,BRA,BRA
-6895,ISRAEL,ISRAEL,Foil,Women,54.000,,Senior,,,22,ISR,IL,Team,Israel,ISR,ISR
-6928,CHILE,CHILE,Foil,Women,52.000,,Senior,,,23,CHI,CL,Team,Chile,CHI,CHL
-6945,VENEZUELA,VENEZUELA,Foil,Women,48.000,,Senior,,,24,VEN,VE,Team,Venezuela,VEN,VEN
-11562,"MACAO, CHINA","MACAO, CHINA",Foil,Women,46.000,,Senior,,,25,MAC,MO,Team,,,
-6926,ARGENTINA,ARGENTINA,Foil,Women,44.000,,Senior,,,26,ARG,AR,Team,Argentina,ARG,ARG
-6886,GREAT BRITAIN,GREAT BRITAIN,Foil,Women,41.000,,Senior,,,27,GBR,GB,Team,United Kingdom[21],GBR,GBR
-6922,CHINESE TAIPEI,CHINESE TAIPEI,Foil,Women,41.000,,Senior,,,28,TPE,TW,Team,Taiwan[19],TPE,TWN
-6929,COLOMBIA,COLOMBIA,Foil,Women,41.000,,Senior,,,29,COL,CO,Team,Colombia,COL,COL
-6978,TUNISIA,TUNISIA,Foil,Women,40.000,,Senior,,,30,TUN,TN,Team,Tunisia,TUN,TUN
-6887,GREECE,GREECE,Foil,Women,40.000,,Senior,,,31,GRE,GR,Team,Greece,GRE,GRC
-6890,INDIA,INDIA,Foil,Women,40.000,,Senior,,,32,IND,IN,Team,India,IND,IND
-22623,COTE D'IVOIRE,COTE D'IVOIRE,Foil,Women,36.000,,Senior,,,33,CIV,CI,Team,Côte d'Ivoire[7],CIV,CIV
-6911,PHILIPPINES,PHILIPPINES,Foil,Women,34.000,,Senior,,,34,PHI,PH,Team,Philippines,PHI,PHL
-14877,MOROCCO,MOROCCO,Foil,Women,32.000,,Senior,,,35,MAR,MA,Team,Morocco,MAR,MAR
-6914,SOUTH AFRICA,SOUTH AFRICA,Foil,Women,30.000,,Senior,,,36,RSA,ZA,Team,South Africa,RSA,ZAF
-6942,PERU,PERU,Foil,Women,26.000,,Senior,,,37,PER,PE,Team,Peru,PER,PER
-6936,GUATEMALA,GUATEMALA,Foil,Women,24.000,,Senior,,,38,GUA,GT,Team,Guatemala,GUA,GTM
-8636,VIETNAM,VIETNAM,Foil,Women,23.000,,Senior,,,39,VIE,VN,Team,Vietnam,VIE,VNM
-6932,DOMINICAN REPUBLIC,DOMINICAN REPUBLIC,Foil,Women,23.000,,Senior,,,40,DOM,DO,Team,Dominican Republic,DOM,DOM
-6934,EL SALVADOR,EL SALVADOR,Foil,Women,22.000,,Senior,,,41,ESA,SV,Team,El Salvador,ESA,SLV
-6966,MOLDOVA,MOLDOVA,Foil,Women,21.000,,Senior,,,42,MDA,MD,Team,Moldova,MDA,MDA
-6956,GEORGIA,GEORGIA,Foil,Women,19.000,,Senior,,,43,GEO,GE,Team,Georgia,GEO,GEO
-6919,SWEDEN,SWEDEN,Foil,Women,16.000,,Senior,,,44,SWE,SE,Team,Sweden,SWE,SWE
-6980,SERBIA,SERBIA,Foil,Women,8.000,,Senior,,,45,SRB,RS,Team,Serbia,SRB,SRB
+6916,SINGAPORE,SINGAPORE,Foil,Women,134.000,,Senior,,,16,SGP,SG,Team,Singapore,SGP,SGP
+6974,ROMANIA,ROMANIA,Foil,Women,98.000,,Senior,,,17,ROU,RO,Team,Romania,ROU,ROU
+6951,BRAZIL,BRAZIL,Foil,Women,64.000,,Senior,,,18,BRA,BR,Team,Brazil,BRA,BRA
+6895,ISRAEL,ISRAEL,Foil,Women,54.000,,Senior,,,19,ISR,IL,Team,Israel,ISR,ISR
+6978,TUNISIA,TUNISIA,Foil,Women,52.000,,Senior,,,20,TUN,TN,Team,Tunisia,TUN,TUN
+6928,CHILE,CHILE,Foil,Women,52.000,,Senior,,,21,CHI,CL,Team,Chile,CHI,CHL
+6929,COLOMBIA,COLOMBIA,Foil,Women,48.000,,Senior,,,22,COL,CO,Team,Colombia,COL,COL
+6926,ARGENTINA,ARGENTINA,Foil,Women,46.000,,Senior,,,23,ARG,AR,Team,Argentina,ARG,ARG
+11562,"MACAO, CHINA","MACAO, CHINA",Foil,Women,46.000,,Senior,,,24,MAC,MO,Team,,,
+6922,CHINESE TAIPEI,CHINESE TAIPEI,Foil,Women,42.000,,Senior,,,25,TPE,TW,Team,Taiwan[19],TPE,TWN
+14877,MOROCCO,MOROCCO,Foil,Women,40.000,,Senior,,,26,MAR,MA,Team,Morocco,MAR,MAR
+6938,MEXICO,MEXICO,Foil,Women,40.000,,Senior,,,27,MEX,MX,Team,Mexico,MEX,MEX
+6886,GREAT BRITAIN,GREAT BRITAIN,Foil,Women,38.000,,Senior,,,28,GBR,GB,Team,United Kingdom[21],GBR,GBR
+6874,AUSTRALIA,AUSTRALIA,Foil,Women,32.000,,Senior,,,29,AUS,AU,Team,Australia,AUS,AUS
+6961,KAZAKHSTAN,KAZAKHSTAN,Foil,Women,30.000,,Senior,,,30,KAZ,KZ,Team,Kazakhstan,KAZ,KAZ
+6942,PERU,PERU,Foil,Women,28.000,,Senior,,,31,PER,PE,Team,Peru,PER,PER
+6934,EL SALVADOR,EL SALVADOR,Foil,Women,26.000,,Senior,,,32,ESA,SV,Team,El Salvador,ESA,SLV
+6891,IRAN,IRAN,Foil,Women,25.000,,Senior,,,33,IRI,IR,Team,Iran,IRI,IRN
+6923,TÜRKIYE,TÜRKIYE,Foil,Women,24.000,,Senior,,,34,TUR,TR,Team,Turkey,TUR,TUR
+6946,ALGERIA,ALGERIA,Foil,Women,24.000,,Senior,,,35,ALG,DZ,Team,Algeria,ALG,DZA
+6956,GEORGIA,GEORGIA,Foil,Women,19.000,,Senior,,,36,GEO,GE,Team,Georgia,GEO,GEO
+6887,GREECE,GREECE,Foil,Women,16.000,,Senior,,,37,GRE,GR,Team,Greece,GRE,GRC
+6919,SWEDEN,SWEDEN,Foil,Women,16.000,,Senior,,,38,SWE,SE,Team,Sweden,SWE,SWE
+6945,VENEZUELA,VENEZUELA,Foil,Women,16.000,,Senior,,,39,VEN,VE,Team,Venezuela,VEN,VEN
+6890,INDIA,INDIA,Foil,Women,16.000,,Senior,,,40,IND,IN,Team,India,IND,IND
+6911,PHILIPPINES,PHILIPPINES,Foil,Women,8.000,,Senior,,,41,PHI,PH,Team,Philippines,PHI,PHL
+6980,SERBIA,SERBIA,Foil,Women,8.000,,Senior,,,42,SRB,RS,Team,Serbia,SRB,SRB
 49004,EMMER Chase,USA,Foil,Men,136.000,2004-07-11,Junior,Right,,1,USA,https://static.fie.org/uploads/29/145499-Emmer%2C%20Chase.jpg,Individual,United States,USA,USA
 54324,SOSNOV David,GREAT BRITAIN,Foil,Men,131.000,2006-05-20,Junior,Left,,2,GBR,https://static.fie.org/uploads/27/135381-SOSNOV_david_GBR_athlete.jpg,Individual,United Kingdom[21],GBR,GBR
 57422,KUMBLA Samarth,USA,Foil,Men,128.000,2004-09-29,Junior,Right,,3,USA,https://static.fie.org/uploads/29/145127-Kumbla%2C%20Samarth.jpg,Individual,United States,USA,USA
@@ -6869,62 +6873,53 @@ Id,Name,Country,Weapon,Gender,Points,Date,Level,Hand,Height,Rank,Flag,Image,Type
 57938,WONG Anson Tsz Wun,"HONG KONG, CHINA",Sabre,Men,0.000,2005-11-08,Senior,Left,,699,HKG,https://static.fie.org/uploads/29/147019-WONG%2C%20Anson.jpg,Individual,Hong Kong[11],HKG,HKG
 8860,KOREA,KOREA,Sabre,Men,400.000,,Senior,,,1,KOR,KR,Team,"Korea, Republic of (South)[14]",KOR,KOR
 6924,USA,USA,Sabre,Men,388.000,,Senior,,,2,USA,US,Team,United States,USA,USA
-6958,HUNGARY,HUNGARY,Sabre,Men,328.000,,Senior,,,3,HUN,HU,Team,Hungary,HUN,HUN
-6955,FRANCE,FRANCE,Sabre,Men,276.000,,Senior,,,4,FRA,FR,Team,France,FRA,FRA
-6959,ITALY,ITALY,Sabre,Men,242.000,,Senior,,,5,ITA,IT,Team,Italy,ITA,ITA
-9593,EGYPT,EGYPT,Sabre,Men,236.000,,Senior,,,6,EGY,EG,Team,Egypt,EGY,EGY
-6957,GERMANY,GERMANY,Sabre,Men,232.000,,Senior,,,7,GER,DE,Team,Germany,GER,DEU
-6891,IRAN,IRAN,Sabre,Men,208.000,,Senior,,,8,IRI,IR,Team,Iran,IRI,IRN
-6974,ROMANIA,ROMANIA,Sabre,Men,200.000,,Senior,,,9,ROU,RO,Team,Romania,ROU,ROU
-6960,JAPAN,JAPAN,Sabre,Men,198.000,,Senior,,,10,JPN,JP,Team,Japan,JPN,JPN
-6878,CANADA,CANADA,Sabre,Men,196.000,,Senior,,,11,CAN,CA,Team,Canada,CAN,CAN
-6879,CHINA,CHINA,Sabre,Men,181.000,,Senior,,,12,CHN,CN,Team,"China, People's Republic of[4]",CHN,CHN
-6979,UKRAINE,UKRAINE,Sabre,Men,158.000,,Senior,,,13,UKR,UA,Team,Ukraine,UKR,UKR
-6956,GEORGIA,GEORGIA,Sabre,Men,155.000,,Senior,,,14,GEO,GE,Team,Georgia,GEO,GEO
-9454,SPAIN,SPAIN,Sabre,Men,151.000,,Senior,,,15,ESP,ES,Team,Spain,ESP,ESP
-6923,TÜRKIYE,TÜRKIYE,Sabre,Men,121.000,,Senior,,,16,TUR,TR,Team,Turkey,TUR,TUR
-6961,KAZAKHSTAN,KAZAKHSTAN,Sabre,Men,100.000,,Senior,,,17,KAZ,KZ,Team,Kazakhstan,KAZ,KAZ
-6971,POLAND,POLAND,Sabre,Men,95.000,,Senior,,,18,POL,PL,Team,Poland,POL,POL
-6888,"HONG KONG, CHINA","HONG KONG, CHINA",Sabre,Men,92.000,,Senior,,,19,HKG,HK,Team,Hong Kong[11],HKG,HKG
-6978,TUNISIA,TUNISIA,Sabre,Men,84.000,,Senior,,,20,TUN,TN,Team,Tunisia,TUN,TUN
-6900,SAUDI ARABIA,SAUDI ARABIA,Sabre,Men,76.000,,Senior,,,21,KSA,SA,Team,Saudi Arabia,KSA,SAU
-6890,INDIA,INDIA,Sabre,Men,65.000,,Senior,,,22,IND,IN,Team,India,IND,IND
-6928,CHILE,CHILE,Sabre,Men,60.000,,Senior,,,23,CHI,CL,Team,Chile,CHI,CHL
-6945,VENEZUELA,VENEZUELA,Sabre,Men,56.000,,Senior,,,24,VEN,VE,Team,Venezuela,VEN,VEN
-10990,BULGARIA,BULGARIA,Sabre,Men,55.000,,Senior,,,25,BUL,BG,Team,Bulgaria,BUL,BGR
-6946,ALGERIA,ALGERIA,Sabre,Men,48.000,,Senior,,,26,ALG,DZ,Team,Algeria,ALG,DZA
-6929,COLOMBIA,COLOMBIA,Sabre,Men,48.000,,Senior,,,27,COL,CO,Team,Colombia,COL,COL
-6886,GREAT BRITAIN,GREAT BRITAIN,Sabre,Men,48.000,,Senior,,,28,GBR,GB,Team,United Kingdom[21],GBR,GBR
-6916,SINGAPORE,SINGAPORE,Sabre,Men,46.000,,Senior,,,29,SGP,SG,Team,Singapore,SGP,SGP
-6901,KUWAIT,KUWAIT,Sabre,Men,42.000,,Senior,,,30,KUW,KW,Team,Kuwait,KUW,KWT
-6951,BRAZIL,BRAZIL,Sabre,Men,42.000,,Senior,,,31,BRA,BR,Team,Brazil,BRA,BRA
-6938,MEXICO,MEXICO,Sabre,Men,41.000,,Senior,,,32,MEX,MX,Team,Mexico,MEX,MEX
-6975,SENEGAL,SENEGAL,Sabre,Men,36.000,,Senior,,,33,SEN,SN,Team,Senegal,SEN,SEN
-6892,IRELAND,IRELAND,Sabre,Men,36.000,,Senior,,,34,IRL,IE,Team,Ireland[12],IRL,IRL
-14877,MOROCCO,MOROCCO,Sabre,Men,32.000,,Senior,,,35,MAR,MA,Team,Morocco,MAR,MAR
-6926,ARGENTINA,ARGENTINA,Sabre,Men,30.000,,Senior,,,36,ARG,AR,Team,Argentina,ARG,ARG
-6897,JORDAN,JORDAN,Sabre,Men,29.000,,Senior,,,37,JOR,JO,Team,Jordan,JOR,JOR
-6943,PUERTO RICO,PUERTO RICO,Sabre,Men,28.000,,Senior,,,38,PUR,PR,Team,Puerto Rico,PUR,PRI
-8636,VIETNAM,VIETNAM,Sabre,Men,25.000,,Senior,,,39,VIE,VN,Team,Vietnam,VIE,VNM
-6932,DOMINICAN REPUBLIC,DOMINICAN REPUBLIC,Sabre,Men,24.000,,Senior,,,40,DOM,DO,Team,Dominican Republic,DOM,DOM
-6920,THAILAND,THAILAND,Sabre,Men,24.000,,Senior,,,41,THA,TH,Team,Thailand,THA,THA
-6925,UZBEKISTAN,UZBEKISTAN,Sabre,Men,24.000,,Senior,,,42,UZB,UZ,Team,Uzbekistan,UZB,UZB
-6942,PERU,PERU,Sabre,Men,23.000,,Senior,,,43,PER,PE,Team,Peru,PER,PER
-6936,GUATEMALA,GUATEMALA,Sabre,Men,22.000,,Senior,,,44,GUA,GT,Team,Guatemala,GUA,GTM
-6894,ICELAND,ICELAND,Sabre,Men,22.000,,Senior,,,45,ISL,IS,Team,Iceland,ISL,ISL
-6934,EL SALVADOR,EL SALVADOR,Sabre,Men,21.000,,Senior,,,46,ESA,SV,Team,El Salvador,ESA,SLV
-6875,AZERBAIJAN,AZERBAIJAN,Sabre,Men,21.000,,Senior,,,47,AZE,AZ,Team,Azerbaijan,AZE,AZE
-6911,PHILIPPINES,PHILIPPINES,Sabre,Men,20.000,,Senior,,,48,PHI,PH,Team,Philippines,PHI,PHL
-6887,GREECE,GREECE,Sabre,Men,19.000,,Senior,,,49,GRE,GR,Team,Greece,GRE,GRC
-6889,INDONESIA,INDONESIA,Sabre,Men,19.000,,Senior,,,50,INA,ID,Team,Indonesia,INA,IDN
-6922,CHINESE TAIPEI,CHINESE TAIPEI,Sabre,Men,18.000,,Senior,,,51,TPE,TW,Team,Taiwan[19],TPE,TWN
-6917,SLOVENIA,SLOVENIA,Sabre,Men,18.000,,Senior,,,52,SLO,SI,Team,Slovenia,SLO,SVN
-6874,AUSTRALIA,AUSTRALIA,Sabre,Men,16.000,,Senior,,,53,AUS,AU,Team,Australia,AUS,AUS
-6910,NEW ZEALAND,NEW ZEALAND,Sabre,Men,8.000,,Senior,,,54,NZL,NZ,Team,New Zealand,NZL,NZL
-17391,UNITED ARAB EMIRATES,UNITED ARAB EMIRATES,Sabre,Men,8.000,,Senior,,,55,UAE,AE,Team,United Arab Emirates,UAE,ARE
-11562,"MACAO, CHINA","MACAO, CHINA",Sabre,Men,8.000,,Senior,,,56,MAC,MO,Team,,,
-6919,SWEDEN,SWEDEN,Sabre,Men,8.000,,Senior,,,57,SWE,SE,Team,Sweden,SWE,SWE
-6893,IRAQ,IRAQ,Sabre,Men,8.000,,Senior,,,58,IRQ,IQ,Team,Iraq,IRQ,IRQ
+6958,HUNGARY,HUNGARY,Sabre,Men,356.000,,Senior,,,3,HUN,HU,Team,Hungary,HUN,HUN
+6955,FRANCE,FRANCE,Sabre,Men,240.000,,Senior,,,4,FRA,FR,Team,France,FRA,FRA
+6957,GERMANY,GERMANY,Sabre,Men,228.000,,Senior,,,5,GER,DE,Team,Germany,GER,DEU
+9593,EGYPT,EGYPT,Sabre,Men,224.000,,Senior,,,6,EGY,EG,Team,Egypt,EGY,EGY
+6974,ROMANIA,ROMANIA,Sabre,Men,224.000,,Senior,,,7,ROU,RO,Team,Romania,ROU,ROU
+6959,ITALY,ITALY,Sabre,Men,222.000,,Senior,,,8,ITA,IT,Team,Italy,ITA,ITA
+6891,IRAN,IRAN,Sabre,Men,208.000,,Senior,,,9,IRI,IR,Team,Iran,IRI,IRN
+6878,CANADA,CANADA,Sabre,Men,196.000,,Senior,,,10,CAN,CA,Team,Canada,CAN,CAN
+6960,JAPAN,JAPAN,Sabre,Men,194.000,,Senior,,,11,JPN,JP,Team,Japan,JPN,JPN
+6879,CHINA,CHINA,Sabre,Men,171.000,,Senior,,,12,CHN,CN,Team,"China, People's Republic of[4]",CHN,CHN
+6956,GEORGIA,GEORGIA,Sabre,Men,159.000,,Senior,,,13,GEO,GE,Team,Georgia,GEO,GEO
+6979,UKRAINE,UKRAINE,Sabre,Men,154.000,,Senior,,,14,UKR,UA,Team,Ukraine,UKR,UKR
+9454,SPAIN,SPAIN,Sabre,Men,144.000,,Senior,,,15,ESP,ES,Team,Spain,ESP,ESP
+6923,TÜRKIYE,TÜRKIYE,Sabre,Men,137.000,,Senior,,,16,TUR,TR,Team,Turkey,TUR,TUR
+6961,KAZAKHSTAN,KAZAKHSTAN,Sabre,Men,104.000,,Senior,,,17,KAZ,KZ,Team,Kazakhstan,KAZ,KAZ
+6888,"HONG KONG, CHINA","HONG KONG, CHINA",Sabre,Men,102.000,,Senior,,,18,HKG,HK,Team,Hong Kong[11],HKG,HKG
+6978,TUNISIA,TUNISIA,Sabre,Men,96.000,,Senior,,,19,TUN,TN,Team,Tunisia,TUN,TUN
+6971,POLAND,POLAND,Sabre,Men,94.000,,Senior,,,20,POL,PL,Team,Poland,POL,POL
+6900,SAUDI ARABIA,SAUDI ARABIA,Sabre,Men,74.000,,Senior,,,21,KSA,SA,Team,Saudi Arabia,KSA,SAU
+6890,INDIA,INDIA,Sabre,Men,70.000,,Senior,,,22,IND,IN,Team,India,IND,IND
+6938,MEXICO,MEXICO,Sabre,Men,56.000,,Senior,,,23,MEX,MX,Team,Mexico,MEX,MEX
+6951,BRAZIL,BRAZIL,Sabre,Men,52.000,,Senior,,,24,BRA,BR,Team,Brazil,BRA,BRA
+6928,CHILE,CHILE,Sabre,Men,52.000,,Senior,,,25,CHI,CL,Team,Chile,CHI,CHL
+6916,SINGAPORE,SINGAPORE,Sabre,Men,49.000,,Senior,,,26,SGP,SG,Team,Singapore,SGP,SGP
+6886,GREAT BRITAIN,GREAT BRITAIN,Sabre,Men,48.000,,Senior,,,27,GBR,GB,Team,United Kingdom[21],GBR,GBR
+6929,COLOMBIA,COLOMBIA,Sabre,Men,46.000,,Senior,,,28,COL,CO,Team,Colombia,COL,COL
+14877,MOROCCO,MOROCCO,Sabre,Men,40.000,,Senior,,,29,MAR,MA,Team,Morocco,MAR,MAR
+6901,KUWAIT,KUWAIT,Sabre,Men,40.000,,Senior,,,30,KUW,KW,Team,Kuwait,KUW,KWT
+6925,UZBEKISTAN,UZBEKISTAN,Sabre,Men,38.000,,Senior,,,31,UZB,UZ,Team,Uzbekistan,UZB,UZB
+6975,SENEGAL,SENEGAL,Sabre,Men,36.000,,Senior,,,32,SEN,SN,Team,Senegal,SEN,SEN
+6943,PUERTO RICO,PUERTO RICO,Sabre,Men,32.000,,Senior,,,33,PUR,PR,Team,Puerto Rico,PUR,PRI
+10990,BULGARIA,BULGARIA,Sabre,Men,32.000,,Senior,,,34,BUL,BG,Team,Bulgaria,BUL,BGR
+6897,JORDAN,JORDAN,Sabre,Men,31.000,,Senior,,,35,JOR,JO,Team,Jordan,JOR,JOR
+6942,PERU,PERU,Sabre,Men,26.000,,Senior,,,36,PER,PE,Team,Peru,PER,PER
+6926,ARGENTINA,ARGENTINA,Sabre,Men,25.000,,Senior,,,37,ARG,AR,Team,Argentina,ARG,ARG
+6934,EL SALVADOR,EL SALVADOR,Sabre,Men,24.000,,Senior,,,38,ESA,SV,Team,El Salvador,ESA,SLV
+6894,ICELAND,ICELAND,Sabre,Men,23.000,,Senior,,,39,ISL,IS,Team,Iceland,ISL,ISL
+9044,SWITZERLAND,SWITZERLAND,Sabre,Men,22.000,,Senior,,,40,SUI,CH,Team,Switzerland,SUI,CHE
+6922,CHINESE TAIPEI,CHINESE TAIPEI,Sabre,Men,21.000,,Senior,,,41,TPE,TW,Team,Taiwan[19],TPE,TWN
+11562,"MACAO, CHINA","MACAO, CHINA",Sabre,Men,20.000,,Senior,,,42,MAC,MO,Team,,,
+6892,IRELAND,IRELAND,Sabre,Men,16.000,,Senior,,,43,IRL,IE,Team,Ireland[12],IRL,IRL
+6945,VENEZUELA,VENEZUELA,Sabre,Men,16.000,,Senior,,,44,VEN,VE,Team,Venezuela,VEN,VEN
+6946,ALGERIA,ALGERIA,Sabre,Men,8.000,,Senior,,,45,ALG,DZ,Team,Algeria,ALG,DZA
+6893,IRAQ,IRAQ,Sabre,Men,8.000,,Senior,,,46,IRQ,IQ,Team,Iraq,IRQ,IRQ
+6919,SWEDEN,SWEDEN,Sabre,Men,8.000,,Senior,,,47,SWE,SE,Team,Sweden,SWE,SWE
+6874,AUSTRALIA,AUSTRALIA,Sabre,Men,8.000,,Senior,,,48,AUS,AU,Team,Australia,AUS,AUS
+6910,NEW ZEALAND,NEW ZEALAND,Sabre,Men,0.000,,Senior,,,49,NZL,NZ,Team,New Zealand,NZL,NZL
 32026,EMURA Misaki,JAPAN,Sabre,Women,223.000,1998-11-20,Senior,Right,,1,JPN,https://static.fie.org/uploads/31/156630-JPN_EMURA_MISAKI_23.jpg,Individual,Japan,JPN,JPN
 29003,BALZER Sara,FRANCE,Sabre,Women,193.000,1995-04-03,Senior,Left,,2,FRA,https://static.fie.org/uploads/8/44521-SDS%20BALZER%20Sara%20%282%29.jpg,Individual,France,FRA,FRA
 18021,GEORGIADOU Despina,GREECE,Sabre,Women,167.000,1991-06-22,Senior,Left,,3,GRE,https://static.fie.org/uploads/19/97186-GEORGIADOU_Despina_Metaxia.png,Individual,Greece,GRE,GRC
@@ -7377,46 +7372,41 @@ Id,Name,Country,Weapon,Gender,Points,Date,Level,Hand,Height,Rank,Flag,Image,Type
 58507,TSOKAROPOULOU Chrysoula,GREECE,Sabre,Women,0.000,2009-01-02,Senior,Right,,450,GRE,https://static.fie.org/uploads/30/150362-TSOKAROPOULOU_CHRYSOULA.jpg,Individual,Greece,GRE,GRC
 27676,MAKWANYA NYABILEKE Gracia,DEMOCRATIC REPUBLIC OF CONGO,Sabre,Women,0.000,1994-09-14,Senior,Right,162,451,COD,https://static.fie.org/uploads/7/35554-004.jpg,Individual,"Congo, Democratic Republic of the[5]",COD,COD
 6955,FRANCE,FRANCE,Sabre,Women,412.000,,Senior,,,1,FRA,FR,Team,France,FRA,FRA
-6958,HUNGARY,HUNGARY,Sabre,Women,328.000,,Senior,,,2,HUN,HU,Team,Hungary,HUN,HUN
-8860,KOREA,KOREA,Sabre,Women,312.000,,Senior,,,3,KOR,KR,Team,"Korea, Republic of (South)[14]",KOR,KOR
-6979,UKRAINE,UKRAINE,Sabre,Women,289.000,,Senior,,,4,UKR,UA,Team,Ukraine,UKR,UKR
-6959,ITALY,ITALY,Sabre,Women,244.000,,Senior,,,5,ITA,IT,Team,Italy,ITA,ITA
-6924,USA,USA,Sabre,Women,236.000,,Senior,,,6,USA,US,Team,United States,USA,USA
-6960,JAPAN,JAPAN,Sabre,Women,217.000,,Senior,,,7,JPN,JP,Team,Japan,JPN,JPN
-10990,BULGARIA,BULGARIA,Sabre,Women,215.000,,Senior,,,8,BUL,BG,Team,Bulgaria,BUL,BGR
-9454,SPAIN,SPAIN,Sabre,Women,214.000,,Senior,,,9,ESP,ES,Team,Spain,ESP,ESP
-6875,AZERBAIJAN,AZERBAIJAN,Sabre,Women,192.000,,Senior,,,10,AZE,AZ,Team,Azerbaijan,AZE,AZE
-6879,CHINA,CHINA,Sabre,Women,174.000,,Senior,,,11,CHN,CN,Team,"China, People's Republic of[4]",CHN,CHN
-6957,GERMANY,GERMANY,Sabre,Women,166.000,,Senior,,,12,GER,DE,Team,Germany,GER,DEU
-6971,POLAND,POLAND,Sabre,Women,160.000,,Senior,,,13,POL,PL,Team,Poland,POL,POL
-6946,ALGERIA,ALGERIA,Sabre,Women,156.000,,Senior,,,14,ALG,DZ,Team,Algeria,ALG,DZA
-6887,GREECE,GREECE,Sabre,Women,143.000,,Senior,,,15,GRE,GR,Team,Greece,GRE,GRC
-6938,MEXICO,MEXICO,Sabre,Women,140.000,,Senior,,,16,MEX,MX,Team,Mexico,MEX,MEX
-6888,"HONG KONG, CHINA","HONG KONG, CHINA",Sabre,Women,121.000,,Senior,,,17,HKG,HK,Team,Hong Kong[11],HKG,HKG
-6923,TÜRKIYE,TÜRKIYE,Sabre,Women,90.000,,Senior,,,18,TUR,TR,Team,Turkey,TUR,TUR
-6961,KAZAKHSTAN,KAZAKHSTAN,Sabre,Women,89.000,,Senior,,,19,KAZ,KZ,Team,Kazakhstan,KAZ,KAZ
-6886,GREAT BRITAIN,GREAT BRITAIN,Sabre,Women,68.000,,Senior,,,20,GBR,GB,Team,United Kingdom[21],GBR,GBR
-9593,EGYPT,EGYPT,Sabre,Women,64.000,,Senior,,,21,EGY,EG,Team,Egypt,EGY,EGY
-6974,ROMANIA,ROMANIA,Sabre,Women,64.000,,Senior,,,22,ROU,RO,Team,Romania,ROU,ROU
-6945,VENEZUELA,VENEZUELA,Sabre,Women,56.000,,Senior,,,23,VEN,VE,Team,Venezuela,VEN,VEN
-6878,CANADA,CANADA,Sabre,Women,56.000,,Senior,,,24,CAN,CA,Team,Canada,CAN,CAN
-6926,ARGENTINA,ARGENTINA,Sabre,Women,52.000,,Senior,,,25,ARG,AR,Team,Argentina,ARG,ARG
+6958,HUNGARY,HUNGARY,Sabre,Women,324.000,,Senior,,,2,HUN,HU,Team,Hungary,HUN,HUN
+6979,UKRAINE,UKRAINE,Sabre,Women,316.000,,Senior,,,3,UKR,UA,Team,Ukraine,UKR,UKR
+8860,KOREA,KOREA,Sabre,Women,288.000,,Senior,,,4,KOR,KR,Team,"Korea, Republic of (South)[14]",KOR,KOR
+6924,USA,USA,Sabre,Women,236.000,,Senior,,,5,USA,US,Team,United States,USA,USA
+9454,SPAIN,SPAIN,Sabre,Women,222.000,,Senior,,,6,ESP,ES,Team,Spain,ESP,ESP
+6959,ITALY,ITALY,Sabre,Women,220.000,,Senior,,,7,ITA,IT,Team,Italy,ITA,ITA
+6960,JAPAN,JAPAN,Sabre,Women,213.000,,Senior,,,8,JPN,JP,Team,Japan,JPN,JPN
+10990,BULGARIA,BULGARIA,Sabre,Women,211.000,,Senior,,,9,BUL,BG,Team,Bulgaria,BUL,BGR
+6879,CHINA,CHINA,Sabre,Women,186.000,,Senior,,,10,CHN,CN,Team,"China, People's Republic of[4]",CHN,CHN
+6875,AZERBAIJAN,AZERBAIJAN,Sabre,Women,186.000,,Senior,,,11,AZE,AZ,Team,Azerbaijan,AZE,AZE
+6971,POLAND,POLAND,Sabre,Women,166.000,,Senior,,,12,POL,PL,Team,Poland,POL,POL
+6957,GERMANY,GERMANY,Sabre,Women,166.000,,Senior,,,13,GER,DE,Team,Germany,GER,DEU
+6888,"HONG KONG, CHINA","HONG KONG, CHINA",Sabre,Women,117.000,,Senior,,,14,HKG,HK,Team,Hong Kong[11],HKG,HKG
+6887,GREECE,GREECE,Sabre,Women,115.000,,Senior,,,15,GRE,GR,Team,Greece,GRE,GRC
+6961,KAZAKHSTAN,KAZAKHSTAN,Sabre,Women,111.000,,Senior,,,16,KAZ,KZ,Team,Kazakhstan,KAZ,KAZ
+6946,ALGERIA,ALGERIA,Sabre,Women,104.000,,Senior,,,17,ALG,DZ,Team,Algeria,ALG,DZA
+6923,TÜRKIYE,TÜRKIYE,Sabre,Women,92.000,,Senior,,,18,TUR,TR,Team,Turkey,TUR,TUR
+6886,GREAT BRITAIN,GREAT BRITAIN,Sabre,Women,91.000,,Senior,,,19,GBR,GB,Team,United Kingdom[21],GBR,GBR
+6938,MEXICO,MEXICO,Sabre,Women,88.000,,Senior,,,20,MEX,MX,Team,Mexico,MEX,MEX
+6878,CANADA,CANADA,Sabre,Women,76.000,,Senior,,,21,CAN,CA,Team,Canada,CAN,CAN
+9593,EGYPT,EGYPT,Sabre,Women,64.000,,Senior,,,22,EGY,EG,Team,Egypt,EGY,EGY
+6926,ARGENTINA,ARGENTINA,Sabre,Women,56.000,,Senior,,,23,ARG,AR,Team,Argentina,ARG,ARG
+6978,TUNISIA,TUNISIA,Sabre,Women,52.000,,Senior,,,24,TUN,TN,Team,Tunisia,TUN,TUN
+6929,COLOMBIA,COLOMBIA,Sabre,Women,52.000,,Senior,,,25,COL,CO,Team,Colombia,COL,COL
 6916,SINGAPORE,SINGAPORE,Sabre,Women,50.000,,Senior,,,26,SGP,SG,Team,Singapore,SGP,SGP
-6925,UZBEKISTAN,UZBEKISTAN,Sabre,Women,48.000,,Senior,,,27,UZB,UZ,Team,Uzbekistan,UZB,UZB
-6929,COLOMBIA,COLOMBIA,Sabre,Women,46.000,,Senior,,,28,COL,CO,Team,Colombia,COL,COL
-6951,BRAZIL,BRAZIL,Sabre,Women,44.000,,Senior,,,29,BRA,BR,Team,Brazil,BRA,BRA
-6978,TUNISIA,TUNISIA,Sabre,Women,40.000,,Senior,,,30,TUN,TN,Team,Tunisia,TUN,TUN
-6890,INDIA,INDIA,Sabre,Women,39.000,,Senior,,,31,IND,IN,Team,India,IND,IND
-6975,SENEGAL,SENEGAL,Sabre,Women,36.000,,Senior,,,32,SEN,SN,Team,Senegal,SEN,SEN
-6928,CHILE,CHILE,Sabre,Women,32.000,,Senior,,,33,CHI,CL,Team,Chile,CHI,CHL
-6942,PERU,PERU,Sabre,Women,30.000,,Senior,,,34,PER,PE,Team,Peru,PER,PER
-6891,IRAN,IRAN,Sabre,Women,28.000,,Senior,,,35,IRI,IR,Team,Iran,IRI,IRN
-6932,DOMINICAN REPUBLIC,DOMINICAN REPUBLIC,Sabre,Women,26.000,,Senior,,,36,DOM,DO,Team,Dominican Republic,DOM,DOM
-8636,VIETNAM,VIETNAM,Sabre,Women,25.000,,Senior,,,37,VIE,VN,Team,Vietnam,VIE,VNM
-6931,CUBA,CUBA,Sabre,Women,25.000,,Senior,,,38,CUB,CU,Team,Cuba,CUB,CUB
-6911,PHILIPPINES,PHILIPPINES,Sabre,Women,24.000,,Senior,,,39,PHI,PH,Team,Philippines,PHI,PHL
-6934,EL SALVADOR,EL SALVADOR,Sabre,Women,23.000,,Senior,,,40,ESA,SV,Team,El Salvador,ESA,SLV
-6936,GUATEMALA,GUATEMALA,Sabre,Women,21.000,,Senior,,,41,GUA,GT,Team,Guatemala,GUA,GTM
+6951,BRAZIL,BRAZIL,Sabre,Women,48.000,,Senior,,,27,BRA,BR,Team,Brazil,BRA,BRA
+6890,INDIA,INDIA,Sabre,Women,46.000,,Senior,,,28,IND,IN,Team,India,IND,IND
+6925,UZBEKISTAN,UZBEKISTAN,Sabre,Women,44.000,,Senior,,,29,UZB,UZ,Team,Uzbekistan,UZB,UZB
+6974,ROMANIA,ROMANIA,Sabre,Women,42.000,,Senior,,,30,ROU,RO,Team,Romania,ROU,ROU
+14877,MOROCCO,MOROCCO,Sabre,Women,40.000,,Senior,,,31,MAR,MA,Team,Morocco,MAR,MAR
+6928,CHILE,CHILE,Sabre,Women,38.000,,Senior,,,32,CHI,CL,Team,Chile,CHI,CHL
+6942,PERU,PERU,Sabre,Women,34.000,,Senior,,,33,PER,PE,Team,Peru,PER,PER
+6934,EL SALVADOR,EL SALVADOR,Sabre,Women,28.000,,Senior,,,34,ESA,SV,Team,El Salvador,ESA,SLV
+6891,IRAN,IRAN,Sabre,Women,25.000,,Senior,,,35,IRI,IR,Team,Iran,IRI,IRN
+6945,VENEZUELA,VENEZUELA,Sabre,Women,16.000,,Senior,,,36,VEN,VE,Team,Venezuela,VEN,VEN
 53774,COVALIU Vlad,ROMANIA,Sabre,Men,158.000,2005-09-30,Junior,Right,,1,ROU,https://static.fie.org/uploads/26/130609-Covaliu%20poza.jpg,Individual,Romania,ROU,ROU
 54269,MORRILL William,USA,Sabre,Men,130.000,2006-08-24,Junior,Right,,2,USA,https://static.fie.org/uploads/26/132497-Morrill%2C%20WIlliam.jpg,Individual,United States,USA,USA
 46074,MADRIGAL Santiago,SPAIN,Sabre,Men,126.000,2004-02-06,Junior,Right,,3,ESP,https://static.fie.org/uploads/18/93672-MADRIGAL%2C%20SANTIAGO.jpg,Individual,Spain,ESP,ESP
