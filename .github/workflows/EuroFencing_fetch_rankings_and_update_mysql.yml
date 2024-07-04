@@ -47,6 +47,8 @@ jobs:
           python Scraper_EuroFencing_Rankings.py
 
       - name: Update Aiven MySQL Database
+        env:
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
         run: |
           python Eurofencing_update_MySQL.py
           
