@@ -74,7 +74,7 @@ country_codes_table = tables[0].drop(columns=['Flag', 'FIFA', tables[0].columns[
 
 rankings_df = df.merge(country_codes_table, left_on='flag', right_on='IOC', how='left')
 
-rankings_df.rename(columns={'Country': 'country_2', 'id': 'FencerId'}, inplace=True)
+rankings_df.rename(columns={'Country': 'country_2', 'id': 'Fencerid'}, inplace=True)
 rankings_df.rename(columns=lambda x: x.capitalize() if x not in ['IOC', 'ISO'] else x, inplace=True)
 
 print(rankings_df.head())

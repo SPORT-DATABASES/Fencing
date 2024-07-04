@@ -69,7 +69,7 @@ with engine.connect() as connection:
     connection.execute(text('''
     CREATE TABLE IF NOT EXISTS fie_rankings (
         `id` INT AUTO_INCREMENT PRIMARY KEY,
-        `FencerId` INT,
+        `Fencerid` INT,
         `Name` VARCHAR(255),
         `Country` VARCHAR(255),
         `Weapon` VARCHAR(255),
