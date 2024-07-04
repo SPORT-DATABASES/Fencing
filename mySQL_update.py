@@ -49,7 +49,7 @@ with engine.connect() as connection:
     Weapon VARCHAR(255),
     Year VARCHAR(255),
     YearOfBirth INT,
-        `last_updated` TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+    `last_updated` TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
     )
     '''))
 
@@ -69,15 +69,24 @@ with engine.connect() as connection:
     connection.execute(text('''
     CREATE TABLE IF NOT EXISTS fie_rankings (
         `id` INT AUTO_INCREMENT PRIMARY KEY,
-        `Rank` INTEGER,
-        `Points` FLOAT,
+        `FencerId` INT,
         `Name` VARCHAR(255),
         `Country` VARCHAR(255),
-        `Hand` VARCHAR(255),
-        `Age` INTEGER,
         `Weapon` VARCHAR(255),
-        `Category` VARCHAR(255),
-        `Scrape_Date` VARCHAR(255),
+        `Gender` VARCHAR(50),
+        `Points` FLOAT,
+        `Date` DATE,
+        `Level` VARCHAR(50),
+        `Hand` VARCHAR(50),
+        `Height` FLOAT,
+        `Rank` INT,
+        `Flag` VARCHAR(50),
+        `Image` VARCHAR(255),
+        `Type` VARCHAR(50),
+        `Country_2` VARCHAR(255),
+        `IOC` VARCHAR(50),
+        `ISO` VARCHAR(50),
+        `Scrape_Date` TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
         `last_updated` TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
     )
     '''))
