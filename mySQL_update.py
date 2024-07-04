@@ -63,7 +63,7 @@ print('Data inserted successfully for Eurofencing.')
 ################ Now inserting FIE Rankings into Database
 
 # Load CSV data
-df = pd.read_csv('FIE_Rankings.csv')
+df = pd.read_csv('FIE_Ranking_data.csv')
 
 with engine.connect() as connection:
     connection.execute(text('''
