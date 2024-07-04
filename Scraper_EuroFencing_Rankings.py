@@ -62,33 +62,15 @@ for gender in options_gender_l:
                 print(f" Scraping table_2 for {gender}, {weapon}, {age}, {year}")
                 table_2_data.append(table_2)
                 
-                driver.implicitly_wait(10)
-                
+                driver.implicitly_wait(10)    
 driver.quit()
 
-#table1 = pd.concat(table_1_data)  #concatenate all the lists together
-#len(table1)
-
 table2 = pd.concat(table_2_data, sort = True)
-
 table2 = table2.rename(columns={
-    'Pts.': 'Points',
-    'Nat.': 'Nationality',
-    'YoB': 'YearOfBirth',
-    'Rank' : 'Ranking',
-    '1.': 'Comp_1',
-    '2.': 'Comp_2',
-    '3.': 'Comp_3',
-    '4.': 'Comp_4',
-    '5.': 'Comp_5',
-    '6.': 'Comp_6',
-    '7.': 'Comp_7',
-    '8.': 'Comp_8',
-    '9.': 'Comp_9',
-    '10.': 'Comp_10',
-    '11.': 'Comp_11',
-    '12.': 'Comp_12'
+    'Pts.': 'Points', 'Nat.': 'Nationality','YoB': 'YearOfBirth', 'Rank' : 'Ranking',
+    '1.': 'Comp_1', '2.': 'Comp_2', '3.': 'Comp_3','4.': 'Comp_4', '5.': 'Comp_5',
+    '6.': 'Comp_6', '7.': 'Comp_7', '8.': 'Comp_8','9.': 'Comp_9','10.': 'Comp_10',
+    '11.': 'Comp_11','12.': 'Comp_12'
 })
-
 
 table2.to_csv('Eurofencing_Individual_Rankings.csv', index=False)

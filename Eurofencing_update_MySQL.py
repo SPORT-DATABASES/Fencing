@@ -1,5 +1,9 @@
 import pandas as pd
 from sqlalchemy import create_engine, text
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 # Load the Eurofencing Individual Rankings CSV data
 file_path = 'Eurofencing_Individual_Rankings.csv'
@@ -9,7 +13,7 @@ df = pd.read_csv(file_path)
 host = 'sportsdb-sports-database-for-web-scrapes.g.aivencloud.com'
 port = 16439
 user = 'avnadmin'
-password = "AVNS_ePcujvfcmrV-r0M5UtE"
+password = os.getenv('DB_PASSWORD')
 database = 'defaultdb'
 ca_cert_path = 'ca.pem'
 
