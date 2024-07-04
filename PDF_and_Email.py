@@ -16,14 +16,21 @@ from email.mime.application import MIMEApplication
 
 team = "QATAR"
 
-rankings_df = rankings_df[rankings_df['Country'] == team]
+FIE_rankings_df = pd.read_csv('FIE_ranking_data.csv')
+
+FIE_rankings_df = FIE_rankings_df[FIE_rankings_df['Country'] == team]
 #rankings_df = rankings_df.drop(columns=['Id', 'Country_2'])
 
-rankings_df = rankings_df[['Name', 'Rank', 'Points', 'Gender', 'Level', 'Weapon', 'Type']].drop_duplicates()
+FIE_rankings_df = FIE_rankings_df[['Name', 'Rank', 'Points', 'Gender', 'Level', 'Weapon', 'Type']].drop_duplicates()
+
+########## add in Eurofencing scrape, make datatable and append to FIE_rankings_df
+#### then make rankings_df table and run next code.
+#### Need to amend the age group and type (team and individual for the append)
+
 
 # Split into individuals and teams
-individuals_df = rankings_df[rankings_df['Type'] == 'Individual']
-teams_df = rankings_df[rankings_df['Type'] == 'Team']
+individuals_df = FIE_rankings_df[FIE_rankings_df['Type'] == 'Individual']   # change the FIE when adding Eurofencing
+teams_df = FIE_rankings_df[FIE_rankings_df['Type'] == 'Team']
 
 # Sort the DataFrames: Men first, then Women; Seniors first, then Juniors
 for df in [individuals_df, teams_df]:
