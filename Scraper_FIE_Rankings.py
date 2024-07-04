@@ -82,5 +82,5 @@ print(rankings_df.head())
 print(rankings_df.tail())
 print(f"Total number of athletes collected: {len(all_athletes_data)}")
 
-rankings_df.to_csv('Ranking_data.csv', index=False)
+rankings_df.to_csv('FIE_Ranking_data.csv', index=False)
 

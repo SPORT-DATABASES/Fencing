@@ -49,10 +49,6 @@ jobs:
           sleep 3 # Give Xvfb some time to start
           python Scraper_EuroFencing_Rankings.py
 
-      - name: Run EUROFENCING scrape script
-        run: |
-          python Eurofencing_Individual_Rankings.py
-
       - name: Run PDF and Email script
         run: |
           python PDF_and_Email.py
@@ -73,7 +69,7 @@ jobs:
           git add Ranking_data.csv 
           git add Ranking_PDF_reports/Fencing_Ranking_Report_*.pdf
           if ! git diff-index --quiet HEAD; then
-            git commit -m "Update Rankings.csv, push to Databases, PDF and email"
+            git commit -m "Update weekly FIE and Eurofencing csvs, push to Databases, PDF and email"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SPORT-DATABASES/Fencing.git HEAD:main
           else
             echo "No changes to commit"
