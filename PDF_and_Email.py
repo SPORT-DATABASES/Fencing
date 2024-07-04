@@ -16,7 +16,7 @@ from email.mime.application import MIMEApplication
 
 team = "QATAR"
 
-FIE_rankings_df = pd.read_csv('FIE_ranking_data.csv')
+FIE_rankings_df = pd.read_csv('FIE_Ranking_data.csv')
 
 FIE_rankings_df = FIE_rankings_df[FIE_rankings_df['Country'] == team]
 #rankings_df = rankings_df.drop(columns=['Id', 'Country_2'])
