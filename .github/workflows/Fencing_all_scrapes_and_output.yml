@@ -53,11 +53,11 @@ jobs:
         run: |
           python PDF_and_Email.py
 
-      - name: Update Aiven MySQL Database for Eurofencing
+      - name: Update Aiven MySQL Database for FIE and Eurofencing
         env:
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
         run: |
-          python Eurofencing_update_MySQL.py
+          python mySQL_update.py
           
       - name: Commit and push changes if necessary
         env:
