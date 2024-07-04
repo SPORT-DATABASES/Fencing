@@ -1,8 +1,8 @@
-name: EuroFencing Scrape and MySQL
+name: FIE and EuroFencing Scrape, PDF, Email and update MySQL
 
 on:
   schedule:
-    - cron: "0 6 * * 1" # 6am every Monday
+    - cron: "0 6 * * 2" # 6am every Tuesday
  
   workflow_dispatch:
 
@@ -38,7 +38,10 @@ jobs:
       - name: Verify Edge Installation
         run: microsoft-edge --version
 
-      - name: Run web scrape script
+      - name: Run FIE scrape script
+        run: python Scraper_FIE_Rankings.py
+
+      - name: Run EUROFENCING scrape script
         env:
           DISPLAY: ":99.0"
         run: |
@@ -46,7 +49,15 @@ jobs:
           sleep 3 # Give Xvfb some time to start
           python Scraper_EuroFencing_Rankings.py
 
-      - name: Update Aiven MySQL Database
+      - name: Run EUROFENCING scrape script
+        run: |
+          python Eurofencing_Individual_Rankings.py
+
+      - name: Run PDF and Email script
+        run: |
+          python PDF_and_Email.py
+
+      - name: Update Aiven MySQL Database for Eurofencing
         env:
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
         run: |
@@ -59,6 +70,8 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add Eurofencing_Individual_Rankings.csv
+          git add Ranking_data.csv 
+          git add Ranking_PDF_reports/Fencing_Ranking_Report_*.pdf
           if ! git diff-index --quiet HEAD; then
             git commit -m "Update Rankings.csv, push to Databases, PDF and email"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SPORT-DATABASES/Fencing.git HEAD:main

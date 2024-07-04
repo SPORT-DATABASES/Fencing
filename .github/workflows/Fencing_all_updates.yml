@@ -25,7 +25,7 @@ jobs:
         pip install requests pandas fpdf lxml
 
     - name: Run scrape script
-      run: python webscrape_json.py  # Replace with the actual script name
+      run: python Scraper_FIE_Rankings.py  # Replace with the actual script name
 
     - name: Commit and push changes
       run: |
