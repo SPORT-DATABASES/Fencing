@@ -58,7 +58,6 @@ for weapon in weapons:
                 else:
                     print(f"Failed to fetch data for weapon: {weapon}, level: {level}, gender: {gender}, type: {type}. Status code: {response.status_code}")
 
-
 df = pd.DataFrame(all_athletes_data)
 
 df['type'] = df['type'].replace({'i': 'Individual', 'e': 'Team'})
@@ -83,4 +82,3 @@ print(rankings_df.tail())
 print(f"Total number of athletes collected: {len(all_athletes_data)}")
 
 rankings_df.to_csv('FIE_Ranking_data.csv', index=False)
-

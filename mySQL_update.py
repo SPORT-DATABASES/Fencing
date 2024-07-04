@@ -75,6 +75,7 @@ with engine.connect() as connection:
         `Country` VARCHAR(255),
         `Hand` VARCHAR(255),
         `Age` INTEGER,
+        `Weapon` VARCHAR(255),
         `Category` VARCHAR(255),
         `Scrape_Date` VARCHAR(255),
         `last_updated` TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
