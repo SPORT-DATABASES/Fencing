@@ -17,25 +17,33 @@ from email.mime.application import MIMEApplication
 team = "QATAR"
 
 FIE_rankings_df = pd.read_csv('FIE_Ranking_data.csv')
-
 FIE_rankings_df = FIE_rankings_df[FIE_rankings_df['Country'] == team]
-#rankings_df = rankings_df.drop(columns=['Id', 'Country_2'])
-
 FIE_rankings_df = FIE_rankings_df[['Name', 'Rank', 'Points', 'Gender', 'Level', 'Weapon', 'Type']].drop_duplicates()
 
-########## add in Eurofencing scrape, make datatable and append to FIE_rankings_df
-#### then make rankings_df table and run next code.
-#### Need to amend the age group and type (team and individual for the append)
+EuroF_rankings_df = pd.read_csv('Eurofencing_Individual_Rankings.csv')
+EuroF_rankings_df = EuroF_rankings_df[EuroF_rankings_df['Nationality'] == 'QAT']
 
+EuroF_rankings_df = EuroF_rankings_df[['Name', 'Ranking', 'Points', 'Gender', 'Age', 'Weapon']].drop_duplicates()
+
+EuroF_rankings_df.rename(columns={'Ranking': 'Rank', 'Age': 'Level'}, inplace=True)
+EuroF_rankings_df['Type'] = 'Individual'
+
+### Need to scrape for Teams in EuroF and add to code 
 
 # Split into individuals and teams
-individuals_df = FIE_rankings_df[FIE_rankings_df['Type'] == 'Individual']   # change the FIE when adding Eurofencing
-teams_df = FIE_rankings_df[FIE_rankings_df['Type'] == 'Team']
+FIE_individuals_df = FIE_rankings_df[FIE_rankings_df['Type'] == 'Individual']   # change the FIE when adding Eurofencing
+FIE_teams_df = FIE_rankings_df[FIE_rankings_df['Type'] == 'Team']
+
+EuroF_individuals_df = EuroF_rankings_df[EuroF_rankings_df['Type'] == 'Individual']   # change the FIE when adding Eurofencing
+EuroF_teams_df = EuroF_rankings_df[EuroF_rankings_df['Type'] == 'Team']
+
+individuals_df = pd.concat([EuroF_individuals_df, FIE_individuals_df], ignore_index=True)
+teams_df = pd.concat([EuroF_teams_df, FIE_teams_df], ignore_index=True)
 
 # Sort the DataFrames: Men first, then Women; Seniors first, then Juniors
 for df in [individuals_df, teams_df]:
     df['Gender'] = pd.Categorical(df['Gender'], categories=['Men', 'Women'], ordered=True)
-    df['Level'] = pd.Categorical(df['Level'], categories=['Senior', 'Junior'], ordered=True)
+    df['Level'] = pd.Categorical(df['Level'], categories=['Senior', 'Junior','Cadets'], ordered=True)
     df.sort_values(by=['Gender', 'Level', 'Weapon'], inplace=True)
 
 # Print DataFrame for debugging
@@ -125,7 +133,6 @@ if not os.path.exists(output_dir):
 filename = os.path.join(output_dir, f'Fencing_Ranking_Report_{update_date}.pdf')
 pdf.output(filename)
 print(f"PDF report saved as {filename}")
-
 
 print("Sending email with PDF report...")
 # Send email with the PDF report
