@@ -14,10 +14,15 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
 
-team = "QATAR"
+###### Set Nationality to filter on     
+
+FIE_team = "QATAR"
+EuroF_Nationality = "QAT"
+
+#######################
 
 FIE_rankings_df = pd.read_csv('FIE_Ranking_data.csv')
-FIE_rankings_df = FIE_rankings_df[FIE_rankings_df['Country'] == team]
+FIE_rankings_df = FIE_rankings_df[FIE_rankings_df['Country'] == FIE_team]
 FIE_rankings_df = FIE_rankings_df[['Name', 'Rank', 'Points', 'Gender', 'Level', 'Weapon', 'Type']].drop_duplicates()
 
 EuroF_rankings_df = pd.read_csv('Eurofencing_Individual_Rankings.csv')
@@ -30,12 +35,19 @@ EuroF_rankings_df['Type'] = 'Individual'
 
 ### Need to scrape for Teams in EuroF and add to code 
 
+EuroF_team_rankings_df = pd.read_csv('Eurofencing_Team_Rankings.csv')
+EuroF_team_rankings_df = EuroF_team_rankings_df[EuroF_team_rankings_df['Nationality'] == 'QAT']
+EuroF_team_rankings_df['Type'] ='Team'
+EuroF_team_rankings_df['Level'] ='Cadets'
+EuroF_team_rankings_df = EuroF_team_rankings_df[['Name', 'Ranking', 'Points', 'Gender', 'Level', 'Weapon', 'Type']].drop_duplicates()
+EuroF_team_rankings_df.rename(columns={'Ranking': 'Rank'}, inplace=True)
+
 # Split into individuals and teams
 FIE_individuals_df = FIE_rankings_df[FIE_rankings_df['Type'] == 'Individual']   # change the FIE when adding Eurofencing
 FIE_teams_df = FIE_rankings_df[FIE_rankings_df['Type'] == 'Team']
 
 EuroF_individuals_df = EuroF_rankings_df[EuroF_rankings_df['Type'] == 'Individual']   # change the FIE when adding Eurofencing
-EuroF_teams_df = EuroF_rankings_df[EuroF_rankings_df['Type'] == 'Team']
+EuroF_teams_df = EuroF_team_rankings_df[EuroF_team_rankings_df['Type'] == 'Team']
 
 individuals_df = pd.concat([EuroF_individuals_df, FIE_individuals_df], ignore_index=True)
 teams_df = pd.concat([EuroF_teams_df, FIE_teams_df], ignore_index=True)
@@ -43,8 +55,9 @@ teams_df = pd.concat([EuroF_teams_df, FIE_teams_df], ignore_index=True)
 # Sort the DataFrames: Men first, then Women; Seniors first, then Juniors
 for df in [individuals_df, teams_df]:
     df['Gender'] = pd.Categorical(df['Gender'], categories=['Men', 'Women'], ordered=True)
-    df['Level'] = pd.Categorical(df['Level'], categories=['Senior', 'Junior','Cadets'], ordered=True)
-    df.sort_values(by=['Gender', 'Level', 'Weapon'], inplace=True)
+    df['Level'] = pd.Categorical(df['Level'], categories=['Senior', 'Junior', 'Cadets'], ordered=True)
+    df.sort_values(by=['Gender', 'Level', 'Weapon', 'Rank'], inplace=True)
+
 
 # Print DataFrame for debugging
 print(individuals_df.head())
@@ -64,13 +77,15 @@ class PDF(FPDF):
             self.ln(10)
 
     def chapter_title(self, title):
-        self.set_font('Arial', 'B', 12)
-        self.cell(0, 10, title, 0, 1, 'L')
+        self.set_font('Arial', 'B', 16)  # Set font size to 16 for headers
+        self.cell(0, 10, title, 0, 1, 'C')
+        self.ln(2)
+        self.dashed_line(10, self.get_y(), 200, self.get_y())  # Add dashed line
         self.ln(5)  # Add a small space after the title
 
     def chapter_body(self, title, data):
         self.set_font('Arial', '', 12)
-        col_widths = [70, 30, 30, 30, 30]  # Define column widths: Name, Rank, Points, AgeGroup, Weapon
+        col_widths = [105, 18, 20, 23, 25]  # Define column widths: Name, Rank, Points, AgeGroup, Weapon
         self.set_fill_color(200, 220, 255)
 
         # Calculate the height of the table
@@ -142,7 +157,7 @@ body = "Please find attached the latest Fencing Athlete Rankings report."
 ################Create the email
 
 sender_email = "kennymcmillan29@gmail.com"
-receiver_emails = ["kennymcmillan29@gmail.com"] #"massimo.omeri@aspire.qa"]
+receiver_emails = ["kennymcmillan29@gmail.com", "massimo.omeri@aspire.qa"] #"massimo.omeri@aspire.qa"]
 password = "sqzi vduz elbn jyna"
 
 msg = MIMEMultipart()
