@@ -110,6 +110,7 @@ with engine.connect() as connection:
         `id` INT AUTO_INCREMENT PRIMARY KEY,
         `Fencerid` INT,
         `Name` VARCHAR(255),
+        `Age` INT,
         `Country` VARCHAR(255),
         `Weapon` VARCHAR(255),
         `Gender` VARCHAR(50),
