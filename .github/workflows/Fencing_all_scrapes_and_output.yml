@@ -3,7 +3,6 @@ name: FIE and EuroFencing Scrape, PDF, Email and update MySQL
 on:
   schedule:
     - cron: "0 6 * * 2" # 6am every Tuesday
- 
   workflow_dispatch:
 
 jobs:
@@ -25,7 +24,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.12' # Specify the Python version you need
+          python-version: '3.12'
 
       - name: Install dependencies
         run: |
@@ -35,7 +34,7 @@ jobs:
       - name: Install Edge
         run: |
           sudo apt-get update
-          sudo apt-get install -y wget apt-transport-https
+          sudo apt-get install -y apt-transport-https
           wget https://packages.microsoft.com/keys/microsoft.asc
           sudo apt-key add microsoft.asc
           sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/edge stable main" > /etc/apt/sources.list.d/microsoft-edge.list'
@@ -54,7 +53,8 @@ jobs:
           DISPLAY: ":99.0"
         run: |
           Xvfb :99 -ac &
-          sleep 3 # Give Xvfb some time to start
+          # Retry Xvfb start if needed
+          for i in {1..5}; do if xdpyinfo -display :99 > /dev/null 2>&1; then break; else sleep 1; fi; done
           python Scraper_EuroFencing_Rankings.py
 
       - name: Commit and push changes if necessary
@@ -63,12 +63,10 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add Eurofencing_Individual_Rankings.csv
-          git add FIE_Ranking_data.csv 
-          git add Ranking_PDF_reports/Fencing_Ranking_Report_*.pdf
+          git add Eurofencing_Individual_Rankings.csv FIE_Ranking_data.csv Ranking_PDF_reports/Fencing_Ranking_Report_*.pdf
           if ! git diff-index --quiet HEAD; then
             git commit -m "Update weekly FIE and Eurofencing csvs, push to Databases, PDF and email"
-            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SPORT-DATABASES/Fencing.git HEAD:main
+            git push origin HEAD:main
           else
             echo "No changes to commit"
           fi
@@ -82,6 +80,7 @@ jobs:
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
         run: |
           python mySQL_update.py
+
 
 
 
