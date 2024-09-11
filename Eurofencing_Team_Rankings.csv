@@ -1,178 +1,220 @@
-Comp_1,Comp_2,Comp_3,Comp_4,Comp_5,Comp_6,Comp_7,Comp_8,Gender,Name,Nationality,Points,Ranking,Weapon
-20,19,18,8,-,8,52,36,Men,CZECHIA,CZE,0.0,0,Foil
--,64,-,64,64,64,-,-,Men,UNITED STATES OF AMERICA,USA,256.0,1,Foil
-64,30,52,0,28,23,-,25,Men,ITALY,ITA,174.0,2,Foil
--,-,36,25,-,36,-,64,Men,HUNGARY,HUN,161.0,3,Foil
--,-,64,36,32,26,-,-,Men,FRANCE,FRA,158.0,4,Foil
-52,-,23,24,-,22,-,22,Men,POLAND,POL,121.0,6,Foil
-32,28,30,18,26,24,23,-,Men,GREAT BRITAIN,GBR,116.0,7,Foil
-25,23,-,0,-,-,64,-,Men,DENMARK,DEN,112.0,8,Foil
--,-,8,40,23,32,-,-,Men,GERMANY,GER,103.0,9,Foil
-8,-,8,20,-,8,-,52,Men,TURKEY,TUR,88.0,10,Foil
-26,32,20,8,8,-,-,-,Men,NETHERLANDS,NED,86.0,11,Foil
-36,-,8,8,-,8,-,32,Men,ROMANIA,ROU,84.0,12,Foil
-24,24,8,-,8,-,28,-,Men,SWEDEN,SWE,84.0,13,Foil
-18,22,0,-,-,-,-,28,Men,QATAR,QAT,68.0,14,Foil
-28,-,8,19,-,8,-,-,Men,UKRAINE,UKR,63.0,15,Foil
-22,21,8,-,8,8,-,-,Men,LATVIA,LAT,59.0,16,Foil
--,20,-,-,-,8,-,26,Men,BULGARIA,BUL,54.0,17,Foil
--,-,-,-,-,8,40,-,Men,ECUADOR,ECU,48.0,18,Foil
--,-,8,30,-,8,-,-,Men,AUSTRIA,AUT,46.0,19,Foil
--,-,-,0,-,8,36,-,Men,BELGIUM,BEL,44.0,20,Foil
--,-,28,-,8,8,-,-,Men,SPAIN,ESP,44.0,21,Foil
--,-,-,-,36,-,-,-,Men,JAPAN,JPN,36.0,22,Foil
--,-,8,-,21,-,-,-,Men,SINGAPORE,SGP,29.0,23,Foil
--,-,8,8,-,0,-,-,Men,SLOVAKIA,SVK,16.0,24,Foil
--,-,-,-,8,-,-,-,Men,PORTUGAL,POR,8.0,25,Foil
--,-,-,-,-,8,-,-,Men,AUSTRALIA,AUS,8.0,26,Foil
--,-,0,-,-,-,-,-,Men,GREECE,GRE,0.0,27,Foil
--,-,0,-,-,-,-,-,Men,EGYPT,EGY,0.0,28,Foil
--,-,-,-,-,-,-,-,Men,SERBIA,SRB,0.0,29,Foil
--,-,-,-,-,-,-,-,Men,CHINESE TAIPEI,TPE,0.0,29,Foil
--,28,24,21,-,8,24,22,Men,CZECHIA,CZE,0.0,0,Epee
--,32,32,-,64,32,64,64,Men,UKRAINE,UKR,224.0,1,Epee
--,52,64,-,-,30,52,8,Men,HUNGARY,HUN,198.0,2,Epee
--,64,-,64,-,64,-,-,Men,UNITED STATES OF AMERICA,USA,192.0,3,Epee
-64,-,25,26,52,40,23,28,Men,ITALY,ITA,184.0,4,Epee
--,30,28,25,-,18,-,52,Men,SWITZERLAND,SUI,135.0,5,Epee
--,-,-,36,28,22,-,36,Men,FRANCE,FRA,122.0,6,Epee
--,8,40,-,30,0,36,-,Men,TURKEY,TUR,114.0,7,Epee
--,8,52,24,18,-,-,-,Men,GREAT BRITAIN,GBR,102.0,8,Epee
--,23,26,-,-,8,-,40,Men,POLAND,POL,97.0,10,Epee
--,-,-,30,36,28,-,-,Men,SPAIN,ESP,94.0,11,Epee
--,-,30,32,24,8,-,-,Men,GERMANY,GER,94.0,12,Epee
-40,8,23,-,0,8,-,8,Men,NETHERLANDS,NED,79.0,13,Epee
--,-,-,22,8,8,19,19,Men,BELGIUM,BEL,68.0,14,Epee
--,-,-,-,8,-,32,26,Men,NORWAY,NOR,66.0,15,Epee
--,8,22,-,-,8,25,-,Men,ROMANIA,ROU,63.0,16,Epee
--,21,-,-,8,-,-,20,Men,ESTONIA,EST,49.0,17,Epee
--,8,-,-,-,-,30,8,Men,AZERBAIJAN,AZE,46.0,18,Epee
--,-,18,-,21,-,-,-,Men,SWEDEN,SWE,39.0,19,Epee
--,0,8,-,0,0,20,8,Men,SLOVAKIA,SVK,36.0,20,Epee
--,0,-,-,8,0,22,-,Men,NORTH MACEDONIA,MKD,30.0,21,Epee
-28,0,-,-,-,-,-,-,Men,SAUDI ARABIA,KSA,28.0,22,Epee
--,0,-,-,-,0,26,0,Men,BULGARIA,BUL,26.0,23,Epee
--,0,-,-,0,8,18,-,Men,GREECE,GRE,26.0,24,Epee
--,8,8,-,8,-,-,-,Men,DENMARK,DEN,24.0,25,Epee
--,-,-,-,19,-,-,-,Men,BRAZIL,BRA,19.0,26,Epee
--,-,-,8,8,-,-,-,Men,SINGAPORE,SGP,16.0,27,Epee
--,8,8,-,0,0,-,-,Men,AUSTRIA,AUT,16.0,28,Epee
--,-,-,-,-,-,-,8,Men,ARGENTINA,ARG,8.0,29,Epee
--,-,-,-,-,0,-,8,Men,LITHUANIA,LTU,8.0,30,Epee
--,0,-,-,-,0,8,-,Men,SERBIA,SRB,8.0,31,Epee
--,-,-,-,-,0,8,-,Men,CYPRUS,CYP,8.0,32,Epee
--,-,0,-,-,-,-,-,Men,SLOVENIA,SLO,0.0,33,Epee
--,0,-,-,-,0,0,-,Men,CROATIA,CRO,0.0,34,Epee
--,-,-,-,-,-,-,0,Men,JORDAN,JOR,0.0,35,Epee
--,0,0,-,-,-,-,-,Men,QATAR,QAT,0.0,36,Epee
--,8,-,-,-,-,-,32,Men,CZECHIA,CZE,0.0,0,Sabre
-64,36,64,64,28,-,-,-,Men,TURKEY,TUR,228.0,1,Sabre
--,40,-,-,36,64,-,52,Men,ITALY,ITA,192.0,2,Sabre
--,21,21,30,24,52,-,64,Men,GERMANY,GER,170.0,3,Sabre
--,20,28,28,30,24,64,36,Men,BULGARIA,BUL,158.0,4,Sabre
-32,-,52,-,-,-,32,40,Men,AZERBAIJAN,AZE,156.0,5,Sabre
--,25,-,24,64,40,-,-,Men,HUNGARY,HUN,153.0,6,Sabre
--,64,-,52,32,-,-,-,Men,UNITED STATES OF AMERICA,USA,148.0,7,Sabre
--,0,-,26,52,25,-,-,Men,SPAIN,ESP,103.0,8,Sabre
--,23,-,23,8,-,40,-,Men,ROMANIA,ROU,94.0,9,Sabre
--,-,-,-,-,36,52,-,Men,FRANCE,FRA,88.0,10,Sabre
--,8,20,20,20,-,26,-,Men,GREECE,GRE,86.0,11,Sabre
--,8,26,8,25,21,8,-,Men,GREAT BRITAIN,GBR,80.0,12,Sabre
--,8,-,8,-,-,30,28,Men,UKRAINE,UKR,74.0,13,Sabre
-52,-,-,-,-,-,-,-,Men,UZBEKISTAN,UZB,52.0,14,Sabre
-25,-,-,-,-,-,24,-,Men,GEORGIA,GEO,49.0,15,Sabre
--,8,-,8,19,-,-,-,Men,POLAND,POL,35.0,17,Sabre
--,-,-,-,-,32,-,-,Men,JAPAN,JPN,32.0,18,Sabre
--,-,-,22,-,-,-,-,Men,SINGAPORE,SGP,22.0,19,Sabre
--,-,-,-,-,18,-,-,Men,BELGIUM,BEL,18.0,20,Sabre
--,-,-,-,8,8,-,-,Men,SWITZERLAND,SUI,16.0,21,Sabre
--,8,-,-,8,-,-,-,Men,SAUDI ARABIA,KSA,16.0,22,Sabre
--,-,-,0,8,-,-,-,Men,DENMARK,DEN,8.0,23,Sabre
--,-,-,-,-,8,-,-,Men,ICELAND,ISL,8.0,24,Sabre
--,-,-,8,-,-,-,-,Men,MALAYSIA,MAS,8.0,25,Sabre
--,0,-,0,-,-,-,-,Men,SLOVENIA,SLO,0.0,26,Sabre
--,0,-,-,-,-,-,-,Men,SWEDEN,SWE,0.0,27,Sabre
--,0,-,-,-,-,-,-,Men,UNITED ARAB EMIRATES,UAE,0.0,28,Sabre
-23,23,22,20,-,19,40,32,Women,CZECHIA,CZE,0.0,0,Foil
--,64,-,64,52,64,-,-,Women,UNITED STATES OF AMERICA,USA,244.0,1,Foil
-40,-,64,40,-,52,-,64,Women,POLAND,POL,220.0,2,Foil
-36,-,52,32,-,25,-,-,Women,HUNGARY,HUN,145.0,3,Foil
-64,-,36,8,36,8,-,-,Women,ITALY,ITA,144.0,4,Foil
-8,-,32,36,-,28,-,36,Women,TURKEY,TUR,132.0,5,Foil
--,30,28,26,22,18,36,-,Women,GREAT BRITAIN,GBR,120.0,6,Foil
-28,36,25,-,23,24,-,-,Women,LATVIA,LAT,113.0,8,Foil
-30,-,28,21,-,-,-,30,Women,ROMANIA,ROU,109.0,9,Foil
-26,32,23,24,-,8,-,-,Women,SLOVAKIA,SVK,105.0,10,Foil
-32,-,40,-,-,26,-,-,Women,UKRAINE,UKR,98.0,11,Foil
--,-,20,30,25,22,-,-,Women,GERMANY,GER,97.0,12,Foil
--,25,-,-,8,-,52,-,Women,SWEDEN,SWE,85.0,13,Foil
-18,-,-,-,28,32,-,-,Women,FRANCE,FRA,78.0,14,Foil
-25,-,21,-,-,-,-,26,Women,MOLDOVA,MDA,72.0,15,Foil
--,-,-,-,64,-,-,-,Women,JAPAN,JPN,64.0,16,Foil
--,-,-,-,-,-,64,-,Women,CHINESE TAIPEI,TPE,64.0,16,Foil
--,24,8,25,-,-,-,-,Women,NETHERLANDS,NED,57.0,18,Foil
--,-,-,-,-,-,-,28,Women,GEORGIA,GEO,28.0,19,Foil
--,-,18,-,8,-,-,-,Women,SPAIN,ESP,26.0,20,Foil
--,-,-,-,-,-,-,25,Women,BULGARIA,BUL,25.0,21,Foil
--,-,0,-,24,-,-,-,Women,SINGAPORE,SGP,24.0,22,Foil
--,-,8,8,-,8,-,-,Women,AUSTRIA,AUT,24.0,23,Foil
--,-,8,8,-,8,-,-,Women,BELGIUM,BEL,24.0,24,Foil
--,-,8,-,-,-,-,-,Women,GREECE,GRE,8.0,25,Foil
--,-,-,8,-,-,-,-,Women,UNITED ARAB EMIRATES,UAE,8.0,26,Foil
--,-,8,-,-,-,-,-,Women,EGYPT,EGY,8.0,27,Foil
--,-,-,-,-,-,-,-,Women,ECUADOR,ECU,0.0,28,Foil
--,-,-,-,-,-,-,-,Women,AUSTRALIA,AUS,0.0,28,Foil
--,8,23,-,-,25,-,40,Women,CZECHIA,CZE,0.0,0,Epee
--,32,52,-,40,64,52,64,Women,UKRAINE,UKR,232.0,1,Epee
--,64,28,-,-,52,64,-,Women,HUNGARY,HUN,208.0,2,Epee
-64,-,24,26,64,36,19,8,Women,ITALY,ITA,190.0,3,Epee
--,-,64,40,52,-,-,-,Women,GERMANY,GER,156.0,4,Epee
--,40,-,64,-,40,-,-,Women,UNITED STATES OF AMERICA,USA,144.0,5,Epee
--,-,-,52,25,24,-,30,Women,FRANCE,FRA,131.0,6,Epee
--,52,40,-,-,-,-,32,Women,POLAND,POL,124.0,7,Epee
--,28,25,-,-,22,40,-,Women,ROMANIA,ROU,115.0,8,Epee
--,8,18,-,28,0,36,-,Women,TURKEY,TUR,90.0,10,Epee
--,-,-,32,32,26,-,-,Women,SPAIN,ESP,90.0,11,Epee
--,21,8,22,-,8,-,36,Women,SWITZERLAND,SUI,87.0,12,Epee
--,36,-,-,23,-,-,21,Women,ESTONIA,EST,80.0,13,Epee
--,22,8,25,24,-,-,-,Women,GREAT BRITAIN,GBR,79.0,14,Epee
--,-,21,18,36,-,-,-,Women,SWEDEN,SWE,75.0,15,Epee
--,23,8,-,-,8,26,-,Women,BULGARIA,BUL,65.0,16,Epee
--,8,-,-,-,-,28,22,Women,AZERBAIJAN,AZE,58.0,17,Epee
--,8,-,-,0,19,25,-,Women,GREECE,GRE,52.0,18,Epee
--,-,8,-,8,8,21,8,Women,SLOVAKIA,SVK,45.0,19,Epee
--,8,8,-,-,-,22,-,Women,SERBIA,SRB,38.0,20,Epee
--,8,8,-,8,8,-,-,Women,AUSTRIA,AUT,32.0,21,Epee
-30,0,-,-,-,-,-,-,Women,SAUDI ARABIA,KSA,30.0,22,Epee
--,-,-,-,-,-,-,19,Women,LITHUANIA,LTU,19.0,23,Epee
--,-,-,-,-,-,8,-,Women,CROATIA,CRO,8.0,24,Epee
--,-,0,8,-,-,-,-,Women,QATAR,QAT,8.0,25,Epee
--,-,-,-,-,-,-,8,Women,JORDAN,JOR,8.0,26,Epee
--,-,-,8,-,-,-,-,Women,SINGAPORE,SGP,8.0,27,Epee
--,-,-,-,-,8,-,-,Women,GEORGIA,GEO,8.0,28,Epee
--,-,-,-,8,-,-,-,Women,NORWAY,NOR,8.0,28,Epee
--,-,-,-,0,-,-,-,Women,FINLAND,FIN,0.0,30,Epee
--,-,-,-,0,-,-,-,Women,DENMARK,DEN,0.0,31,Epee
--,-,-,-,-,-,-,20,Women,CZECHIA,CZE,0.0,0,Sabre
--,40,64,64,30,64,52,-,Women,GREAT BRITAIN,GBR,244.0,1,Sabre
--,36,-,40,64,-,-,64,Women,UNITED STATES OF AMERICA,USA,204.0,2,Sabre
-64,28,52,32,22,-,-,-,Women,TURKEY,TUR,176.0,3,Sabre
--,52,-,30,40,52,-,-,Women,HUNGARY,HUN,174.0,4,Sabre
--,32,-,52,23,-,64,-,Women,ROMANIA,ROU,171.0,5,Sabre
--,64,-,-,32,25,-,24,Women,ITALY,ITA,145.0,6,Sabre
--,23,-,26,26,40,-,52,Women,GERMANY,GER,144.0,7,Sabre
-36,21,28,24,18,30,40,28,Women,BULGARIA,BUL,134.0,8,Sabre
-32,-,30,-,-,-,36,25,Women,AZERBAIJAN,AZE,123.0,9,Sabre
--,8,-,21,8,-,32,23,Women,UKRAINE,UKR,84.0,10,Sabre
--,8,-,19,20,36,-,-,Women,SPAIN,ESP,83.0,11,Sabre
--,30,-,-,28,-,-,-,Women,FRANCE,FRA,58.0,12,Sabre
--,25,-,23,8,-,-,-,Women,POLAND,POL,56.0,13,Sabre
--,8,-,8,-,-,30,-,Women,GREECE,GRE,46.0,14,Sabre
-40,-,-,-,-,-,-,-,Women,UZBEKISTAN,UZB,40.0,15,Sabre
-24,-,-,-,-,-,-,-,Women,GEORGIA,GEO,24.0,16,Sabre
--,-,-,-,-,21,-,-,Women,JAPAN,JPN,21.0,17,Sabre
--,-,-,18,-,-,-,-,Women,SINGAPORE,SGP,18.0,19,Sabre
--,-,-,-,-,8,-,-,Women,BELGIUM,BEL,8.0,20,Sabre
--,-,-,8,-,-,-,-,Women,SLOVENIA,SLO,8.0,21,Sabre
--,-,-,-,8,-,-,-,Women,LATVIA,LAT,8.0,22,Sabre
--,-,-,-,-,-,-,-,Women,DENMARK,DEN,0.0,23,Sabre
+Comp_1,Comp_10,Comp_11,Comp_12,13.,14.,15.,16.,17.,18.,19.,Comp_2,20.,21.,22.,Comp_3,Comp_4,Comp_5,Comp_6,Comp_7,Comp_8,Comp_9,Gender,Name,Nationality,Points,Ranking,Weapon
+-,-,-,,,,,,,,,-,,,,-,-,64,-,64,64,64,Men,UNITED STATES OF AMERICA,USA,256.0,1,Foil
+-,-,25,,,,,,,,,-,,,,-,64,30,52,0,28,23,Men,ITALY,ITA,174.0,2,Foil
+-,-,64,,,,,,,,,-,,,,-,-,-,36,25,-,36,Men,HUNGARY,HUN,161.0,3,Foil
+-,-,-,,,,,,,,,-,,,,-,-,-,64,36,32,26,Men,FRANCE,FRA,158.0,4,Foil
+-,52,36,,,,,,,,,-,,,,-,20,19,18,8,-,8,Men,CZECHIA,CZE,127.0,5,Foil
+-,-,22,,,,,,,,,-,,,,-,52,-,23,24,-,22,Men,POLAND,POL,121.0,6,Foil
+-,23,-,,,,,,,,,-,,,,-,32,28,30,18,26,24,Men,GREAT BRITAIN,GBR,116.0,7,Foil
+-,64,-,,,,,,,,,-,,,,-,25,23,-,0,-,-,Men,DENMARK,DEN,112.0,8,Foil
+-,-,-,,,,,,,,,-,,,,-,-,-,8,40,23,32,Men,GERMANY,GER,103.0,9,Foil
+-,-,52,,,,,,,,,-,,,,-,8,-,8,20,-,8,Men,TURKEY,TUR,88.0,10,Foil
+-,-,-,,,,,,,,,-,,,,-,26,32,20,8,8,-,Men,NETHERLANDS,NED,86.0,11,Foil
+-,-,32,,,,,,,,,-,,,,-,36,-,8,8,-,8,Men,ROMANIA,ROU,84.0,12,Foil
+-,28,-,,,,,,,,,-,,,,-,24,24,8,-,8,-,Men,SWEDEN,SWE,84.0,13,Foil
+-,-,28,,,,,,,,,-,,,,-,18,22,0,-,-,-,Men,QATAR,QAT,68.0,14,Foil
+-,-,-,,,,,,,,,-,,,,-,28,-,8,19,-,8,Men,UKRAINE,UKR,63.0,15,Foil
+-,-,-,,,,,,,,,-,,,,-,22,21,8,-,8,8,Men,LATVIA,LAT,59.0,16,Foil
+-,-,26,,,,,,,,,-,,,,-,-,20,-,-,-,8,Men,BULGARIA,BUL,54.0,17,Foil
+-,40,-,,,,,,,,,-,,,,-,-,-,-,-,-,8,Men,ECUADOR,ECU,48.0,18,Foil
+-,-,-,,,,,,,,,-,,,,-,-,-,8,30,-,8,Men,AUSTRIA,AUT,46.0,19,Foil
+-,36,-,,,,,,,,,-,,,,-,-,-,-,0,-,8,Men,BELGIUM,BEL,44.0,20,Foil
+-,-,-,,,,,,,,,-,,,,-,-,-,28,-,8,8,Men,SPAIN,ESP,44.0,21,Foil
+-,-,-,,,,,,,,,-,,,,-,-,-,-,-,36,-,Men,JAPAN,JPN,36.0,22,Foil
+-,-,-,,,,,,,,,-,,,,-,-,-,8,-,21,-,Men,SINGAPORE,SGP,29.0,23,Foil
+-,-,-,,,,,,,,,-,,,,-,-,-,8,8,-,0,Men,SLOVAKIA,SVK,16.0,24,Foil
+-,-,-,,,,,,,,,-,,,,-,-,-,-,-,8,-,Men,PORTUGAL,POR,8.0,25,Foil
+-,-,-,,,,,,,,,-,,,,-,-,-,-,-,-,8,Men,AUSTRALIA,AUS,8.0,26,Foil
+-,-,-,,,,,,,,,-,,,,-,-,-,0,-,-,-,Men,GREECE,GRE,0.0,27,Foil
+-,-,-,,,,,,,,,-,,,,-,-,-,0,-,-,-,Men,EGYPT,EGY,0.0,28,Foil
+-,-,-,,,,,,,,,-,,,,-,-,-,-,-,-,-,Men,CHINESE TAIPEI,TPE,0.0,29,Foil
+-,-,-,,,,,,,,,-,,,,-,-,-,-,-,-,-,Men,SERBIA,SRB,0.0,29,Foil
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,32,32,-,64,32,64,64,Men,UKRAINE,UKR,224.0,1,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,32,32,-,64,32,64,64,Men,UKRAINE,UKR,224.0,1,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,52,64,-,-,30,52,8,Men,HUNGARY,HUN,198.0,2,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,52,64,-,-,30,52,8,Men,HUNGARY,HUN,198.0,2,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,64,-,64,-,64,-,-,Men,UNITED STATES OF AMERICA,USA,192.0,3,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,64,-,64,-,64,-,-,Men,UNITED STATES OF AMERICA,USA,192.0,3,Epee
+-,-,-,-,-,-,-,-,-,-,-,64,-,-,-,-,25,26,52,40,23,28,Men,ITALY,ITA,184.0,4,Epee
+-,-,-,-,-,-,-,-,-,-,-,64,-,-,-,-,25,26,52,40,23,28,Men,ITALY,ITA,184.0,4,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,30,28,25,-,18,-,52,Men,SWITZERLAND,SUI,135.0,5,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,30,28,25,-,18,-,52,Men,SWITZERLAND,SUI,135.0,5,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,36,28,22,-,36,Men,FRANCE,FRA,122.0,6,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,36,28,22,-,36,Men,FRANCE,FRA,122.0,6,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,40,-,30,0,36,-,Men,TURKEY,TUR,114.0,7,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,40,-,30,0,36,-,Men,TURKEY,TUR,114.0,7,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,52,24,18,-,-,-,Men,GREAT BRITAIN,GBR,102.0,8,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,52,24,18,-,-,-,Men,GREAT BRITAIN,GBR,102.0,8,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,28,24,21,-,8,24,22,Men,CZECHIA,CZE,98.0,9,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,28,24,21,-,8,24,22,Men,CZECHIA,CZE,98.0,9,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,23,26,-,-,8,-,40,Men,POLAND,POL,97.0,10,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,23,26,-,-,8,-,40,Men,POLAND,POL,97.0,10,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,30,36,28,-,-,Men,SPAIN,ESP,94.0,11,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,30,36,28,-,-,Men,SPAIN,ESP,94.0,11,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,30,32,24,8,-,-,Men,GERMANY,GER,94.0,12,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,30,32,24,8,-,-,Men,GERMANY,GER,94.0,12,Epee
+-,-,-,-,-,-,-,-,-,-,-,40,-,-,-,8,23,-,0,8,-,8,Men,NETHERLANDS,NED,79.0,13,Epee
+-,-,-,-,-,-,-,-,-,-,-,40,-,-,-,8,23,-,0,8,-,8,Men,NETHERLANDS,NED,79.0,13,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,22,8,8,19,19,Men,BELGIUM,BEL,68.0,14,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,22,8,8,19,19,Men,BELGIUM,BEL,68.0,14,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,-,32,26,Men,NORWAY,NOR,66.0,15,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,-,32,26,Men,NORWAY,NOR,66.0,15,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,22,-,-,8,25,-,Men,ROMANIA,ROU,63.0,16,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,22,-,-,8,25,-,Men,ROMANIA,ROU,63.0,16,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,21,-,-,8,-,-,20,Men,ESTONIA,EST,49.0,17,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,21,-,-,8,-,-,20,Men,ESTONIA,EST,49.0,17,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,-,-,-,-,30,8,Men,AZERBAIJAN,AZE,46.0,18,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,-,-,-,-,30,8,Men,AZERBAIJAN,AZE,46.0,18,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,18,-,21,-,-,-,Men,SWEDEN,SWE,39.0,19,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,18,-,21,-,-,-,Men,SWEDEN,SWE,39.0,19,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,8,-,0,0,20,8,Men,SLOVAKIA,SVK,36.0,20,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,8,-,0,0,20,8,Men,SLOVAKIA,SVK,36.0,20,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,8,0,22,-,Men,NORTH MACEDONIA,MKD,30.0,21,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,8,0,22,-,Men,NORTH MACEDONIA,MKD,30.0,21,Epee
+-,-,-,-,-,-,-,-,-,-,-,28,-,-,-,0,-,-,-,-,-,-,Men,SAUDI ARABIA,KSA,28.0,22,Epee
+-,-,-,-,-,-,-,-,-,-,-,28,-,-,-,0,-,-,-,-,-,-,Men,SAUDI ARABIA,KSA,28.0,22,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,0,26,0,Men,BULGARIA,BUL,26.0,23,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,0,26,0,Men,BULGARIA,BUL,26.0,23,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,0,8,18,-,Men,GREECE,GRE,26.0,24,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,0,8,18,-,Men,GREECE,GRE,26.0,24,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,8,-,8,-,-,-,Men,DENMARK,DEN,24.0,25,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,8,-,8,-,-,-,Men,DENMARK,DEN,24.0,25,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,19,-,-,-,Men,BRAZIL,BRA,19.0,26,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,19,-,-,-,Men,BRAZIL,BRA,19.0,26,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,8,-,-,-,Men,SINGAPORE,SGP,16.0,27,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,8,-,-,-,Men,SINGAPORE,SGP,16.0,27,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,8,-,0,0,-,-,Men,AUSTRIA,AUT,16.0,28,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,8,-,0,0,-,-,Men,AUSTRIA,AUT,16.0,28,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,Men,ARGENTINA,ARG,8.0,29,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,Men,ARGENTINA,ARG,8.0,29,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,8,Men,LITHUANIA,LTU,8.0,30,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,8,Men,LITHUANIA,LTU,8.0,30,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,0,8,-,Men,SERBIA,SRB,8.0,31,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,0,8,-,Men,SERBIA,SRB,8.0,31,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,8,-,Men,CYPRUS,CYP,8.0,32,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,8,-,Men,CYPRUS,CYP,8.0,32,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,Men,SLOVENIA,SLO,0.0,33,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,Men,SLOVENIA,SLO,0.0,33,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,0,0,-,Men,CROATIA,CRO,0.0,34,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,0,0,-,Men,CROATIA,CRO,0.0,34,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,Men,JORDAN,JOR,0.0,35,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,Men,JORDAN,JOR,0.0,35,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,-,-,-,-,-,Men,QATAR,QAT,0.0,36,Epee
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,-,-,-,-,-,Men,QATAR,QAT,0.0,36,Epee
+-,-,,,,,,,,,,-,,,,64,36,64,64,28,-,-,Men,TURKEY,TUR,228.0,1,Sabre
+-,-,,,,,,,,,,-,,,,64,36,64,64,28,-,-,Men,TURKEY,TUR,228.0,1,Sabre
+-,-,,,,,,,,,,-,,,,64,36,64,64,28,-,-,Men,TURKEY,TUR,228.0,1,Sabre
+-,52,,,,,,,,,,-,,,,-,40,-,-,36,64,-,Men,ITALY,ITA,192.0,2,Sabre
+-,52,,,,,,,,,,-,,,,-,40,-,-,36,64,-,Men,ITALY,ITA,192.0,2,Sabre
+-,52,,,,,,,,,,-,,,,-,40,-,-,36,64,-,Men,ITALY,ITA,192.0,2,Sabre
+-,64,,,,,,,,,,-,,,,-,21,21,30,24,52,-,Men,GERMANY,GER,170.0,3,Sabre
+-,64,,,,,,,,,,-,,,,-,21,21,30,24,52,-,Men,GERMANY,GER,170.0,3,Sabre
+-,64,,,,,,,,,,-,,,,-,21,21,30,24,52,-,Men,GERMANY,GER,170.0,3,Sabre
+-,36,,,,,,,,,,-,,,,-,20,28,28,30,24,64,Men,BULGARIA,BUL,158.0,4,Sabre
+-,40,,,,,,,,,,-,,,,32,-,52,-,-,-,32,Men,AZERBAIJAN,AZE,156.0,5,Sabre
+-,-,,,,,,,,,,-,,,,-,25,-,24,64,40,-,Men,HUNGARY,HUN,153.0,6,Sabre
+-,-,,,,,,,,,,-,,,,-,64,-,52,32,-,-,Men,UNITED STATES OF AMERICA,USA,148.0,7,Sabre
+-,-,,,,,,,,,,-,,,,-,0,-,26,52,25,-,Men,SPAIN,ESP,103.0,8,Sabre
+-,-,,,,,,,,,,-,,,,-,23,-,23,8,-,40,Men,ROMANIA,ROU,94.0,9,Sabre
+-,-,,,,,,,,,,-,,,,-,-,-,-,-,36,52,Men,FRANCE,FRA,88.0,10,Sabre
+-,-,,,,,,,,,,-,,,,-,8,20,20,20,-,26,Men,GREECE,GRE,86.0,11,Sabre
+-,-,,,,,,,,,,-,,,,-,8,26,8,25,21,8,Men,GREAT BRITAIN,GBR,80.0,12,Sabre
+-,28,,,,,,,,,,-,,,,-,8,-,8,-,-,30,Men,UKRAINE,UKR,74.0,13,Sabre
+-,-,,,,,,,,,,-,,,,52,-,-,-,-,-,-,Men,UZBEKISTAN,UZB,52.0,14,Sabre
+-,-,,,,,,,,,,-,,,,25,-,-,-,-,-,24,Men,GEORGIA,GEO,49.0,15,Sabre
+-,32,,,,,,,,,,-,,,,-,8,-,-,-,-,-,Men,CZECHIA,CZE,40.0,16,Sabre
+-,-,,,,,,,,,,-,,,,-,8,-,8,19,-,-,Men,POLAND,POL,35.0,17,Sabre
+-,-,,,,,,,,,,-,,,,-,-,-,-,-,32,-,Men,JAPAN,JPN,32.0,18,Sabre
+-,-,,,,,,,,,,-,,,,-,-,-,22,-,-,-,Men,SINGAPORE,SGP,22.0,19,Sabre
+-,-,,,,,,,,,,-,,,,-,-,-,-,-,18,-,Men,BELGIUM,BEL,18.0,20,Sabre
+-,-,,,,,,,,,,-,,,,-,-,-,-,8,8,-,Men,SWITZERLAND,SUI,16.0,21,Sabre
+-,-,,,,,,,,,,-,,,,-,8,-,-,8,-,-,Men,SAUDI ARABIA,KSA,16.0,22,Sabre
+-,-,,,,,,,,,,-,,,,-,-,-,0,8,-,-,Men,DENMARK,DEN,8.0,23,Sabre
+-,-,,,,,,,,,,-,,,,-,-,-,-,-,8,-,Men,ICELAND,ISL,8.0,24,Sabre
+-,-,,,,,,,,,,-,,,,-,-,-,8,-,-,-,Men,MALAYSIA,MAS,8.0,25,Sabre
+-,-,,,,,,,,,,-,,,,-,0,-,0,-,-,-,Men,SLOVENIA,SLO,0.0,26,Sabre
+-,-,,,,,,,,,,-,,,,-,0,-,-,-,-,-,Men,SWEDEN,SWE,0.0,27,Sabre
+-,-,,,,,,,,,,-,,,,-,0,-,-,-,-,-,Men,UNITED ARAB EMIRATES,UAE,0.0,28,Sabre
+-,-,,,,,,,,,,-,,,,-,64,-,64,52,64,-,Women,UNITED STATES OF AMERICA,USA,244.0,1,Foil
+-,64,,,,,,,,,,-,,,,40,-,64,40,-,52,-,Women,POLAND,POL,220.0,2,Foil
+-,-,,,,,,,,,,-,,,,36,-,52,32,-,25,-,Women,HUNGARY,HUN,145.0,3,Foil
+-,-,,,,,,,,,,-,,,,64,-,36,8,36,8,-,Women,ITALY,ITA,144.0,4,Foil
+-,36,,,,,,,,,,-,,,,8,-,32,36,-,28,-,Women,TURKEY,TUR,132.0,5,Foil
+-,-,,,,,,,,,,-,,,,-,30,28,26,22,18,36,Women,GREAT BRITAIN,GBR,120.0,6,Foil
+-,32,,,,,,,,,,-,,,,23,23,22,20,-,19,40,Women,CZECHIA,CZE,118.0,7,Foil
+-,-,,,,,,,,,,-,,,,28,36,25,-,23,24,-,Women,LATVIA,LAT,113.0,8,Foil
+-,30,,,,,,,,,,-,,,,30,-,28,21,-,-,-,Women,ROMANIA,ROU,109.0,9,Foil
+-,-,,,,,,,,,,-,,,,26,32,23,24,-,8,-,Women,SLOVAKIA,SVK,105.0,10,Foil
+-,-,,,,,,,,,,-,,,,32,-,40,-,-,26,-,Women,UKRAINE,UKR,98.0,11,Foil
+-,-,,,,,,,,,,-,,,,-,-,20,30,25,22,-,Women,GERMANY,GER,97.0,12,Foil
+-,-,,,,,,,,,,-,,,,-,25,-,-,8,-,52,Women,SWEDEN,SWE,85.0,13,Foil
+-,-,,,,,,,,,,-,,,,18,-,-,-,28,32,-,Women,FRANCE,FRA,78.0,14,Foil
+-,26,,,,,,,,,,-,,,,25,-,21,-,-,-,-,Women,MOLDOVA,MDA,72.0,15,Foil
+-,-,,,,,,,,,,-,,,,-,-,-,-,-,-,64,Women,CHINESE TAIPEI,TPE,64.0,16,Foil
+-,-,,,,,,,,,,-,,,,-,-,-,-,64,-,-,Women,JAPAN,JPN,64.0,16,Foil
+-,-,,,,,,,,,,-,,,,-,24,8,25,-,-,-,Women,NETHERLANDS,NED,57.0,18,Foil
+-,28,,,,,,,,,,-,,,,-,-,-,-,-,-,-,Women,GEORGIA,GEO,28.0,19,Foil
+-,-,,,,,,,,,,-,,,,-,-,18,-,8,-,-,Women,SPAIN,ESP,26.0,20,Foil
+-,25,,,,,,,,,,-,,,,-,-,-,-,-,-,-,Women,BULGARIA,BUL,25.0,21,Foil
+-,-,,,,,,,,,,-,,,,-,-,0,-,24,-,-,Women,SINGAPORE,SGP,24.0,22,Foil
+-,-,,,,,,,,,,-,,,,-,-,8,8,-,8,-,Women,AUSTRIA,AUT,24.0,23,Foil
+-,-,,,,,,,,,,-,,,,-,-,8,8,-,8,-,Women,BELGIUM,BEL,24.0,24,Foil
+-,-,,,,,,,,,,-,,,,-,-,8,-,-,-,-,Women,GREECE,GRE,8.0,25,Foil
+-,-,,,,,,,,,,-,,,,-,-,-,8,-,-,-,Women,UNITED ARAB EMIRATES,UAE,8.0,26,Foil
+-,-,,,,,,,,,,-,,,,-,-,8,-,-,-,-,Women,EGYPT,EGY,8.0,27,Foil
+-,-,,,,,,,,,,-,,,,-,-,-,-,-,-,-,Women,AUSTRALIA,AUS,0.0,28,Foil
+-,-,,,,,,,,,,-,,,,-,-,-,-,-,-,-,Women,ECUADOR,ECU,0.0,28,Foil
+-,,,,,,,,,,,-,,,,32,52,-,40,64,52,64,Women,UKRAINE,UKR,232.0,1,Epee
+-,,,,,,,,,,,-,,,,64,28,-,-,52,64,-,Women,HUNGARY,HUN,208.0,2,Epee
+-,,,,,,,,,,,64,,,,-,24,26,64,36,19,8,Women,ITALY,ITA,190.0,3,Epee
+-,,,,,,,,,,,-,,,,-,64,40,52,-,-,-,Women,GERMANY,GER,156.0,4,Epee
+-,,,,,,,,,,,-,,,,40,-,64,-,40,-,-,Women,UNITED STATES OF AMERICA,USA,144.0,5,Epee
+-,,,,,,,,,,,-,,,,-,-,52,25,24,-,30,Women,FRANCE,FRA,131.0,6,Epee
+-,,,,,,,,,,,-,,,,52,40,-,-,-,-,32,Women,POLAND,POL,124.0,7,Epee
+-,,,,,,,,,,,-,,,,28,25,-,-,22,40,-,Women,ROMANIA,ROU,115.0,8,Epee
+-,,,,,,,,,,,-,,,,8,23,-,-,25,-,40,Women,CZECHIA,CZE,96.0,9,Epee
+-,,,,,,,,,,,-,,,,8,18,-,28,0,36,-,Women,TURKEY,TUR,90.0,10,Epee
+-,,,,,,,,,,,-,,,,-,-,32,32,26,-,-,Women,SPAIN,ESP,90.0,11,Epee
+-,,,,,,,,,,,-,,,,21,8,22,-,8,-,36,Women,SWITZERLAND,SUI,87.0,12,Epee
+-,,,,,,,,,,,-,,,,36,-,-,23,-,-,21,Women,ESTONIA,EST,80.0,13,Epee
+-,,,,,,,,,,,-,,,,22,8,25,24,-,-,-,Women,GREAT BRITAIN,GBR,79.0,14,Epee
+-,,,,,,,,,,,-,,,,-,21,18,36,-,-,-,Women,SWEDEN,SWE,75.0,15,Epee
+-,,,,,,,,,,,-,,,,23,8,-,-,8,26,-,Women,BULGARIA,BUL,65.0,16,Epee
+-,,,,,,,,,,,-,,,,8,-,-,-,-,28,22,Women,AZERBAIJAN,AZE,58.0,17,Epee
+-,,,,,,,,,,,-,,,,8,-,-,0,19,25,-,Women,GREECE,GRE,52.0,18,Epee
+-,,,,,,,,,,,-,,,,-,8,-,8,8,21,8,Women,SLOVAKIA,SVK,45.0,19,Epee
+-,,,,,,,,,,,-,,,,8,8,-,-,-,22,-,Women,SERBIA,SRB,38.0,20,Epee
+-,,,,,,,,,,,-,,,,8,8,-,8,8,-,-,Women,AUSTRIA,AUT,32.0,21,Epee
+-,,,,,,,,,,,30,,,,0,-,-,-,-,-,-,Women,SAUDI ARABIA,KSA,30.0,22,Epee
+-,,,,,,,,,,,-,,,,-,-,-,-,-,-,19,Women,LITHUANIA,LTU,19.0,23,Epee
+-,,,,,,,,,,,-,,,,-,-,-,-,-,8,-,Women,CROATIA,CRO,8.0,24,Epee
+-,,,,,,,,,,,-,,,,-,0,8,-,-,-,-,Women,QATAR,QAT,8.0,25,Epee
+-,,,,,,,,,,,-,,,,-,-,-,-,-,-,8,Women,JORDAN,JOR,8.0,26,Epee
+-,,,,,,,,,,,-,,,,-,-,8,-,-,-,-,Women,SINGAPORE,SGP,8.0,27,Epee
+-,,,,,,,,,,,-,,,,-,-,-,-,8,-,-,Women,GEORGIA,GEO,8.0,28,Epee
+-,,,,,,,,,,,-,,,,-,-,-,8,-,-,-,Women,NORWAY,NOR,8.0,28,Epee
+-,,,,,,,,,,,-,,,,-,-,-,0,-,-,-,Women,FINLAND,FIN,0.0,30,Epee
+-,,,,,,,,,,,-,,,,-,-,-,0,-,-,-,Women,DENMARK,DEN,0.0,31,Epee
+-,-,,,,,,,,,,-,,,,-,40,64,64,30,64,52,Women,GREAT BRITAIN,GBR,244.0,1,Sabre
+-,64,,,,,,,,,,-,,,,-,36,-,40,64,-,-,Women,UNITED STATES OF AMERICA,USA,204.0,2,Sabre
+-,-,,,,,,,,,,-,,,,64,28,52,32,22,-,-,Women,TURKEY,TUR,176.0,3,Sabre
+-,-,,,,,,,,,,-,,,,-,52,-,30,40,52,-,Women,HUNGARY,HUN,174.0,4,Sabre
+-,-,,,,,,,,,,-,,,,-,32,-,52,23,-,64,Women,ROMANIA,ROU,171.0,5,Sabre
+-,24,,,,,,,,,,-,,,,-,64,-,-,32,25,-,Women,ITALY,ITA,145.0,6,Sabre
+-,52,,,,,,,,,,-,,,,-,23,-,26,26,40,-,Women,GERMANY,GER,144.0,7,Sabre
+-,28,,,,,,,,,,-,,,,36,21,28,24,18,30,40,Women,BULGARIA,BUL,134.0,8,Sabre
+-,25,,,,,,,,,,-,,,,32,-,30,-,-,-,36,Women,AZERBAIJAN,AZE,123.0,9,Sabre
+-,23,,,,,,,,,,-,,,,-,8,-,21,8,-,32,Women,UKRAINE,UKR,84.0,10,Sabre
+-,-,,,,,,,,,,-,,,,-,8,-,19,20,36,-,Women,SPAIN,ESP,83.0,11,Sabre
+-,-,,,,,,,,,,-,,,,-,30,-,-,28,-,-,Women,FRANCE,FRA,58.0,12,Sabre
+-,-,,,,,,,,,,-,,,,-,25,-,23,8,-,-,Women,POLAND,POL,56.0,13,Sabre
+-,-,,,,,,,,,,-,,,,-,8,-,8,-,-,30,Women,GREECE,GRE,46.0,14,Sabre
+-,-,,,,,,,,,,-,,,,40,-,-,-,-,-,-,Women,UZBEKISTAN,UZB,40.0,15,Sabre
+-,-,,,,,,,,,,-,,,,24,-,-,-,-,-,-,Women,GEORGIA,GEO,24.0,16,Sabre
+-,-,,,,,,,,,,-,,,,-,-,-,-,-,21,-,Women,JAPAN,JPN,21.0,17,Sabre
+-,20,,,,,,,,,,-,,,,-,-,-,-,-,-,-,Women,CZECHIA,CZE,20.0,18,Sabre
+-,-,,,,,,,,,,-,,,,-,-,-,18,-,-,-,Women,SINGAPORE,SGP,18.0,19,Sabre
+-,-,,,,,,,,,,-,,,,-,-,-,-,-,8,-,Women,BELGIUM,BEL,8.0,20,Sabre
+-,-,,,,,,,,,,-,,,,-,-,-,8,-,-,-,Women,SLOVENIA,SLO,8.0,21,Sabre
+-,-,,,,,,,,,,-,,,,-,-,-,-,8,-,-,Women,LATVIA,LAT,8.0,22,Sabre
+-,-,,,,,,,,,,-,,,,-,-,-,-,-,-,-,Women,DENMARK,DEN,0.0,23,Sabre
