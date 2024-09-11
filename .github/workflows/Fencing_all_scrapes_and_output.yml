@@ -46,6 +46,10 @@ jobs:
       - name: Verify Edge Installation
         run: microsoft-edge --version
 
+      - name: Delete old CSV files
+        run: |
+          rm -f Eurofencing_Individual_Rankings.csv FIE_Ranking_data.csv
+
       - name: Run FIE scrape script
         run: python Scraper_FIE_Rankings.py
 
@@ -58,21 +62,15 @@ jobs:
           for i in {1..5}; do if xdpyinfo -display :99 > /dev/null 2>&1; then break; else sleep 1; fi; done
           python Scraper_EuroFencing_Rankings.py
 
-      - name: Commit and push changes if necessary
+      - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add Eurofencing_Individual_Rankings.csv FIE_Ranking_data.csv Ranking_PDF_reports/Fencing_Ranking_Report_*.pdf
-          if git diff-index --quiet HEAD; then
-            echo "No changes to commit"
-            exit 0  # Exit successfully if no changes
-          else
-            git commit -m "Update weekly FIE and Eurofencing csvs, push to Databases, PDF and email"
-            git push origin HEAD:main
-          fi
-
+          git commit -m "Update weekly FIE and Eurofencing csvs, push to Databases, PDF and email"
+          git push origin HEAD:main
 
       - name: Run PDF and Email script
         run: |
@@ -83,7 +81,6 @@ jobs:
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
         run: |
           python mySQL_update.py
-
 
 
 
