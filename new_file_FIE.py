@@ -115,3 +115,5 @@ print(f"Total number of athletes collected: {len(all_athletes_data)}")
 
 # Save to CSV
 rankings_df.to_csv('FIE_Ranking_data.csv', index=False)
+
+df_qatar = rankings_df[rankings_df['Country'] == 'QATAR' ]
