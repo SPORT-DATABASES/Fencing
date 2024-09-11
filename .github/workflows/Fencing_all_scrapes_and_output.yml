@@ -70,7 +70,7 @@ jobs:
             git push origin HEAD:main
           else
             echo "No changes to commit"
-          fi
+        continue-on-error: true
 
       - name: Run PDF and Email script
         run: |
