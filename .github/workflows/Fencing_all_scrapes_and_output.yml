@@ -67,10 +67,12 @@ jobs:
           git add Eurofencing_Individual_Rankings.csv FIE_Ranking_data.csv Ranking_PDF_reports/Fencing_Ranking_Report_*.pdf
           if git diff-index --quiet HEAD; then
             echo "No changes to commit"
+            exit 0  # Exit successfully if no changes
           else
             git commit -m "Update weekly FIE and Eurofencing csvs, push to Databases, PDF and email"
             git push origin HEAD:main
           fi
+
 
       - name: Run PDF and Email script
         run: |
