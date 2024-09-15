@@ -1,5 +1,5 @@
 
-######## PDF and email
+######## PDF and emails
 
 import requests
 import pandas as pd
