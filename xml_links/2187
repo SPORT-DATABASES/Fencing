@@ -1,0 +1,2195 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE CompetitionParEquipes>
+<CompetitionParEquipes 
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  ID="35" 
+  Championnat="EFC"
+  Annee="4018/4019" 
+  Arme="E" 
+  Sexe="M" 
+  Categorie="C"
+  Class=""   
+  Domaine="I"  
+  Federation="GER"
+  Date="25.11.2018" 
+  TitreCourt="Tank und Rast Pokal" 
+  Titrelong="Tank und Rast Pokal" 
+  DateFichierXML="25.11.2018 16:27:41">
+<Equipes>
+<Equipe ID="BELGIUM 2" Ophardt_ID="-123842" Start_ID="563" Nation="BEL" Classement="23" Statut="N">
+    <Tireur ID="846342" Ophardt_ID="1000901225" Start_ID="5" Nom="D&#039; AOUT" Prenom="Robin" DateNaissance="05.12.2002" Sexe="M" Lateralite="" Licence="00846342" Club="" Ligue="" Nation="BEL" />
+    <Tireur ID="847849" Ophardt_ID="1000901159" Start_ID="7" Nom="FELTZ" Prenom="Maxim" DateNaissance="15.11.2003" Sexe="M" Lateralite="D" Licence="00847849" Club="CRE Arlon" Ligue="" Nation="BEL" />
+    <Tireur ID="847841" Ophardt_ID="1000901158" Start_ID="6" Nom="DUPAS" Prenom="Jean-Gauthier" DateNaissance="30.01.2003" Sexe="M" Lateralite="G" Licence="00847841" Club="CRE Arlon" Ligue="" Nation="BEL" />
+    <Tireur ID="848127" Ophardt_ID="1000901157" Start_ID="8" Nom="DEISSER" Prenom="John" DateNaissance="30.09.2004" Sexe="M" Lateralite="G" Licence="00848127" Club="CE Charlemagne" Ligue="" Nation="BEL" />
+  </Equipe>
+<Equipe ID="BELGIUM" Ophardt_ID="-15796" Start_ID="564" Nation="BEL" Classement="22" Statut="N">
+    <Tireur ID="841442" Ophardt_ID="356603" Start_ID="1" Nom="POCKELE" Prenom="Joris" DateNaissance="24.03.2002" Sexe="M" Lateralite="D" Licence="00841442" Club="Confrerie Gent" Ligue="" Nation="BEL" />
+    <Tireur ID="846339" Ophardt_ID="1000901153" Start_ID="3" Nom="CORVERS" Prenom="Mathis" DateNaissance="27.10.2003" Sexe="M" Lateralite="" Licence="00846339" Club="" Ligue="" Nation="BEL" />
+    <Tireur ID="846143" Ophardt_ID="1000901154" Start_ID="2" Nom="COUNSON" Prenom="Francois" DateNaissance="21.08.2003" Sexe="M" Lateralite="D" Licence="00846143" Club="" Ligue="" Nation="BEL" />
+    <Tireur ID="846344" Ophardt_ID="1000901160" Start_ID="4" Nom="PLOMTEUX" Prenom="Antoine" DateNaissance="09.08.2003" Sexe="M" Lateralite="G" Licence="00846344" Club="" Ligue="" Nation="BEL" />
+  </Equipe>
+<Equipe ID="CZECH REPUBLIC" Ophardt_ID="-15871" Start_ID="565" Nation="CZE" Classement="30" Statut="N">
+    <Tireur ID="842718" Ophardt_ID="351869" Start_ID="9" Nom="KLAUS" Prenom="Robert" DateNaissance="03.03.2003" Sexe="M" Lateralite="D" Licence="00842718" Club="SC Praha" Ligue="" Nation="CZE" />
+    <Tireur ID="844585" Ophardt_ID="349680" Start_ID="11" Nom="JINDRA" Prenom="Jakub" DateNaissance="24.09.2002" Sexe="M" Lateralite="D" Licence="00844585" Club="Lokomotiva Pilsen" Ligue="" Nation="CZE" />
+    <Tireur ID="843587" Ophardt_ID="324713" Start_ID="10" Nom="COUFAL" Prenom="Frantisek" DateNaissance="10.02.2003" Sexe="M" Lateralite="D" Licence="00843587" Club="BELA POD BEZDEZEM" Ligue="" Nation="CZE" />
+    <Tireur ID="845886" Ophardt_ID="1000901149" Start_ID="12" Nom="ZHANAL" Prenom="Petr" DateNaissance="17.05.2002" Sexe="M" Lateralite="D" Licence="00845886" Club="SC Praha" Ligue="" Nation="CZE" />
+  </Equipe>
+<Equipe ID="DENMARK" Ophardt_ID="-15810" Start_ID="566" Nation="DEN" Classement="28" Statut="N">
+    <Tireur ID="844320" Ophardt_ID="378998" Start_ID="13" Nom="LOMHOLT" Prenom="Sebastian" DateNaissance="14.05.2002" Sexe="M" Lateralite="D" Licence="00844320" Club="KFK Kalundborg" Ligue="SJ" Nation="DEN" />
+    <Tireur ID="847291" Ophardt_ID="1000901083" Start_ID="15" Nom="CHRISTENSEN" Prenom="Valdemar Ditlev" DateNaissance="14.12.2003" Sexe="M" Lateralite="D" Licence="00847291" Club="KFK Kalundborg" Ligue="" Nation="DEN" />
+    <Tireur ID="844489" Ophardt_ID="1000901082" Start_ID="14" Nom="DIEMER" Prenom="Alfred" DateNaissance="27.04.2003" Sexe="M" Lateralite="G" Licence="00844489" Club="HFK Hellerup" Ligue="" Nation="DEN" />
+  </Equipe>
+<Equipe ID="FRANCE 2" Ophardt_ID="-358124" Start_ID="567" Nation="FRA" Classement="7" Statut="N">
+    <Tireur ID="843780" Ophardt_ID="377439" Start_ID="117" Nom="DIANE" Prenom="Alban" DateNaissance="23.11.2002" Sexe="M" Lateralite="D" Licence="843780" Club="BRON" Ligue="" Nation="FRA" />
+    <Tireur ID="844387" Ophardt_ID="1000901136" Start_ID="119" Nom="FORTIN" Prenom="Paul" DateNaissance="23.07.2002" Sexe="M" Lateralite="D" Licence="844387" Club="AMIENS CEAM" Ligue="" Nation="FRA" />
+    <Tireur ID="-394028" Ophardt_ID="394028" Start_ID="118" Nom="BUFQUIN" Prenom="Alexandre" DateNaissance="08.06.2002" Sexe="M" Lateralite="" Licence="0" Club="DOUAI CE" Ligue="13" Nation="FRA" />
+    <Tireur ID="849168" Ophardt_ID="1000901141" Start_ID="126" Nom="SENOCQ" Prenom="tom" DateNaissance="05.07.2003" Sexe="M" Lateralite="D" Licence="849168" Club="VALENCIENNES" Ligue="" Nation="FRA" />
+  </Equipe>
+<Equipe ID="FRANCE 1" Ophardt_ID="-401403" Start_ID="568" Nation="FRA" Classement="9" Statut="N">
+    <Tireur ID="715286" Ophardt_ID="1000901132" Start_ID="16" Nom="KIEFFER" Prenom="Tom" DateNaissance="16.08.2003" Sexe="M" Lateralite="D" Licence="00715286" Club="HYERES" Ligue="" Nation="FRA" />
+    <Tireur ID="721771" Ophardt_ID="1000901131" Start_ID="18" Nom="SRECKI" Prenom="Quentin" DateNaissance="12.03.2002" Sexe="M" Lateralite="D" Licence="00721771" Club="PARIS GRP" Ligue="" Nation="FRA" />
+    <Tireur ID="716463" Ophardt_ID="1000901134" Start_ID="17" Nom="ROUSSEAU" Prenom="Pierrick" DateNaissance="23.03.2002" Sexe="M" Lateralite="D" Licence="00716463" Club="SAINTES CE" Ligue="" Nation="FRA" />
+    <Tireur ID="849137" Ophardt_ID="1000901129" Start_ID="19" Nom="HEURLIN-VAZQUEZ" Prenom="lino" DateNaissance="29.10.2003" Sexe="M" Lateralite="" Licence="00849137" Club="RENNES MCB" Ligue="" Nation="FRA" />
+  </Equipe>
+<Equipe ID="UNITED KINGDOM" Ophardt_ID="-401404" Start_ID="569" Nation="GBR" Classement="17" Statut="N">
+    <Tireur ID="840554" Ophardt_ID="356171" Start_ID="20" Nom="DOBSON" Prenom="Philip" DateNaissance="28.08.2002" Sexe="M" Lateralite="D" Licence="00840554" Club="" Ligue="" Nation="GBR" />
+    <Tireur ID="848450" Ophardt_ID="1000901066" Start_ID="22" Nom="JEAL" Prenom="James" DateNaissance="16.05.2002" Sexe="M" Lateralite="G" Licence="00848450" Club="Wingerworth FC" Ligue="" Nation="GBR" />
+    <Tireur ID="842479" Ophardt_ID="362608" Start_ID="21" Nom="FOULSHAM" Prenom="Jacob" DateNaissance="04.07.2002" Sexe="M" Lateralite="D" Licence="00842479" Club="" Ligue="" Nation="GBR" />
+  </Equipe>
+<Equipe ID="UNITED KINGDOM 2" Ophardt_ID="-401405" Start_ID="570" Nation="GBR" Classement="19" Statut="N">
+    <Tireur ID="845463" Ophardt_ID="1000901068" Start_ID="23" Nom="SCOTT PAYNE" Prenom="Edward" DateNaissance="06.05.2004" Sexe="M" Lateralite="G" Licence="00845463" Club="" Ligue="" Nation="GBR" />
+    <Tireur ID="848804" Ophardt_ID="1000901084" Start_ID="25" Nom="GIBSON" Prenom="Harry" DateNaissance="17.06.2002" Sexe="M" Lateralite="G" Licence="00848804" Club="Marshall" Ligue="" Nation="GBR" />
+    <Tireur ID="848456" Ophardt_ID="1000901071" Start_ID="24" Nom="GOH" Prenom="Joshua" DateNaissance="20.04.2003" Sexe="M" Lateralite="D" Licence="00848456" Club="Wingerworth FC" Ligue="" Nation="GBR" />
+  </Equipe>
+<Equipe ID="UNITED KINGDOM 3" Ophardt_ID="-392438" Start_ID="571" Nation="GBR" Classement="14" Statut="N">
+    <Tireur ID="842473" Ophardt_ID="362603" Start_ID="26" Nom="KEW" Prenom="Ethan" DateNaissance="05.03.2002" Sexe="M" Lateralite="D" Licence="00842473" Club="Redhill and Reigate EC" Ligue="" Nation="GBR" />
+    <Tireur ID="848300" Ophardt_ID="1000901065" Start_ID="28" Nom="GAUGER" Prenom="Noah" DateNaissance="31.07.2002" Sexe="M" Lateralite="D" Licence="00848300" Club="Bath Sword Club" Ligue="" Nation="GBR" />
+    <Tireur ID="846756" Ophardt_ID="1000901073" Start_ID="27" Nom="TAIWO-WILLIAMS" Prenom="Louis" DateNaissance="08.06.2004" Sexe="M" Lateralite="D" Licence="00846756" Club="Wingerworth FC" Ligue="" Nation="GBR" />
+  </Equipe>
+<Equipe ID="UNITED KINGDOM 4" Ophardt_ID="-401406" Start_ID="572" Nation="GBR" Classement="21" Statut="N">
+    <Tireur ID="845597" Ophardt_ID="1000901072" Start_ID="29" Nom="MITCHELL" Prenom="Jacob" DateNaissance="06.04.2002" Sexe="M" Lateralite="D" Licence="00845597" Club="Millfield School" Ligue="" Nation="GBR" />
+    <Tireur ID="848442" Ophardt_ID="1000901069" Start_ID="31" Nom="TANT" Prenom="Refe" DateNaissance="18.10.2002" Sexe="M" Lateralite="G" Licence="00848442" Club="Club Activ 8" Ligue="" Nation="GBR" />
+    <Tireur ID="847278" Ophardt_ID="1000901070" Start_ID="30" Nom="TRUUVERT" Prenom="Alexander" DateNaissance="10.01.2002" Sexe="M" Lateralite="D" Licence="00847278" Club="Leon Paul Epee" Ligue="" Nation="GBR" />
+  </Equipe>
+<Equipe ID="UNITED KINGDOM 5" Ophardt_ID="-401407" Start_ID="573" Nation="GBR" Classement="16" Statut="A">
+    <Tireur ID="843254" Ophardt_ID="377005" Start_ID="32" Nom="BASTON-HALL" Prenom="Harry" DateNaissance="17.05.2002" Sexe="M" Lateralite="G" Licence="00843254" Club="DINAN EA" Ligue="23" Nation="GBR" />
+    <Tireur ID="848302" Ophardt_ID="1000901064" Start_ID="34" Nom="WALMSLEY" Prenom="Joseph" DateNaissance="20.10.2003" Sexe="M" Lateralite="G" Licence="00848302" Club="Marshall" Ligue="" Nation="GBR" />
+    <Tireur ID="848201" Ophardt_ID="1000901067" Start_ID="33" Nom="MCKERR" Prenom="Isaac" DateNaissance="08.05.2002" Sexe="M" Lateralite="D" Licence="00848201" Club="Dunblane" Ligue="" Nation="GBR" />
+  </Equipe>
+<Equipe ID="GERMANY" Ophardt_ID="-15787" Start_ID="574" Nation="GER" Classement="6" Statut="N">
+    <Tireur ID="838790" Ophardt_ID="308577" Start_ID="35" Nom="MURRU" Prenom="Fabio" DateNaissance="06.12.2002" Sexe="M" Lateralite="G" Licence="00838790" Club="OFC Bonn" Ligue="NR" Nation="GER" />
+    <Tireur ID="841026" Ophardt_ID="308403" Start_ID="37" Nom="PFANDER" Prenom="Emil" DateNaissance="17.09.2002" Sexe="M" Lateralite="D" Licence="00841026" Club="TSG Reutlingen" Ligue="WÜ" Nation="GER" />
+    <Tireur ID="840419" Ophardt_ID="308872" Start_ID="36" Nom="BAKAY" Prenom="Sedat" DateNaissance="02.02.2002" Sexe="M" Lateralite="D" Licence="00840419" Club="FC Tauberbischofsheim" Ligue="BN" Nation="GER" />
+    <Tireur ID="843334" Ophardt_ID="318141" Start_ID="38" Nom="FAST" Prenom="Cedrik Henry" DateNaissance="10.02.2002" Sexe="M" Lateralite="D" Licence="00843334" Club="FS Bielefelder TG" Ligue="WE" Nation="GER" />
+  </Equipe>
+<Equipe ID="GERMANY 5" Ophardt_ID="-353736" Start_ID="575" Nation="GER" Classement="27" Statut="N">
+    <Tireur ID="727281" Ophardt_ID="118385" Start_ID="51" Nom="MOHLER" Prenom="Lennart" DateNaissance="29.01.2002" Sexe="M" Lateralite="D" Licence="00727281" Club="KSZU Meiningen" Ligue="TH" Nation="GER" />
+    <Tireur ID="846511" Ophardt_ID="1000901175" Start_ID="53" Nom="RITZ" Prenom="Janik" DateNaissance="17.03.2004" Sexe="M" Lateralite="D" Licence="00846511" Club="Heidenheimer SB" Ligue="" Nation="GER" />
+    <Tireur ID="842968" Ophardt_ID="307210" Start_ID="52" Nom="KRACK" Prenom="Tobias" DateNaissance="22.04.2002" Sexe="M" Lateralite="G" Licence="00842968" Club="Fecht Club Krefeld" Ligue="NR" Nation="GER" />
+    <Tireur ID="-329843" Ophardt_ID="329843" Start_ID="125" Nom="BUELAU" Prenom="Matthew" DateNaissance="05.04.2005" Sexe="M" Lateralite="D" Licence="0" Club="Heidenheimer SB" Ligue="WÜ" Nation="GER" />
+  </Equipe>
+<Equipe ID="GERMANY 4" Ophardt_ID="-347939" Start_ID="576" Nation="GER" Classement="25" Statut="N">
+    <Tireur ID="846514" Ophardt_ID="1000901178" Start_ID="48" Nom="BRANDTS" Prenom="Robert" DateNaissance="15.07.2002" Sexe="M" Lateralite="D" Licence="00846514" Club="Ludenscheider TV" Ligue="" Nation="GER" />
+    <Tireur ID="849218" Ophardt_ID="1000901169" Start_ID="50" Nom="SCHENKENGEL" Prenom="Benedict" DateNaissance="02.10.2004" Sexe="M" Lateralite="G" Licence="00849218" Club="Heidenheimer SB" Ligue="" Nation="GER" />
+    <Tireur ID="846868" Ophardt_ID="1000901174" Start_ID="49" Nom="KRAMER" Prenom="Michael" DateNaissance="11.12.2003" Sexe="M" Lateralite="D" Licence="00846868" Club="TV Augsburg" Ligue="" Nation="GER" />
+    <Tireur ID="-340511" Ophardt_ID="340511" Start_ID="124" Nom="SPIERZAK" Prenom="Lorenz" DateNaissance="28.02.2004" Sexe="M" Lateralite="D" Licence="0" Club="Fechtzentrum Solingen" Ligue="NR" Nation="GER" />
+  </Equipe>
+<Equipe ID="GERMANY 3" Ophardt_ID="-347938" Start_ID="577" Nation="GER" Classement="24" Statut="N">
+    <Tireur ID="840757" Ophardt_ID="311945" Start_ID="43" Nom="KELPE" Prenom="Bendix" DateNaissance="07.01.2003" Sexe="M" Lateralite="D" Licence="00840757" Club="FG Segeberg" Ligue="SH" Nation="GER" />
+    <Tireur ID="849216" Ophardt_ID="1000901167" Start_ID="45" Nom="BOORZ" Prenom="Jonas" DateNaissance="30.12.2003" Sexe="M" Lateralite="D" Licence="00849216" Club="Heidenheimer SB" Ligue="" Nation="GER" />
+    <Tireur ID="842960" Ophardt_ID="121463" Start_ID="44" Nom="GIESE" Prenom="Till Julius" DateNaissance="18.11.2002" Sexe="M" Lateralite="D" Licence="00842960" Club="Heidenheimer SB" Ligue="WÜ" Nation="GER" />
+    <Tireur ID="849219" Ophardt_ID="1000901168" Start_ID="46" Nom="KOLDITZ" Prenom="Ian-Etienne" DateNaissance="31.01.2004" Sexe="M" Lateralite="D" Licence="00849219" Club="TSV Bayer Leverkusen" Ligue="" Nation="GER" />
+  </Equipe>
+<Equipe ID="GERMANY 2" Ophardt_ID="-357747" Start_ID="578" Nation="GER" Classement="20" Statut="N">
+    <Tireur ID="841027" Ophardt_ID="326897" Start_ID="39" Nom="KALTSAMIS" Prenom="Alexander" DateNaissance="17.08.2002" Sexe="M" Lateralite="D" Licence="00841027" Club="TSG Reutlingen" Ligue="WÜ" Nation="GER" />
+    <Tireur ID="843561" Ophardt_ID="336010" Start_ID="41" Nom="NAGEL" Prenom="Keanu" DateNaissance="02.02.2003" Sexe="M" Lateralite="D" Licence="00843561" Club="Fecht Club Krefeld" Ligue="NR" Nation="GER" />
+    <Tireur ID="842961" Ophardt_ID="121471" Start_ID="40" Nom="REISER" Prenom="Cedric" DateNaissance="09.09.2002" Sexe="M" Lateralite="D" Licence="00842961" Club="Heidenheimer SB" Ligue="WÜ" Nation="GER" />
+    <Tireur ID="849215" Ophardt_ID="1000901166" Start_ID="42" Nom="MEIER" Prenom="Kassian" DateNaissance="13.08.2004" Sexe="M" Lateralite="D" Licence="00849215" Club="Fechtzentrum Solinge" Ligue="" Nation="GER" />
+  </Equipe>
+<Equipe ID="ITALY" Ophardt_ID="-15833" Start_ID="579" Nation="ITA" Classement="15" Statut="N">
+    <Tireur ID="847266" Ophardt_ID="1000901144" Start_ID="55" Nom="MICHELETTI CREMASCO" Prenom="Filippo" DateNaissance="27.08.2002" Sexe="M" Lateralite="D" Licence="00847266" Club="CS IVREA" Ligue="" Nation="ITA" />
+    <Tireur ID="848955" Ophardt_ID="1000901146" Start_ID="57" Nom="TATARANNO" Prenom="Paolo" DateNaissance="13.09.2002" Sexe="M" Lateralite="G" Licence="00848955" Club="CS IVREA" Ligue="" Nation="ITA" />
+    <Tireur ID="848933" Ophardt_ID="1000901145" Start_ID="56" Nom="VITALE" Prenom="Tommaso" DateNaissance="24.09.2002" Sexe="M" Lateralite="G" Licence="00848933" Club="CS IVREA" Ligue="" Nation="ITA" />
+    <Tireur ID="849338" Ophardt_ID="1000901123" Start_ID="58" Nom="STEINER" Prenom="Piero" DateNaissance="04.11.2003" Sexe="M" Lateralite="D" Licence="00849338" Club="MIPIT - Piccolo T." Ligue="" Nation="ITA" />
+  </Equipe>
+<Equipe ID="NORWAY" Ophardt_ID="-15850" Start_ID="580" Nation="NOR" Classement="18" Statut="N">
+    <Tireur ID="845817" Ophardt_ID="1000901102" Start_ID="59" Nom="DRAUGEDALEN" Prenom="Elias" DateNaissance="04.09.2003" Sexe="M" Lateralite="D" Licence="00845817" Club="Notteroy Fekteklubb" Ligue="" Nation="NOR" />
+    <Tireur ID="845821" Ophardt_ID="1000901101" Start_ID="61" Nom="BROBAKKEN" Prenom="Marcus Vokes" DateNaissance="05.03.2002" Sexe="M" Lateralite="G" Licence="00845821" Club="Njard Fekting" Ligue="" Nation="NOR" />
+    <Tireur ID="845819" Ophardt_ID="1000901104" Start_ID="60" Nom="OLKVAM" Prenom="Ole Magnus" DateNaissance="26.03.2002" Sexe="M" Lateralite="D" Licence="00845819" Club="Njard Fekting" Ligue="" Nation="NOR" />
+    <Tireur ID="846218" Ophardt_ID="1000901103" Start_ID="62" Nom="KLAVENESS" Prenom="Andreas" DateNaissance="02.03.2002" Sexe="M" Lateralite="D" Licence="00846218" Club="Bygdo Fekteklubb" Ligue="" Nation="NOR" />
+  </Equipe>
+<Equipe ID="POLAND 3" Ophardt_ID="-335264" Start_ID="581" Nation="POL" Classement="12" Statut="N">
+    <Tireur ID="846026" Ophardt_ID="1000901163" Start_ID="71" Nom="CIESLIK" Prenom="Jakub" DateNaissance="12.03.2002" Sexe="M" Lateralite="" Licence="00846026" Club="PKSzerm Warszawa" Ligue="" Nation="POL" />
+    <Tireur ID="841897" Ophardt_ID="339895" Start_ID="111" Nom="GODLEWSKI" Prenom="Bartlomiej" DateNaissance="02.06.2002" Sexe="M" Lateralite="G" Licence="841897" Club="WKS Kolejarz Wroclaw" Ligue="" Nation="POL" />
+    <Tireur ID="847325" Ophardt_ID="1000901216" Start_ID="74" Nom="JEDRZEJCZYK" Prenom="Radoslaw" DateNaissance="04.08.2002" Sexe="M" Lateralite="D" Licence="00847325" Club="AZS AWF Katowice" Ligue="" Nation="POL" />
+    <Tireur ID="-339972" Ophardt_ID="339972" Start_ID="112" Nom="SOCHA" Prenom="Antoni" DateNaissance="12.11.2004" Sexe="M" Lateralite="" Licence="0" Club="PKSzerm Warszawa" Ligue="" Nation="POL" />
+  </Equipe>
+<Equipe ID="POLAND 4" Ophardt_ID="-360466" Start_ID="582" Nation="POL" Classement="10" Statut="N">
+    <Tireur ID="841918" Ophardt_ID="339903" Start_ID="75" Nom="GRAMZA" Prenom="Maciej" DateNaissance="21.02.2002" Sexe="M" Lateralite="D" Licence="00841918" Club="KS Szpada Wroclaw" Ligue="" Nation="POL" />
+    <Tireur ID="-339978" Ophardt_ID="339978" Start_ID="114" Nom="KAZMIERSKI" Prenom="Maciej" DateNaissance="28.06.2003" Sexe="M" Lateralite="G" Licence="0" Club="MKS Gryf Mielec" Ligue="" Nation="POL" />
+    <Tireur ID="846211" Ophardt_ID="1000901164" Start_ID="76" Nom="OGONOWSKI" Prenom="Szymon" DateNaissance="29.05.2002" Sexe="M" Lateralite="" Licence="00846211" Club="IKS AWF Warszawa" Ligue="" Nation="POL" />
+    <Tireur ID="841871" Ophardt_ID="351906" Start_ID="115" Nom="MANDRYSZ" Prenom="Sebastian" DateNaissance="12.07.2002" Sexe="M" Lateralite="D" Licence="841871" Club="RMKS Rybnik" Ligue="" Nation="POL" />
+  </Equipe>
+<Equipe ID="POLAND 5" Ophardt_ID="-360467" Start_ID="583" Nation="POL" Classement="29" Statut="N">
+    <Tireur ID="846985" Ophardt_ID="1000901218" Start_ID="80" Nom="JAKUBOWSKI" Prenom="Olaf" DateNaissance="12.12.2003" Sexe="M" Lateralite="" Licence="00846985" Club="OLIMP Lubin" Ligue="" Nation="POL" />
+    <Tireur ID="847334" Ophardt_ID="1000901217" Start_ID="116" Nom="GLOWACKI" Prenom="Dominik" DateNaissance="25.07.2002" Sexe="M" Lateralite="D" Licence="847334" Club="UKS Sokrates" Ligue="" Nation="POL" />
+    <Tireur ID="849470" Ophardt_ID="1000901219" Start_ID="82" Nom="WESOLOWSKI" Prenom="Mikolaj" DateNaissance="23.09.2004" Sexe="M" Lateralite="" Licence="00849470" Club="Piast Gliwice" Ligue="" Nation="POL" />
+  </Equipe>
+<Equipe ID="POLAND" Ophardt_ID="-15857" Start_ID="584" Nation="POL" Classement="1" Statut="N">
+    <Tireur ID="841890" Ophardt_ID="351860" Start_ID="63" Nom="BULANDRA" Prenom="Jan" DateNaissance="26.06.2002" Sexe="M" Lateralite="D" Licence="00841890" Club="AZS AWF Katowice" Ligue="" Nation="POL" />
+    <Tireur ID="844596" Ophardt_ID="380739" Start_ID="65" Nom="SOCHA" Prenom="Jan" DateNaissance="02.04.2002" Sexe="M" Lateralite="D" Licence="00844596" Club="PKSzerm Warszawa" Ligue="" Nation="POL" />
+    <Tireur ID="842864" Ophardt_ID="339946" Start_ID="64" Nom="URBAN" Prenom="Piotr" DateNaissance="21.02.2003" Sexe="M" Lateralite="D" Licence="00842864" Club="MKS Gryf Mielec" Ligue="" Nation="POL" />
+    <Tireur ID="846984" Ophardt_ID="1000901152" Start_ID="66" Nom="KITLINSKI" Prenom="Bartosz" DateNaissance="13.01.2003" Sexe="M" Lateralite="" Licence="00846984" Club="OLIMP Lubin" Ligue="" Nation="POL" />
+  </Equipe>
+<Equipe ID="POLAND 2" Ophardt_ID="-335263" Start_ID="585" Nation="POL" Classement="26" Statut="N">
+    <Tireur ID="841896" Ophardt_ID="339929" Start_ID="67" Nom="RADOSZ" Prenom="Mikolaj" DateNaissance="02.12.2002" Sexe="M" Lateralite="D" Licence="00841896" Club="SKS GRASS-HOPPER KALWARIA" Ligue="" Nation="POL" />
+    <Tireur ID="847326" Ophardt_ID="1000901215" Start_ID="70" Nom="RZYCZNIAK" Prenom="Wojciech" DateNaissance="26.05.2004" Sexe="M" Lateralite="D" Licence="00847326" Club="Piast Gliwice" Ligue="" Nation="POL" />
+    <Tireur ID="841899" Ophardt_ID="358950" Start_ID="69" Nom="BUSKO" Prenom="Robert" DateNaissance="07.04.2002" Sexe="M" Lateralite="G" Licence="00841899" Club="DOSiR Sokolnia Chorzow" Ligue="" Nation="POL" />
+    <Tireur ID="847193" Ophardt_ID="1000901212" Start_ID="110" Nom="WALACH" Prenom="Wiktor" DateNaissance="13.09.2003" Sexe="M" Lateralite="" Licence="847193" Club="RMKS Rybnik" Ligue="" Nation="POL" />
+  </Equipe>
+<Equipe ID="SWITZERLAND 2" Ophardt_ID="-331826" Start_ID="586" Nation="SUI" Classement="2" Statut="N">
+    <Tireur ID="842778" Ophardt_ID="310698" Start_ID="87" Nom="ERBETTA" Prenom="Diego" DateNaissance="30.05.2002" Sexe="M" Lateralite="G" Licence="00842778" Club="CAL Lausanne" Ligue="" Nation="SUI" />
+    <Tireur ID="844530" Ophardt_ID="317488" Start_ID="89" Nom="BROCHARD" Prenom="Theo" DateNaissance="23.05.2003" Sexe="M" Lateralite="G" Licence="00844530" Club="SECH La Chaux-de-Fonds" Ligue="" Nation="SUI" />
+    <Tireur ID="844329" Ophardt_ID="317042" Start_ID="88" Nom="RAMUZ" Prenom="Jeremy" DateNaissance="04.02.2003" Sexe="M" Lateralite="D" Licence="00844329" Club="FCB Bern" Ligue="" Nation="SUI" />
+    <Tireur ID="845485" Ophardt_ID="1000901107" Start_ID="90" Nom="FUHRIMANN" Prenom="Jonathan" DateNaissance="03.03.2002" Sexe="M" Lateralite="D" Licence="00845485" Club="FCB Bern" Ligue="" Nation="SUI" />
+  </Equipe>
+<Equipe ID="SWITZERLAND 1" Ophardt_ID="-401408" Start_ID="587" Nation="SUI" Classement="3" Statut="N">
+    <Tireur ID="841679" Ophardt_ID="310032" Start_ID="83" Nom="HAURI" Prenom="Ian" DateNaissance="10.06.2002" Sexe="M" Lateralite="D" Licence="00841679" Club="SEG Geneve" Ligue="" Nation="SUI" />
+    <Tireur ID="842781" Ophardt_ID="311079" Start_ID="85" Nom="SOUTULLO" Prenom="Jordi" DateNaissance="24.02.2002" Sexe="M" Lateralite="D" Licence="00842781" Club="CEB Biel/Bienne" Ligue="" Nation="SUI" />
+    <Tireur ID="842606" Ophardt_ID="310538" Start_ID="84" Nom="WICHT" Prenom="Matteo" DateNaissance="06.02.2002" Sexe="M" Lateralite="D" Licence="00842606" Club="SEG Geneve" Ligue="" Nation="SUI" />
+    <Tireur ID="846426" Ophardt_ID="1000901106" Start_ID="86" Nom="VINEIS" Prenom="Sven" DateNaissance="19.12.2003" Sexe="M" Lateralite="D" Licence="00846426" Club="SEG Geneve" Ligue="" Nation="SUI" />
+  </Equipe>
+<Equipe ID="UNITED STATES OF AMERICA 3" Ophardt_ID="-401409" Start_ID="588" Nation="USA" Classement="13" Statut="N">
+    <Tireur ID="845375" Ophardt_ID="1000901088" Start_ID="99" Nom="KUMASHI" Prenom="Mihir" DateNaissance="27.11.2002" Sexe="M" Lateralite="G" Licence="00845375" Club="" Ligue="" Nation="USA" />
+    <Tireur ID="847313" Ophardt_ID="1000901097" Start_ID="101" Nom="WEISS" Prenom="Miles" DateNaissance="24.01.2003" Sexe="M" Lateralite="D" Licence="00847313" Club="" Ligue="" Nation="USA" />
+    <Tireur ID="846227" Ophardt_ID="1000901089" Start_ID="100" Nom="LEE" Prenom="Aaron" DateNaissance="25.04.2002" Sexe="M" Lateralite="D" Licence="00846227" Club="" Ligue="" Nation="USA" />
+    <Tireur ID="847908" Ophardt_ID="1000901098" Start_ID="102" Nom="VERMEULE" Prenom="Spencer" DateNaissance="11.02.2004" Sexe="M" Lateralite="D" Licence="00847908" Club="" Ligue="" Nation="USA" />
+  </Equipe>
+<Equipe ID="UNITED STATES OF AMERICA" Ophardt_ID="-401410" Start_ID="589" Nation="USA" Classement="5" Statut="N">
+    <Tireur ID="843797" Ophardt_ID="339838" Start_ID="91" Nom="KUSHNERIK" Prenom="Ethan" DateNaissance="20.07.2003" Sexe="M" Lateralite="G" Licence="00843797" Club="" Ligue="" Nation="USA" />
+    <Tireur ID="847264" Ophardt_ID="1000901086" Start_ID="93" Nom="LAWSON" Prenom="Nicholas" DateNaissance="10.08.2002" Sexe="M" Lateralite="D" Licence="00847264" Club="" Ligue="" Nation="USA" />
+    <Tireur ID="846317" Ophardt_ID="1000901087" Start_ID="92" Nom="HADDAD" Prenom="Justin" DateNaissance="16.05.2002" Sexe="M" Lateralite="D" Licence="00846317" Club="" Ligue="" Nation="USA" />
+    <Tireur ID="847774" Ophardt_ID="1000901093" Start_ID="94" Nom="SHIFRON" Prenom="Daniel" DateNaissance="04.09.2002" Sexe="M" Lateralite="D" Licence="00847774" Club="" Ligue="" Nation="USA" />
+  </Equipe>
+<Equipe ID="UNITED STATES OF AMERICA 2" Ophardt_ID="-401411" Start_ID="590" Nation="USA" Classement="4" Statut="N">
+    <Tireur ID="845348" Ophardt_ID="1000901096" Start_ID="95" Nom="MOOSEKIAN" Prenom="Stafford" DateNaissance="28.01.2003" Sexe="M" Lateralite="G" Licence="00845348" Club="" Ligue="" Nation="USA" />
+    <Tireur ID="847263" Ophardt_ID="1000901095" Start_ID="97" Nom="MUN" Prenom="Michael" DateNaissance="02.01.2003" Sexe="M" Lateralite="D" Licence="00847263" Club="" Ligue="" Nation="USA" />
+    <Tireur ID="846224" Ophardt_ID="1000901094" Start_ID="96" Nom="NGUYEN" Prenom="Ethan" DateNaissance="07.08.2002" Sexe="M" Lateralite="D" Licence="00846224" Club="" Ligue="" Nation="USA" />
+    <Tireur ID="847878" Ophardt_ID="1000901099" Start_ID="98" Nom="LIVERANT" Prenom="Skyler" DateNaissance="27.01.2004" Sexe="M" Lateralite="D" Licence="00847878" Club="" Ligue="" Nation="USA" />
+  </Equipe>
+<Equipe ID="UNITED STATES OF AMERICA 5" Ophardt_ID="-401412" Start_ID="591" Nation="USA" Classement="11" Statut="N">
+    <Tireur ID="849120" Ophardt_ID="1000901111" Start_ID="107" Nom="RA" Prenom="Daniel" DateNaissance="26.08.2003" Sexe="M" Lateralite="D" Licence="00849120" Club="" Ligue="" Nation="USA" />
+    <Tireur ID="849189" Ophardt_ID="1000901112" Start_ID="109" Nom="NEIBERGALL" Prenom="Colin" DateNaissance="17.01.2004" Sexe="M" Lateralite="D" Licence="00849189" Club="" Ligue="" Nation="USA" />
+    <Tireur ID="849121" Ophardt_ID="1000901115" Start_ID="108" Nom="CHA" Prenom="Russell" DateNaissance="29.01.2002" Sexe="M" Lateralite="D" Licence="00849121" Club="" Ligue="" Nation="USA" />
+  </Equipe>
+<Equipe ID="UNITED STATES OF AMERICA 4" Ophardt_ID="-401413" Start_ID="592" Nation="USA" Classement="8" Statut="N">
+    <Tireur ID="847828" Ophardt_ID="1000901092" Start_ID="103" Nom="KOZLOWSKI" Prenom="Mateusz" DateNaissance="25.02.2002" Sexe="M" Lateralite="D" Licence="00847828" Club="" Ligue="" Nation="USA" />
+    <Tireur ID="847879" Ophardt_ID="1000901091" Start_ID="105" Nom="INSLER" Prenom="Gabriel" DateNaissance="17.05.2002" Sexe="M" Lateralite="D" Licence="00847879" Club="" Ligue="" Nation="USA" />
+    <Tireur ID="847833" Ophardt_ID="1000901090" Start_ID="104" Nom="GAIDAR" Prenom="Daniel" DateNaissance="21.03.2002" Sexe="M" Lateralite="G" Licence="00847833" Club="" Ligue="" Nation="USA" />
+    <Tireur ID="849299" Ophardt_ID="1000901116" Start_ID="106" Nom="KIM" Prenom="Ethan" DateNaissance="15.04.2002" Sexe="M" Lateralite="D" Licence="00849299" Club="" Ligue="" Nation="USA" />
+  </Equipe>
+<Equipe ID="MIXED TEAM 1" Ophardt_ID="-401414" Start_ID="593" Nation="EUR" Classement="31" Statut="N">
+    <Tireur ID="-338968" Ophardt_ID="338968" Start_ID="121" Nom="ROUBAILO" Prenom="Niels" DateNaissance="04.11.2003" Sexe="M" Lateralite="G" Licence="0" Club="FCZ Zug" Ligue="" Nation="NED" />
+    <Tireur ID="845030" Ophardt_ID="383503" Start_ID="123" Nom="TALIOTIS" Prenom="Alexandros" DateNaissance="15.04.2002" Sexe="M" Lateralite="D" Licence="845030" Club="Nicosia FC" Ligue="" Nation="CYP" />
+    <Tireur ID="-347264" Ophardt_ID="347264" Start_ID="122" Nom="WARREMAN" Prenom="Daan" DateNaissance="08.07.2004" Sexe="M" Lateralite="D" Licence="0" Club="s.v. RobbSchermen" Ligue="" Nation="NED" />
+  </Equipe>
+</Equipes>
+<Arbitres>
+<Arbitre ID="828851" Ophardt_ID="3822" Nom="ALPERSTEIN" Prenom="Donald" DateNaissance="25.06.1951" Licence="828851" Nation="USA" />
+<Arbitre ID="840510" Ophardt_ID="193563" Nom="BLACKMORE" Prenom="Noah" DateNaissance="02.04.1996" Licence="840510" Nation="GBR" />
+<Arbitre ID="2272" Ophardt_ID="196319" Nom="FAJKIS" Prenom="Krystian" DateNaissance="15.07.1994" Licence="2272" Nation="POL" />
+<Arbitre ID="691711" Ophardt_ID="169935" Nom="GASPER" Prenom="Christian" DateNaissance="04.05.1982" Licence="691711" Nation="GER" />
+<Arbitre ID="2270" Ophardt_ID="193478" Nom="GRYT" Prenom="Maciej" DateNaissance="29.07.1992" Licence="2270" Nation="POL" />
+<Arbitre ID="-198602" Ophardt_ID="1000198602" Nom="HUEMER" Prenom="Jackson" DateNaissance="" Licence="" Nation="USA" />
+<Arbitre ID="838943" Ophardt_ID="191892" Nom="KADLEC" Prenom="Martin" DateNaissance="28.05.1993" Licence="838943" Nation="CZE" />
+<Arbitre ID="835810" Ophardt_ID="169749" Nom="LENNON" Prenom="Christopher" DateNaissance="21.12.1991" Licence="835810" Nation="GBR" />
+<Arbitre ID="798010" Ophardt_ID="193026" Nom="MAILLY" Prenom="Francois" DateNaissance="11.12.1987" Licence="798010" Nation="FRA" />
+<Arbitre ID="777918" Ophardt_ID="196469" Nom="MIELNICZEK" Prenom="Ignacy" DateNaissance="11.08.1995" Licence="777918" Nation="POL" />
+<Arbitre ID="-198382" Ophardt_ID="1000198382" Nom="MILICAMP" Prenom="Cedric" DateNaissance="" Licence="" Nation="BEL" />
+<Arbitre ID="-17557" Ophardt_ID="194512" Nom="NETTERSHEIM" Prenom="Katharina" DateNaissance="16.03.1994" Licence="" Nation="GER" />
+<Arbitre ID="2498" Ophardt_ID="165987" Nom="PIASECKI" Prenom="Bartosz" DateNaissance="09.12.1986" Licence="2498" Nation="NOR" />
+<Arbitre ID="833549" Ophardt_ID="161340" Nom="ROGNON" Prenom="Nadia" DateNaissance="30.06.1971" Licence="833549" Nation="SUI" />
+<Arbitre ID="751330" Ophardt_ID="192101" Nom="ROSENBAUM" Prenom="Florian" DateNaissance="24.05.1993" Licence="751330" Nation="GER" />
+<Arbitre ID="804885" Ophardt_ID="179375" Nom="SAN JOSE" Prenom="Julien" DateNaissance="19.04.1980" Licence="804885" Nation="FRA" />
+<Arbitre ID="-197457" Ophardt_ID="197457" Nom="VAN WINDEN" Prenom="Robb" DateNaissance="22.09.1952" Licence="0" Nation="NED" />
+<Arbitre ID="-197980" Ophardt_ID="197980" Nom="WATERS" Prenom="Essene" DateNaissance="18.04.1990" Licence="0" Nation="USA" />
+</Arbitres>
+<Phases>
+	        <PhaseDeTableaux PhaseID="PhaseTableaux1" ID="1">
+                  <Equipe REF="ITALY" RangInitial="1"	RangFinal="15" Statut="N" />
+            <Equipe REF="SWITZERLAND 1" RangInitial="2"	RangFinal="3" Statut="N" />
+            <Equipe REF="FRANCE 1" RangInitial="3"	RangFinal="9" Statut="N" />
+            <Equipe REF="GERMANY" RangInitial="4"	RangFinal="6" Statut="N" />
+            <Equipe REF="UNITED KINGDOM" RangInitial="5"	RangFinal="17" Statut="N" />
+            <Equipe REF="UNITED STATES OF AMERICA" RangInitial="6"	RangFinal="5" Statut="N" />
+            <Equipe REF="FRANCE 2" RangInitial="7"	RangFinal="7" Statut="N" />
+            <Equipe REF="NORWAY" RangInitial="8"	RangFinal="18" Statut="N" />
+            <Equipe REF="POLAND" RangInitial="9"	RangFinal="1" Statut="N" />
+            <Equipe REF="UNITED KINGDOM 2" RangInitial="10"	RangFinal="19" Statut="N" />
+            <Equipe REF="UNITED KINGDOM 3" RangInitial="11"	RangFinal="14" Statut="N" />
+            <Equipe REF="UNITED STATES OF AMERICA 2" RangInitial="12"	RangFinal="4" Statut="N" />
+            <Equipe REF="UNITED STATES OF AMERICA 3" RangInitial="13"	RangFinal="13" Statut="N" />
+            <Equipe REF="GERMANY 2" RangInitial="14"	RangFinal="20" Statut="N" />
+            <Equipe REF="UNITED KINGDOM 4" RangInitial="15"	RangFinal="21" Statut="N" />
+            <Equipe REF="UNITED STATES OF AMERICA 4" RangInitial="16"	RangFinal="8" Statut="N" />
+            <Equipe REF="BELGIUM" RangInitial="17"	RangFinal="22" Statut="N" />
+            <Equipe REF="UNITED STATES OF AMERICA 5" RangInitial="18"	RangFinal="11" Statut="N" />
+            <Equipe REF="SWITZERLAND 2" RangInitial="19"	RangFinal="2" Statut="N" />
+            <Equipe REF="BELGIUM 2" RangInitial="20"	RangFinal="23" Statut="N" />
+            <Equipe REF="GERMANY 3" RangInitial="21"	RangFinal="24" Statut="N" />
+            <Equipe REF="GERMANY 4" RangInitial="22"	RangFinal="25" Statut="N" />
+            <Equipe REF="UNITED KINGDOM 5" RangInitial="23"	RangFinal="16" Statut="A" />
+            <Equipe REF="POLAND 2" RangInitial="24"	RangFinal="26" Statut="N" />
+            <Equipe REF="POLAND 3" RangInitial="25"	RangFinal="12" Statut="N" />
+            <Equipe REF="GERMANY 5" RangInitial="26"	RangFinal="27" Statut="N" />
+            <Equipe REF="DENMARK" RangInitial="27"	RangFinal="28" Statut="N" />
+            <Equipe REF="POLAND 4" RangInitial="28"	RangFinal="10" Statut="N" />
+            <Equipe REF="POLAND 5" RangInitial="29"	RangFinal="29" Statut="N" />
+            <Equipe REF="CZECH REPUBLIC" RangInitial="30"	RangFinal="30" Statut="N" />
+            <Equipe REF="-401414" RangInitial="31"	RangFinal="31" Statut="N" />
+                                                                                                      <SuiteDeTableaux ID="SuiteTab_A" Titre="Tableau de 32" NbdeTableaux="5" ModusNo="51">
+                  <Tableau ID="A32" Titre="Tableau de 32" Taille="32"  DestinationDesElimines="">
+                                                            <Match ID="2" Date="09:00" Piste="1">
+                            <Arbitre REF="691711" Role="P"/>
+                                          <Arbitre REF="777918" Role="P"/>
+                                                                                    <Equipe REF="BELGIUM" Score="32" Statut="D"/>
+              <Equipe REF="UNITED STATES OF AMERICA 4" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="846143" Score="0" />
+                <Tireur REF="847828" Score="3" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="841442" Score="2" />
+                <Tireur REF="847833" Score="9" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="846339" Score="9" />
+                <Tireur REF="847879" Score="15" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="841442" Score="12" />
+                <Tireur REF="847828" Score="17" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="846143" Score="17" />
+                <Tireur REF="847879" Score="21" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="846339" Score="20" />
+                <Tireur REF="847833" Score="26" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="841442" Score="20" />
+                <Tireur REF="847879" Score="26" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="846339" Score="29" />
+                <Tireur REF="847828" Score="34" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="846143" Score="32" />
+                <Tireur REF="847833" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="3" Date="09:00" Piste="2">
+                            <Arbitre REF="828851" Role="P"/>
+                                                                                                  <Equipe REF="POLAND" Score="45" Statut="V"/>
+              <Equipe REF="POLAND 2" Score="36" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="844596" Score="4" />
+                <Tireur REF="841896" Score="2" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="842864" Score="6" />
+                <Tireur REF="841899" Score="6" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="841890" Score="11" />
+                <Tireur REF="847326" Score="10" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="842864" Score="17" />
+                <Tireur REF="841896" Score="16" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="844596" Score="22" />
+                <Tireur REF="847326" Score="19" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="841890" Score="27" />
+                <Tireur REF="841899" Score="24" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="842864" Score="32" />
+                <Tireur REF="847326" Score="30" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="841890" Score="40" />
+                <Tireur REF="841896" Score="33" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="844596" Score="45" />
+                <Tireur REF="841899" Score="36" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="4" Date="09:00" Piste="3">
+                            <Arbitre REF="-198602" Role="P"/>
+                                                                                                  <Equipe REF="POLAND 3" Score="33" Statut="V"/>
+              <Equipe REF="NORWAY" Score="28" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="847325" Score="1" />
+                <Tireur REF="845817" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="-339972" Score="7" />
+                <Tireur REF="846218" Score="7" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="846026" Score="10" />
+                <Tireur REF="845821" Score="10" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="-339972" Score="13" />
+                <Tireur REF="845817" Score="14" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="847325" Score="16" />
+                <Tireur REF="845821" Score="18" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="846026" Score="20" />
+                <Tireur REF="846218" Score="22" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="-339972" Score="27" />
+                <Tireur REF="845821" Score="25" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="846026" Score="27" />
+                <Tireur REF="845817" Score="25" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="847325" Score="33" />
+                <Tireur REF="846218" Score="28" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="5" Date="09:00" Piste="4">
+                            <Arbitre REF="838943" Role="P"/>
+                                                                                                  <Equipe REF="UNITED KINGDOM" Score="43" Statut="D"/>
+              <Equipe REF="POLAND 4" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="842479" Score="5" />
+                <Tireur REF="841871" Score="2" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="848450" Score="10" />
+                <Tireur REF="841918" Score="3" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="840554" Score="15" />
+                <Tireur REF="846211" Score="8" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="848450" Score="20" />
+                <Tireur REF="841871" Score="16" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="842479" Score="25" />
+                <Tireur REF="846211" Score="21" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="840554" Score="30" />
+                <Tireur REF="841918" Score="27" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="848450" Score="30" />
+                <Tireur REF="846211" Score="28" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="840554" Score="38" />
+                <Tireur REF="841871" Score="39" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="842479" Score="43" />
+                <Tireur REF="841918" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="6" Date="09:00" Piste="5">
+                            <Arbitre REF="2498" Role="P"/>
+                                                                                                  <Equipe REF="GERMANY 3" Score="32" Statut="D"/>
+              <Equipe REF="UNITED STATES OF AMERICA 2" Score="39" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="849219" Score="5" />
+                <Tireur REF="845348" Score="3" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="849216" Score="10" />
+                <Tireur REF="847878" Score="8" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="840757" Score="14" />
+                <Tireur REF="847263" Score="13" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="849216" Score="17" />
+                <Tireur REF="845348" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="849219" Score="19" />
+                <Tireur REF="847263" Score="23" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="840757" Score="22" />
+                <Tireur REF="847878" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="849216" Score="25" />
+                <Tireur REF="847263" Score="30" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="840757" Score="27" />
+                <Tireur REF="845348" Score="31" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="849219" Score="32" />
+                <Tireur REF="847878" Score="39" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="7" Date="09:00" Piste="6">
+                            <Arbitre REF="751330" Role="P"/>
+                                          <Arbitre REF="804885" Role="P"/>
+                                                                                    <Equipe REF="UNITED STATES OF AMERICA 3" Score="43" Statut="V"/>
+              <Equipe REF="BELGIUM 2" Score="39" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="847313" Score="4" />
+                <Tireur REF="847849" Score="4" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="846227" Score="7" />
+                <Tireur REF="846342" Score="6" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="845375" Score="12" />
+                <Tireur REF="847841" Score="8" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="846227" Score="15" />
+                <Tireur REF="847849" Score="18" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="847313" Score="23" />
+                <Tireur REF="847841" Score="21" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="845375" Score="27" />
+                <Tireur REF="846342" Score="26" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="846227" Score="31" />
+                <Tireur REF="847841" Score="29" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="845375" Score="37" />
+                <Tireur REF="847849" Score="33" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="847313" Score="43" />
+                <Tireur REF="846342" Score="39" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="8" Date="10:00" Piste="4">
+                            <Arbitre REF="838943" Role="P"/>
+                                          <Arbitre REF="833549" Role="P"/>
+                                                                                    <Equipe REF="POLAND 5" Score="30" Statut="D"/>
+              <Equipe REF="GERMANY" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="847334" Score="1" />
+                <Tireur REF="843334" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="849470" Score="1" />
+                <Tireur REF="838790" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="846985" Score="2" />
+                <Tireur REF="840419" Score="15" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="849470" Score="4" />
+                <Tireur REF="843334" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="847334" Score="7" />
+                <Tireur REF="840419" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="846985" Score="10" />
+                <Tireur REF="838790" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="849470" Score="23" />
+                <Tireur REF="840419" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="846985" Score="28" />
+                <Tireur REF="843334" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="847334" Score="30" />
+                <Tireur REF="838790" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="9" Date="09:00" Piste="7">
+                            <Arbitre REF="840510" Role="P"/>
+                                          <Arbitre REF="2272" Role="P"/>
+                                                                                    <Equipe REF="FRANCE 1" Score="45" Statut="V"/>
+              <Equipe REF="CZECH REPUBLIC" Score="24" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="715286" Score="3" />
+                <Tireur REF="845886" Score="0" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="716463" Score="8" />
+                <Tireur REF="843587" Score="2" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="849137" Score="8" />
+                <Tireur REF="842718" Score="2" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="716463" Score="14" />
+                <Tireur REF="845886" Score="5" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="715286" Score="21" />
+                <Tireur REF="842718" Score="11" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="849137" Score="27" />
+                <Tireur REF="843587" Score="14" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="716463" Score="31" />
+                <Tireur REF="842718" Score="15" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="849137" Score="36" />
+                <Tireur REF="845886" Score="19" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="715286" Score="45" />
+                <Tireur REF="843587" Score="24" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="10" Date="09:00" Piste="8">
+                            <Arbitre REF="-198382" Role="P"/>
+                                                                                                  <Equipe REF="SWITZERLAND 2" Score="45" Statut="V"/>
+              <Equipe REF="GERMANY 2" Score="39" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="842778" Score="5" />
+                <Tireur REF="841027" Score="2" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="844329" Score="10" />
+                <Tireur REF="843561" Score="9" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="844530" Score="15" />
+                <Tireur REF="842961" Score="14" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="844329" Score="17" />
+                <Tireur REF="841027" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="842778" Score="22" />
+                <Tireur REF="842961" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="844530" Score="26" />
+                <Tireur REF="843561" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="844329" Score="31" />
+                <Tireur REF="842961" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="844530" Score="40" />
+                <Tireur REF="841027" Score="37" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="842778" Score="45" />
+                <Tireur REF="843561" Score="39" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="11" Date="09:00" Piste="9">
+                            <Arbitre REF="2270" Role="P"/>
+                                                                                                  <Equipe REF="UNITED KINGDOM 3" Score="28" Statut="V"/>
+              <Equipe REF="GERMANY 4" Score="27" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="848300" Score="0" />
+                <Tireur REF="846514" Score="0" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="842473" Score="1" />
+                <Tireur REF="-340511" Score="0" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="846756" Score="1" />
+                <Tireur REF="849218" Score="0" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="848300" Score="3" />
+                <Tireur REF="-340511" Score="3" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="846756" Score="7" />
+                <Tireur REF="846514" Score="7" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="842473" Score="11" />
+                <Tireur REF="849218" Score="9" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="846756" Score="13" />
+                <Tireur REF="-340511" Score="11" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="848300" Score="21" />
+                <Tireur REF="849218" Score="15" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="842473" Score="27" />
+                <Tireur REF="846514" Score="27" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="12" Date="10:00" Piste="7">
+                            <Arbitre REF="2498" Role="P"/>
+                                          <Arbitre REF="2270" Role="P"/>
+                                                                                    <Equipe REF="DENMARK" Score="15" Statut="D"/>
+              <Equipe REF="UNITED STATES OF AMERICA" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="847291" Score="0" />
+                <Tireur REF="846317" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="844489" Score="2" />
+                <Tireur REF="847774" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="844320" Score="4" />
+                <Tireur REF="847264" Score="15" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="847291" Score="4" />
+                <Tireur REF="847774" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="844320" Score="8" />
+                <Tireur REF="846317" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="844489" Score="9" />
+                <Tireur REF="847264" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="844320" Score="10" />
+                <Tireur REF="847774" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="847291" Score="11" />
+                <Tireur REF="847264" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="844489" Score="15" />
+                <Tireur REF="846317" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="13" Date="09:00" Piste="10">
+                            <Arbitre REF="833549" Role="P"/>
+                                                                                                  <Equipe REF="FRANCE 2" Score="44" Statut="V"/>
+              <Equipe REF="GERMANY 5" Score="31" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="844387" Score="5" />
+                <Tireur REF="-329843" Score="4" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="843780" Score="10" />
+                <Tireur REF="846511" Score="8" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="-394028" Score="14" />
+                <Tireur REF="842968" Score="11" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="844387" Score="18" />
+                <Tireur REF="846511" Score="12" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="-394028" Score="25" />
+                <Tireur REF="-329843" Score="13" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="843780" Score="30" />
+                <Tireur REF="842968" Score="15" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="-394028" Score="32" />
+                <Tireur REF="846511" Score="19" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="844387" Score="40" />
+                <Tireur REF="842968" Score="25" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="843780" Score="44" />
+                <Tireur REF="-329843" Score="31" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="14" Date="09:00" Piste="11">
+                            <Arbitre REF="-197980" Role="P"/>
+                                                                                                  <Equipe REF="UNITED KINGDOM 5" Score="39" Statut="V"/>
+              <Equipe REF="UNITED KINGDOM 2" Score="36" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="848201" Score="5" />
+                <Tireur REF="848456" Score="2" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="843254" Score="6" />
+                <Tireur REF="848804" Score="7" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="848302" Score="9" />
+                <Tireur REF="845463" Score="8" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="843254" Score="15" />
+                <Tireur REF="848456" Score="12" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="848201" Score="21" />
+                <Tireur REF="845463" Score="14" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="848302" Score="27" />
+                <Tireur REF="848804" Score="23" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="843254" Score="28" />
+                <Tireur REF="845463" Score="25" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="848302" Score="29" />
+                <Tireur REF="848456" Score="28" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="848201" Score="39" />
+                <Tireur REF="848804" Score="36" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="15" Date="09:00" Piste="12">
+                            <Arbitre REF="798010" Role="P"/>
+                                          <Arbitre REF="-17557" Role="P"/>
+                                                                                    <Equipe REF="UNITED KINGDOM 4" Score="32" Statut="D"/>
+              <Equipe REF="UNITED STATES OF AMERICA 5" Score="41" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="845597" Score="4" />
+                <Tireur REF="849120" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="847278" Score="5" />
+                <Tireur REF="849121" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="848442" Score="5" />
+                <Tireur REF="849189" Score="10" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="845597" Score="9" />
+                <Tireur REF="849121" Score="14" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="848442" Score="14" />
+                <Tireur REF="849120" Score="20" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="847278" Score="22" />
+                <Tireur REF="849189" Score="26" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="848442" Score="23" />
+                <Tireur REF="849121" Score="27" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="845597" Score="27" />
+                <Tireur REF="849189" Score="30" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="847278" Score="32" />
+                <Tireur REF="849120" Score="41" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="16" Date="10:00" Piste="10">
+                            <Arbitre REF="-198602" Role="P"/>
+                                          <Arbitre REF="-198382" Role="P"/>
+                                                                                    <Equipe REF="-401414" Score="26" Statut="D"/>
+              <Equipe REF="SWITZERLAND 1" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="-347264" Score="0" />
+                <Tireur REF="846426" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="845030" Score="2" />
+                <Tireur REF="842781" Score="8" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="-338968" Score="7" />
+                <Tireur REF="841679" Score="15" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="-347264" Score="8" />
+                <Tireur REF="842781" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="-338968" Score="13" />
+                <Tireur REF="846426" Score="24" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="845030" Score="16" />
+                <Tireur REF="841679" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="-338968" Score="19" />
+                <Tireur REF="842781" Score="33" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="-347264" Score="22" />
+                <Tireur REF="841679" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="845030" Score="26" />
+                <Tireur REF="846426" Score="45" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="A16" Titre="Tableau de 16" Taille="16"  DestinationDesElimines="SuiteTab_B">
+                                    <Match ID="1" Date="" Piste="1">
+                            <Arbitre REF="751330" Role="P"/>
+                                          <Arbitre REF="777918" Role="P"/>
+                                                                                    <Equipe REF="ITALY" Score="38" Statut="D"/>
+              <Equipe REF="UNITED STATES OF AMERICA 4" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="848933" Score="3" />
+                <Tireur REF="847833" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="847266" Score="5" />
+                <Tireur REF="847879" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="848955" Score="6" />
+                <Tireur REF="847828" Score="10" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="848933" Score="7" />
+                <Tireur REF="847879" Score="15" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="848955" Score="12" />
+                <Tireur REF="847833" Score="18" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="847266" Score="17" />
+                <Tireur REF="847828" Score="25" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="848955" Score="18" />
+                <Tireur REF="847879" Score="30" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="848933" Score="26" />
+                <Tireur REF="847828" Score="36" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="847266" Score="38" />
+                <Tireur REF="847833" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="2" Date="" Piste="6">
+                            <Arbitre REF="828851" Role="P"/>
+                                          <Arbitre REF="-197980" Role="P"/>
+                                                                                    <Equipe REF="POLAND" Score="45" Statut="V"/>
+              <Equipe REF="POLAND 3" Score="36" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="841890" Score="5" />
+                <Tireur REF="841897" Score="4" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="844596" Score="10" />
+                <Tireur REF="846026" Score="7" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="846984" Score="15" />
+                <Tireur REF="-339972" Score="8" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="841890" Score="20" />
+                <Tireur REF="846026" Score="14" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="846984" Score="25" />
+                <Tireur REF="841897" Score="18" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="844596" Score="30" />
+                <Tireur REF="-339972" Score="21" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="846984" Score="35" />
+                <Tireur REF="846026" Score="30" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="841890" Score="40" />
+                <Tireur REF="-339972" Score="34" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="844596" Score="45" />
+                <Tireur REF="841897" Score="36" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="3" Date="" Piste="8">
+                            <Arbitre REF="798010" Role="P"/>
+                                          <Arbitre REF="840510" Role="P"/>
+                                                                                    <Equipe REF="POLAND 4" Score="27" Statut="D"/>
+              <Equipe REF="UNITED STATES OF AMERICA 2" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="841871" Score="4" />
+                <Tireur REF="845348" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="846211" Score="7" />
+                <Tireur REF="847878" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="841918" Score="8" />
+                <Tireur REF="847263" Score="15" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="846211" Score="13" />
+                <Tireur REF="845348" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="841871" Score="15" />
+                <Tireur REF="847263" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="841918" Score="17" />
+                <Tireur REF="847878" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="846211" Score="23" />
+                <Tireur REF="847263" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="841918" Score="25" />
+                <Tireur REF="845348" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="841871" Score="27" />
+                <Tireur REF="847878" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="4" Date="" Piste="10">
+                            <Arbitre REF="838943" Role="P"/>
+                                          <Arbitre REF="804885" Role="P"/>
+                                                                                    <Equipe REF="UNITED STATES OF AMERICA 3" Score="30" Statut="D"/>
+              <Equipe REF="GERMANY" Score="36" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="845375" Score="5" />
+                <Tireur REF="838790" Score="2" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="847313" Score="9" />
+                <Tireur REF="840419" Score="5" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="846227" Score="11" />
+                <Tireur REF="843334" Score="6" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="845375" Score="13" />
+                <Tireur REF="840419" Score="9" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="846227" Score="14" />
+                <Tireur REF="838790" Score="15" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="847313" Score="15" />
+                <Tireur REF="843334" Score="18" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="846227" Score="21" />
+                <Tireur REF="840419" Score="22" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="845375" Score="21" />
+                <Tireur REF="843334" Score="22" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="847313" Score="30" />
+                <Tireur REF="838790" Score="36" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="5" Date="" Piste="5">
+                            <Arbitre REF="-17557" Role="P"/>
+                                                                                                  <Equipe REF="FRANCE 1" Score="40" Statut="D"/>
+              <Equipe REF="SWITZERLAND 2" Score="43" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="849137" Score="0" />
+                <Tireur REF="845485" Score="0" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="715286" Score="2" />
+                <Tireur REF="844530" Score="3" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="716463" Score="6" />
+                <Tireur REF="842778" Score="9" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="849137" Score="12" />
+                <Tireur REF="844530" Score="16" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="716463" Score="15" />
+                <Tireur REF="845485" Score="20" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="715286" Score="21" />
+                <Tireur REF="842778" Score="24" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="716463" Score="24" />
+                <Tireur REF="844530" Score="29" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="849137" Score="32" />
+                <Tireur REF="842778" Score="39" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="715286" Score="40" />
+                <Tireur REF="845485" Score="43" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="6" Date="" Piste="7">
+                            <Arbitre REF="2270" Role="P"/>
+                                          <Arbitre REF="833549" Role="P"/>
+                                                                                    <Equipe REF="UNITED KINGDOM 3" Score="22" Statut="D"/>
+              <Equipe REF="UNITED STATES OF AMERICA" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="848300" Score="1" />
+                <Tireur REF="847264" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="842473" Score="5" />
+                <Tireur REF="843797" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="846756" Score="8" />
+                <Tireur REF="846317" Score="15" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="848300" Score="10" />
+                <Tireur REF="843797" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="846756" Score="15" />
+                <Tireur REF="847264" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="842473" Score="16" />
+                <Tireur REF="846317" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="846756" Score="18" />
+                <Tireur REF="843797" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="848300" Score="21" />
+                <Tireur REF="846317" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="842473" Score="22" />
+                <Tireur REF="847264" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="7" Date="" Piste="3">
+                            <Arbitre REF="2272" Role="P"/>
+                                          <Arbitre REF="691711" Role="P"/>
+                                                                                    <Equipe REF="FRANCE 2" Score="45" Statut="V"/>
+              <Equipe REF="UNITED KINGDOM 5" Score="38" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="844387" Score="5" />
+                <Tireur REF="848201" Score="1" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="-394028" Score="10" />
+                <Tireur REF="843254" Score="1" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="849168" Score="15" />
+                <Tireur REF="848302" Score="5" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="844387" Score="20" />
+                <Tireur REF="843254" Score="7" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="849168" Score="23" />
+                <Tireur REF="848201" Score="13" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="-394028" Score="28" />
+                <Tireur REF="848302" Score="19" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="849168" Score="28" />
+                <Tireur REF="843254" Score="19" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="844387" Score="37" />
+                <Tireur REF="848302" Score="30" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="-394028" Score="45" />
+                <Tireur REF="848201" Score="38" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="8" Date="" Piste="4">
+                            <Arbitre REF="-197457" Role="P"/>
+                                          <Arbitre REF="-198382" Role="P"/>
+                                                                                    <Equipe REF="UNITED STATES OF AMERICA 5" Score="35" Statut="D"/>
+              <Equipe REF="SWITZERLAND 1" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="849121" Score="2" />
+                <Tireur REF="846426" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="849120" Score="6" />
+                <Tireur REF="841679" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="849189" Score="9" />
+                <Tireur REF="842606" Score="15" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="849121" Score="9" />
+                <Tireur REF="841679" Score="15" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="849189" Score="13" />
+                <Tireur REF="846426" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="849120" Score="19" />
+                <Tireur REF="842606" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="849189" Score="25" />
+                <Tireur REF="841679" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="849121" Score="32" />
+                <Tireur REF="842606" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="849120" Score="35" />
+                <Tireur REF="846426" Score="45" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="A8" Titre="Tableau de 8" Taille="8"  DestinationDesElimines="SuiteTab_F">
+                                    <Match ID="1" Date="" Piste="1">
+                            <Arbitre REF="691711" Role="P"/>
+                                          <Arbitre REF="2498" Role="P"/>
+                                                                                    <Equipe REF="UNITED STATES OF AMERICA 4" Score="36" Statut="D"/>
+              <Equipe REF="POLAND" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="847833" Score="3" />
+                <Tireur REF="841890" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="847879" Score="6" />
+                <Tireur REF="844596" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="847828" Score="11" />
+                <Tireur REF="842864" Score="13" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="847879" Score="17" />
+                <Tireur REF="841890" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="847833" Score="21" />
+                <Tireur REF="842864" Score="23" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="847828" Score="25" />
+                <Tireur REF="844596" Score="28" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="847879" Score="28" />
+                <Tireur REF="842864" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="847828" Score="33" />
+                <Tireur REF="841890" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="847833" Score="36" />
+                <Tireur REF="844596" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="2" Date="" Piste="7">
+                            <Arbitre REF="833549" Role="P"/>
+                                          <Arbitre REF="2272" Role="P"/>
+                                                                                    <Equipe REF="UNITED STATES OF AMERICA 2" Score="45" Statut="V"/>
+              <Equipe REF="GERMANY" Score="39" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="845348" Score="5" />
+                <Tireur REF="838790" Score="4" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="847878" Score="10" />
+                <Tireur REF="840419" Score="8" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="847263" Score="11" />
+                <Tireur REF="843334" Score="10" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="845348" Score="13" />
+                <Tireur REF="840419" Score="16" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="847263" Score="17" />
+                <Tireur REF="838790" Score="17" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="847878" Score="21" />
+                <Tireur REF="843334" Score="21" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="847263" Score="26" />
+                <Tireur REF="840419" Score="23" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="845348" Score="39" />
+                <Tireur REF="843334" Score="28" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="847878" Score="45" />
+                <Tireur REF="838790" Score="39" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="3" Date="" Piste="9">
+                            <Arbitre REF="777918" Role="P"/>
+                                          <Arbitre REF="798010" Role="P"/>
+                                                                                    <Equipe REF="SWITZERLAND 2" Score="34" Statut="V"/>
+              <Equipe REF="UNITED STATES OF AMERICA" Score="33" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="844530" Score="4" />
+                <Tireur REF="846317" Score="3" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="845485" Score="4" />
+                <Tireur REF="847264" Score="3" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="842778" Score="8" />
+                <Tireur REF="843797" Score="7" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="845485" Score="15" />
+                <Tireur REF="846317" Score="12" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="844530" Score="19" />
+                <Tireur REF="843797" Score="14" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="842778" Score="23" />
+                <Tireur REF="847264" Score="22" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="845485" Score="28" />
+                <Tireur REF="843797" Score="24" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="842778" Score="29" />
+                <Tireur REF="846317" Score="29" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="844530" Score="34" />
+                <Tireur REF="847264" Score="33" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="4" Date="" Piste="4">
+                            <Arbitre REF="-198602" Role="P"/>
+                                          <Arbitre REF="828851" Role="P"/>
+                                                                                    <Equipe REF="FRANCE 2" Score="43" Statut="D"/>
+              <Equipe REF="SWITZERLAND 1" Score="44" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="844387" Score="2" />
+                <Tireur REF="846426" Score="3" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="-394028" Score="2" />
+                <Tireur REF="842606" Score="3" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="843780" Score="7" />
+                <Tireur REF="841679" Score="8" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="844387" Score="8" />
+                <Tireur REF="842606" Score="8" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="843780" Score="15" />
+                <Tireur REF="846426" Score="15" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="-394028" Score="19" />
+                <Tireur REF="841679" Score="16" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="843780" Score="23" />
+                <Tireur REF="842606" Score="17" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="844387" Score="33" />
+                <Tireur REF="841679" Score="31" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="-394028" Score="43" />
+                <Tireur REF="846426" Score="44" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="A4" Titre="Semi-Finale" Taille="4"  DestinationDesElimines="SuiteTab_H">
+                                    <Match ID="1" Date="" Piste="1">
+                            <Arbitre REF="751330" Role="P"/>
+                                          <Arbitre REF="-198382" Role="P"/>
+                                                                                    <Equipe REF="POLAND" Score="45" Statut="V"/>
+              <Equipe REF="UNITED STATES OF AMERICA 2" Score="33" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="844596" Score="2" />
+                <Tireur REF="845348" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="842864" Score="8" />
+                <Tireur REF="847878" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="841890" Score="9" />
+                <Tireur REF="847263" Score="14" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="842864" Score="15" />
+                <Tireur REF="845348" Score="18" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="844596" Score="22" />
+                <Tireur REF="847263" Score="20" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="841890" Score="30" />
+                <Tireur REF="847878" Score="26" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="842864" Score="32" />
+                <Tireur REF="847263" Score="27" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="841890" Score="40" />
+                <Tireur REF="845348" Score="31" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="844596" Score="45" />
+                <Tireur REF="847878" Score="33" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="2" Date="" Piste="10">
+                            <Arbitre REF="691711" Role="P"/>
+                                          <Arbitre REF="840510" Role="P"/>
+                                                                                    <Equipe REF="SWITZERLAND 2" Score="45" Statut="V"/>
+              <Equipe REF="SWITZERLAND 1" Score="34" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="844530" Score="2" />
+                <Tireur REF="841679" Score="0" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="842778" Score="9" />
+                <Tireur REF="846426" Score="3" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="845485" Score="14" />
+                <Tireur REF="842606" Score="10" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="842778" Score="19" />
+                <Tireur REF="841679" Score="16" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="844530" Score="25" />
+                <Tireur REF="842606" Score="20" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="845485" Score="30" />
+                <Tireur REF="846426" Score="24" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="842778" Score="35" />
+                <Tireur REF="842606" Score="30" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="845485" Score="40" />
+                <Tireur REF="841679" Score="32" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="844530" Score="45" />
+                <Tireur REF="846426" Score="34" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="A2" Titre="Finale" Taille="2"  DestinationDesElimines="">
+                                    <Match ID="1" Date="" Piste="10">
+                            <Arbitre REF="-198382" Role="P"/>
+                                          <Arbitre REF="691711" Role="P"/>
+                                                                                    <Equipe REF="POLAND" Score="45" Statut="V"/>
+              <Equipe REF="SWITZERLAND 2" Score="43" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="841890" Score="2" />
+                <Tireur REF="844530" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="844596" Score="9" />
+                <Tireur REF="845485" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="842864" Score="10" />
+                <Tireur REF="842778" Score="10" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="841890" Score="13" />
+                <Tireur REF="845485" Score="15" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="842864" Score="17" />
+                <Tireur REF="844530" Score="21" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="844596" Score="27" />
+                <Tireur REF="842778" Score="24" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="842864" Score="35" />
+                <Tireur REF="845485" Score="31" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="841890" Score="39" />
+                <Tireur REF="842778" Score="37" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="844596" Score="45" />
+                <Tireur REF="844530" Score="43" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                
+      </SuiteDeTableaux>
+                                                                  <SuiteDeTableaux ID="SuiteTab_B" Titre="Table 9-16" NbdeTableaux="3" ModusNo="51">
+                  <Tableau ID="B8" Titre="Table 9-16" Taille="8"  DestinationDesElimines="SuiteTab_C">
+                                    <Match ID="1" Date="" Piste="3">
+                            <Arbitre REF="751330" Role="P"/>
+                                          <Arbitre REF="840510" Role="P"/>
+                                                                                    <Equipe REF="ITALY" Score="38" Statut="D"/>
+              <Equipe REF="POLAND 3" Score="40" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="848933" Score="3" />
+                <Tireur REF="841897" Score="4" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="847266" Score="9" />
+                <Tireur REF="846026" Score="9" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="848955" Score="14" />
+                <Tireur REF="-339972" Score="15" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="848933" Score="16" />
+                <Tireur REF="846026" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="848955" Score="20" />
+                <Tireur REF="841897" Score="23" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="847266" Score="26" />
+                <Tireur REF="-339972" Score="29" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="848955" Score="26" />
+                <Tireur REF="846026" Score="29" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="848933" Score="31" />
+                <Tireur REF="-339972" Score="32" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="847266" Score="38" />
+                <Tireur REF="841897" Score="40" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="2" Date="" Piste="8">
+                            <Arbitre REF="-17557" Role="P"/>
+                                          <Arbitre REF="804885" Role="P"/>
+                                                                                    <Equipe REF="POLAND 4" Score="45" Statut="V"/>
+              <Equipe REF="UNITED STATES OF AMERICA 3" Score="44" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="841918" Score="5" />
+                <Tireur REF="847313" Score="1" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="841871" Score="10" />
+                <Tireur REF="846227" Score="3" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="846211" Score="13" />
+                <Tireur REF="845375" Score="8" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="841918" Score="15" />
+                <Tireur REF="846227" Score="14" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="846211" Score="25" />
+                <Tireur REF="847313" Score="21" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="841871" Score="26" />
+                <Tireur REF="845375" Score="26" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="846211" Score="33" />
+                <Tireur REF="846227" Score="29" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="841918" Score="40" />
+                <Tireur REF="845375" Score="36" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="841871" Score="45" />
+                <Tireur REF="847313" Score="44" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="3" Date="" Piste="6">
+                            <Arbitre REF="-197980" Role="P"/>
+                                          <Arbitre REF="-198382" Role="P"/>
+                                                                                    <Equipe REF="FRANCE 1" Score="45" Statut="V"/>
+              <Equipe REF="UNITED KINGDOM 3" Score="18" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="721771" Score="5" />
+                <Tireur REF="842473" Score="3" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="716463" Score="8" />
+                <Tireur REF="848300" Score="5" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="849137" Score="14" />
+                <Tireur REF="846756" Score="7" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="721771" Score="20" />
+                <Tireur REF="848300" Score="9" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="849137" Score="25" />
+                <Tireur REF="842473" Score="11" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="716463" Score="30" />
+                <Tireur REF="846756" Score="12" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="849137" Score="35" />
+                <Tireur REF="848300" Score="15" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="721771" Score="40" />
+                <Tireur REF="846756" Score="15" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="716463" Score="45" />
+                <Tireur REF="842473" Score="18" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="4" Date="" Piste="10">
+                                                                                                  <Equipe REF="UNITED KINGDOM 5" Score="0" Statut="D"/>
+              <Equipe REF="UNITED STATES OF AMERICA 5" Score="0" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="843254" Score="0" />
+                <Tireur REF="849189" Score="0" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="848201" Score="0" />
+                <Tireur REF="849120" Score="0" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="848302" Score="0" />
+                <Tireur REF="849121" Score="0" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="848201" Score="0" />
+                <Tireur REF="849189" Score="0" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="843254" Score="0" />
+                <Tireur REF="849121" Score="0" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="848302" Score="0" />
+                <Tireur REF="849120" Score="0" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="848201" Score="0" />
+                <Tireur REF="849121" Score="0" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="848302" Score="0" />
+                <Tireur REF="849189" Score="0" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="843254" Score="0" />
+                <Tireur REF="849120" Score="0" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="B4" Titre="Table 9-12" Taille="4"  DestinationDesElimines="SuiteTab_E">
+                                    <Match ID="1" Date="" Piste="7">
+                            <Arbitre REF="-198602" Role="P"/>
+                                          <Arbitre REF="-197980" Role="P"/>
+                                                                                    <Equipe REF="POLAND 3" Score="42" Statut="D"/>
+              <Equipe REF="POLAND 4" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="841897" Score="3" />
+                <Tireur REF="-339978" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="846026" Score="10" />
+                <Tireur REF="841918" Score="7" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="-339972" Score="14" />
+                <Tireur REF="846211" Score="10" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="846026" Score="19" />
+                <Tireur REF="-339978" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="841897" Score="24" />
+                <Tireur REF="846211" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="-339972" Score="29" />
+                <Tireur REF="841918" Score="29" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="846026" Score="35" />
+                <Tireur REF="846211" Score="34" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="-339972" Score="40" />
+                <Tireur REF="-339978" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="841897" Score="42" />
+                <Tireur REF="841918" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="2" Date="" Piste="3">
+                            <Arbitre REF="-17557" Role="P"/>
+                                          <Arbitre REF="835810" Role="P"/>
+                                                                                    <Equipe REF="FRANCE 1" Score="45" Statut="V"/>
+              <Equipe REF="UNITED STATES OF AMERICA 5" Score="25" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="721771" Score="5" />
+                <Tireur REF="849120" Score="3" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="715286" Score="10" />
+                <Tireur REF="849189" Score="8" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="849137" Score="15" />
+                <Tireur REF="849121" Score="13" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="721771" Score="20" />
+                <Tireur REF="849189" Score="14" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="849137" Score="25" />
+                <Tireur REF="849120" Score="16" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="715286" Score="30" />
+                <Tireur REF="849121" Score="21" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="849137" Score="35" />
+                <Tireur REF="849189" Score="22" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="721771" Score="40" />
+                <Tireur REF="849121" Score="23" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="715286" Score="45" />
+                <Tireur REF="849120" Score="25" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="B2" Titre="Place 9/10" Taille="2"  DestinationDesElimines="">
+                                    <Match ID="1" Date="" Piste="7">
+                            <Arbitre REF="-197980" Role="P"/>
+                                          <Arbitre REF="828851" Role="P"/>
+                                                                                    <Equipe REF="POLAND 4" Score="28" Statut="D"/>
+              <Equipe REF="FRANCE 1" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="841918" Score="5" />
+                <Tireur REF="716463" Score="2" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="846211" Score="6" />
+                <Tireur REF="721771" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="-339978" Score="11" />
+                <Tireur REF="849137" Score="13" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="846211" Score="15" />
+                <Tireur REF="716463" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="841918" Score="18" />
+                <Tireur REF="849137" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="-339978" Score="19" />
+                <Tireur REF="721771" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="846211" Score="19" />
+                <Tireur REF="849137" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="-339978" Score="21" />
+                <Tireur REF="716463" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="841918" Score="28" />
+                <Tireur REF="721771" Score="45" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                
+      </SuiteDeTableaux>
+                                                      <SuiteDeTableaux ID="SuiteTab_C" Titre="Table 13-16" NbdeTableaux="2" ModusNo="51">
+                  <Tableau ID="C4" Titre="Table 13-16" Taille="4"  DestinationDesElimines="SuiteTab_D">
+                                    <Match ID="1" Date="" Piste="8">
+                            <Arbitre REF="2498" Role="P"/>
+                                          <Arbitre REF="777918" Role="P"/>
+                                                                                    <Equipe REF="ITALY" Score="42" Statut="D"/>
+              <Equipe REF="UNITED STATES OF AMERICA 3" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="848933" Score="5" />
+                <Tireur REF="847313" Score="3" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="847266" Score="10" />
+                <Tireur REF="846227" Score="6" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="848955" Score="15" />
+                <Tireur REF="847908" Score="12" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="848933" Score="20" />
+                <Tireur REF="846227" Score="15" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="848955" Score="21" />
+                <Tireur REF="847313" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="847266" Score="24" />
+                <Tireur REF="847908" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="848955" Score="28" />
+                <Tireur REF="846227" Score="34" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="848933" Score="37" />
+                <Tireur REF="847908" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="847266" Score="42" />
+                <Tireur REF="847313" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="2" Date="" Piste="">
+                                                                                                  <Equipe REF="UNITED KINGDOM 3" Score="" Statut="V"/>
+              <Equipe REF="UNITED KINGDOM 5" Score="" Statut="D"/>             
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="C2" Titre="Place 13/14" Taille="2"  DestinationDesElimines="">
+                                    <Match ID="1" Date="" Piste="3">
+                            <Arbitre REF="2498" Role="P"/>
+                                                                                                  <Equipe REF="UNITED STATES OF AMERICA 3" Score="45" Statut="V"/>
+              <Equipe REF="UNITED KINGDOM 3" Score="36" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="847908" Score="5" />
+                <Tireur REF="842473" Score="3" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="847313" Score="10" />
+                <Tireur REF="848300" Score="6" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="846227" Score="13" />
+                <Tireur REF="846756" Score="6" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="847908" Score="15" />
+                <Tireur REF="848300" Score="9" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="846227" Score="16" />
+                <Tireur REF="842473" Score="12" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="847313" Score="24" />
+                <Tireur REF="846756" Score="17" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="846227" Score="29" />
+                <Tireur REF="848300" Score="21" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="847908" Score="35" />
+                <Tireur REF="846756" Score="27" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="847313" Score="45" />
+                <Tireur REF="842473" Score="36" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                
+      </SuiteDeTableaux>
+                                          <SuiteDeTableaux ID="SuiteTab_D" Titre="Place 15/16" NbdeTableaux="1" ModusNo="51">
+                  <Tableau ID="D2" Titre="Place 15/16" Taille="2"  DestinationDesElimines="">
+                                    <Match ID="1" Date="" Piste="">
+                                                                                                  <Equipe REF="ITALY" Score="" Statut="V"/>
+              <Equipe REF="UNITED KINGDOM 5" Score="" Statut="D"/>             
+                          </Match>           
+                                  </Tableau>
+                
+      </SuiteDeTableaux>
+                                          <SuiteDeTableaux ID="SuiteTab_E" Titre="Place 11/12" NbdeTableaux="1" ModusNo="51">
+                  <Tableau ID="E2" Titre="Place 11/12" Taille="2"  DestinationDesElimines="">
+                                    <Match ID="1" Date="" Piste="4">
+                            <Arbitre REF="833549" Role="P"/>
+                                          <Arbitre REF="798010" Role="P"/>
+                                                                                    <Equipe REF="POLAND 3" Score="33" Statut="D"/>
+              <Equipe REF="UNITED STATES OF AMERICA 5" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="846026" Score="4" />
+                <Tireur REF="849120" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="-339972" Score="6" />
+                <Tireur REF="849189" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="847325" Score="6" />
+                <Tireur REF="849121" Score="15" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="846026" Score="13" />
+                <Tireur REF="849189" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="847325" Score="17" />
+                <Tireur REF="849120" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="-339972" Score="20" />
+                <Tireur REF="849121" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="847325" Score="25" />
+                <Tireur REF="849189" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="846026" Score="29" />
+                <Tireur REF="849121" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="-339972" Score="33" />
+                <Tireur REF="849120" Score="45" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                
+      </SuiteDeTableaux>
+                                                      <SuiteDeTableaux ID="SuiteTab_F" Titre="Table 5-8" NbdeTableaux="2" ModusNo="51">
+                  <Tableau ID="F4" Titre="Table 5-8" Taille="4"  DestinationDesElimines="SuiteTab_G">
+                                    <Match ID="1" Date="" Piste="6">
+                            <Arbitre REF="2270" Role="P"/>
+                                          <Arbitre REF="833549" Role="P"/>
+                                                                                    <Equipe REF="UNITED STATES OF AMERICA 4" Score="29" Statut="D"/>
+              <Equipe REF="GERMANY" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="847828" Score="1" />
+                <Tireur REF="838790" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="847833" Score="3" />
+                <Tireur REF="841026" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="847879" Score="10" />
+                <Tireur REF="840419" Score="15" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="847828" Score="16" />
+                <Tireur REF="841026" Score="18" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="847879" Score="18" />
+                <Tireur REF="838790" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="847833" Score="20" />
+                <Tireur REF="840419" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="847879" Score="24" />
+                <Tireur REF="841026" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="847828" Score="26" />
+                <Tireur REF="840419" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="847833" Score="29" />
+                <Tireur REF="838790" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="2" Date="" Piste="4">
+                            <Arbitre REF="798010" Role="P"/>
+                                          <Arbitre REF="2272" Role="P"/>
+                                                                                    <Equipe REF="UNITED STATES OF AMERICA" Score="45" Statut="V"/>
+              <Equipe REF="FRANCE 2" Score="33" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="843797" Score="5" />
+                <Tireur REF="843780" Score="2" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="846317" Score="9" />
+                <Tireur REF="849168" Score="4" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="847774" Score="14" />
+                <Tireur REF="-394028" Score="11" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="843797" Score="20" />
+                <Tireur REF="849168" Score="13" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="847774" Score="25" />
+                <Tireur REF="843780" Score="20" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="846317" Score="30" />
+                <Tireur REF="-394028" Score="23" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="847774" Score="35" />
+                <Tireur REF="849168" Score="26" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="843797" Score="40" />
+                <Tireur REF="-394028" Score="32" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="846317" Score="45" />
+                <Tireur REF="843780" Score="33" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="F2" Titre="Place 5/6" Taille="2"  DestinationDesElimines="">
+                                    <Match ID="1" Date="" Piste="6">
+                            <Arbitre REF="2270" Role="P"/>
+                                          <Arbitre REF="777918" Role="P"/>
+                                                                                    <Equipe REF="GERMANY" Score="31" Statut="D"/>
+              <Equipe REF="UNITED STATES OF AMERICA" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="840419" Score="1" />
+                <Tireur REF="846317" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="838790" Score="3" />
+                <Tireur REF="847774" Score="9" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="841026" Score="6" />
+                <Tireur REF="843797" Score="15" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="840419" Score="10" />
+                <Tireur REF="847774" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="841026" Score="13" />
+                <Tireur REF="846317" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="838790" Score="21" />
+                <Tireur REF="843797" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="841026" Score="25" />
+                <Tireur REF="847774" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="840419" Score="29" />
+                <Tireur REF="843797" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="838790" Score="31" />
+                <Tireur REF="846317" Score="45" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                
+      </SuiteDeTableaux>
+                                          <SuiteDeTableaux ID="SuiteTab_G" Titre="Place 7/8" NbdeTableaux="1" ModusNo="51">
+                  <Tableau ID="G2" Titre="Place 7/8" Taille="2"  DestinationDesElimines="">
+                                    <Match ID="1" Date="" Piste="5">
+                            <Arbitre REF="751330" Role="P"/>
+                                          <Arbitre REF="2272" Role="P"/>
+                                                                                    <Equipe REF="UNITED STATES OF AMERICA 4" Score="26" Statut="D"/>
+              <Equipe REF="FRANCE 2" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="847833" Score="5" />
+                <Tireur REF="843780" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="847879" Score="9" />
+                <Tireur REF="-394028" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="847828" Score="11" />
+                <Tireur REF="849168" Score="14" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="847879" Score="12" />
+                <Tireur REF="843780" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="847833" Score="13" />
+                <Tireur REF="849168" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="847828" Score="19" />
+                <Tireur REF="-394028" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="847879" Score="21" />
+                <Tireur REF="849168" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="847828" Score="23" />
+                <Tireur REF="843780" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="847833" Score="26" />
+                <Tireur REF="-394028" Score="45" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                
+      </SuiteDeTableaux>
+                                          <SuiteDeTableaux ID="SuiteTab_H" Titre="Place 3/4" NbdeTableaux="1" ModusNo="51">
+                  <Tableau ID="H2" Titre="Place 3/4" Taille="2"  DestinationDesElimines="">
+                                    <Match ID="1" Date="" Piste="1">
+                            <Arbitre REF="-17557" Role="P"/>
+                                          <Arbitre REF="804885" Role="P"/>
+                                                                                    <Equipe REF="UNITED STATES OF AMERICA 2" Score="44" Statut="D"/>
+              <Equipe REF="SWITZERLAND 1" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="847878" Score="3" />
+                <Tireur REF="846426" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="846224" Score="6" />
+                <Tireur REF="841679" Score="7" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="845348" Score="15" />
+                <Tireur REF="842781" Score="11" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="846224" Score="18" />
+                <Tireur REF="846426" Score="19" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="847878" Score="25" />
+                <Tireur REF="842781" Score="24" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="845348" Score="30" />
+                <Tireur REF="841679" Score="29" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="846224" Score="35" />
+                <Tireur REF="842781" Score="32" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="845348" Score="40" />
+                <Tireur REF="846426" Score="37" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="847878" Score="44" />
+                <Tireur REF="841679" Score="45" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                
+      </SuiteDeTableaux>
+          </PhaseDeTableaux>
+    	</Phases>
+</CompetitionParEquipes> 

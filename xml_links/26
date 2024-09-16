@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE CompetitionParEquipes><CompetitionParEquipes Arme="E" Categorie="C" Date="19.09.2010" Domaine="I" Federation="tef" Sexe="M" TitreCourt="European Cadet Caircuit Team 1" TitreLong="European Cadet Caircuit Team">
+  <Equipes>
+    <Equipe Classement="3" Club="AFYON ESKRIM" ID="3" Ligue="AFY" Nation="TUR" Statut="N">
+      <Tireur Club="AFYON ESKRIM" DateNaissance="02.09.1994" ID="9" Ligue="AFY" Nation="TUR" Nom="ANIL" Prenom="Berkan" Sexe="M"/>
+      <Tireur Club="AFYON ESKRIM" DateNaissance="15.08.1994" ID="10" Ligue="AFY" Nation="TUR" Nom="ESER" Prenom="Lutfi" Sexe="M"/>
+      <Tireur Club="AFYON ESKRIM" DateNaissance="05.06.1994" ID="12" Ligue="AFY" Nation="TUR" Nom="KOSE" Prenom="Burak Can" Sexe="M"/>
+      <Tireur Club="AFYON ESKRIM" DateNaissance="02.06.1996" ID="11" Ligue="AFY" Nation="TUR" Nom="ODEVCI" Prenom="Hasan Berkant" Sexe="M"/>
+    </Equipe>
+    <Equipe Classement="5" Club="DEMIRSPOR" ID="4" Ligue="ESK" Nation="TUR" Statut="N">
+      <Tireur Club="DEMIRSPOR" DateNaissance="25.03.1994" ID="14" Ligue="ESK" Nation="TUR" Nom="DEMIR" Prenom="Ozden" Sexe="M"/>
+      <Tireur Club="DEMIRSPOR" DateNaissance="23.09.1994" ID="13" Ligue="ESK" Nation="TUR" Nom="HALAC" Prenom="Batuhan" Sexe="M"/>
+      <Tireur Club="DEMIRSPOR" DateNaissance="12.02.1996" ID="15" Ligue="ESK" Nation="TUR" Nom="KURULGAN" Prenom="Burak" Sexe="M"/>
+    </Equipe>
+    <Equipe Classement="2" Club="FC KUTAISI" ID="2" Ligue="GEO" Nation="GEO" Statut="N">
+      <Tireur Club="FC KUTAISI" DateNaissance="08.06.1994" ID="5" Ligue="GEO" Nation="GEO" Nom="AMBROLADZE" Sexe="M"/>
+      <Tireur Club="FC KUTAISI" DateNaissance="01.01.1995" ID="7" Ligue="GEO" Nation="GEO" Nom="MEMANISHVILI" Prenom="Tornike" Sexe="M"/>
+      <Tireur Club="FC KUTAISI" DateNaissance="13.11.1996" ID="6" Ligue="GEO" Nation="GEO" Nom="PHANTSKAVA" Prenom="Irakli" Sexe="M"/>
+      <Tireur Club="FC KUTAISI" DateNaissance="14.06.1994" ID="8" Ligue="GEO" Nation="GEO" Nom="PTSKIALDZE" Prenom="Levani" Sexe="M"/>
+    </Equipe>
+    <Equipe Classement="1" Club="ROMANIA" ID="1" Ligue="ROM" Nation="ROU" Statut="N">
+      <Tireur Club="ROMANIA" DateNaissance="10.05.1995" ID="2" Ligue="ROM" Nation="ROU" Nom="BLAGA" Prenom="Laviniu" Sexe="M"/>
+      <Tireur Club="ROMANIA" DateNaissance="06.06.1996" ID="3" Ligue="ROM" Nation="ROU" Nom="CONSTANTINESCU" Prenom="Ioan" Sexe="M"/>
+      <Tireur Club="ROMANIA" DateNaissance="16.02.1997" ID="4" Ligue="ROM" Nation="ROU" Nom="DABIJA" Prenom="Adrian" Sexe="M"/>
+      <Tireur Club="ROMANIA" DateNaissance="21.04.1994" ID="1" Ligue="ROM" Nation="ROU" Nom="LUPAS" Prenom="Daniel" Sexe="M"/>
+    </Equipe>
+    <Equipe Classement="4" Club="TED SK" ID="5" Ligue="IST" Nation="TUR" Statut="N">
+      <Tireur Club="TED SK" DateNaissance="04.07.1994" ID="19" Ligue="IST" Nation="TUR" Nom="CAGLIDIL" Prenom="Muhip" Sexe="M"/>
+      <Tireur Club="TED SK" DateNaissance="05.04.1995" ID="16" Ligue="IST" Nation="TUR" Nom="KATIRCI" Prenom="Gokberk" Sexe="M"/>
+      <Tireur Club="TED SK" DateNaissance="21.04.1997" ID="18" Ligue="IST" Nation="TUR" Nom="NUMANBAYRAKTAROGLU" Prenom="Ata" Sexe="M"/>
+    </Equipe>
+  </Equipes>
+  <Arbitres>
+  </Arbitres>
+  <Phases>
+    <PhaseDeTableaux ID="1" PhaseID="PhaseTableaux1">
+      <Equipe REF="1" RangFinal="1" RangInitial="1" Statut="N"/>
+      <Equipe REF="2" RangFinal="2" RangInitial="2" Statut="N"/>
+      <Equipe REF="3" RangFinal="3" RangInitial="3" Statut="N"/>
+      <Equipe REF="4" RangFinal="5" RangInitial="4" Statut="N"/>
+      <Equipe REF="5" RangFinal="4" RangInitial="5" Statut="N"/>
+      <SuiteDeTableaux ID="SuiteTab_A" NbDeTableaux="3" Titre="Direk eliminasyon">
+        <Tableau ID="A8" Taille="8" Titre="Ceyrek finaller">
+          <Match ID="2">
+            <Equipe REF="5" Score="45" Statut="V"/>
+            <Equipe REF="4" Score="42" Statut="D"/>
+            <Assaut ID="1">
+              <Tireur REF="19" Score="3"/>
+              <Tireur REF="14" Score="2"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="16" Score="8"/>
+              <Tireur REF="13" Score="10"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="18" Score="15"/>
+              <Tireur REF="15" Score="15"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="16" Score="19"/>
+              <Tireur REF="14" Score="19"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="19" Score="25"/>
+              <Tireur REF="15" Score="19"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="18" Score="30"/>
+              <Tireur REF="13" Score="26"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="16" Score="35"/>
+              <Tireur REF="15" Score="32"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="18" Score="40"/>
+              <Tireur REF="14" Score="35"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="19" Score="45"/>
+              <Tireur REF="13" Score="42"/>
+            </Assaut>
+          </Match>
+        </Tableau>
+        <Tableau DestinationDesElimines="SuiteTab_B" ID="A4" Taille="4" Titre="Yary finaller">
+          <Match ID="1">
+            <Equipe REF="1" Score="45" Statut="V"/>
+            <Equipe REF="5" Score="19" Statut="D"/>
+            <Assaut ID="1">
+              <Tireur REF="1" Score="5"/>
+              <Tireur REF="18" Score="0"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="4" Score="9"/>
+              <Tireur REF="19" Score="1"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="3" Score="12"/>
+              <Tireur REF="16" Score="3"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="4" Score="16"/>
+              <Tireur REF="18" Score="5"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="1" Score="25"/>
+              <Tireur REF="16" Score="6"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="3" Score="20"/>
+              <Tireur REF="19" Score="10"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="4" Score="35"/>
+              <Tireur REF="16" Score="14"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="3" Score="40"/>
+              <Tireur REF="18" Score="17"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="1" Score="45"/>
+              <Tireur REF="19" Score="19"/>
+            </Assaut>
+          </Match>
+          <Match ID="2">
+            <Equipe REF="3" Score="31" Statut="D"/>
+            <Equipe REF="2" Score="45" Statut="V"/>
+            <Assaut ID="1">
+              <Tireur REF="9" Score="5"/>
+              <Tireur REF="5" Score="2"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="11" Score="8"/>
+              <Tireur REF="6" Score="10"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="10" Score="10"/>
+              <Tireur REF="7" Score="15"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="11" Score="13"/>
+              <Tireur REF="5" Score="20"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="9" Score="21"/>
+              <Tireur REF="7" Score="25"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="10" Score="22"/>
+              <Tireur REF="6" Score="30"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="11" Score="26"/>
+              <Tireur REF="7" Score="35"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="10" Score="27"/>
+              <Tireur REF="5" Score="37"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="9" Score="31"/>
+              <Tireur REF="6" Score="45"/>
+            </Assaut>
+          </Match>
+        </Tableau>
+        <Tableau ID="A2" Taille="2" Titre="Final">
+          <Match ID="1">
+            <Equipe REF="1" Score="45" Statut="V"/>
+            <Equipe REF="2" Score="39" Statut="D"/>
+            <Assaut ID="1">
+              <Tireur REF="1" Score="3"/>
+              <Tireur REF="5" Score="3"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="4" Score="9"/>
+              <Tireur REF="6" Score="9"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="3" Score="15"/>
+              <Tireur REF="7" Score="13"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="4" Score="20"/>
+              <Tireur REF="5" Score="16"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="1" Score="25"/>
+              <Tireur REF="7" Score="21"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="3" Score="30"/>
+              <Tireur REF="6" Score="28"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="4" Score="35"/>
+              <Tireur REF="7" Score="33"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="3" Score="40"/>
+              <Tireur REF="5" Score="36"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="1" Score="45"/>
+              <Tireur REF="6" Score="39"/>
+            </Assaut>
+          </Match>
+        </Tableau>
+      </SuiteDeTableaux>
+      <SuiteDeTableaux ID="SuiteTab_B" NbDeTableaux="1" Titre="Ucunculuk macy">
+        <Tableau ID="B2" Taille="2" Titre="Ucunculuk">
+          <Match ID="1">
+            <Equipe REF="5" Score="31" Statut="D"/>
+            <Equipe REF="3" Score="45" Statut="V"/>
+            <Assaut ID="1">
+              <Tireur REF="19" Score="2"/>
+              <Tireur REF="10" Score="3"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="16" Score="9"/>
+              <Tireur REF="9" Score="3"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="18" Score="10"/>
+              <Tireur REF="12" Score="11"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="16" Score="16"/>
+              <Tireur REF="10" Score="19"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="19" Score="23"/>
+              <Tireur REF="12" Score="21"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="18" Score="24"/>
+              <Tireur REF="9" Score="30"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="16" Score="25"/>
+              <Tireur REF="12" Score="25"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="18" Score="30"/>
+              <Tireur REF="10" Score="40"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="19" Score="31"/>
+              <Tireur REF="9" Score="45"/>
+            </Assaut>
+          </Match>
+        </Tableau>
+      </SuiteDeTableaux>
+    </PhaseDeTableaux>
+  </Phases>
+</CompetitionParEquipes>

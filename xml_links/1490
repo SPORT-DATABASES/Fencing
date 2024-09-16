@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE CompetitionParEquipes><CompetitionParEquipes Domaine="I" Sexe="F" TitreCourt="CE FF 2016">
+  <Equipes>
+    <Equipe Classement="7" ID="1" Nation="GRE" Statut="N">
+      <Tireur ID="5" Nation="GRE" Nom="CHAITOGLOU" Prenom="Evangelia" Sexe="F"/>
+      <Tireur ID="6" Nation="GRE" Nom="CHALDAIOU" Prenom="Maria Eleni" Sexe="F"/>
+      <Tireur ID="8" Nation="GRE" Nom="KONTOCHRISTOPOULOU" Prenom="Aikaterini" Sexe="F"/>
+      <Tireur ID="9" Nation="GRE" Nom="PANTELI" Prenom="Efhtymia" Sexe="F"/>
+    </Equipe>
+    <Equipe Classement="2" ID="2" Nation="ROU" Statut="N">
+      <Tireur ID="17" Nation="ROU" Nom="BOLDOR" Prenom="Maria" Sexe="F"/>
+      <Tireur ID="18" Nation="ROU" Nom="CALUGAREANU" Prenom="Malina" Sexe="F"/>
+      <Tireur ID="19" Nation="ROU" Nom="SAVEANU" Prenom="Anca" Sexe="F"/>
+      <Tireur ID="20" Nation="ROU" Nom="UDREA" Prenom="Maria" Sexe="F"/>
+    </Equipe>
+    <Equipe Classement="4" ID="3" Nation="ROU" Statut="N">
+      <Tireur ID="21" Nation="ROU" Nom="BOLDOR" Prenom="Ana" Sexe="F"/>
+      <Tireur ID="22" Nation="ROU" Nom="MAGYAR" Prenom="Petra" Sexe="F"/>
+      <Tireur ID="23" Nation="ROU" Nom="SIRBU" Prenom="Teodora" Sexe="F"/>
+      <Tireur ID="24" Nation="ROU" Nom="VIRGA" Prenom="Laura" Sexe="F"/>
+    </Equipe>
+    <Equipe Classement="8" ID="4" Nation="BUL" Statut="N">
+      <Tireur ID="1" Nation="BUL" Nom="KOTSEVA" Prenom="Yordanka" Sexe="F"/>
+      <Tireur ID="2" Nation="BUL" Nom="MANOVA" Prenom="Byliana" Sexe="F"/>
+      <Tireur ID="3" Nation="BUL" Nom="NAIDENOVA" Prenom="Milena" Sexe="F"/>
+      <Tireur ID="4" Nation="BUL" Nom="SAVCHEVA" Prenom="Evelina" Sexe="F"/>
+    </Equipe>
+    <Equipe Classement="1" ID="5" Nation="ITA" Statut="N">
+      <Tireur ID="29" Nation="ITA" Nom="CALISSI" Prenom="Olga Rachele" Sexe="F"/>
+      <Tireur ID="30" Nation="ITA" Nom="ERBA" Prenom="Carolina" Sexe="F"/>
+      <Tireur ID="31" Nation="ITA" Nom="MANCINI" Prenom="Camilla" Sexe="F"/>
+      <Tireur ID="32" Nation="ITA" Nom="MONACO" Prenom="Beatrice" Sexe="F"/>
+    </Equipe>
+    <Equipe Classement="3" ID="6" Nation="ISR" Statut="N">
+      <Tireur ID="10" Nation="ISR" Nom="ALPATOV" Prenom="Avigail" Sexe="F"/>
+      <Tireur ID="11" Nation="ISR" Nom="DVORKIN" Prenom="Mary" Sexe="F"/>
+      <Tireur ID="12" Nation="ISR" Nom="HANINA" Prenom="Noa" Sexe="F"/>
+    </Equipe>
+    <Equipe Classement="6" ID="8" Nation="MDA" Statut="N">
+      <Tireur ID="13" Nation="MDA" Nom="CERES" Prenom="Anastasia" Sexe="F"/>
+      <Tireur ID="14" Nation="MDA" Nom="COZII" Prenom="Alexandra" Sexe="F"/>
+      <Tireur ID="15" Nation="MDA" Nom="DIDIC" Prenom="Svetlana" Sexe="F"/>
+      <Tireur ID="16" Nation="MDA" Nom="TURCAN" Prenom="Anastasia" Sexe="F"/>
+    </Equipe>
+    <Equipe Classement="5" ID="7" Nation="UKR" Statut="N">
+      <Tireur ID="25" Nation="UKR" Nom="CHENTSOVA" Prenom="Kateryna" Sexe="F"/>
+      <Tireur ID="26" Nation="UKR" Nom="LELEYKO" Prenom="Olga" Sexe="F"/>
+      <Tireur ID="27" Nation="UKR" Nom="SENYUTA" Prenom="Oleksandra" Sexe="F"/>
+      <Tireur ID="28" Nation="UKR" Nom="STANKEVYCH" Prenom="Olga" Sexe="F"/>
+    </Equipe>
+  </Equipes>
+  <Arbitres>
+  </Arbitres>
+  <Phases>
+    <PhaseDeTableaux ID="1" PhaseID="PhaseTableaux1">
+      <Equipe REF="2" RangFinal="2" RangInitial="1" Statut="N"/>
+      <Equipe REF="3" RangFinal="4" RangInitial="2" Statut="N"/>
+      <Equipe REF="5" RangFinal="1" RangInitial="3" Statut="N"/>
+      <Equipe REF="6" RangFinal="3" RangInitial="4" Statut="N"/>
+      <Equipe REF="8" RangFinal="6" RangInitial="5" Statut="N"/>
+      <Equipe REF="7" RangFinal="5" RangInitial="6" Statut="N"/>
+      <Equipe REF="1" RangFinal="7" RangInitial="7" Statut="N"/>
+      <Equipe REF="4" RangFinal="8" RangInitial="8" Statut="N"/>
+      <SuiteDeTableaux ID="SuiteTab_A" NbDeTableaux="3" Titre="Tableau principal">
+        <Tableau DestinationDesElimines="SuiteTab_F" ID="A8" Taille="8" Titre="Quarter-finals">
+          <Match ID="1">
+            <Equipe REF="2" Score="45" Statut="V"/>
+            <Equipe REF="4" Score="14" Statut="D"/>
+            <Assaut ID="1">
+              <Tireur REF="4" Score="1"/>
+              <Tireur REF="18" Score="5"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="2" Score="1"/>
+              <Tireur REF="17" Score="10"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="1" Score="6"/>
+              <Tireur REF="19" Score="15"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="2" Score="6"/>
+              <Tireur REF="18" Score="20"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="4" Score="10"/>
+              <Tireur REF="19" Score="25"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="1" Score="11"/>
+              <Tireur REF="17" Score="30"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="3" Score="11"/>
+              <Tireur REF="19" Score="35"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="1" Score="14"/>
+              <Tireur REF="18" Score="40"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="4" Score="14"/>
+              <Tireur REF="17" Score="45"/>
+            </Assaut>
+          </Match>
+          <Match ID="2">
+            <Equipe REF="8" Score="33" Statut="D"/>
+            <Equipe REF="6" Score="45" Statut="V"/>
+            <Assaut ID="1">
+              <Tireur REF="12" Score="5"/>
+              <Tireur REF="15" Score="0"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="10" Score="6"/>
+              <Tireur REF="13" Score="10"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="11" Score="15"/>
+              <Tireur REF="16" Score="13"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="10" Score="18"/>
+              <Tireur REF="15" Score="20"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="12" Score="23"/>
+              <Tireur REF="16" Score="24"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="11" Score="30"/>
+              <Tireur REF="13" Score="25"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="10" Score="35"/>
+              <Tireur REF="16" Score="30"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="11" Score="40"/>
+              <Tireur REF="15" Score="32"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="12" Score="45"/>
+              <Tireur REF="13" Score="33"/>
+            </Assaut>
+          </Match>
+          <Match ID="3">
+            <Equipe REF="5" Score="45" Statut="V"/>
+            <Equipe REF="7" Score="30" Statut="D"/>
+            <Assaut ID="1">
+              <Tireur REF="25" Score="5"/>
+              <Tireur REF="32" Score="0"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="27" Score="8"/>
+              <Tireur REF="30" Score="10"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="26" Score="12"/>
+              <Tireur REF="31" Score="15"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="27" Score="14"/>
+              <Tireur REF="32" Score="20"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="25" Score="17"/>
+              <Tireur REF="31" Score="25"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="26" Score="20"/>
+              <Tireur REF="30" Score="28"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="28" Score="22"/>
+              <Tireur REF="31" Score="35"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="26" Score="29"/>
+              <Tireur REF="32" Score="37"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="25" Score="30"/>
+              <Tireur REF="30" Score="45"/>
+            </Assaut>
+          </Match>
+          <Match ID="4">
+            <Equipe REF="1" Score="38" Statut="D"/>
+            <Equipe REF="3" Score="43" Statut="V"/>
+            <Assaut ID="1">
+              <Tireur REF="8" Score="4"/>
+              <Tireur REF="22" Score="5"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="5" Score="8"/>
+              <Tireur REF="21" Score="10"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="6" Score="11"/>
+              <Tireur REF="24" Score="15"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="5" Score="15"/>
+              <Tireur REF="22" Score="20"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="8" Score="21"/>
+              <Tireur REF="24" Score="25"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="6" Score="25"/>
+              <Tireur REF="21" Score="26"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="5" Score="28"/>
+              <Tireur REF="24" Score="31"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="6" Score="30"/>
+              <Tireur REF="22" Score="39"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="8" Score="38"/>
+              <Tireur REF="21" Score="43"/>
+            </Assaut>
+          </Match>
+        </Tableau>
+        <Tableau DestinationDesElimines="SuiteTab_H" ID="A4" Taille="4" Titre="Semi-finals">
+          <Match ID="1">
+            <Equipe REF="2" Score="45" Statut="V"/>
+            <Equipe REF="6" Score="34" Statut="D"/>
+            <Assaut ID="1">
+              <Tireur REF="18" Score="3"/>
+              <Tireur REF="11" Score="2"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="17" Score="9"/>
+              <Tireur REF="12" Score="6"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="20" Score="15"/>
+              <Tireur REF="10" Score="6"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="17" Score="15"/>
+              <Tireur REF="11" Score="10"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="18" Score="23"/>
+              <Tireur REF="10" Score="15"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="20" Score="25"/>
+              <Tireur REF="12" Score="19"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="17" Score="30"/>
+              <Tireur REF="10" Score="27"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="20" Score="34"/>
+              <Tireur REF="11" Score="30"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="18" Score="45"/>
+              <Tireur REF="12" Score="34"/>
+            </Assaut>
+          </Match>
+          <Match ID="2">
+            <Equipe REF="5" Score="45" Statut="V"/>
+            <Equipe REF="3" Score="28" Statut="D"/>
+            <Assaut ID="1">
+              <Tireur REF="30" Score="5"/>
+              <Tireur REF="22" Score="4"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="29" Score="5"/>
+              <Tireur REF="21" Score="10"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="31" Score="15"/>
+              <Tireur REF="24" Score="10"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="29" Score="20"/>
+              <Tireur REF="22" Score="10"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="30" Score="25"/>
+              <Tireur REF="24" Score="13"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="31" Score="30"/>
+              <Tireur REF="21" Score="18"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="29" Score="35"/>
+              <Tireur REF="23" Score="19"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="31" Score="40"/>
+              <Tireur REF="22" Score="25"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="30" Score="45"/>
+              <Tireur REF="21" Score="28"/>
+            </Assaut>
+          </Match>
+        </Tableau>
+        <Tableau ID="A2" Taille="2" Titre="Final">
+          <Match ID="1">
+            <Equipe REF="2" Score="25" Statut="D"/>
+            <Equipe REF="5" Score="45" Statut="V"/>
+            <Assaut ID="1">
+              <Tireur REF="30" Score="3"/>
+              <Tireur REF="17" Score="4"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="29" Score="4"/>
+              <Tireur REF="18" Score="10"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="31" Score="14"/>
+              <Tireur REF="20" Score="14"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="29" Score="20"/>
+              <Tireur REF="17" Score="15"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="30" Score="20"/>
+              <Tireur REF="20" Score="16"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="31" Score="30"/>
+              <Tireur REF="18" Score="21"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="29" Score="35"/>
+              <Tireur REF="20" Score="22"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="31" Score="40"/>
+              <Tireur REF="17" Score="25"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="30" Score="45"/>
+              <Tireur REF="18" Score="25"/>
+            </Assaut>
+          </Match>
+        </Tableau>
+      </SuiteDeTableaux>
+      <SuiteDeTableaux ID="SuiteTab_B" NbDeTableaux="3" Titre="Tableau pour la 9e place">
+        <Tableau DestinationDesElimines="SuiteTab_C" ID="B8" Taille="8" Titre="Tableau 9-16 de 8">
+        </Tableau>
+        <Tableau DestinationDesElimines="SuiteTab_E" ID="B4" Taille="4" Titre="Tableau 9-16 de 4">
+        </Tableau>
+        <Tableau ID="B2" Taille="2" Titre="9e place">
+        </Tableau>
+      </SuiteDeTableaux>
+      <SuiteDeTableaux ID="SuiteTab_C" NbDeTableaux="2" Titre="Tableau pour la 13e place">
+        <Tableau DestinationDesElimines="SuiteTab_D" ID="C4" Taille="4" Titre="Tableau 13-16 de 4">
+        </Tableau>
+        <Tableau ID="C2" Taille="2" Titre="13e place">
+        </Tableau>
+      </SuiteDeTableaux>
+      <SuiteDeTableaux ID="SuiteTab_D" NbDeTableaux="1" Titre="Match pour la 15e place">
+        <Tableau ID="D2" Taille="2" Titre="15e place">
+        </Tableau>
+      </SuiteDeTableaux>
+      <SuiteDeTableaux ID="SuiteTab_E" NbDeTableaux="1" Titre="Match pour la 11e place">
+        <Tableau ID="E2" Taille="2" Titre="11e place">
+        </Tableau>
+      </SuiteDeTableaux>
+      <SuiteDeTableaux ID="SuiteTab_F" NbDeTableaux="2" Titre="Tableau pour la 5e place">
+        <Tableau DestinationDesElimines="SuiteTab_G" ID="F4" Taille="4" Titre="Tableau 5-8 de 4">
+          <Match ID="1">
+            <Equipe REF="4" Score="40" Statut="D"/>
+            <Equipe REF="8" Score="45" Statut="V"/>
+            <Assaut ID="1">
+              <Tireur REF="4" Score="1"/>
+              <Tireur REF="16" Score="5"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="3" Score="5"/>
+              <Tireur REF="13" Score="10"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="1" Score="10"/>
+              <Tireur REF="14" Score="13"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="3" Score="15"/>
+              <Tireur REF="16" Score="17"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="4" Score="20"/>
+              <Tireur REF="14" Score="20"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="1" Score="29"/>
+              <Tireur REF="13" Score="24"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="3" Score="35"/>
+              <Tireur REF="15" Score="33"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="1" Score="37"/>
+              <Tireur REF="16" Score="40"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="4" Score="40"/>
+              <Tireur REF="13" Score="45"/>
+            </Assaut>
+          </Match>
+          <Match ID="2">
+            <Equipe REF="7" Score="44" Statut="V"/>
+            <Equipe REF="1" Score="36" Statut="D"/>
+            <Assaut ID="1">
+              <Tireur REF="25" Score="2"/>
+              <Tireur REF="6" Score="5"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="28" Score="3"/>
+              <Tireur REF="8" Score="10"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="26" Score="9"/>
+              <Tireur REF="9" Score="10"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="28" Score="14"/>
+              <Tireur REF="6" Score="15"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="25" Score="20"/>
+              <Tireur REF="5" Score="21"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="26" Score="24"/>
+              <Tireur REF="8" Score="24"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="28" Score="35"/>
+              <Tireur REF="5" Score="30"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="26" Score="35"/>
+              <Tireur REF="6" Score="31"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="25" Score="44"/>
+              <Tireur REF="8" Score="36"/>
+            </Assaut>
+          </Match>
+        </Tableau>
+        <Tableau ID="F2" Taille="2" Titre="5e place">
+          <Match ID="1">
+            <Equipe REF="8" Score="21" Statut="D"/>
+            <Equipe REF="7" Score="45" Statut="V"/>
+            <Assaut ID="1">
+              <Tireur REF="25" Score="5"/>
+              <Tireur REF="16" Score="3"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="28" Score="10"/>
+              <Tireur REF="13" Score="4"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="27" Score="15"/>
+              <Tireur REF="15" Score="4"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="28" Score="20"/>
+              <Tireur REF="16" Score="7"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="25" Score="22"/>
+              <Tireur REF="15" Score="10"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="27" Score="29"/>
+              <Tireur REF="13" Score="12"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="28" Score="35"/>
+              <Tireur REF="15" Score="15"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="27" Score="40"/>
+              <Tireur REF="16" Score="17"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="25" Score="45"/>
+              <Tireur REF="13" Score="21"/>
+            </Assaut>
+          </Match>
+        </Tableau>
+      </SuiteDeTableaux>
+      <SuiteDeTableaux ID="SuiteTab_G" NbDeTableaux="1" Titre="Match pour la 7e place">
+        <Tableau ID="G2" Taille="2" Titre="7e place">
+          <Match ID="1">
+            <Equipe REF="4" Score="12" Statut="D"/>
+            <Equipe REF="1" Score="45" Statut="V"/>
+            <Assaut ID="1">
+              <Tireur REF="1" Score="2"/>
+              <Tireur REF="9" Score="5"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="2" Score="2"/>
+              <Tireur REF="6" Score="10"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="3" Score="4"/>
+              <Tireur REF="5" Score="15"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="2" Score="6"/>
+              <Tireur REF="9" Score="19"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="1" Score="7"/>
+              <Tireur REF="5" Score="25"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="3" Score="11"/>
+              <Tireur REF="6" Score="30"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="2" Score="12"/>
+              <Tireur REF="5" Score="35"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="3" Score="12"/>
+              <Tireur REF="9" Score="40"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="4" Score="12"/>
+              <Tireur REF="8" Score="45"/>
+            </Assaut>
+          </Match>
+        </Tableau>
+      </SuiteDeTableaux>
+      <SuiteDeTableaux ID="SuiteTab_H" NbDeTableaux="1" Titre="Match pour la 3e place">
+        <Tableau ID="H2" Taille="2" Titre="Third place">
+          <Match ID="1">
+            <Equipe REF="6" Score="45" Statut="V"/>
+            <Equipe REF="3" Score="41" Statut="D"/>
+            <Assaut ID="1">
+              <Tireur REF="21" Score="5"/>
+              <Tireur REF="11" Score="4"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="23" Score="8"/>
+              <Tireur REF="12" Score="8"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="22" Score="15"/>
+              <Tireur REF="10" Score="11"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="23" Score="19"/>
+              <Tireur REF="11" Score="16"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="21" Score="24"/>
+              <Tireur REF="10" Score="22"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="22" Score="30"/>
+              <Tireur REF="12" Score="28"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="23" Score="35"/>
+              <Tireur REF="10" Score="30"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="22" Score="37"/>
+              <Tireur REF="11" Score="38"/>
+            </Assaut>
+            <Assaut ID="9">
+              <Tireur REF="21" Score="41"/>
+              <Tireur REF="12" Score="45"/>
+            </Assaut>
+          </Match>
+        </Tableau>
+      </SuiteDeTableaux>
+    </PhaseDeTableaux>
+  </Phases>
+</CompetitionParEquipes>

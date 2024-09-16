@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE CompetitionParEquipes><CompetitionParEquipes Annee="2013/2014" Arme="F" Categorie="U-23" Championnat="EFC" Date="27.06.2014" Domaine="I" Federation="GEO" ID="489" Organisateur="" Sexe="F" TitreCourt="2014-06-27-WFT" TitreLong="TEAM U23 European Championships">
+  <Equipes>
+    <Equipe Classement="4" Club="" ID="9" Ligue="" Nation="GEO" Statut="N">
+      <Tireur Classement="6" Club="" DateNaissance="24.08.1996" ID="0" Licence="00727903" Ligue="" Nation="GEO" Nom="GOGLIDZE" Prenom="Teona" Sexe="F" Statut="N"/>
+      <Tireur Classement="18" Club="" DateNaissance="17.07.1999" ID="1" Licence="00835300" Ligue="" Nation="GEO" Nom="TSUKHISHVILI" Prenom="Mariami" Sexe="F" Statut="N"/>
+      <Tireur Classement="19" Club="" DateNaissance="09.02.1999" ID="2" Licence="00837704" Ligue="" Nation="GEO" Nom="MELIA" Prenom="Ana" Sexe="F" Statut="N"/>
+      <Tireur Classement="20" Club="" DateNaissance="30.09.1999" ID="3" Licence="00837705" Ligue="" Nation="GEO" Nom="JIJIEISHVILI" Prenom="Lika" Sexe="F" Statut="N"/>
+    </Equipe>
+    <Equipe Classement="3" Club="" ID="10" Ligue="" Nation="ITA" Statut="N">
+      <Tireur Classement="5" Club="" DateNaissance="15.04.1992" ID="4" Licence="00001841" Ligue="" Nation="ITA" Nom="VOLPI" Prenom="Alice" Sexe="F" Statut="N"/>
+      <Tireur Classement="11" Club="" DateNaissance="10.02.1994" ID="5" Licence="00002054" Ligue="" Nation="ITA" Nom="PALUMBO" Prenom="Francesca" Sexe="F" Statut="N"/>
+      <Tireur Classement="14" Club="" DateNaissance="10.06.1994" ID="6" Licence="00001313" Ligue="" Nation="ITA" Nom="MANCINI" Prenom="Camilla" Sexe="F" Statut="N"/>
+      <Tireur Classement="15" Club="" DateNaissance="23.01.1992" ID="7" Licence="00000897" Ligue="" Nation="ITA" Nom="MONACO" Prenom="Beatrice" Sexe="F" Statut="N"/>
+    </Equipe>
+    <Equipe Classement="2" Club="" ID="11" Ligue="" Nation="POL" Statut="N">
+      <Tireur Classement="1" Club="" DateNaissance="05.05.1992" ID="8" Licence="00001056" Ligue="" Nation="POL" Nom="JELINSKA" Prenom="Martyna" Sexe="F" Statut="N"/>
+      <Tireur Classement="3" Club="" DateNaissance="07.11.1995" ID="9" Licence="00003925" Ligue="" Nation="POL" Nom="CHRZANOWSKA" Prenom="Marika" Sexe="F" Statut="N"/>
+      <Tireur Classement="8" Club="" DateNaissance="29.07.1996" ID="10" Licence="00002265" Ligue="" Nation="POL" Nom="DLUGOSZ" Prenom="Martyna" Sexe="F" Statut="N"/>
+      <Tireur Classement="12" Club="" DateNaissance="22.08.1997" ID="11" Licence="00003326" Ligue="" Nation="POL" Nom="SZYMCZAK" Prenom="Anna" Sexe="F" Statut="N"/>
+    </Equipe>
+    <Equipe Classement="1" Club="" ID="12" Ligue="" Nation="RUS" Statut="N">
+      <Tireur Classement="2" Club="" DateNaissance="13.01.1993" ID="12" Licence="00003361" Ligue="" Nation="RUS" Nom="ZAGIDULLINA" Prenom="Adelina" Sexe="F" Statut="N"/>
+      <Tireur Classement="7" Club="" DateNaissance="19.02.1994" ID="13" Licence="00003365" Ligue="" Nation="RUS" Nom="TRIPAPINA" Prenom="Svetlana" Sexe="F" Statut="N"/>
+      <Tireur Classement="9" Club="" DateNaissance="22.02.1991" ID="14" Licence="00690293" Ligue="" Nation="RUS" Nom="ELESINA" Prenom="Irina" Sexe="F" Statut="N"/>
+      <Tireur Classement="10" Club="" DateNaissance="22.06.1993" ID="15" Licence="00002395" Ligue="" Nation="RUS" Nom="PIRIEVA" Prenom="Leyla" Sexe="F" Statut="N"/>
+    </Equipe>
+  </Equipes>
+  <Arbitres>
+    <Arbitre Categorie="B" DateNaissance="26.02.1971" ID="0" Licence="00739214" Ligue="" Nation="MDA" Nom="COJOCARI" Prenom="Olga" Sexe="M"/>
+    <Arbitre Categorie="B" DateNaissance="09.02.1975" ID="1" Licence="00690501" Ligue="" Nation="SVK" Nom="KRALIK" Prenom="David" Sexe="M"/>
+    <Arbitre Categorie="B" DateNaissance="24.03.1971" ID="2" Licence="24031971000" Ligue="" Nation="TUR" Nom="PALABIYIK" Prenom="Cihan" Sexe="M"/>
+    <Arbitre Categorie="B" DateNaissance="23.09.1982" ID="3" Licence="00690393" Ligue="" Nation="RUS" Nom="ROUZAVINA" Prenom="Ianna" Sexe="F"/>
+    <Arbitre Categorie="A" DateNaissance="01.01.1900" ID="4" Licence="00828946" Ligue="" Nation="IRI" Nom="VESALI" Prenom="Ali Reza" Sexe="F"/>
+    <Arbitre Categorie="B" DateNaissance="01.01.1900" ID="5" Licence="00829177" Ligue="" Nation="KAZ" Nom="DYAOKOKIN" Prenom="Yevgeniy" Sexe="F"/>
+  </Arbitres>
+  <Phases>
+    <PhaseDeTableaux ID="1" PhaseID="PhaseTableaux-1">
+      <SuiteDeTableaux ID="SuiteTab_A" NbDeTableaux="2" Titre="Tableau principal">
+        <Tableau DestinationDesElimines="SuiteTab_B" ID="A4" Taille="4" Titre="Semi-finals">
+          <Match Date="01.01.2014 11:00" ID="1" Piste="yellow">
+            <Arbitre REF="2"/>
+            <Arbitre REF="3"/>
+            <Equipe REF="11" Score="45" Statut="V"/>
+            <Equipe REF="9" Score="17" Statut="D"/>
+            <Assaut ID="0">
+              <Tireur REF="9" Score="3"/>
+              <Tireur REF="0" Score="5"/>
+            </Assaut>
+            <Assaut ID="1">
+              <Tireur REF="8" Score="3"/>
+              <Tireur REF="3" Score="10"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="10" Score="4"/>
+              <Tireur REF="1" Score="15"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="9" Score="7"/>
+              <Tireur REF="2" Score="20"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="10" Score="7"/>
+              <Tireur REF="0" Score="25"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="8" Score="8"/>
+              <Tireur REF="1" Score="30"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="11" Score="13"/>
+              <Tireur REF="2" Score="35"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="9" Score="15"/>
+              <Tireur REF="1" Score="40"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="8" Score="17"/>
+              <Tireur REF="0" Score="45"/>
+            </Assaut>
+          </Match>
+          <Match Date="01.01.2014 11:00" ID="2" Piste="green">
+            <Arbitre REF="0"/>
+            <Arbitre REF="1"/>
+            <Equipe REF="10" Score="41" Statut="D"/>
+            <Equipe REF="12" Score="45" Statut="V"/>
+            <Assaut ID="0">
+              <Tireur REF="6" Score="5"/>
+              <Tireur REF="12" Score="2"/>
+            </Assaut>
+            <Assaut ID="1">
+              <Tireur REF="4" Score="10"/>
+              <Tireur REF="15" Score="8"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="5" Score="15"/>
+              <Tireur REF="13" Score="8"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="6" Score="20"/>
+              <Tireur REF="15" Score="15"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="7" Score="25"/>
+              <Tireur REF="12" Score="17"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="4" Score="30"/>
+              <Tireur REF="13" Score="21"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="7" Score="35"/>
+              <Tireur REF="15" Score="26"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="6" Score="40"/>
+              <Tireur REF="13" Score="37"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="4" Score="45"/>
+              <Tireur REF="12" Score="41"/>
+            </Assaut>
+          </Match>
+        </Tableau>
+        <Tableau ID="A2" Taille="2" Titre="Final">
+          <Match Date="01.01.2014 16:20" ID="1" Piste="podium">
+            <Arbitre REF="0"/>
+            <Arbitre REF="2"/>
+            <Arbitre REF="1"/>
+            <Arbitre REF="4"/>
+            <Equipe REF="11" Score="27" Statut="D"/>
+            <Equipe REF="12" Score="45" Statut="V"/>
+            <Assaut ID="0">
+              <Tireur REF="8" Score="2"/>
+              <Tireur REF="13" Score="3"/>
+            </Assaut>
+            <Assaut ID="1">
+              <Tireur REF="10" Score="3"/>
+              <Tireur REF="12" Score="10"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="9" Score="4"/>
+              <Tireur REF="15" Score="15"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="11" Score="11"/>
+              <Tireur REF="14" Score="20"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="8" Score="15"/>
+              <Tireur REF="15" Score="25"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="9" Score="19"/>
+              <Tireur REF="12" Score="30"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="11" Score="22"/>
+              <Tireur REF="15" Score="35"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="9" Score="26"/>
+              <Tireur REF="14" Score="40"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="8" Score="27"/>
+              <Tireur REF="12" Score="45"/>
+            </Assaut>
+          </Match>
+        </Tableau>
+      </SuiteDeTableaux>
+      <SuiteDeTableaux ID="SuiteTab_B" NbDeTableaux="1" Titre="Match pour la 3e place">
+        <Tableau ID="B2" Taille="1" Titre="Match pour la 3e place">
+          <Match Date="01.01.2014 13:40" ID="1" Piste="podium">
+            <Arbitre REF="1"/>
+            <Arbitre REF="3"/>
+            <Arbitre REF="0"/>
+            <Arbitre REF="5"/>
+            <Equipe REF="9" Score="20" Statut="D"/>
+            <Equipe REF="10" Score="45" Statut="V"/>
+            <Assaut ID="0">
+              <Tireur REF="0" Score="2"/>
+              <Tireur REF="6" Score="5"/>
+            </Assaut>
+            <Assaut ID="1">
+              <Tireur REF="2" Score="3"/>
+              <Tireur REF="4" Score="10"/>
+            </Assaut>
+            <Assaut ID="2">
+              <Tireur REF="1" Score="7"/>
+              <Tireur REF="5" Score="15"/>
+            </Assaut>
+            <Assaut ID="3">
+              <Tireur REF="2" Score="8"/>
+              <Tireur REF="7" Score="20"/>
+            </Assaut>
+            <Assaut ID="4">
+              <Tireur REF="0" Score="9"/>
+              <Tireur REF="5" Score="25"/>
+            </Assaut>
+            <Assaut ID="5">
+              <Tireur REF="1" Score="14"/>
+              <Tireur REF="4" Score="30"/>
+            </Assaut>
+            <Assaut ID="6">
+              <Tireur REF="3" Score="16"/>
+              <Tireur REF="5" Score="35"/>
+            </Assaut>
+            <Assaut ID="7">
+              <Tireur REF="1" Score="17"/>
+              <Tireur REF="7" Score="40"/>
+            </Assaut>
+            <Assaut ID="8">
+              <Tireur REF="0" Score="20"/>
+              <Tireur REF="4" Score="45"/>
+            </Assaut>
+          </Match>
+        </Tableau>
+      </SuiteDeTableaux>
+    </PhaseDeTableaux>
+  </Phases>
+</CompetitionParEquipes>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE Competition><CompetitionParEquipes Annee="2015/2016" Arme="E" Category="U" Championnat="OphardtTeamSportevent" Class="" Date="11.10.2015" DateFichierXML="11.10.2015 15:40:06" Domaine="" ID="315" Sexe="F" TitreCourt="Cadet Circuit" Titrelong="Cadet Circuit" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Equipes>
+<Equipe Classement="2" Club="" ID="ESTONIA" Ligue="" Nation="EST" Ophardt_ID="15814" Statut="N">
+    <Tireur Club="Tallinna Mook" DateNaissance="14.12.2000" ID="835173" Lateralite="R" Licence="" Ligue="" Nation="EST" Nom="LOIT" Ophardt_ID="320148" Prenom="Karoliine" Sexe="F"/>
+    <Tireur Club="Tallinna Mook" DateNaissance="16.02.2001" ID="837962" Lateralite="L" Licence="" Ligue="" Nation="EST" Nom="SKOBLOV" Ophardt_ID="344222" Prenom="Sandra" Sexe="F"/>
+    <Tireur Club="Tallinna Mook" DateNaissance="12.08.1999" ID="837966" Lateralite="R" Licence="" Ligue="" Nation="EST" Nom="TALEN" Ophardt_ID="344225" Prenom="Andra" Sexe="F"/>
+  </Equipe>
+<Equipe Classement="3" Club="" ID="FRANCE" Ligue="" Nation="FRA" Ophardt_ID="15817" Statut="N">
+    <Tireur Club="ST PAUL 3CHA" DateNaissance="12.08.2000" ID="708871" Lateralite="R" Licence="" Ligue="08" Nation="FRA" Nom="DEKNUYT" Ophardt_ID="98304" Prenom="Perine" Sexe="F"/>
+    <Tireur Club="GRENOBLE PAR" DateNaissance="11.06.2000" ID="780403" Lateralite="R" Licence="" Ligue="08" Nation="FRA" Nom="VILLARD" Ophardt_ID="168225" Prenom="Louise-Amelie" Sexe="F"/>
+    <Tireur Club="GRENOBLE PAR" DateNaissance="12.11.1999" ID="780406" Lateralite="R" Licence="" Ligue="08" Nation="FRA" Nom="BAYRAM" Ophardt_ID="168228" Prenom="Aliya" Sexe="F"/>
+    <Tireur Club="GLEIZE" DateNaissance="07.09.2000" ID="823437" Lateralite="R" Licence="" Ligue="14" Nation="FRA" Nom="LAUVRAY" Ophardt_ID="231971" Prenom="Emma" Sexe="F"/>
+  </Equipe>
+<Equipe Classement="1" Club="" ID="SWITZERLAND" Ligue="" Nation="SUI" Ophardt_ID="15869" Statut="N">
+    <Tireur Club="ZFC Zurich" DateNaissance="11.02.2000" ID="777453" Lateralite="R" Licence="" Ligue="" Nation="SUI" Nom="LUNA" Ophardt_ID="123812" Prenom="Alessandra" Sexe="F"/>
+    <Tireur Club="CES Sierre" DateNaissance="11.06.1999" ID="833857" Lateralite="R" Licence="" Ligue="" Nation="SUI" Nom="MASSEREY" Ophardt_ID="311048" Prenom="Solene" Sexe="F"/>
+    <Tireur Club="SES Sion" DateNaissance="26.03.1999" ID="833967" Lateralite="L" Licence="" Ligue="" Nation="SUI" Nom="FAVRE" Ophardt_ID="310619" Prenom="Aurore" Sexe="F"/>
+    <Tireur Club="UF Uppsala" DateNaissance="16.09.1999" ID="840749" Lateralite="L" Licence="" Ligue="UP" Nation="SUI" Nom="HATZ" Ophardt_ID="311532" Prenom="Fiona" Sexe="F"/>
+  </Equipe>
+</Equipes>
+<Arbitres>
+<Arbitre Club="SEN Neuchatel" DateNaissance="19.11.1996" ID="830098" Licence="" Ligue="" Nation="SUI" Nom="GRENON" Ophardt_ID="161307" Prenom="Isabelle"/>
+<Arbitre Club="SEN Neuchatel" DateNaissance="30.06.1971" ID="833549" Licence="" Ligue="" Nation="SUI" Nom="ROGNON" Ophardt_ID="161340" Prenom="Nadia"/>
+<Arbitre Club="CES Sierre" DateNaissance="25.09.1961" ID="835927" Licence="" Ligue="" Nation="SUI" Nom="MASSEREY" Ophardt_ID="169733" Prenom="Pierre-Antoine"/>
+<Arbitre Club="GRENOBLE PAR" DateNaissance="24.02.1947" ID="774056" Licence="" Ligue="" Nation="FRA" Nom="ZERBIB" Ophardt_ID="174604" Prenom="Daniel"/>
+<Arbitre Club="Afyon Eskrim GSK" DateNaissance="06.11.1996" ID="827961" Licence="" Ligue="" Nation="TUR" Nom="Mihrioglu" Ophardt_ID="191650" Prenom="Harun"/>
+<Arbitre Club=" " DateNaissance="" ID="840620" Licence="" Ligue="" Nation="ROU" Nom="CIUCULESCU" Ophardt_ID="" Prenom="Alina"/>
+<Arbitre Club="MONTELIMAR" DateNaissance="" ID="780140" Licence="" Ligue="" Nation="FRA" Nom="VASSEUR" Ophardt_ID="" Prenom="Lea"/>
+<Arbitre Club="SECH LA CHAUX-DE-FONDS" DateNaissance="" ID="840163" Licence="" Ligue="" Nation="SUI" Nom="QUINCHE" Ophardt_ID="" Prenom="Pascal"/>
+<Arbitre Club="SES SION" DateNaissance="" ID="833966" Licence="" Ligue="" Nation="SUI" Nom="DUMONT" Ophardt_ID="" Prenom="Orane"/>
+<Arbitre Club="CEFL FLORIMONT" DateNaissance="" ID="840927" Licence="" Ligue="" Nation="SUI" Nom="DOUET" Ophardt_ID="" Prenom="Laurent"/>
+<Arbitre Club="AFCB BERN" DateNaissance="" ID="840926" Licence="" Ligue="" Nation="SUI" Nom="ROUYER" Ophardt_ID="" Prenom="Elodie"/>
+<Arbitre Club="NEVERS CE" DateNaissance="" ID="14885" Licence="00795808" Ligue="" Nation="FRA" Nom="Korman" Ophardt_ID="" Prenom="Nicolas"/>
+<Arbitre Club="FZB Riehen Scorpions" DateNaissance="" ID="15006" Licence="00690841" Ligue="" Nation="SUI" Nom="Hablutzel-Burki" Ophardt_ID="" Prenom="Gianna"/>
+<Arbitre Club="ROUBAIX CE" DateNaissance="" ID="-17033" Licence="" Ligue="13" Nation="FRA" Nom="AFELT" Ophardt_ID="-17033" Prenom="Romain"/>
+<Arbitre Club="SES Sion" DateNaissance="24.06.1996" ID="161164" Licence="" Ligue="" Nation="SUI" Nom="BIANCHI" Ophardt_ID="161164" Prenom="Tiziano"/>
+</Arbitres>
+<Phases>
+	  	<TourDePoules ID="1" NbDePoules="1" NbQualifiesParIndice="3" NbQualifiesParPoule="" PhaseID="1" PhaseSuivanteDesElimines="" PhaseSuivanteDesQualifies="2">
+      									<Tireur REF="FRANCE" RangFinal="2" RangInitial="2" Statut="Q"/>
+						<Tireur REF="ESTONIA" RangFinal="1" RangInitial="3" Statut="Q"/>
+						<Tireur REF="SWITZERLAND" RangFinal="3" RangInitial="1" Statut="Q"/>
+			      
+									<Poule Date="" ID="1" Piste="">
+			        <Tireur NbMatches="2" NbVictoires="1" NoDansLaPoule="1" REF="FRANCE" RangPoule="2" TD="75" TR="78"/>
+			        <Tireur NbMatches="2" NbVictoires="2" NoDansLaPoule="2" REF="ESTONIA" RangPoule="1" TD="87" TR="67"/>
+			        <Tireur NbMatches="2" NbVictoires="0" NoDansLaPoule="3" REF="SWITZERLAND" RangPoule="3" TD="68" TR="85"/>
+			                                    			        <Match ID="1">
+					<Tireur REF="FRANCE" Score="40" Statut="V"/>			
+					<Tireur REF="SWITZERLAND" Score="36" Statut="D"/>
+        </Match>
+			        <Match ID="2">
+					<Tireur REF="ESTONIA" Score="45" Statut="V"/>			
+					<Tireur REF="SWITZERLAND" Score="32" Statut="D"/>
+        </Match>
+			        <Match ID="3">
+					<Tireur REF="FRANCE" Score="35" Statut="D"/>			
+					<Tireur REF="ESTONIA" Score="42" Statut="V"/>
+        </Match>
+						</Poule>
+			    </TourDePoules>
+		        <PhaseDeTableaux ID="1" PhaseID="PhaseTableaux2">
+                  <Tireur REF="ESTONIA" RangFinal="2" RangInitial="1" Statut="N"/>
+            <Tireur REF="FRANCE" RangFinal="3" RangInitial="2" Statut="N"/>
+            <Tireur REF="SWITZERLAND" RangFinal="1" RangInitial="3" Statut="N"/>
+                        <SuiteDeTableaux ID="SuiteTab_0" NbdeTableaux="2" Titre="Table of 4">
+                  <Tableau ID="F2" Taille="4" Titre="Semi-Final">
+                                                            <Match Date="" ID="2" Piste="">
+                                                                                                  <Tireur REF="SWITZERLAND" Score="44" Statut="V"/>
+              <Tireur REF="FRANCE" Score="41" Statut="D"/>
+            </Match>
+                                  </Tableau>
+                  <Tableau ID="F1" Taille="2" Titre="Final">
+                                    <Match Date="" ID="1" Piste="">
+                                                                                                  <Tireur REF="ESTONIA" Score="39" Statut="D"/>
+              <Tireur REF="SWITZERLAND" Score="45" Statut="V"/>
+            </Match>
+                                  </Tableau>
+                
+      </SuiteDeTableaux>
+          </PhaseDeTableaux>
+    	</Phases>
+</CompetitionParEquipes>

@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE CompetitionParEquipes>
+<CompetitionParEquipes 
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  ID="3033" 
+  Championnat="OphardtTeamSportevent"
+  Annee="2018/2019" 
+  Arme="E" 
+  Sexe="M" 
+  Categorie="S"
+  Class=""   
+  Domaine="Z"  
+  Federation="GER"
+  Date="13.01.2019" 
+  TitreCourt="Coupe d&#039;Europe" 
+  Titrelong="Coupe d&#039;Europe" 
+  DateFichierXML="13.01.2019 17:52:01">
+<Equipes>
+<Equipe ID="BUDAPEST Honved" Ophardt_ID="23225" Start_ID="18069" Nation="HUN" Classement="1" Statut="N">
+    <Tireur ID="16016" Ophardt_ID="16016" Start_ID="3941" Nom="REDLI" Prenom="Andras" DateNaissance="21.10.1983" Sexe="M" Lateralite="D" Licence="0" Club="Balaton" Ligue="NZ" Nation="HUN" />
+    <Tireur ID="89931" Ophardt_ID="89931" Start_ID="3949" Nom="BERTA" Prenom="Daniel" DateNaissance="30.03.1994" Sexe="M" Lateralite="G" Licence="0" Club="PTE-PEAC" Ligue="" Nation="HUN" />
+    <Tireur ID="27806" Ophardt_ID="27806" Start_ID="3937" Nom="PETERDI" Prenom="Andras" DateNaissance="05.03.1988" Sexe="M" Lateralite="D" Licence="0" Club="PTE-PEAC" Ligue="" Nation="HUN" />
+    <Tireur ID="14440" Ophardt_ID="14440" Start_ID="3945" Nom="SOMFAI" Prenom="Peter" DateNaissance="02.04.1980" Sexe="M" Lateralite="D" Licence="0" Club="BHSE" Ligue="NZ" Nation="HUN" />
+  </Equipe>
+<Equipe ID="HELLERUP FK" Ophardt_ID="23220" Start_ID="18073" Nation="DEN" Classement="5" Statut="N">
+    <Tireur ID="49244" Ophardt_ID="49244" Start_ID="3769" Nom="ROBL" Prenom="Troels Christian" DateNaissance="05.03.1993" Sexe="M" Lateralite="D" Licence="12063" Club="Hellerup FK" Ligue="HS" Nation="DEN" />
+    <Tireur ID="32986" Ophardt_ID="32986" Start_ID="3765" Nom="JÃRGENSEN" Prenom="Patrick" DateNaissance="31.05.1991" Sexe="M" Lateralite="D" Licence="12058" Club="Hellerup FK" Ligue="HS" Nation="DEN" />
+    <Tireur ID="124979" Ophardt_ID="124979" Start_ID="3773" Nom="LINNEMANN" Prenom="Christian Schack" DateNaissance="25.03.1997" Sexe="M" Lateralite="G" Licence="0" Club="Hellerup FK" Ligue="HS" Nation="DEN" />
+    <Tireur ID="47251" Ophardt_ID="47251" Start_ID="3761" Nom="VON DER OSTEN" Prenom="Frederik" DateNaissance="04.08.1993" Sexe="M" Lateralite="D" Licence="12073" Club="Hellerup FK" Ligue="HS" Nation="DEN" />
+  </Equipe>
+<Equipe ID="LEVALLOIS SC" Ophardt_ID="23213" Start_ID="18077" Nation="FRA" Classement="6" Statut="N">
+    <Tireur ID="202709" Ophardt_ID="202709" Start_ID="3645" Nom="GUSTIN" Prenom="Ronan" DateNaissance="17.08.1987" Sexe="M" Lateralite="D" Licence="2147483647" Club="LEVALLOIS" Ligue="28" Nation="FRA" />
+    <Tireur ID="206747" Ophardt_ID="206747" Start_ID="3641" Nom="ELKORD" Prenom="Houssam" DateNaissance="24.02.1993" Sexe="M" Lateralite="D" Licence="2147483647" Club="LEVALLOIS" Ligue="28" Nation="MAR" />
+    <Tireur ID="399419" Ophardt_ID="399419" Start_ID="3649" Nom="ALLEGRE" Prenom="Paul" DateNaissance="02.06.1996" Sexe="M" Lateralite="D" Licence="0" Club="SES Sion" Ligue="" Nation="FRA" />
+    <Tireur ID="37568" Ophardt_ID="37568" Start_ID="3637" Nom="MARCHAL" Prenom="Virgile" DateNaissance="11.07.1990" Sexe="M" Lateralite="D" Licence="2147483647" Club="" Ligue="" Nation="FRA" />
+  </Equipe>
+<Equipe ID="HEIDENHEIMER SB" Ophardt_ID="19860" Start_ID="18081" Nation="GER" Classement="19" Statut="N">
+    <Tireur ID="93960" Ophardt_ID="93960" Start_ID="3661" Nom="BLUM" Prenom="Jakob" DateNaissance="14.02.2001" Sexe="M" Lateralite="D" Licence="90609" Club="Heidenheimer SB" Ligue="WÃ" Nation="GER" />
+    <Tireur ID="22281" Ophardt_ID="22281" Start_ID="3657" Nom="REIN" Prenom="Stephan" DateNaissance="19.10.1988" Sexe="M" Lateralite="G" Licence="64989" Club="Heidenheimer SB" Ligue="WÃ" Nation="GER" />
+    <Tireur ID="88990" Ophardt_ID="88990" Start_ID="3665" Nom="ZIMMERMANN" Prenom="Henri" DateNaissance="18.10.2001" Sexe="M" Lateralite="D" Licence="89147" Club="Heidenheimer SB" Ligue="WÃ" Nation="GER" />
+    <Tireur ID="22681" Ophardt_ID="22681" Start_ID="3653" Nom="MULTERER" Prenom="Niklas" DateNaissance="13.02.1988" Sexe="M" Lateralite="D" Licence="63824" Club="Heidenheimer SB" Ligue="WÃ" Nation="GER" />
+  </Equipe>
+<Equipe ID="FC Tauberbischofsheim" Ophardt_ID="2000401553" Start_ID="18085" Nation="GER" Classement="11" Statut="N">
+    <Tireur ID="81732" Ophardt_ID="81732" Start_ID="3677" Nom="HOCH" Prenom="AndrÃ©" DateNaissance="21.09.1998" Sexe="M" Lateralite="G" Licence="84210" Club="FC Tauberbischofsheim" Ligue="BN" Nation="GER" />
+    <Tireur ID="48619" Ophardt_ID="48619" Start_ID="3673" Nom="UNTERHAUSER" Prenom="Samuel" DateNaissance="12.07.1997" Sexe="M" Lateralite="G" Licence="80436" Club="FC Tauberbischofsheim" Ligue="BN" Nation="GER" />
+    <Tireur ID="85733" Ophardt_ID="85733" Start_ID="3681" Nom="MESZAROS" Prenom="Maximilian" DateNaissance="16.02.1998" Sexe="M" Lateralite="D" Licence="85982" Club="FC Tauberbischofsheim" Ligue="BN" Nation="GER" />
+    <Tireur ID="49336" Ophardt_ID="49336" Start_ID="3669" Nom="BRAUN" Prenom="Rico" DateNaissance="29.09.1997" Sexe="M" Lateralite="D" Licence="80198" Club="FC Tauberbischofsheim" Ligue="BN" Nation="GER" />
+  </Equipe>
+<Equipe ID="Njaard Fekting" Ophardt_ID="2000401557" Start_ID="18089" Nation="NOR" Classement="13" Statut="N">
+    <Tireur ID="345491" Ophardt_ID="345491" Start_ID="3693" Nom="DAHLBO" Prenom="Benjamin" DateNaissance="25.07.2001" Sexe="M" Lateralite="D" Licence="0" Club="NjÃ¥rd Fekting" Ligue="OS" Nation="NOR" />
+    <Tireur ID="27964" Ophardt_ID="27964" Start_ID="3689" Nom="HILLESTAD" Prenom="Ludvig" DateNaissance="19.08.1988" Sexe="M" Lateralite="D" Licence="0" Club="NjÃ¥rd Fekting" Ligue="OS" Nation="NOR" />
+    <Tireur ID="33968" Ophardt_ID="33968" Start_ID="3697" Nom="HEREY" Prenom="Anatolii" DateNaissance="31.03.1989" Sexe="M" Lateralite="D" Licence="0" Club="" Ligue="" Nation="UKR" />
+    <Tireur ID="375077" Ophardt_ID="375077" Start_ID="3685" Nom="GROSSE" Prenom="Arthur" DateNaissance="18.08.2001" Sexe="M" Lateralite="G" Licence="0" Club="NjÃ¥rd Fekting" Ligue="OS" Nation="NOR" />
+  </Equipe>
+<Equipe ID="SCARAMOUCHE" Ophardt_ID="312229" Start_ID="18093" Nation="NED" Classement="8" Statut="N">
+    <Tireur ID="120340" Ophardt_ID="120340" Start_ID="3709" Nom="DERKSEN" Prenom="Ruben" DateNaissance="15.06.2000" Sexe="M" Lateralite="D" Licence="40919" Club="s.v. Scaramouche" Ligue="" Nation="NED" />
+    <Tireur ID="401706" Ophardt_ID="401706" Start_ID="3705" Nom="TULEN" Prenom="Rafael" DateNaissance="01.06.1997" Sexe="M" Lateralite="D" Licence="109588" Club="" Ligue="" Nation="NED" />
+    <Tireur ID="46217" Ophardt_ID="46217" Start_ID="3713" Nom="UIJTING" Prenom="Henk" DateNaissance="22.03.1953" Sexe="M" Lateralite="D" Licence="0" Club="s.v. Scaramouche" Ligue="" Nation="NED" />
+    <Tireur ID="35191" Ophardt_ID="35191" Start_ID="3701" Nom="TULEN" Prenom="Tristan" DateNaissance="22.07.1991" Sexe="M" Lateralite="G" Licence="108238" Club="s.v. Scaramouche" Ligue="" Nation="NED" />
+  </Equipe>
+<Equipe ID="EN GARDE HAAPSALU" Ophardt_ID="54455" Start_ID="18097" Nation="EST" Classement="16" Statut="N">
+    <Tireur ID="30647" Ophardt_ID="30647" Start_ID="3725" Nom="MUNZONE" Prenom="Edoardo" DateNaissance="16.01.1988" Sexe="M" Lateralite="D" Licence="0" Club="" Ligue="" Nation="ITA" />
+    <Tireur ID="92972" Ophardt_ID="92972" Start_ID="3721" Nom="TURNAU" Prenom="Peeter" DateNaissance="30.08.1994" Sexe="M" Lateralite="D" Licence="0" Club="En Garde Haapsalu" Ligue="" Nation="EST" />
+    <Tireur ID="35106" Ophardt_ID="35106" Start_ID="3729" Nom="AGGELIS" Prenom="Constantinos" DateNaissance="19.07.1966" Sexe="M" Lateralite="D" Licence="5188" Club="P.A.O. ATHENS" Ligue="" Nation="GRE" />
+    <Tireur ID="29583" Ophardt_ID="29583" Start_ID="3717" Nom="PRIINITS" Prenom="Sten" DateNaissance="10.11.1987" Sexe="M" Lateralite="D" Licence="0" Club="En Garde Haapsalu" Ligue="" Nation="EST" />
+  </Equipe>
+<Equipe ID="Sala d&#039;Armi Cariplo Piccolo Teatro" Ophardt_ID="2000401561" Start_ID="18101" Nation="ITA" Classement="2" Statut="N">
+    <Tireur ID="55161" Ophardt_ID="55161" Start_ID="3741" Nom="NIGGELER" Prenom="Michele" DateNaissance="10.03.1992" Sexe="M" Lateralite="D" Licence="0" Club="LUG Lugano" Ligue="" Nation="SUI" />
+    <Tireur ID="55354" Ophardt_ID="55354" Start_ID="3737" Nom="SANTARELLI" Prenom="Andrea" DateNaissance="03.06.1993" Sexe="M" Lateralite="D" Licence="0" Club="" Ligue="" Nation="ITA" />
+    <Tireur ID="55364" Ophardt_ID="55364" Start_ID="3733" Nom="FICHERA" Prenom="Marco" DateNaissance="04.09.1993" Sexe="M" Lateralite="D" Licence="0" Club="CS Acireale" Ligue="" Nation="ITA" />
+  </Equipe>
+<Equipe ID="HAPOEL KFAR-SABA" Ophardt_ID="121693" Start_ID="18105" Nation="ISR" Classement="10" Statut="N">
+    <Tireur ID="38478" Ophardt_ID="38478" Start_ID="3749" Nom="HARPER" Prenom="Ido" DateNaissance="12.10.1991" Sexe="M" Lateralite="D" Licence="0" Club="Hapoel Kfar-Saba" Ligue="" Nation="ISR" />
+    <Tireur ID="31937" Ophardt_ID="31937" Start_ID="3757" Nom="LIS" Prenom="Daniel" DateNaissance="19.12.1988" Sexe="M" Lateralite="D" Licence="0" Club="Hapoel Kfar-Saba" Ligue="" Nation="ISR" />
+    <Tireur ID="351933" Ophardt_ID="351933" Start_ID="3745" Nom="YARINOVSKY" Prenom="Tomer" DateNaissance="11.11.2001" Sexe="M" Lateralite="D" Licence="0" Club="Hapoel Kfar-Saba" Ligue="" Nation="ISR" />
+    <Tireur ID="56337" Ophardt_ID="56337" Start_ID="3753" Nom="FREILICH" Prenom="Yuval Shalom" DateNaissance="24.01.1995" Sexe="M" Lateralite="G" Licence="0" Club="Hapoel Kfar-Saba" Ligue="" Nation="ISR" />
+  </Equipe>
+<Equipe ID="Szpada Wroclav" Ophardt_ID="2000401565" Start_ID="18109" Nation="POL" Classement="12" Statut="N">
+    <Tireur ID="324633" Ophardt_ID="324633" Start_ID="3785" Nom="NAWROCKI" Prenom="Jerzy" DateNaissance="08.08.1997" Sexe="M" Lateralite="D" Licence="0" Club="KS Szpada Wroclaw" Ligue="" Nation="POL" />
+    <Tireur ID="320507" Ophardt_ID="320507" Start_ID="3781" Nom="OPALKA" Prenom="Michal" DateNaissance="21.05.1997" Sexe="M" Lateralite="D" Licence="0" Club="KS Szpada Wroclaw" Ligue="" Nation="POL" />
+    <Tireur ID="313298" Ophardt_ID="313298" Start_ID="3789" Nom="MARCOL" Prenom="Daniel" DateNaissance="06.03.1997" Sexe="M" Lateralite="D" Licence="0" Club="KS Szpada Wroclaw" Ligue="" Nation="POL" />
+    <Tireur ID="308570" Ophardt_ID="308570" Start_ID="3777" Nom="BIELEC" Prenom="Maciej" DateNaissance="17.09.1997" Sexe="M" Lateralite="G" Licence="0" Club="KS Szpada Wroclaw" Ligue="" Nation="POL" />
+  </Equipe>
+<Equipe ID="SocietÃ© d&#039;Escrime de Sion" Ophardt_ID="2000401569" Start_ID="18113" Nation="SUI" Classement="20" Statut="N">
+    <Tireur ID="308021" Ophardt_ID="308021" Start_ID="3801" Nom="METRAILLER" Prenom="ClÃ©ment" DateNaissance="11.06.1997" Sexe="M" Lateralite="D" Licence="3139" Club="SES Sion" Ligue="" Nation="SUI" />
+    <Tireur ID="124885" Ophardt_ID="124885" Start_ID="3797" Nom="BAYARD" Prenom="Alexis" DateNaissance="10.06.1996" Sexe="M" Lateralite="G" Licence="261" Club="SES Sion" Ligue="" Nation="SUI" />
+    <Tireur ID="310622" Ophardt_ID="310622" Start_ID="3805" Nom="CERRUTI" Prenom="Stefan" DateNaissance="02.10.1999" Sexe="M" Lateralite="D" Licence="3131" Club="SES Sion" Ligue="" Nation="SUI" />
+    <Tireur ID="311413" Ophardt_ID="311413" Start_ID="3793" Nom="LUTIN" Prenom="Antoine" DateNaissance="02.01.2000" Sexe="M" Lateralite="D" Licence="4503" Club="SES Sion" Ligue="" Nation="SUI" />
+  </Equipe>
+<Equipe ID="CSM Satu Mare" Ophardt_ID="2000401573" Start_ID="18117" Nation="ROU" Classement="7" Statut="N">
+    <Tireur ID="332969" Ophardt_ID="332969" Start_ID="3817" Nom="SZEP" Prenom="Marton" DateNaissance="11.01.1998" Sexe="M" Lateralite="G" Licence="0" Club="CS Satu Mare" Ligue="" Nation="ROU" />
+    <Tireur ID="352597" Ophardt_ID="352597" Start_ID="3813" Nom="MACSKA" Prenom="Adam" DateNaissance="28.04.2000" Sexe="M" Lateralite="G" Licence="0" Club="CS Satu Mare" Ligue="" Nation="ROU" />
+    <Tireur ID="351934" Ophardt_ID="351934" Start_ID="3821" Nom="SZILAGYI" Prenom="Balazs" DateNaissance="26.09.2000" Sexe="M" Lateralite="D" Licence="0" Club="CS Satu Mare" Ligue="" Nation="ROU" />
+    <Tireur ID="47923" Ophardt_ID="47923" Start_ID="3809" Nom="SZILAGYI" Prenom="Adrian Ciprian" DateNaissance="04.09.1987" Sexe="M" Lateralite="D" Licence="0" Club="CS Satu Mare" Ligue="" Nation="ROU" />
+  </Equipe>
+<Equipe ID="Sala de Esgrima Amposta de Tarragona" Ophardt_ID="2000401577" Start_ID="18121" Nation="ESP" Classement="14" Statut="N">
+    <Tireur ID="35684" Ophardt_ID="35684" Start_ID="3833" Nom="ANDREU" Prenom="Marc" DateNaissance="28.10.1978" Sexe="M" Lateralite="D" Licence="0" Club="SEA-T" Ligue="" Nation="ESP" />
+    <Tireur ID="314731" Ophardt_ID="314731" Start_ID="3829" Nom="GAVALDA" Prenom="Eugeni" DateNaissance="26.07.1996" Sexe="M" Lateralite="G" Licence="0" Club="SEA-T" Ligue="" Nation="ESP" />
+    <Tireur ID="336104" Ophardt_ID="336104" Start_ID="3837" Nom="GONELL" Prenom="Gerard" DateNaissance="21.11.2000" Sexe="M" Lateralite="G" Licence="0" Club="SEA-T" Ligue="" Nation="ESP" />
+    <Tireur ID="314730" Ophardt_ID="314730" Start_ID="3825" Nom="FABREGAT" Prenom="Angel" DateNaissance="10.12.1996" Sexe="M" Lateralite="D" Licence="0" Club="SEA-T" Ligue="" Nation="ESP" />
+  </Equipe>
+<Equipe ID="BRIXTON FC" Ophardt_ID="395933" Start_ID="18125" Nation="GBR" Classement="18" Statut="N">
+    <Tireur ID="375521" Ophardt_ID="375521" Start_ID="3849" Nom="EAST" Prenom="William" DateNaissance="18.01.1999" Sexe="M" Lateralite="D" Licence="0" Club="" Ligue="" Nation="GBR" />
+    <Tireur ID="302223" Ophardt_ID="302223" Start_ID="3845" Nom="BEAUMONT" Prenom="Nicholas" DateNaissance="05.04.1995" Sexe="M" Lateralite="G" Licence="101744" Club="" Ligue="" Nation="GBR" />
+    <Tireur ID="90167" Ophardt_ID="90167" Start_ID="3853" Nom="SANCHEZ-LETHEM" Prenom="Paul James" DateNaissance="01.07.1994" Sexe="M" Lateralite="D" Licence="95498" Club="Brixton FC" Ligue="" Nation="GBR" />
+    <Tireur ID="1000902933" Ophardt_ID="1000902933" Start_ID="3841" Nom="RUSEV" Prenom="Rosislav" DateNaissance="01.01.1970" Sexe="M" Lateralite="D" Licence="" Club="Brixton FC" Ligue="" Nation="GBR" />
+  </Equipe>
+<Equipe ID="SC PRAHA" Ophardt_ID="54457" Start_ID="18129" Nation="CZE" Classement="3" Statut="N">
+    <Tireur ID="33235" Ophardt_ID="33235" Start_ID="3865" Nom="PITRA" Prenom="Pavel" DateNaissance="25.06.1988" Sexe="M" Lateralite="D" Licence="0" Club="SC Praha" Ligue="" Nation="CZE" />
+    <Tireur ID="9494" Ophardt_ID="9494" Start_ID="3861" Nom="CAPEK" Prenom="Martin" DateNaissance="14.09.1983" Sexe="M" Lateralite="D" Licence="0" Club="SC Praha" Ligue="" Nation="CZE" />
+    <Tireur ID="47196" Ophardt_ID="47196" Start_ID="3869" Nom="POKORNY" Prenom="Richard" DateNaissance="11.07.1991" Sexe="M" Lateralite="G" Licence="0" Club="USK Praha" Ligue="" Nation="CZE" />
+    <Tireur ID="2975" Ophardt_ID="2975" Start_ID="3857" Nom="HOYER" Prenom="Martin" DateNaissance="25.11.1967" Sexe="M" Lateralite="D" Licence="0" Club="" Ligue="" Nation="CZE" />
+  </Equipe>
+<Equipe ID="RTSOP" Ophardt_ID="2000401581" Start_ID="18133" Nation="BLR" Classement="17" Statut="N">
+    <Tireur ID="321867" Ophardt_ID="321867" Start_ID="3885" Nom="DUBOUSKI" Prenom="Pavel" DateNaissance="06.01.1997" Sexe="M" Lateralite="G" Licence="0" Club="" Ligue="" Nation="BLR" />
+    <Tireur ID="320030" Ophardt_ID="320030" Start_ID="3881" Nom="PAULOUSKI" Prenom="Dzianis" DateNaissance="02.03.1996" Sexe="M" Lateralite="G" Licence="0" Club="SCAF RB" Ligue="" Nation="BLR" />
+    <Tireur ID="333660" Ophardt_ID="333660" Start_ID="3889" Nom="KARPOV" Prenom="Viacheslav" DateNaissance="03.11.1997" Sexe="M" Lateralite="D" Licence="0" Club="SCAF RB" Ligue="" Nation="BLR" />
+    <Tireur ID="53624" Ophardt_ID="53624" Start_ID="3877" Nom="BAROUSKI" Prenom="Dzmitry" DateNaissance="08.09.1991" Sexe="M" Lateralite="D" Licence="0" Club="SC TUFB" Ligue="" Nation="BLR" />
+  </Equipe>
+<Equipe ID="DINAMO MOSKAU" Ophardt_ID="121692" Start_ID="18137" Nation="RUS" Classement="3" Statut="N">
+    <Tireur ID="319939" Ophardt_ID="319939" Start_ID="3901" Nom="BRUEV" Prenom="Georgiy" DateNaissance="27.09.1997" Sexe="M" Lateralite="D" Licence="0" Club="" Ligue="" Nation="RUS" />
+    <Tireur ID="54029" Ophardt_ID="54029" Start_ID="3897" Nom="ANOKHIN" Prenom="Vadim" DateNaissance="02.01.1992" Sexe="M" Lateralite="D" Licence="0" Club="Dinamo-Kazan" Ligue="" Nation="RUS" />
+    <Tireur ID="307801" Ophardt_ID="307801" Start_ID="3905" Nom="FARDZINOV" Prenom="Alan" DateNaissance="09.08.1995" Sexe="M" Lateralite="D" Licence="0" Club="" Ligue="" Nation="RUS" />
+    <Tireur ID="37559" Ophardt_ID="37559" Start_ID="3893" Nom="GLEBKO" Prenom="Anton" DateNaissance="21.09.1989" Sexe="M" Lateralite="D" Licence="0" Club="" Ligue="" Nation="RUS" />
+  </Equipe>
+<Equipe ID="KYIF Kirkkonummi" Ophardt_ID="2000401585" Start_ID="18141" Nation="FIN" Classement="15" Statut="N">
+    <Tireur ID="90189" Ophardt_ID="90189" Start_ID="3917" Nom="GIANNOTTE" Prenom="Flavio" DateNaissance="06.05.1995" Sexe="M" Lateralite="D" Licence="0" Club="CE Sud" Ligue="" Nation="LUX" />
+    <Tireur ID="26240" Ophardt_ID="26240" Start_ID="3913" Nom="BADE" Prenom="Dennis" DateNaissance="25.07.1985" Sexe="M" Lateralite="D" Licence="21358252" Club="KyrkslÃ¤tt IF/UR33" Ligue="ES" Nation="FIN" />
+    <Tireur ID="21470" Ophardt_ID="21470" Start_ID="3909" Nom="KORHONEN" Prenom="Jussi" DateNaissance="20.06.1983" Sexe="M" Lateralite="D" Licence="22095255" Club="KyrkslÃ¤tt IF/UR33" Ligue="ES" Nation="FIN" />
+  </Equipe>
+<Equipe ID="Unifeht Kharkov" Ophardt_ID="2000401589" Start_ID="18145" Nation="UKR" Classement="9" Statut="N">
+    <Tireur ID="1000902941" Ophardt_ID="1000902941" Start_ID="3929" Nom="KARVCHENKO" Prenom="Dimitri" DateNaissance="01.01.1970" Sexe="M" Lateralite="D" Licence="" Club="" Ligue="" Nation="UKR" />
+    <Tireur ID="21953" Ophardt_ID="21953" Start_ID="3925" Nom="KHVOROST" Prenom="Maksym" DateNaissance="15.07.1982" Sexe="M" Lateralite="D" Licence="0" Club="" Ligue="" Nation="UKR" />
+    <Tireur ID="1000902937" Ophardt_ID="1000902937" Start_ID="3933" Nom="MIRGORODSKI" Prenom="Evegeni" DateNaissance="01.01.1970" Sexe="M" Lateralite="D" Licence="" Club="" Ligue="" Nation="UKR" />
+    <Tireur ID="55407" Ophardt_ID="55407" Start_ID="3921" Nom="SVICHKAR" Prenom="Roman" DateNaissance="18.06.1993" Sexe="M" Lateralite="G" Licence="0" Club="Kharkiv" Ligue="" Nation="UKR" />
+  </Equipe>
+</Equipes>
+<Arbitres>
+<Arbitre ID="1000198749" Ophardt_ID="1000198749" Nom="BESKIN" Prenom="Grigori" DateNaissance="" Licence="" Nation="ISR" />
+<Arbitre ID="147452" Ophardt_ID="147452" Nom="CIVIERO" Prenom="Ambre" DateNaissance="03.02.1987" Licence="" Nation="SUI" />
+<Arbitre ID="140599" Ophardt_ID="140599" Nom="CSISZAR" Prenom="Francisc" DateNaissance="25.02.1956" Licence="" Nation="ROU" />
+<Arbitre ID="13368" Ophardt_ID="13368" Nom="FREWIN" Prenom="James" DateNaissance="09.08.1993" Licence="" Nation="GBR" />
+<Arbitre ID="169935" Ophardt_ID="169935" Nom="GASPER" Prenom="Christian" DateNaissance="04.05.1982" Licence="" Nation="GER" />
+<Arbitre ID="179913" Ophardt_ID="179913" Nom="HAENSCHKE" Prenom="Louis Albert" DateNaissance="28.06.1994" Licence="" Nation="GER" />
+<Arbitre ID="4496" Ophardt_ID="4496" Nom="HOPSTAKEN" Prenom="Louis" DateNaissance="01.01.1900" Licence="" Nation="NED" />
+<Arbitre ID="3490" Ophardt_ID="3490" Nom="KRIS" Prenom="Grigori" DateNaissance="24.12.1940" Licence="" Nation="UKR" />
+<Arbitre ID="1000198753" Ophardt_ID="1000198753" Nom="LESIAK" Prenom="Piotr" DateNaissance="" Licence="" Nation="POL" />
+<Arbitre ID="192101" Ophardt_ID="192101" Nom="ROSENBAUM" Prenom="Florian" DateNaissance="24.05.1993" Licence="" Nation="GER" />
+<Arbitre ID="193729" Ophardt_ID="193729" Nom="STORELV" Prenom="Erik Rival" DateNaissance="23.01.1961" Licence="" Nation="NOR" />
+<Arbitre ID="4418" Ophardt_ID="4418" Nom="TOLKACHOW" Prenom="Iwan" DateNaissance="01.01.1900" Licence="" Nation="BLR" />
+<Arbitre ID="142445" Ophardt_ID="142445" Nom="UFTRING" Prenom="Niklas" DateNaissance="27.08.1993" Licence="" Nation="GER" />
+<Arbitre ID="195054" Ophardt_ID="195054" Nom="VANDENBERK" Prenom="Florian" DateNaissance="28.04.1991" Licence="" Nation="BEL" />
+</Arbitres>
+<Phases>
+	        <PhaseDeTableaux PhaseID="PhaseTableaux1" ID="1">
+                  <Equipe REF="23225" RangInitial="1"	RangFinal="1" Statut="N" />
+            <Equipe REF="2000401589" RangInitial="2"	RangFinal="9" Statut="N" />
+            <Equipe REF="23220" RangInitial="3"	RangFinal="5" Statut="N" />
+            <Equipe REF="23213" RangInitial="4"	RangFinal="6" Statut="N" />
+            <Equipe REF="54457" RangInitial="5"	RangFinal="3" Statut="N" />
+            <Equipe REF="121693" RangInitial="6"	RangFinal="10" Statut="N" />
+            <Equipe REF="121692" RangInitial="7"	RangFinal="3" Statut="N" />
+            <Equipe REF="2000401553" RangInitial="8"	RangFinal="11" Statut="N" />
+            <Equipe REF="2000401573" RangInitial="9"	RangFinal="7" Statut="N" />
+            <Equipe REF="2000401565" RangInitial="10"	RangFinal="12" Statut="N" />
+            <Equipe REF="2000401561" RangInitial="11"	RangFinal="2" Statut="N" />
+            <Equipe REF="2000401557" RangInitial="12"	RangFinal="13" Statut="N" />
+            <Equipe REF="2000401581" RangInitial="13"	RangFinal="17" Statut="N" />
+            <Equipe REF="395933" RangInitial="14"	RangFinal="18" Statut="N" />
+            <Equipe REF="19860" RangInitial="15"	RangFinal="19" Statut="N" />
+            <Equipe REF="2000401577" RangInitial="16"	RangFinal="14" Statut="N" />
+            <Equipe REF="2000401569" RangInitial="17"	RangFinal="20" Statut="N" />
+            <Equipe REF="312229" RangInitial="18"	RangFinal="8" Statut="N" />
+            <Equipe REF="2000401585" RangInitial="19"	RangFinal="15" Statut="N" />
+            <Equipe REF="54455" RangInitial="20"	RangFinal="16" Statut="N" />
+                                                                                                      <SuiteDeTableaux ID="SuiteTab_A" Titre="Tableau de 32" NbdeTableaux="5" ModusNo="5">
+                  <Tableau ID="A32" Titre="Tableau de 32" Taille="32"  DestinationDesElimines="">
+                                                            <Match ID="2" Date="09:00" Piste="BLUE">
+                            <Arbitre REF="4496" Role="P"/>
+                                          <Arbitre REF="1000198753" Role="P"/>
+                                                                                    <Equipe REF="2000401569" Score="33" Statut="D"/>
+              <Equipe REF="2000401577" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="308021" Score="1" />
+                <Tireur REF="314730" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="124885" Score="7" />
+                <Tireur REF="336104" Score="8" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="311413" Score="11" />
+                <Tireur REF="314731" Score="12" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="308021" Score="16" />
+                <Tireur REF="336104" Score="13" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="311413" Score="22" />
+                <Tireur REF="314730" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="124885" Score="27" />
+                <Tireur REF="314731" Score="27" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="311413" Score="31" />
+                <Tireur REF="336104" Score="34" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="308021" Score="33" />
+                <Tireur REF="314731" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="124885" Score="33" />
+                <Tireur REF="314730" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                                                                                                                <Match ID="7" Date="09:00" Piste="YELLOW">
+                            <Arbitre REF="147452" Role="P"/>
+                                          <Arbitre REF="13368" Role="P"/>
+                                                                                    <Equipe REF="2000401581" Score="25" Statut="D"/>
+              <Equipe REF="54455" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="53624" Score="0" />
+                <Tireur REF="30647" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="320030" Score="6" />
+                <Tireur REF="92972" Score="7" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="321867" Score="9" />
+                <Tireur REF="29583" Score="14" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="53624" Score="20" />
+                <Tireur REF="92972" Score="19" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="321867" Score="22" />
+                <Tireur REF="30647" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="320030" Score="23" />
+                <Tireur REF="29583" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="321867" Score="23" />
+                <Tireur REF="92972" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="53624" Score="24" />
+                <Tireur REF="29583" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="320030" Score="25" />
+                <Tireur REF="30647" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                                                                <Match ID="10" Date="09:00" Piste="GREEN">
+                            <Arbitre REF="4418" Role="P"/>
+                                          <Arbitre REF="179913" Role="P"/>
+                                                                                    <Equipe REF="2000401585" Score="45" Statut="V"/>
+              <Equipe REF="395933" Score="36" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="26240" Score="0" />
+                <Tireur REF="302223" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="90189" Score="4" />
+                <Tireur REF="375521" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="21470" Score="7" />
+                <Tireur REF="90167" Score="12" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="26240" Score="12" />
+                <Tireur REF="375521" Score="15" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="21470" Score="16" />
+                <Tireur REF="302223" Score="18" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="90189" Score="22" />
+                <Tireur REF="90167" Score="23" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="21470" Score="28" />
+                <Tireur REF="375521" Score="25" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="26240" Score="40" />
+                <Tireur REF="90167" Score="35" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="90189" Score="45" />
+                <Tireur REF="302223" Score="36" />
+              </Assaut>
+                          </Match>           
+                                                                                                                                                <Match ID="15" Date="09:00" Piste="RED">
+                            <Arbitre REF="195054" Role="P"/>
+                                          <Arbitre REF="169935" Role="P"/>
+                                                                                    <Equipe REF="19860" Score="34" Statut="D"/>
+              <Equipe REF="312229" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="22681" Score="5" />
+                <Tireur REF="401706" Score="2" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="93960" Score="7" />
+                <Tireur REF="35191" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="22281" Score="11" />
+                <Tireur REF="120340" Score="15" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="93960" Score="11" />
+                <Tireur REF="401706" Score="20" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="22681" Score="14" />
+                <Tireur REF="120340" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="22281" Score="18" />
+                <Tireur REF="35191" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="93960" Score="18" />
+                <Tireur REF="120340" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="22281" Score="30" />
+                <Tireur REF="401706" Score="39" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="22681" Score="34" />
+                <Tireur REF="35191" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                          </Tableau>
+                  <Tableau ID="A16" Titre="Tableau de 16" Taille="16"  DestinationDesElimines="">
+                                    <Match ID="1" Date="10:00" Piste="BLUE">
+                            <Arbitre REF="1000198749" Role="P"/>
+                                          <Arbitre REF="13368" Role="P"/>
+                                                                                    <Equipe REF="23225" Score="45" Statut="V"/>
+              <Equipe REF="2000401577" Score="27" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="27806" Score="4" />
+                <Tireur REF="314730" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="16016" Score="8" />
+                <Tireur REF="336104" Score="5" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="14440" Score="12" />
+                <Tireur REF="314731" Score="8" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="27806" Score="14" />
+                <Tireur REF="336104" Score="10" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="14440" Score="18" />
+                <Tireur REF="314730" Score="13" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="16016" Score="26" />
+                <Tireur REF="314731" Score="17" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="14440" Score="33" />
+                <Tireur REF="336104" Score="19" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="27806" Score="40" />
+                <Tireur REF="314731" Score="20" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="16016" Score="45" />
+                <Tireur REF="314730" Score="27" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="2" Date="11:00" Piste="BLUE">
+                            <Arbitre REF="147452" Role="P"/>
+                                          <Arbitre REF="193729" Role="P"/>
+                                                                                    <Equipe REF="2000401573" Score="37" Statut="V"/>
+              <Equipe REF="2000401553" Score="32" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="352597" Score="1" />
+                <Tireur REF="49336" Score="2" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="47923" Score="5" />
+                <Tireur REF="81732" Score="4" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="332969" Score="8" />
+                <Tireur REF="48619" Score="10" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="352597" Score="11" />
+                <Tireur REF="81732" Score="13" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="332969" Score="13" />
+                <Tireur REF="49336" Score="17" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="47923" Score="18" />
+                <Tireur REF="48619" Score="20" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="332969" Score="20" />
+                <Tireur REF="81732" Score="21" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="352597" Score="23" />
+                <Tireur REF="48619" Score="23" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="47923" Score="37" />
+                <Tireur REF="49336" Score="32" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="3" Date="10:00" Piste="YELLOW">
+                            <Arbitre REF="142445" Role="P"/>
+                                          <Arbitre REF="147452" Role="P"/>
+                                                                                    <Equipe REF="54457" Score="45" Statut="V"/>
+              <Equipe REF="2000401557" Score="39" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="33235" Score="3" />
+                <Tireur REF="33968" Score="5" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="9494" Score="7" />
+                <Tireur REF="27964" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="47196" Score="13" />
+                <Tireur REF="345491" Score="15" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="33235" Score="20" />
+                <Tireur REF="27964" Score="16" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="47196" Score="24" />
+                <Tireur REF="33968" Score="23" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="9494" Score="30" />
+                <Tireur REF="345491" Score="25" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="47196" Score="35" />
+                <Tireur REF="27964" Score="29" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="33235" Score="40" />
+                <Tireur REF="345491" Score="32" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="9494" Score="45" />
+                <Tireur REF="33968" Score="39" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="4" Date="11:00" Piste="YELLOW">
+                            <Arbitre REF="1000198753" Role="P"/>
+                                          <Arbitre REF="195054" Role="P"/>
+                                                                                    <Equipe REF="54455" Score="38" Statut="D"/>
+              <Equipe REF="23213" Score="44" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="29583" Score="3" />
+                <Tireur REF="202709" Score="3" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="30647" Score="5" />
+                <Tireur REF="37568" Score="8" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="92972" Score="12" />
+                <Tireur REF="399419" Score="15" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="29583" Score="15" />
+                <Tireur REF="37568" Score="18" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="92972" Score="22" />
+                <Tireur REF="202709" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="30647" Score="28" />
+                <Tireur REF="399419" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="92972" Score="30" />
+                <Tireur REF="37568" Score="35" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="29583" Score="32" />
+                <Tireur REF="399419" Score="38" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="30647" Score="38" />
+                <Tireur REF="202709" Score="44" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="5" Date="10:00" Piste="GREEN">
+                            <Arbitre REF="169935" Role="P"/>
+                                          <Arbitre REF="4496" Role="P"/>
+                                                                                    <Equipe REF="23220" Score="45" Statut="V"/>
+              <Equipe REF="2000401585" Score="41" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="47251" Score="5" />
+                <Tireur REF="21470" Score="4" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="124979" Score="9" />
+                <Tireur REF="90189" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="49244" Score="15" />
+                <Tireur REF="26240" Score="14" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="124979" Score="20" />
+                <Tireur REF="21470" Score="17" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="47251" Score="24" />
+                <Tireur REF="26240" Score="25" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="49244" Score="27" />
+                <Tireur REF="90189" Score="30" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="124979" Score="35" />
+                <Tireur REF="26240" Score="32" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="49244" Score="40" />
+                <Tireur REF="21470" Score="37" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="47251" Score="45" />
+                <Tireur REF="90189" Score="41" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="6" Date="11:00" Piste="GREEN">
+                            <Arbitre REF="13368" Role="P"/>
+                                          <Arbitre REF="192101" Role="P"/>
+                                                                                    <Equipe REF="2000401561" Score="45" Statut="V"/>
+              <Equipe REF="121693" Score="23" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="55161" Score="5" />
+                <Tireur REF="38478" Score="1" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="55364" Score="8" />
+                <Tireur REF="56337" Score="1" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="55354" Score="11" />
+                <Tireur REF="31937" Score="4" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="55161" Score="17" />
+                <Tireur REF="56337" Score="6" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="55354" Score="18" />
+                <Tireur REF="38478" Score="9" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="55364" Score="22" />
+                <Tireur REF="31937" Score="11" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="55354" Score="29" />
+                <Tireur REF="56337" Score="17" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="55161" Score="37" />
+                <Tireur REF="31937" Score="20" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="55364" Score="45" />
+                <Tireur REF="38478" Score="23" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="7" Date="10:00" Piste="RED">
+                            <Arbitre REF="192101" Role="P"/>
+                                          <Arbitre REF="193729" Role="P"/>
+                                                                                    <Equipe REF="121692" Score="45" Statut="V"/>
+              <Equipe REF="2000401565" Score="28" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="37559" Score="3" />
+                <Tireur REF="308570" Score="3" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="319939" Score="7" />
+                <Tireur REF="313298" Score="8" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="54029" Score="13" />
+                <Tireur REF="324633" Score="10" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="37559" Score="16" />
+                <Tireur REF="313298" Score="12" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="54029" Score="20" />
+                <Tireur REF="308570" Score="12" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="319939" Score="26" />
+                <Tireur REF="324633" Score="17" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="54029" Score="33" />
+                <Tireur REF="313298" Score="21" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="37559" Score="40" />
+                <Tireur REF="324633" Score="25" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="319939" Score="45" />
+                <Tireur REF="308570" Score="28" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="8" Date="11:00" Piste="RED">
+                            <Arbitre REF="179913" Role="P"/>
+                                          <Arbitre REF="1000198749" Role="P"/>
+                                                                                    <Equipe REF="312229" Score="45" Statut="V"/>
+              <Equipe REF="2000401589" Score="33" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="401706" Score="5" />
+                <Tireur REF="55407" Score="2" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="35191" Score="9" />
+                <Tireur REF="1000902941" Score="4" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="120340" Score="10" />
+                <Tireur REF="21953" Score="9" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="401706" Score="14" />
+                <Tireur REF="1000902941" Score="13" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="120340" Score="21" />
+                <Tireur REF="55407" Score="16" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="35191" Score="24" />
+                <Tireur REF="21953" Score="19" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="120340" Score="33" />
+                <Tireur REF="1000902941" Score="29" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="401706" Score="40" />
+                <Tireur REF="21953" Score="30" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="35191" Score="45" />
+                <Tireur REF="55407" Score="33" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="A8" Titre="Tableau de  8" Taille="8"  DestinationDesElimines="">
+                                    <Match ID="1" Date="12:30" Piste="BLUE">
+                            <Arbitre REF="193729" Role="P"/>
+                                          <Arbitre REF="3490" Role="P"/>
+                                                                                    <Equipe REF="23225" Score="38" Statut="V"/>
+              <Equipe REF="2000401573" Score="28" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="27806" Score="3" />
+                <Tireur REF="47923" Score="4" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="16016" Score="7" />
+                <Tireur REF="351934" Score="8" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="14440" Score="11" />
+                <Tireur REF="352597" Score="9" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="27806" Score="14" />
+                <Tireur REF="351934" Score="9" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="14440" Score="19" />
+                <Tireur REF="47923" Score="12" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="16016" Score="22" />
+                <Tireur REF="352597" Score="13" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="14440" Score="29" />
+                <Tireur REF="351934" Score="18" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="27806" Score="34" />
+                <Tireur REF="352597" Score="20" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="16016" Score="38" />
+                <Tireur REF="47923" Score="28" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="2" Date="12:30" Piste="YELLOW">
+                            <Arbitre REF="4496" Role="P"/>
+                                          <Arbitre REF="147452" Role="P"/>
+                                                                                    <Equipe REF="54457" Score="45" Statut="V"/>
+              <Equipe REF="23213" Score="39" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="33235" Score="5" />
+                <Tireur REF="399419" Score="3" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="9494" Score="10" />
+                <Tireur REF="202709" Score="5" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="47196" Score="15" />
+                <Tireur REF="37568" Score="6" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="9494" Score="20" />
+                <Tireur REF="399419" Score="9" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="33235" Score="24" />
+                <Tireur REF="37568" Score="17" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="47196" Score="27" />
+                <Tireur REF="202709" Score="24" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="9494" Score="34" />
+                <Tireur REF="37568" Score="27" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="47196" Score="40" />
+                <Tireur REF="399419" Score="30" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="33235" Score="45" />
+                <Tireur REF="202709" Score="39" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="3" Date="12:30" Piste="GREEN">
+                            <Arbitre REF="1000198753" Role="P"/>
+                                          <Arbitre REF="1000198749" Role="P"/>
+                                                                                    <Equipe REF="23220" Score="33" Statut="D"/>
+              <Equipe REF="2000401561" Score="45" Statut="V"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="32986" Score="2" />
+                <Tireur REF="55161" Score="3" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="124979" Score="5" />
+                <Tireur REF="55364" Score="10" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="47251" Score="9" />
+                <Tireur REF="55354" Score="11" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="124979" Score="11" />
+                <Tireur REF="55161" Score="14" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="32986" Score="17" />
+                <Tireur REF="55354" Score="19" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="47251" Score="21" />
+                <Tireur REF="55364" Score="26" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="124979" Score="22" />
+                <Tireur REF="55354" Score="31" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="47251" Score="29" />
+                <Tireur REF="55161" Score="40" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="32986" Score="33" />
+                <Tireur REF="55364" Score="45" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="4" Date="12:30" Piste="RED">
+                            <Arbitre REF="13368" Role="P"/>
+                                          <Arbitre REF="195054" Role="P"/>
+                                                                                    <Equipe REF="121692" Score="39" Statut="V"/>
+              <Equipe REF="312229" Score="30" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="37559" Score="3" />
+                <Tireur REF="35191" Score="3" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="319939" Score="6" />
+                <Tireur REF="120340" Score="5" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="54029" Score="6" />
+                <Tireur REF="401706" Score="7" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="37559" Score="10" />
+                <Tireur REF="120340" Score="8" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="54029" Score="14" />
+                <Tireur REF="35191" Score="9" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="319939" Score="18" />
+                <Tireur REF="401706" Score="14" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="54029" Score="23" />
+                <Tireur REF="120340" Score="18" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="37559" Score="25" />
+                <Tireur REF="401706" Score="22" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="319939" Score="39" />
+                <Tireur REF="35191" Score="30" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="A4" Titre="Semi-Finale" Taille="4"  DestinationDesElimines="">
+                                    <Match ID="1" Date="14:00" Piste="BLUE">
+                            <Arbitre REF="142445" Role="P"/>
+                                          <Arbitre REF="195054" Role="P"/>
+                                                                                    <Equipe REF="23225" Score="45" Statut="V"/>
+              <Equipe REF="54457" Score="25" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="16016" Score="5" />
+                <Tireur REF="47196" Score="3" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="14440" Score="10" />
+                <Tireur REF="33235" Score="4" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="27806" Score="15" />
+                <Tireur REF="9494" Score="7" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="14440" Score="20" />
+                <Tireur REF="47196" Score="7" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="16016" Score="25" />
+                <Tireur REF="9494" Score="10" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="27806" Score="30" />
+                <Tireur REF="33235" Score="13" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="14440" Score="35" />
+                <Tireur REF="9494" Score="17" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="27806" Score="40" />
+                <Tireur REF="47196" Score="21" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="16016" Score="45" />
+                <Tireur REF="33235" Score="25" />
+              </Assaut>
+                          </Match>           
+                                                <Match ID="2" Date="14:00" Piste="RED">
+                            <Arbitre REF="179913" Role="P"/>
+                                          <Arbitre REF="147452" Role="P"/>
+                                                                                    <Equipe REF="2000401561" Score="42" Statut="V"/>
+              <Equipe REF="121692" Score="28" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="55161" Score="0" />
+                <Tireur REF="319939" Score="2" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="55364" Score="3" />
+                <Tireur REF="54029" Score="2" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="55354" Score="7" />
+                <Tireur REF="37559" Score="3" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="55161" Score="11" />
+                <Tireur REF="54029" Score="6" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="55354" Score="13" />
+                <Tireur REF="319939" Score="8" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="55364" Score="18" />
+                <Tireur REF="37559" Score="11" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="55354" Score="25" />
+                <Tireur REF="54029" Score="13" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="55161" Score="28" />
+                <Tireur REF="37559" Score="19" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="55364" Score="42" />
+                <Tireur REF="319939" Score="28" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="A2" Titre="Final" Taille="2"  DestinationDesElimines="">
+                                    <Match ID="1" Date="16:00" Piste="BLUE">
+                            <Arbitre REF="169935" Role="P"/>
+                                          <Arbitre REF="192101" Role="P"/>
+                                                                                    <Equipe REF="23225" Score="28" Statut="V"/>
+              <Equipe REF="2000401561" Score="26" Statut="D"/>             
+                            <Assaut ID="1" >
+                <Tireur REF="27806" Score="2" />
+                <Tireur REF="55364" Score="1" />
+              </Assaut>
+                            <Assaut ID="2" >
+                <Tireur REF="16016" Score="5" />
+                <Tireur REF="55354" Score="3" />
+              </Assaut>
+                            <Assaut ID="3" >
+                <Tireur REF="14440" Score="6" />
+                <Tireur REF="55161" Score="3" />
+              </Assaut>
+                            <Assaut ID="4" >
+                <Tireur REF="27806" Score="9" />
+                <Tireur REF="55354" Score="7" />
+              </Assaut>
+                            <Assaut ID="5" >
+                <Tireur REF="14440" Score="13" />
+                <Tireur REF="55364" Score="15" />
+              </Assaut>
+                            <Assaut ID="6" >
+                <Tireur REF="16016" Score="17" />
+                <Tireur REF="55161" Score="19" />
+              </Assaut>
+                            <Assaut ID="7" >
+                <Tireur REF="14440" Score="20" />
+                <Tireur REF="55354" Score="20" />
+              </Assaut>
+                            <Assaut ID="8" >
+                <Tireur REF="27806" Score="22" />
+                <Tireur REF="55161" Score="22" />
+              </Assaut>
+                            <Assaut ID="9" >
+                <Tireur REF="16016" Score="28" />
+                <Tireur REF="55364" Score="26" />
+              </Assaut>
+                          </Match>           
+                                  </Tableau>
+                
+      </SuiteDeTableaux>
+          </PhaseDeTableaux>
+    	</Phases>
+</CompetitionParEquipes> 

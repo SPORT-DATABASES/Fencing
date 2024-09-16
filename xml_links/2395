@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE CompetitionIndividuelle>
+<CompetitionIndividuelle 
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  ID="740" 
+  Championnat="FIE"
+  Annee="2018/2019" 
+  Arme="F" 
+  Sexe="F" 
+  Categorie="S"
+  Class=""   
+  Domaine="I"  
+  Federation="GER"
+  Date="18.06.2019" 
+  TitreCourt="European Championships" 
+  Titrelong="European Championships" 
+  DateFichierXML="18.06.2019 20:30:14">
+<Tireurs>
+<Tireur ID="31645" Ophardt_ID="321842" Start_ID="9536" 
+ Nom="BEARDMORE" Prenom="Kate" DateNaissance="27.09.1997" Sexe="F" Lateralite="D" Licence="27091997000" Nation="GBR" Classement="28" Statut="N" />
+<Tireur ID="19574" Ophardt_ID="46944" Start_ID="9540" 
+ Nom="BIMOVA" Prenom="Andrea" DateNaissance="06.01.1993" Sexe="F" Lateralite="G" Licence="06011993000" Nation="CZE" Classement="41" Statut="N" />
+<Tireur ID="29852" Ophardt_ID="118162" Start_ID="9544" 
+ Nom="BITTEROVA" Prenom="Kitti" DateNaissance="28.05.1997" Sexe="F" Lateralite="D" Licence="28051997000" Nation="SVK" Classement="34" Statut="N" />
+<Tireur ID="16054" Ophardt_ID="35053" Start_ID="9548" 
+ Nom="BLAZE" Prenom="Anita" DateNaissance="29.10.1991" Sexe="F" Lateralite="D" Licence="29101991000" Nation="FRA" Classement="23" Statut="N" />
+<Tireur ID="29054" Ophardt_ID="91955" Start_ID="9552" 
+ Nom="BOLDOR" Prenom="Maria" DateNaissance="03.08.1996" Sexe="F" Lateralite="D" Licence="03081996001" Nation="ROU" Classement="33" Statut="N" />
+<Tireur ID="32393" Ophardt_ID="321940" Start_ID="9556" 
+ Nom="BRETEAU" Prenom="Andrea" DateNaissance="17.03.1998" Sexe="F" Lateralite="D" Licence="17031998000" Nation="ESP" Classement="32" Statut="N" />
+<Tireur ID="40389" Ophardt_ID="122803" Start_ID="9560" 
+ Nom="BRUGGER" Prenom="Lilli Maria" DateNaissance="13.05.2000" Sexe="F" Lateralite="D" Licence="13052000001" Nation="AUT" Classement="38" Statut="N" />
+<Tireur ID="32657" Ophardt_ID="171272" Start_ID="9564" 
+ Nom="BUTRUILLE" Prenom="Solene" DateNaissance="02.11.1997" Sexe="F" Lateralite="D" Licence="02111997000" Nation="FRA" Classement="16" Statut="N" />
+<Tireur ID="27093" Ophardt_ID="91960" Start_ID="9568" 
+ Nom="CALUGAREANU" Prenom="Malina" DateNaissance="15.09.1996" Sexe="F" Lateralite="G" Licence="15091996001" Nation="ROU" Classement="29" Statut="N" />
+<Tireur ID="26961" Ophardt_ID="91365" Start_ID="9572" 
+ Nom="CENKER" Prenom="Freya" DateNaissance="26.07.1994" Sexe="F" Lateralite="D" Licence="26071994002" Nation="AUT" Classement="46" Statut="N" />
+<Tireur ID="20135" Ophardt_ID="47829" Start_ID="9576" 
+ Nom="CHENTSOVA" Prenom="Kateryna" DateNaissance="02.04.1991" Sexe="F" Lateralite="D" Licence="02041991001" Nation="UKR" Classement="35" Statut="N" />
+<Tireur ID="45338" Ophardt_ID="340159" Start_ID="9580" 
+ Nom="CORBU" Prenom="Emilia" DateNaissance="25.02.2002" Sexe="F" Lateralite="D" Licence="25022002002" Nation="ROU" Classement="36" Statut="N" />
+<Tireur ID="20610" Ophardt_ID="49254" Start_ID="9584" 
+ Nom="DAJCIC" Prenom="Marcela" DateNaissance="04.06.1993" Sexe="F" Lateralite="D" Licence="04061993000" Nation="CRO" Classement="44" Statut="N" />
+<Tireur ID="26943" Ophardt_ID="118764" Start_ID="9588" 
+ Nom="DEGERMAN" Prenom="Ruusa" DateNaissance="15.10.1989" Sexe="F" Lateralite="D" Licence="15101989003" Nation="FIN" Classement="52" Statut="N" />
+<Tireur ID="18831" Ophardt_ID="10128" Start_ID="9592" 
+ Nom="DERIGLAZOVA" Prenom="Inna" DateNaissance="10.03.1990" Sexe="F" Lateralite="D" Licence="10031990003" Nation="RUS" Classement="2" Statut="N" />
+<Tireur ID="4464" Ophardt_ID="15107" Start_ID="9596" 
+ Nom="DI FRANCISCA" Prenom="Elisa" DateNaissance="13.12.1982" Sexe="F" Lateralite="D" Licence="13121982001" Nation="ITA" Classement="1" Statut="N" />
+<Tireur ID="34259" Ophardt_ID="321941" Start_ID="9600" 
+ Nom="DIAZ ESCALONA" Prenom="Maria Teresa" DateNaissance="12.12.1997" Sexe="F" Lateralite="D" Licence="12121997002" Nation="ESP" Classement="11" Statut="N" />
+<Tireur ID="28025" Ophardt_ID="124857" Start_ID="9604" 
+ Nom="DICKSON" Prenom="Chloe" DateNaissance="08.12.1995" Sexe="F" Lateralite="G" Licence="08121995000" Nation="GBR" Classement="41" Statut="N" />
+<Tireur ID="28249" Ophardt_ID="91396" Start_ID="9608" 
+ Nom="DLUGOSZ" Prenom="Martyna" DateNaissance="29.07.1996" Sexe="F" Lateralite="G" Licence="29071996000" Nation="POL" Classement="8" Statut="N" />
+<Tireur ID="28761" Ophardt_ID="303738" Start_ID="9612" 
+ Nom="DVORKIN" Prenom="Mary" DateNaissance="15.07.1996" Sexe="F" Lateralite="G" Licence="15071996001" Nation="ISR" Classement="31" Statut="N" />
+<Tireur ID="33746" Ophardt_ID="86006" Start_ID="9616" 
+ Nom="EBERT" Prenom="Leonie" DateNaissance="04.10.1999" Sexe="F" Lateralite="G" Licence="04101999000" Nation="GER" Classement="6" Statut="N" />
+<Tireur ID="28068" Ophardt_ID="125000" Start_ID="9620" 
+ Nom="ENRIGHT" Prenom="Irene" DateNaissance="18.01.1977" Sexe="F" Lateralite="D" Licence="18111977001" Nation="FIN" Classement="55" Statut="N" />
+<Tireur ID="9377" Ophardt_ID="28255" Start_ID="9624" 
+ Nom="ERRIGO" Prenom="Arianna" DateNaissance="06.06.1988" Sexe="F" Lateralite="G" Licence="06061988000" Nation="ITA" Classement="9" Statut="N" />
+<Tireur ID="35939" Ophardt_ID="344158" Start_ID="9628" 
+ Nom="GHEORGHE" Prenom="Andreea" DateNaissance="24.08.2001" Sexe="F" Lateralite="D" Licence="24082001000" Nation="ROU" Classement="40" Statut="N" />
+<Tireur ID="3903" Ophardt_ID="16148" Start_ID="9632" 
+ Nom="GOLUBYTSKYI" Prenom="Carolin" DateNaissance="19.12.1985" Sexe="F" Lateralite="D" Licence="19121985000" Nation="GER" Classement="25" Statut="N" />
+<Tireur ID="25834" Ophardt_ID="32554" Start_ID="9636" 
+ Nom="HAMPEL" Prenom="Eva" DateNaissance="05.12.1992" Sexe="F" Lateralite="G" Licence="05121992002" Nation="GER" Classement="14" Statut="N" />
+<Tireur ID="32753" Ophardt_ID="307961" Start_ID="9640" 
+ Nom="HAVRANKOVA" Prenom="Eva" DateNaissance="14.01.1996" Sexe="F" Lateralite="D" Licence="14011996000" Nation="CZE" Classement="48" Statut="N" />
+<Tireur ID="20744" Ophardt_ID="38283" Start_ID="9644" 
+ Nom="IVANOVA" Prenom="Anastasiia" DateNaissance="21.03.1990" Sexe="F" Lateralite="D" Licence="21031990000" Nation="RUS" Classement="7" Statut="N" />
+<Tireur ID="47237" Ophardt_ID="361065" Start_ID="9648" 
+ Nom="JELICIC" Prenom="Julija" DateNaissance="26.03.2003" Sexe="F" Lateralite="D" Licence="26032003001" Nation="SRB" Classement="56" Statut="N" />
+<Tireur ID="20938" Ophardt_ID="49890" Start_ID="9652" 
+ Nom="KARAMETE" Prenom="Irem" DateNaissance="20.06.1993" Sexe="F" Lateralite="D" Licence="20061993001" Nation="TUR" Classement="30" Statut="N" />
+<Tireur ID="32912" Ophardt_ID="307841" Start_ID="9656" 
+ Nom="KONDRICZ" Prenom="Kata" DateNaissance="16.07.1998" Sexe="F" Lateralite="D" Licence="16071998001" Nation="HUN" Classement="19" Statut="N" />
+<Tireur ID="28651" Ophardt_ID="90448" Start_ID="9660" 
+ Nom="KONTOCHRISTOPOULOU" Prenom="Aikaterini-Maria" DateNaissance="10.06.1997" Sexe="F" Lateralite="D" Licence="10061997000" Nation="GRE" Classement="" Statut="A" />
+<Tireur ID="10688" Ophardt_ID="25619" Start_ID="9664" 
+ Nom="KOROBEYNIKOVA" Prenom="Larisa" DateNaissance="26.03.1987" Sexe="F" Lateralite="D" Licence="26031987001" Nation="RUS" Classement="5" Statut="N" />
+<Tireur ID="26839" Ophardt_ID="90888" Start_ID="9668" 
+ Nom="KOVACEVIC" Prenom="Marija" DateNaissance="20.03.1995" Sexe="F" Lateralite="D" Licence="20031995001" Nation="SRB" Classement="51" Statut="N" />
+<Tireur ID="9426" Ophardt_ID="25312" Start_ID="9672" 
+ Nom="KREISS" Prenom="Fanny" DateNaissance="12.04.1989" Sexe="F" Lateralite="D" Licence="12041989000" Nation="HUN" Classement="19" Statut="N" />
+<Tireur ID="34549" Ophardt_ID="308565" Start_ID="9676" 
+ Nom="KUDLACEK" Prenom="Beatrice" DateNaissance="03.03.1999" Sexe="F" Lateralite="D" Licence="03031999004" Nation="AUT" Classement="49" Statut="N" />
+<Tireur ID="17872" Ophardt_ID="37778" Start_ID="9680" 
+ Nom="LUPKOVICS" Prenom="Dora" DateNaissance="30.01.1993" Sexe="F" Lateralite="D" Licence="30011993000" Nation="HUN" Classement="39" Statut="N" />
+<Tireur ID="12780" Ophardt_ID="31284" Start_ID="9684" 
+ Nom="LYCZBINSKA" Prenom="Hanna" DateNaissance="20.04.1990" Sexe="F" Lateralite="D" Licence="20041990002" Nation="POL" Classement="13" Statut="N" />
+<Tireur ID="24463" Ophardt_ID="55711" Start_ID="9688" 
+ Nom="MARINO" Prenom="Maria" DateNaissance="31.01.1993" Sexe="F" Lateralite="D" Licence="31011993000" Nation="ESP" Classement="45" Statut="N" />
+<Tireur ID="4164" Ophardt_ID="5007" Start_ID="9692" 
+ Nom="MOHAMED" Prenom="Aida" DateNaissance="12.03.1976" Sexe="F" Lateralite="G" Licence="12031976000" Nation="HUN" Classement="15" Statut="N" />
+<Tireur ID="26919" Ophardt_ID="100076" Start_ID="9696" 
+ Nom="OJEDA" Prenom="Barbara" DateNaissance="07.06.1993" Sexe="F" Lateralite="D" Licence="07061993000" Nation="ESP" Classement="37" Statut="N" />
+<Tireur ID="37239" Ophardt_ID="330315" Start_ID="9700" 
+ Nom="OLIVEIRA" Prenom="Carolina" DateNaissance="02.07.1999" Sexe="F" Lateralite="D" Licence="02071997003" Nation="POR" Classement="50" Statut="N" />
+<Tireur ID="23447" Ophardt_ID="55104" Start_ID="9704" 
+ Nom="PALUMBO" Prenom="Francesca" DateNaissance="10.02.1994" Sexe="F" Lateralite="G" Licence="10021994001" Nation="ITA" Classement="10" Statut="N" />
+<Tireur ID="42286" Ophardt_ID="377279" Start_ID="9708" 
+ Nom="PUSTILNIK" Prenom="Nicole" DateNaissance="14.10.2002" Sexe="F" Lateralite="D" Licence="14102002000" Nation="ISR" Classement="24" Statut="N" />
+<Tireur ID="25514" Ophardt_ID="175481" Start_ID="9712" 
+ Nom="RANVIER" Prenom="Pauline" DateNaissance="14.04.1994" Sexe="F" Lateralite="D" Licence="14041994001" Nation="FRA" Classement="17" Statut="N" />
+<Tireur ID="27233" Ophardt_ID="120081" Start_ID="9716" 
+ Nom="RAPYNETS" Prenom="Alina" DateNaissance="25.07.1995" Sexe="F" Lateralite="D" Licence="25071995003" Nation="UKR" Classement="46" Statut="N" />
+<Tireur ID="29761" Ophardt_ID="49460" Start_ID="9720" 
+ Nom="RENTIER" Prenom="Eline" DateNaissance="11.05.1996" Sexe="F" Lateralite="D" Licence="11051996000" Nation="NED" Classement="43" Statut="N" />
+<Tireur ID="45656" Ophardt_ID="393160" Start_ID="9724" 
+ Nom="SAKIC" Prenom="Natalija" DateNaissance="09.06.1995" Sexe="F" Lateralite="D" Licence="09061995001" Nation="SRB" Classement="57" Statut="N" />
+<Tireur ID="17481" Ophardt_ID="24874" Start_ID="9728" 
+ Nom="SAUER" Prenom="Anne" DateNaissance="01.04.1991" Sexe="F" Lateralite="D" Licence="01041991000" Nation="GER" Classement="12" Statut="N" />
+<Tireur ID="17524" Ophardt_ID="37395" Start_ID="9732" 
+ Nom="SENYUTA" Prenom="Alexandra" DateNaissance="20.04.1991" Sexe="F" Lateralite="G" Licence="20041991000" Nation="UKR" Classement="26" Statut="N" />
+<Tireur ID="30326" Ophardt_ID="122235" Start_ID="9736" 
+ Nom="SMITH" Prenom="Katie" DateNaissance="17.03.1996" Sexe="F" Lateralite="D" Licence="17031996000" Nation="GBR" Classement="53" Statut="N" />
+<Tireur ID="9908" Ophardt_ID="28104" Start_ID="9740" 
+ Nom="SYNORADZKA" Prenom="Martyna" DateNaissance="30.01.1988" Sexe="F" Lateralite="G" Licence="30011988000" Nation="POL" Classement="21" Statut="N" />
+<Tireur ID="37965" Ophardt_ID="346367" Start_ID="9744" 
+ Nom="TARANENKO" Prenom="Anna" DateNaissance="27.12.2000" Sexe="F" Lateralite="G" Licence="27122000001" Nation="UKR" Classement="18" Statut="N" />
+<Tireur ID="20514" Ophardt_ID="48700" Start_ID="9748" 
+ Nom="THIBUS" Prenom="Ysaora" DateNaissance="22.08.1991" Sexe="F" Lateralite="D" Licence="22081991001" Nation="FRA" Classement="3" Statut="N" />
+<Tireur ID="19878" Ophardt_ID="47623" Start_ID="9752" 
+ Nom="VOLPI" Prenom="Alice" DateNaissance="15.04.1992" Sexe="F" Lateralite="D" Licence="15041992000" Nation="ITA" Classement="3" Statut="N" />
+<Tireur ID="30327" Ophardt_ID="118408" Start_ID="9756" 
+ Nom="WALCZYK" Prenom="Julia" DateNaissance="28.10.1997" Sexe="F" Lateralite="D" Licence="28101997000" Nation="POL" Classement="27" Statut="N" />
+<Tireur ID="18774" Ophardt_ID="44565" Start_ID="9760" 
+ Nom="WOHLGEMUTH" Prenom="Olivia" DateNaissance="28.01.1992" Sexe="F" Lateralite="D" Licence="28011992000" Nation="AUT" Classement="54" Statut="N" />
+<Tireur ID="27237" Ophardt_ID="91873" Start_ID="9764" 
+ Nom="ZAGIDULLINA" Prenom="Adelina" DateNaissance="13.01.1993" Sexe="F" Lateralite="D" Licence="13011993001" Nation="RUS" Classement="22" Statut="N" />
+</Tireurs>
+<Arbitres>
+<Arbitre ID="23648" Ophardt_ID="4173" Nom="BARDENHAGEN" Prenom="Tim" DateNaissance="27.10.1988" Licence="27101988002" Nation="GER" />
+<Arbitre ID="5389" Ophardt_ID="3865" Nom="KIELPIKOWSKI" Prenom="Piotr" DateNaissance="21.11.1962" Licence="21111962000" Nation="POL" />
+<Arbitre ID="7705" Ophardt_ID="1656" Nom="LANGE" Prenom="Robert" DateNaissance="26.02.1973" Licence="26021973000" Nation="GER" />
+<Arbitre ID="24753" Ophardt_ID="4669" Nom="SPEAKMAN" Prenom="Adrian" DateNaissance="22.01.1986" Licence="22011986010" Nation="GBR" />
+</Arbitres>
+<Phases>
+	  	<TourDePoules ID="1" PhaseID="1"
+			NbDePoules="9"
+			PhaseSuivanteDesQualifies="2"
+			PhaseSuivanteDesElimines=""
+			NbQualifiesParPoule=""
+			NbQualifiesParIndice="44">
+      									<Tireur REF="35939" RangInitial="54"	RangFinal="39" Statut="Q" />
+						<Tireur REF="25834" RangInitial="19"	RangFinal="18" Statut="Q" />
+						<Tireur REF="20938" RangInitial="18"	RangFinal="37" Statut="Q" />
+						<Tireur REF="26839" RangInitial="56"	RangFinal="51" Statut="N" />
+						<Tireur REF="37965" RangInitial="36"	RangFinal="11" Statut="Q" />
+						<Tireur REF="19878" RangInitial="1"	RangFinal="4" Statut="Q" />
+						<Tireur REF="37239" RangInitial="37"	RangFinal="50" Statut="N" />
+			      
+									<Tireur REF="28068" RangInitial="53"	RangFinal="55" Statut="N" />
+						<Tireur REF="28761" RangInitial="35"	RangFinal="38" Statut="Q" />
+						<Tireur REF="45338" RangInitial="55"	RangFinal="29" Statut="Q" />
+						<Tireur REF="32393" RangInitial="38"	RangFinal="40" Statut="Q" />
+						<Tireur REF="25514" RangInitial="17"	RangFinal="2" Statut="Q" />
+						<Tireur REF="18831" RangInitial="2"	RangFinal="9" Statut="Q" />
+						<Tireur REF="17524" RangInitial="20"	RangFinal="26" Statut="Q" />
+			      
+									<Tireur REF="9377" RangInitial="3"	RangFinal="1" Statut="Q" />
+						<Tireur REF="29054" RangInitial="39"	RangFinal="25" Statut="Q" />
+						<Tireur REF="45656" RangInitial="57"	RangFinal="57" Statut="N" />
+						<Tireur REF="26943" RangInitial="52"	RangFinal="52" Statut="N" />
+						<Tireur REF="12780" RangInitial="16"	RangFinal="10" Statut="Q" />
+						<Tireur REF="29852" RangInitial="34"	RangFinal="27" Statut="Q" />
+						<Tireur REF="20135" RangInitial="21"	RangFinal="28" Statut="Q" />
+			      
+									<Tireur REF="31645" RangInitial="33"	RangFinal="35" Statut="Q" />
+						<Tireur REF="17481" RangInitial="15"	RangFinal="8" Statut="Q" />
+						<Tireur REF="28651" RangInitial="40"	RangFinal="9999" Statut="A" />
+						<Tireur REF="40389" RangInitial="51"	RangFinal="31" Statut="Q" />
+						<Tireur REF="20514" RangInitial="4"	RangFinal="34" Statut="Q" />
+						<Tireur REF="4164" RangInitial="22"	RangFinal="20" Statut="Q" />
+						<Tireur REF="32753" RangInitial="58"	RangFinal="48" Statut="N" />
+			      
+									<Tireur REF="33746" RangInitial="5"	RangFinal="14" Statut="Q" />
+						<Tireur REF="32657" RangInitial="23"	RangFinal="21" Statut="Q" />
+						<Tireur REF="34259" RangInitial="32"	RangFinal="5" Statut="Q" />
+						<Tireur REF="34549" RangInitial="50"	RangFinal="49" Statut="N" />
+						<Tireur REF="30326" RangInitial="41"	RangFinal="53" Statut="N" />
+						<Tireur REF="30327" RangInitial="14"	RangFinal="33" Statut="Q" />
+			      
+									<Tireur REF="18774" RangInitial="24"	RangFinal="54" Statut="N" />
+						<Tireur REF="28249" RangInitial="31"	RangFinal="21" Statut="Q" />
+						<Tireur REF="20610" RangInitial="49"	RangFinal="44" Statut="Q" />
+						<Tireur REF="3903" RangInitial="42"	RangFinal="24" Statut="Q" />
+						<Tireur REF="16054" RangInitial="13"	RangFinal="19" Statut="Q" />
+						<Tireur REF="4464" RangInitial="6"	RangFinal="6" Statut="Q" />
+			      
+									<Tireur REF="19574" RangInitial="48"	RangFinal="41" Statut="Q" />
+						<Tireur REF="24463" RangInitial="25"	RangFinal="45" Statut="N" />
+						<Tireur REF="9908" RangInitial="12"	RangFinal="15" Statut="Q" />
+						<Tireur REF="32912" RangInitial="29"	RangFinal="12" Statut="Q" />
+						<Tireur REF="28025" RangInitial="44"	RangFinal="41" Statut="Q" />
+						<Tireur REF="20744" RangInitial="7"	RangFinal="16" Statut="Q" />
+			      
+									<Tireur REF="27237" RangInitial="11"	RangFinal="17" Statut="Q" />
+						<Tireur REF="23447" RangInitial="8"	RangFinal="3" Statut="Q" />
+						<Tireur REF="26919" RangInitial="43"	RangFinal="30" Statut="Q" />
+						<Tireur REF="17872" RangInitial="26"	RangFinal="32" Statut="Q" />
+						<Tireur REF="27093" RangInitial="30"	RangFinal="36" Statut="Q" />
+						<Tireur REF="47237" RangInitial="47"	RangFinal="56" Statut="N" />
+			      
+									<Tireur REF="42286" RangInitial="27"	RangFinal="23" Statut="Q" />
+						<Tireur REF="26961" RangInitial="45"	RangFinal="46" Statut="N" />
+						<Tireur REF="10688" RangInitial="9"	RangFinal="7" Statut="Q" />
+						<Tireur REF="29761" RangInitial="28"	RangFinal="43" Statut="Q" />
+						<Tireur REF="27233" RangInitial="46"	RangFinal="46" Statut="N" />
+						<Tireur REF="9426" RangInitial="10"	RangFinal="12" Statut="Q" />
+			      
+									<Poule ID="1" Date="12:00" Piste="12">
+			        <Tireur REF="35939" NoDansLaPoule="1" NbVictoires="2" NbMatches="6" TD="22" TR="26" RangPoule="5" />
+			        <Tireur REF="25834" NoDansLaPoule="2" NbVictoires="4" NbMatches="6" TD="26" TR="17" RangPoule="3" />
+			        <Tireur REF="20938" NoDansLaPoule="3" NbVictoires="2" NbMatches="6" TD="22" TR="22" RangPoule="4" />
+			        <Tireur REF="26839" NoDansLaPoule="4" NbVictoires="1" NbMatches="6" TD="13" TR="29" RangPoule="7" />
+			        <Tireur REF="37965" NoDansLaPoule="5" NbVictoires="5" NbMatches="6" TD="26" TR="21" RangPoule="2" />
+			        <Tireur REF="19878" NoDansLaPoule="6" NbVictoires="6" NbMatches="6" TD="30" TR="11" RangPoule="1" />
+			        <Tireur REF="37239" NoDansLaPoule="7" NbVictoires="1" NbMatches="6" TD="14" TR="27" RangPoule="6" />
+			            <Arbitre REF="-166485" Role="P"/>
+                                    			                <Match ID="1">
+					<Tireur REF="35939" Score="4" Statut="D" />			
+					<Tireur REF="26839" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="2">
+					<Tireur REF="25834" Score="4" Statut="D" />			
+					<Tireur REF="37965" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="3">
+					<Tireur REF="20938" Score="4" Statut="D" />			
+					<Tireur REF="19878" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="4">
+					<Tireur REF="37239" Score="3" Statut="D" />			
+					<Tireur REF="35939" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="5">
+					<Tireur REF="37965" Score="5" Statut="V" />			
+					<Tireur REF="26839" Score="3" Statut="D"/>
+                  </Match>
+        			                <Match ID="6">
+					<Tireur REF="25834" Score="5" Statut="V" />			
+					<Tireur REF="20938" Score="3" Statut="D"/>
+                  </Match>
+        			                <Match ID="7">
+					<Tireur REF="19878" Score="5" Statut="V" />			
+					<Tireur REF="37239" Score="0" Statut="D"/>
+                  </Match>
+        			                <Match ID="8">
+					<Tireur REF="37965" Score="5" Statut="V" />			
+					<Tireur REF="35939" Score="4" Statut="D"/>
+                  </Match>
+        			                <Match ID="9">
+					<Tireur REF="26839" Score="1" Statut="D" />			
+					<Tireur REF="20938" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="10">
+					<Tireur REF="19878" Score="5" Statut="V" />			
+					<Tireur REF="25834" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="11">
+					<Tireur REF="37965" Score="5" Statut="V" />			
+					<Tireur REF="37239" Score="3" Statut="D"/>
+                  </Match>
+        			                <Match ID="12">
+					<Tireur REF="20938" Score="3" Statut="D" />			
+					<Tireur REF="35939" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="13">
+					<Tireur REF="26839" Score="2" Statut="D" />			
+					<Tireur REF="19878" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="14">
+					<Tireur REF="37239" Score="2" Statut="D" />			
+					<Tireur REF="25834" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="15">
+					<Tireur REF="20938" Score="2" Statut="D" />			
+					<Tireur REF="37965" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="16">
+					<Tireur REF="35939" Score="2" Statut="D" />			
+					<Tireur REF="19878" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="17">
+					<Tireur REF="25834" Score="5" Statut="V" />			
+					<Tireur REF="26839" Score="0" Statut="D"/>
+                  </Match>
+        			                <Match ID="18">
+					<Tireur REF="37239" Score="1" Statut="D" />			
+					<Tireur REF="20938" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="19">
+					<Tireur REF="19878" Score="5" Statut="V" />			
+					<Tireur REF="37965" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="20">
+					<Tireur REF="35939" Score="2" Statut="D" />			
+					<Tireur REF="25834" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="21">
+					<Tireur REF="26839" Score="2" Statut="D" />			
+					<Tireur REF="37239" Score="5" Statut="V"/>
+                  </Match>
+        						</Poule>
+						<Poule ID="2" Date="12:00" Piste="13">
+			        <Tireur REF="28068" NoDansLaPoule="1" NbVictoires="0" NbMatches="6" TD="11" TR="29" RangPoule="7" />
+			        <Tireur REF="28761" NoDansLaPoule="2" NbVictoires="2" NbMatches="6" TD="20" TR="23" RangPoule="5" />
+			        <Tireur REF="45338" NoDansLaPoule="3" NbVictoires="3" NbMatches="6" TD="17" TR="20" RangPoule="4" />
+			        <Tireur REF="32393" NoDansLaPoule="4" NbVictoires="2" NbMatches="6" TD="9" TR="27" RangPoule="6" />
+			        <Tireur REF="25514" NoDansLaPoule="5" NbVictoires="6" NbMatches="6" TD="30" TR="9" RangPoule="1" />
+			        <Tireur REF="18831" NoDansLaPoule="6" NbVictoires="5" NbMatches="6" TD="29" TR="8" RangPoule="2" />
+			        <Tireur REF="17524" NoDansLaPoule="7" NbVictoires="3" NbMatches="6" TD="19" TR="19" RangPoule="3" />
+			            <Arbitre REF="26799" Role="P"/>
+                  <Arbitre REF="24753" Role="P"/>
+                              			                <Match ID="1">
+					<Tireur REF="28068" Score="3" Statut="D" />			
+					<Tireur REF="32393" Score="4" Statut="V"/>
+                  </Match>
+        			                <Match ID="2">
+					<Tireur REF="28761" Score="1" Statut="D" />			
+					<Tireur REF="25514" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="3">
+					<Tireur REF="45338" Score="0" Statut="D" />			
+					<Tireur REF="18831" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="4">
+					<Tireur REF="17524" Score="5" Statut="V" />			
+					<Tireur REF="28068" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="5">
+					<Tireur REF="25514" Score="5" Statut="V" />			
+					<Tireur REF="32393" Score="0" Statut="D"/>
+                  </Match>
+        			                <Match ID="6">
+					<Tireur REF="28761" Score="5" Statut="V" />			
+					<Tireur REF="45338" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="7">
+					<Tireur REF="18831" Score="5" Statut="V" />			
+					<Tireur REF="17524" Score="0" Statut="D"/>
+                  </Match>
+        			                <Match ID="8">
+					<Tireur REF="25514" Score="5" Statut="V" />			
+					<Tireur REF="28068" Score="3" Statut="D"/>
+                  </Match>
+        			                <Match ID="9">
+					<Tireur REF="32393" Score="0" Statut="D" />			
+					<Tireur REF="45338" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="10">
+					<Tireur REF="18831" Score="5" Statut="V" />			
+					<Tireur REF="28761" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="11">
+					<Tireur REF="25514" Score="5" Statut="V" />			
+					<Tireur REF="17524" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="12">
+					<Tireur REF="45338" Score="5" Statut="V" />			
+					<Tireur REF="28068" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="13">
+					<Tireur REF="32393" Score="0" Statut="D" />			
+					<Tireur REF="18831" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="14">
+					<Tireur REF="17524" Score="5" Statut="V" />			
+					<Tireur REF="28761" Score="3" Statut="D"/>
+                  </Match>
+        			                <Match ID="15">
+					<Tireur REF="45338" Score="0" Statut="D" />			
+					<Tireur REF="25514" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="16">
+					<Tireur REF="28068" Score="1" Statut="D" />			
+					<Tireur REF="18831" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="17">
+					<Tireur REF="28761" Score="4" Statut="D" />			
+					<Tireur REF="32393" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="18">
+					<Tireur REF="17524" Score="3" Statut="D" />			
+					<Tireur REF="45338" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="19">
+					<Tireur REF="18831" Score="4" Statut="D" />			
+					<Tireur REF="25514" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="20">
+					<Tireur REF="28068" Score="1" Statut="D" />			
+					<Tireur REF="28761" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="21">
+					<Tireur REF="32393" Score="0" Statut="D" />			
+					<Tireur REF="17524" Score="5" Statut="V"/>
+                  </Match>
+        						</Poule>
+						<Poule ID="3" Date="12:00" Piste="14">
+			        <Tireur REF="9377" NoDansLaPoule="1" NbVictoires="6" NbMatches="6" TD="30" TR="2" RangPoule="1" />
+			        <Tireur REF="29054" NoDansLaPoule="2" NbVictoires="3" NbMatches="6" TD="20" TR="18" RangPoule="3" />
+			        <Tireur REF="45656" NoDansLaPoule="3" NbVictoires="0" NbMatches="6" TD="3" TR="30" RangPoule="7" />
+			        <Tireur REF="26943" NoDansLaPoule="4" NbVictoires="1" NbMatches="6" TD="11" TR="27" RangPoule="6" />
+			        <Tireur REF="12780" NoDansLaPoule="5" NbVictoires="5" NbMatches="6" TD="26" TR="11" RangPoule="2" />
+			        <Tireur REF="29852" NoDansLaPoule="6" NbVictoires="3" NbMatches="6" TD="19" TR="20" RangPoule="4" />
+			        <Tireur REF="20135" NoDansLaPoule="7" NbVictoires="3" NbMatches="6" TD="18" TR="19" RangPoule="5" />
+			            <Arbitre REF="23648" Role="P"/>
+                                    			                <Match ID="1">
+					<Tireur REF="9377" Score="5" Statut="V" />			
+					<Tireur REF="26943" Score="0" Statut="D"/>
+                  </Match>
+        			                <Match ID="2">
+					<Tireur REF="29054" Score="1" Statut="D" />			
+					<Tireur REF="12780" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="3">
+					<Tireur REF="45656" Score="0" Statut="D" />			
+					<Tireur REF="29852" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="4">
+					<Tireur REF="20135" Score="0" Statut="D" />			
+					<Tireur REF="9377" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="5">
+					<Tireur REF="12780" Score="5" Statut="V" />			
+					<Tireur REF="26943" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="6">
+					<Tireur REF="29054" Score="5" Statut="V" />			
+					<Tireur REF="45656" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="7">
+					<Tireur REF="29852" Score="1" Statut="D" />			
+					<Tireur REF="20135" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="8">
+					<Tireur REF="12780" Score="1" Statut="D" />			
+					<Tireur REF="9377" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="9">
+					<Tireur REF="26943" Score="5" Statut="V" />			
+					<Tireur REF="45656" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="10">
+					<Tireur REF="29852" Score="5" Statut="V" />			
+					<Tireur REF="29054" Score="4" Statut="D"/>
+                  </Match>
+        			                <Match ID="11">
+					<Tireur REF="12780" Score="5" Statut="V" />			
+					<Tireur REF="20135" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="12">
+					<Tireur REF="45656" Score="0" Statut="D" />			
+					<Tireur REF="9377" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="13">
+					<Tireur REF="26943" Score="1" Statut="D" />			
+					<Tireur REF="29852" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="14">
+					<Tireur REF="20135" Score="2" Statut="D" />			
+					<Tireur REF="29054" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="15">
+					<Tireur REF="45656" Score="0" Statut="D" />			
+					<Tireur REF="12780" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="16">
+					<Tireur REF="9377" Score="5" Statut="V" />			
+					<Tireur REF="29852" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="17">
+					<Tireur REF="29054" Score="5" Statut="V" />			
+					<Tireur REF="26943" Score="0" Statut="D"/>
+                  </Match>
+        			                <Match ID="18">
+					<Tireur REF="20135" Score="5" Statut="V" />			
+					<Tireur REF="45656" Score="0" Statut="D"/>
+                  </Match>
+        			                <Match ID="19">
+					<Tireur REF="29852" Score="2" Statut="D" />			
+					<Tireur REF="12780" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="20">
+					<Tireur REF="9377" Score="5" Statut="V" />			
+					<Tireur REF="29054" Score="0" Statut="D"/>
+                  </Match>
+        			                <Match ID="21">
+					<Tireur REF="26943" Score="3" Statut="D" />			
+					<Tireur REF="20135" Score="5" Statut="V"/>
+                  </Match>
+        						</Poule>
+						<Poule ID="4" Date="12:00" Piste="15">
+			        <Tireur REF="31645" NoDansLaPoule="1" NbVictoires="2" NbMatches="5" TD="16" TR="22" RangPoule="5" />
+			        <Tireur REF="17481" NoDansLaPoule="2" NbVictoires="5" NbMatches="5" TD="24" TR="16" RangPoule="1" />
+			        <Tireur REF="28651" NoDansLaPoule="3" NbVictoires="0" NbMatches="0" TD="0" TR="0" RangPoule="7" />
+			        <Tireur REF="40389" NoDansLaPoule="4" NbVictoires="2" NbMatches="5" TD="18" TR="17" RangPoule="3" />
+			        <Tireur REF="20514" NoDansLaPoule="5" NbVictoires="2" NbMatches="5" TD="17" TR="18" RangPoule="4" />
+			        <Tireur REF="4164" NoDansLaPoule="6" NbVictoires="3" NbMatches="5" TD="22" TR="14" RangPoule="2" />
+			        <Tireur REF="32753" NoDansLaPoule="7" NbVictoires="1" NbMatches="5" TD="11" TR="21" RangPoule="6" />
+			            <Arbitre REF="25724" Role="P"/>
+                                    			                <Match ID="1">
+					<Tireur REF="31645" Score="5" Statut="V" />			
+					<Tireur REF="40389" Score="4" Statut="D"/>
+                  </Match>
+        			                <Match ID="2">
+					<Tireur REF="17481" Score="5" Statut="V" />			
+					<Tireur REF="20514" Score="4" Statut="D"/>
+                  </Match>
+        			                <Match ID="3">
+					<Tireur REF="28651" Score="0" Statut="" />			
+					<Tireur REF="4164" Score="0" Statut=""/>
+                  </Match>
+        			                <Match ID="4">
+					<Tireur REF="32753" Score="5" Statut="V" />			
+					<Tireur REF="31645" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="5">
+					<Tireur REF="20514" Score="1" Statut="D" />			
+					<Tireur REF="40389" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="6">
+					<Tireur REF="17481" Score="0" Statut="" />			
+					<Tireur REF="28651" Score="0" Statut=""/>
+                  </Match>
+        			                <Match ID="7">
+					<Tireur REF="4164" Score="5" Statut="V" />			
+					<Tireur REF="32753" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="8">
+					<Tireur REF="20514" Score="5" Statut="V" />			
+					<Tireur REF="31645" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="9">
+					<Tireur REF="40389" Score="0" Statut="" />			
+					<Tireur REF="28651" Score="0" Statut=""/>
+                  </Match>
+        			                <Match ID="10">
+					<Tireur REF="4164" Score="4" Statut="D" />			
+					<Tireur REF="17481" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="11">
+					<Tireur REF="20514" Score="5" Statut="V" />			
+					<Tireur REF="32753" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="12">
+					<Tireur REF="28651" Score="0" Statut="" />			
+					<Tireur REF="31645" Score="0" Statut=""/>
+                  </Match>
+        			                <Match ID="13">
+					<Tireur REF="40389" Score="1" Statut="D" />			
+					<Tireur REF="4164" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="14">
+					<Tireur REF="32753" Score="1" Statut="D" />			
+					<Tireur REF="17481" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="15">
+					<Tireur REF="28651" Score="0" Statut="" />			
+					<Tireur REF="20514" Score="0" Statut=""/>
+                  </Match>
+        			                <Match ID="16">
+					<Tireur REF="31645" Score="5" Statut="V" />			
+					<Tireur REF="4164" Score="3" Statut="D"/>
+                  </Match>
+        			                <Match ID="17">
+					<Tireur REF="17481" Score="4" Statut="V" />			
+					<Tireur REF="40389" Score="3" Statut="D"/>
+                  </Match>
+        			                <Match ID="18">
+					<Tireur REF="32753" Score="0" Statut="" />			
+					<Tireur REF="28651" Score="0" Statut=""/>
+                  </Match>
+        			                <Match ID="19">
+					<Tireur REF="4164" Score="5" Statut="V" />			
+					<Tireur REF="20514" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="20">
+					<Tireur REF="31645" Score="4" Statut="D" />			
+					<Tireur REF="17481" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="21">
+					<Tireur REF="40389" Score="5" Statut="V" />			
+					<Tireur REF="32753" Score="2" Statut="D"/>
+                  </Match>
+        						</Poule>
+						<Poule ID="5" Date="12:00" Piste="16">
+			        <Tireur REF="33746" NoDansLaPoule="1" NbVictoires="4" NbMatches="5" TD="22" TR="12" RangPoule="2" />
+			        <Tireur REF="32657" NoDansLaPoule="2" NbVictoires="3" NbMatches="5" TD="22" TR="17" RangPoule="3" />
+			        <Tireur REF="34259" NoDansLaPoule="3" NbVictoires="5" NbMatches="5" TD="25" TR="9" RangPoule="1" />
+			        <Tireur REF="34549" NoDansLaPoule="4" NbVictoires="1" NbMatches="5" TD="8" TR="22" RangPoule="5" />
+			        <Tireur REF="30326" NoDansLaPoule="5" NbVictoires="0" NbMatches="5" TD="8" TR="25" RangPoule="6" />
+			        <Tireur REF="30327" NoDansLaPoule="6" NbVictoires="2" NbMatches="5" TD="16" TR="16" RangPoule="4" />
+			            <Arbitre REF="12141" Role="P"/>
+                                    			                <Match ID="1">
+					<Tireur REF="33746" Score="5" Statut="V" />			
+					<Tireur REF="32657" Score="4" Statut="D"/>
+                  </Match>
+        			                <Match ID="2">
+					<Tireur REF="34549" Score="1" Statut="D" />			
+					<Tireur REF="34259" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="3">
+					<Tireur REF="30327" Score="5" Statut="V" />			
+					<Tireur REF="30326" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="4">
+					<Tireur REF="34259" Score="5" Statut="V" />			
+					<Tireur REF="33746" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="5">
+					<Tireur REF="32657" Score="5" Statut="V" />			
+					<Tireur REF="30327" Score="3" Statut="D"/>
+                  </Match>
+        			                <Match ID="6">
+					<Tireur REF="30326" Score="2" Statut="D" />			
+					<Tireur REF="34549" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="7">
+					<Tireur REF="33746" Score="5" Statut="V" />			
+					<Tireur REF="30327" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="8">
+					<Tireur REF="34259" Score="5" Statut="V" />			
+					<Tireur REF="30326" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="9">
+					<Tireur REF="34549" Score="0" Statut="D" />			
+					<Tireur REF="32657" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="10">
+					<Tireur REF="30326" Score="0" Statut="D" />			
+					<Tireur REF="33746" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="11">
+					<Tireur REF="30327" Score="5" Statut="V" />			
+					<Tireur REF="34549" Score="0" Statut="D"/>
+                  </Match>
+        			                <Match ID="12">
+					<Tireur REF="32657" Score="3" Statut="D" />			
+					<Tireur REF="34259" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="13">
+					<Tireur REF="33746" Score="5" Statut="V" />			
+					<Tireur REF="34549" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="14">
+					<Tireur REF="30326" Score="4" Statut="D" />			
+					<Tireur REF="32657" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="15">
+					<Tireur REF="34259" Score="5" Statut="V" />			
+					<Tireur REF="30327" Score="2" Statut="D"/>
+                  </Match>
+        						</Poule>
+						<Poule ID="6" Date="12:00" Piste="17">
+			        <Tireur REF="18774" NoDansLaPoule="1" NbVictoires="0" NbMatches="5" TD="5" TR="22" RangPoule="6" />
+			        <Tireur REF="28249" NoDansLaPoule="2" NbVictoires="3" NbMatches="5" TD="22" TR="17" RangPoule="3" />
+			        <Tireur REF="20610" NoDansLaPoule="3" NbVictoires="1" NbMatches="5" TD="13" TR="21" RangPoule="5" />
+			        <Tireur REF="3903" NoDansLaPoule="4" NbVictoires="3" NbMatches="5" TD="15" TR="18" RangPoule="4" />
+			        <Tireur REF="16054" NoDansLaPoule="5" NbVictoires="3" NbMatches="5" TD="23" TR="13" RangPoule="2" />
+			        <Tireur REF="4464" NoDansLaPoule="6" NbVictoires="5" NbMatches="5" TD="24" TR="11" RangPoule="1" />
+			            <Arbitre REF="8848" Role="P"/>
+                                    			                <Match ID="1">
+					<Tireur REF="18774" Score="2" Statut="D" />			
+					<Tireur REF="28249" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="2">
+					<Tireur REF="3903" Score="5" Statut="V" />			
+					<Tireur REF="20610" Score="3" Statut="D"/>
+                  </Match>
+        			                <Match ID="3">
+					<Tireur REF="4464" Score="5" Statut="V" />			
+					<Tireur REF="16054" Score="4" Statut="D"/>
+                  </Match>
+        			                <Match ID="4">
+					<Tireur REF="20610" Score="5" Statut="V" />			
+					<Tireur REF="18774" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="5">
+					<Tireur REF="28249" Score="4" Statut="D" />			
+					<Tireur REF="4464" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="6">
+					<Tireur REF="16054" Score="4" Statut="D" />			
+					<Tireur REF="3903" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="7">
+					<Tireur REF="18774" Score="0" Statut="D" />			
+					<Tireur REF="4464" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="8">
+					<Tireur REF="20610" Score="0" Statut="D" />			
+					<Tireur REF="16054" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="9">
+					<Tireur REF="3903" Score="2" Statut="D" />			
+					<Tireur REF="28249" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="10">
+					<Tireur REF="16054" Score="5" Statut="V" />			
+					<Tireur REF="18774" Score="0" Statut="D"/>
+                  </Match>
+        			                <Match ID="11">
+					<Tireur REF="4464" Score="5" Statut="V" />			
+					<Tireur REF="3903" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="12">
+					<Tireur REF="28249" Score="5" Statut="V" />			
+					<Tireur REF="20610" Score="3" Statut="D"/>
+                  </Match>
+        			                <Match ID="13">
+					<Tireur REF="18774" Score="1" Statut="D" />			
+					<Tireur REF="3903" Score="2" Statut="V"/>
+                  </Match>
+        			                <Match ID="14">
+					<Tireur REF="16054" Score="5" Statut="V" />			
+					<Tireur REF="28249" Score="3" Statut="D"/>
+                  </Match>
+        			                <Match ID="15">
+					<Tireur REF="20610" Score="2" Statut="D" />			
+					<Tireur REF="4464" Score="4" Statut="V"/>
+                  </Match>
+        						</Poule>
+						<Poule ID="7" Date="12:00" Piste="18">
+			        <Tireur REF="19574" NoDansLaPoule="1" NbVictoires="1" NbMatches="5" TD="15" TR="23" RangPoule="4" />
+			        <Tireur REF="24463" NoDansLaPoule="2" NbVictoires="1" NbMatches="5" TD="15" TR="24" RangPoule="6" />
+			        <Tireur REF="9908" NoDansLaPoule="3" NbVictoires="4" NbMatches="5" TD="22" TR="14" RangPoule="2" />
+			        <Tireur REF="32912" NoDansLaPoule="4" NbVictoires="4" NbMatches="5" TD="23" TR="13" RangPoule="1" />
+			        <Tireur REF="28025" NoDansLaPoule="5" NbVictoires="1" NbMatches="5" TD="15" TR="23" RangPoule="4" />
+			        <Tireur REF="20744" NoDansLaPoule="6" NbVictoires="4" NbMatches="5" TD="21" TR="14" RangPoule="3" />
+			            <Arbitre REF="3801" Role="P"/>
+                  <Arbitre REF="537" Role="P"/>
+                              			                <Match ID="1">
+					<Tireur REF="19574" Score="5" Statut="V" />			
+					<Tireur REF="24463" Score="4" Statut="D"/>
+                  </Match>
+        			                <Match ID="2">
+					<Tireur REF="32912" Score="3" Statut="D" />			
+					<Tireur REF="9908" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="3">
+					<Tireur REF="20744" Score="5" Statut="V" />			
+					<Tireur REF="28025" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="4">
+					<Tireur REF="9908" Score="4" Statut="V" />			
+					<Tireur REF="19574" Score="3" Statut="D"/>
+                  </Match>
+        			                <Match ID="5">
+					<Tireur REF="24463" Score="4" Statut="D" />			
+					<Tireur REF="20744" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="6">
+					<Tireur REF="28025" Score="3" Statut="D" />			
+					<Tireur REF="32912" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="7">
+					<Tireur REF="19574" Score="1" Statut="D" />			
+					<Tireur REF="20744" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="8">
+					<Tireur REF="9908" Score="5" Statut="V" />			
+					<Tireur REF="28025" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="9">
+					<Tireur REF="32912" Score="5" Statut="V" />			
+					<Tireur REF="24463" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="10">
+					<Tireur REF="28025" Score="5" Statut="V" />			
+					<Tireur REF="19574" Score="3" Statut="D"/>
+                  </Match>
+        			                <Match ID="11">
+					<Tireur REF="20744" Score="1" Statut="D" />			
+					<Tireur REF="32912" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="12">
+					<Tireur REF="24463" Score="1" Statut="D" />			
+					<Tireur REF="9908" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="13">
+					<Tireur REF="19574" Score="3" Statut="D" />			
+					<Tireur REF="32912" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="14">
+					<Tireur REF="28025" Score="4" Statut="D" />			
+					<Tireur REF="24463" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="15">
+					<Tireur REF="9908" Score="3" Statut="D" />			
+					<Tireur REF="20744" Score="5" Statut="V"/>
+                  </Match>
+        						</Poule>
+						<Poule ID="8" Date="12:00" Piste="19">
+			        <Tireur REF="27237" NoDansLaPoule="1" NbVictoires="4" NbMatches="5" TD="22" TR="16" RangPoule="2" />
+			        <Tireur REF="23447" NoDansLaPoule="2" NbVictoires="5" NbMatches="5" TD="24" TR="4" RangPoule="1" />
+			        <Tireur REF="26919" NoDansLaPoule="3" NbVictoires="2" NbMatches="5" TD="19" TR="17" RangPoule="3" />
+			        <Tireur REF="17872" NoDansLaPoule="4" NbVictoires="2" NbMatches="5" TD="17" TR="17" RangPoule="4" />
+			        <Tireur REF="27093" NoDansLaPoule="5" NbVictoires="2" NbMatches="5" TD="13" TR="19" RangPoule="5" />
+			        <Tireur REF="47237" NoDansLaPoule="6" NbVictoires="0" NbMatches="5" TD="3" TR="25" RangPoule="6" />
+			            <Arbitre REF="5389" Role="P"/>
+                                    			                <Match ID="1">
+					<Tireur REF="27237" Score="2" Statut="D" />			
+					<Tireur REF="23447" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="2">
+					<Tireur REF="17872" Score="3" Statut="D" />			
+					<Tireur REF="26919" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="3">
+					<Tireur REF="47237" Score="1" Statut="D" />			
+					<Tireur REF="27093" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="4">
+					<Tireur REF="26919" Score="4" Statut="D" />			
+					<Tireur REF="27237" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="5">
+					<Tireur REF="23447" Score="5" Statut="V" />			
+					<Tireur REF="47237" Score="0" Statut="D"/>
+                  </Match>
+        			                <Match ID="6">
+					<Tireur REF="27093" Score="1" Statut="D" />			
+					<Tireur REF="17872" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="7">
+					<Tireur REF="27237" Score="5" Statut="V" />			
+					<Tireur REF="47237" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="8">
+					<Tireur REF="26919" Score="3" Statut="D" />			
+					<Tireur REF="27093" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="9">
+					<Tireur REF="17872" Score="0" Statut="D" />			
+					<Tireur REF="23447" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="10">
+					<Tireur REF="27093" Score="2" Statut="D" />			
+					<Tireur REF="27237" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="11">
+					<Tireur REF="47237" Score="1" Statut="D" />			
+					<Tireur REF="17872" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="12">
+					<Tireur REF="23447" Score="4" Statut="V" />			
+					<Tireur REF="26919" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="13">
+					<Tireur REF="27237" Score="5" Statut="V" />			
+					<Tireur REF="17872" Score="4" Statut="D"/>
+                  </Match>
+        			                <Match ID="14">
+					<Tireur REF="27093" Score="0" Statut="D" />			
+					<Tireur REF="23447" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="15">
+					<Tireur REF="26919" Score="5" Statut="V" />			
+					<Tireur REF="47237" Score="0" Statut="D"/>
+                  </Match>
+        						</Poule>
+						<Poule ID="9" Date="12:00" Piste="20">
+			        <Tireur REF="42286" NoDansLaPoule="1" NbVictoires="3" NbMatches="5" TD="20" TR="16" RangPoule="3" />
+			        <Tireur REF="26961" NoDansLaPoule="2" NbVictoires="1" NbMatches="5" TD="13" TR="22" RangPoule="5" />
+			        <Tireur REF="10688" NoDansLaPoule="3" NbVictoires="5" NbMatches="5" TD="25" TR="13" RangPoule="1" />
+			        <Tireur REF="29761" NoDansLaPoule="4" NbVictoires="1" NbMatches="5" TD="14" TR="22" RangPoule="4" />
+			        <Tireur REF="27233" NoDansLaPoule="5" NbVictoires="1" NbMatches="5" TD="13" TR="22" RangPoule="5" />
+			        <Tireur REF="9426" NoDansLaPoule="6" NbVictoires="4" NbMatches="5" TD="23" TR="13" RangPoule="2" />
+			            <Arbitre REF="7705" Role="P"/>
+                                    			                <Match ID="1">
+					<Tireur REF="42286" Score="5" Statut="V" />			
+					<Tireur REF="26961" Score="3" Statut="D"/>
+                  </Match>
+        			                <Match ID="2">
+					<Tireur REF="29761" Score="3" Statut="D" />			
+					<Tireur REF="10688" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="3">
+					<Tireur REF="9426" Score="5" Statut="V" />			
+					<Tireur REF="27233" Score="1" Statut="D"/>
+                  </Match>
+        			                <Match ID="4">
+					<Tireur REF="10688" Score="5" Statut="V" />			
+					<Tireur REF="42286" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="5">
+					<Tireur REF="26961" Score="2" Statut="D" />			
+					<Tireur REF="9426" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="6">
+					<Tireur REF="27233" Score="2" Statut="D" />			
+					<Tireur REF="29761" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="7">
+					<Tireur REF="42286" Score="3" Statut="D" />			
+					<Tireur REF="9426" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="8">
+					<Tireur REF="10688" Score="5" Statut="V" />			
+					<Tireur REF="27233" Score="4" Statut="D"/>
+                  </Match>
+        			                <Match ID="9">
+					<Tireur REF="29761" Score="2" Statut="D" />			
+					<Tireur REF="26961" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="10">
+					<Tireur REF="27233" Score="1" Statut="D" />			
+					<Tireur REF="42286" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="11">
+					<Tireur REF="9426" Score="5" Statut="V" />			
+					<Tireur REF="29761" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="12">
+					<Tireur REF="26961" Score="1" Statut="D" />			
+					<Tireur REF="10688" Score="5" Statut="V"/>
+                  </Match>
+        			                <Match ID="13">
+					<Tireur REF="42286" Score="5" Statut="V" />			
+					<Tireur REF="29761" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="14">
+					<Tireur REF="27233" Score="5" Statut="V" />			
+					<Tireur REF="26961" Score="2" Statut="D"/>
+                  </Match>
+        			                <Match ID="15">
+					<Tireur REF="10688" Score="5" Statut="V" />			
+					<Tireur REF="9426" Score="3" Statut="D"/>
+                  </Match>
+        						</Poule>
+			    </TourDePoules>
+		        <PhaseDeTableaux PhaseID="PhaseTableaux1" ID="1">
+                  <Tireur REF="9377" RangInitial="1"	RangFinal="9" Statut="N" />
+            <Tireur REF="25514" RangInitial="2"	RangFinal="17" Statut="N" />
+            <Tireur REF="23447" RangInitial="3"	RangFinal="10" Statut="N" />
+            <Tireur REF="19878" RangInitial="4"	RangFinal="3" Statut="N" />
+            <Tireur REF="34259" RangInitial="5"	RangFinal="11" Statut="N" />
+            <Tireur REF="4464" RangInitial="6"	RangFinal="1" Statut="N" />
+            <Tireur REF="10688" RangInitial="7"	RangFinal="5" Statut="N" />
+            <Tireur REF="17481" RangInitial="8"	RangFinal="12" Statut="N" />
+            <Tireur REF="18831" RangInitial="9"	RangFinal="2" Statut="N" />
+            <Tireur REF="12780" RangInitial="10"	RangFinal="13" Statut="N" />
+            <Tireur REF="37965" RangInitial="11"	RangFinal="18" Statut="N" />
+            <Tireur REF="9426" RangInitial="12"	RangFinal="19" Statut="N" />
+            <Tireur REF="32912" RangInitial="13"	RangFinal="19" Statut="N" />
+            <Tireur REF="33746" RangInitial="14"	RangFinal="6" Statut="N" />
+            <Tireur REF="9908" RangInitial="15"	RangFinal="21" Statut="N" />
+            <Tireur REF="20744" RangInitial="16"	RangFinal="7" Statut="N" />
+            <Tireur REF="27237" RangInitial="17"	RangFinal="22" Statut="N" />
+            <Tireur REF="25834" RangInitial="18"	RangFinal="14" Statut="N" />
+            <Tireur REF="16054" RangInitial="19"	RangFinal="23" Statut="N" />
+            <Tireur REF="4164" RangInitial="20"	RangFinal="15" Statut="N" />
+            <Tireur REF="28249" RangInitial="21"	RangFinal="8" Statut="N" />
+            <Tireur REF="32657" RangInitial="22"	RangFinal="16" Statut="N" />
+            <Tireur REF="42286" RangInitial="23"	RangFinal="24" Statut="N" />
+            <Tireur REF="3903" RangInitial="24"	RangFinal="25" Statut="N" />
+            <Tireur REF="29054" RangInitial="25"	RangFinal="33" Statut="N" />
+            <Tireur REF="17524" RangInitial="26"	RangFinal="26" Statut="N" />
+            <Tireur REF="29852" RangInitial="27"	RangFinal="34" Statut="N" />
+            <Tireur REF="20135" RangInitial="28"	RangFinal="35" Statut="N" />
+            <Tireur REF="45338" RangInitial="29"	RangFinal="36" Statut="N" />
+            <Tireur REF="26919" RangInitial="30"	RangFinal="37" Statut="N" />
+            <Tireur REF="40389" RangInitial="31"	RangFinal="38" Statut="N" />
+            <Tireur REF="17872" RangInitial="32"	RangFinal="39" Statut="N" />
+            <Tireur REF="30327" RangInitial="33"	RangFinal="27" Statut="N" />
+            <Tireur REF="20514" RangInitial="34"	RangFinal="3" Statut="N" />
+            <Tireur REF="31645" RangInitial="35"	RangFinal="28" Statut="N" />
+            <Tireur REF="27093" RangInitial="36"	RangFinal="29" Statut="N" />
+            <Tireur REF="20938" RangInitial="37"	RangFinal="30" Statut="N" />
+            <Tireur REF="28761" RangInitial="38"	RangFinal="31" Statut="N" />
+            <Tireur REF="35939" RangInitial="39"	RangFinal="40" Statut="N" />
+            <Tireur REF="32393" RangInitial="40"	RangFinal="32" Statut="N" />
+            <Tireur REF="19574" RangInitial="41"	RangFinal="41" Statut="N" />
+            <Tireur REF="28025" RangInitial="42"	RangFinal="41" Statut="N" />
+            <Tireur REF="29761" RangInitial="43"	RangFinal="43" Statut="N" />
+            <Tireur REF="20610" RangInitial="44"	RangFinal="44" Statut="N" />
+                                                                                                                  <SuiteDeTableaux ID="SuiteTab_A" Titre="Tableau de 64" NbdeTableaux="6" ModusNo="6">
+                  <Tableau ID="A64" Titre="Tableau de 64" Taille="64"  DestinationDesElimines="">
+                                                            <Match ID="2" Date="14:20" Piste="5">
+                            <Arbitre REF="25724" Role="P"/>
+                                                                                                  <Tireur REF="30327" Score="15" Statut="V"/>
+              <Tireur REF="17872" Score="10" Statut="D"/>             
+                          </Match>           
+                                                                                                                        <Match ID="6" Date="14:20" Piste="6">
+                            <Arbitre REF="-166485" Role="P"/>
+                                                                                                  <Tireur REF="19574" Score="5" Statut="D"/>
+              <Tireur REF="3903" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="7" Date="14:20" Piste="7">
+                            <Arbitre REF="5389" Role="P"/>
+                                                                                                  <Tireur REF="29054" Score="13" Statut="D"/>
+              <Tireur REF="32393" Score="14" Statut="V"/>             
+                          </Match>           
+                                                                                                <Match ID="10" Date="14:20" Piste="8">
+                            <Arbitre REF="8848" Role="P"/>
+                                                                                                  <Tireur REF="20938" Score="15" Statut="V"/>
+              <Tireur REF="20135" Score="14" Statut="D"/>             
+                          </Match>           
+                                                <Match ID="11" Date="14:20" Piste="9">
+                            <Arbitre REF="12141" Role="P"/>
+                                                                                                  <Tireur REF="28249" Score="15" Statut="V"/>
+              <Tireur REF="20610" Score="9" Statut="D"/>             
+                          </Match>           
+                                                                                                                        <Match ID="15" Date="14:20" Piste="10">
+                            <Arbitre REF="24753" Role="P"/>
+                                                                                                  <Tireur REF="45338" Score="4" Statut="D"/>
+              <Tireur REF="27093" Score="15" Statut="V"/>             
+                          </Match>           
+                                                                                                <Match ID="18" Date="14:20" Piste="11">
+                            <Arbitre REF="3801" Role="P"/>
+                                                                                                  <Tireur REF="31645" Score="15" Statut="V"/>
+              <Tireur REF="26919" Score="4" Statut="D"/>             
+                          </Match>           
+                                                                                                                        <Match ID="22" Date="14:20" Piste="12">
+                            <Arbitre REF="2297" Role="P"/>
+                                                                                                  <Tireur REF="29761" Score="14" Statut="D"/>
+              <Tireur REF="32657" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="23" Date="14:20" Piste="13">
+                            <Arbitre REF="23648" Role="P"/>
+                                                                                                  <Tireur REF="29852" Score="14" Statut="D"/>
+              <Tireur REF="28761" Score="15" Statut="V"/>             
+                          </Match>           
+                                                                                                <Match ID="26" Date="14:20" Piste="14">
+                            <Arbitre REF="537" Role="P"/>
+                                                                                                  <Tireur REF="35939" Score="13" Statut="D"/>
+              <Tireur REF="17524" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="27" Date="14:20" Piste="15">
+                            <Arbitre REF="7705" Role="P"/>
+                                                                                                  <Tireur REF="42286" Score="15" Statut="V"/>
+              <Tireur REF="28025" Score="9" Statut="D"/>             
+                          </Match>           
+                                                                                                                        <Match ID="31" Date="14:20" Piste="16">
+                            <Arbitre REF="7731" Role="P"/>
+                                                                                                  <Tireur REF="40389" Score="7" Statut="D"/>
+              <Tireur REF="20514" Score="15" Statut="V"/>             
+                          </Match>           
+                                                          </Tableau>
+                  <Tableau ID="A32" Titre="Tableau de 32" Taille="32"  DestinationDesElimines="">
+                                    <Match ID="1" Date="14:50" Piste="5">
+                            <Arbitre REF="537" Role="P"/>
+                                                                                                  <Arbitre REF="2297" Role="V"/>
+                            <Tireur REF="9377" Score="15" Statut="V"/>
+              <Tireur REF="30327" Score="13" Statut="D"/>             
+                          </Match>           
+                                                <Match ID="2" Date="15:10" Piste="5">
+                            <Arbitre REF="2297" Role="P"/>
+                                                                                                  <Arbitre REF="537" Role="V"/>
+                            <Tireur REF="27237" Score="9" Statut="D"/>
+              <Tireur REF="20744" Score="10" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="3" Date="15:30" Piste="5">
+                            <Arbitre REF="537" Role="P"/>
+                                                                                                  <Arbitre REF="2297" Role="V"/>
+                            <Tireur REF="18831" Score="14" Statut="V"/>
+              <Tireur REF="3903" Score="12" Statut="D"/>             
+                          </Match>           
+                                                <Match ID="4" Date="15:50" Piste="5">
+                            <Arbitre REF="537" Role="P"/>
+                                                                                                  <Arbitre REF="2297" Role="V"/>
+                            <Tireur REF="32393" Score="12" Statut="D"/>
+              <Tireur REF="17481" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="5" Date="14:50" Piste="6">
+                            <Arbitre REF="24753" Role="P"/>
+                                                                                                  <Arbitre REF="7705" Role="V"/>
+                            <Tireur REF="34259" Score="15" Statut="V"/>
+              <Tireur REF="20938" Score="14" Statut="D"/>             
+                          </Match>           
+                                                <Match ID="6" Date="15:10" Piste="6">
+                            <Arbitre REF="23648" Role="P"/>
+                                                                                                  <Arbitre REF="24753" Role="V"/>
+                            <Tireur REF="28249" Score="15" Statut="V"/>
+              <Tireur REF="9426" Score="13" Statut="D"/>             
+                          </Match>           
+                                                <Match ID="7" Date="15:30" Piste="6">
+                            <Arbitre REF="7705" Role="P"/>
+                                                                                                  <Arbitre REF="24753" Role="V"/>
+                            <Tireur REF="32912" Score="11" Statut="D"/>
+              <Tireur REF="4164" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="8" Date="15:50" Piste="YELLOW">
+                            <Arbitre REF="7705" Role="P"/>
+                                                                                                  <Arbitre REF="24753" Role="V"/>
+                            <Tireur REF="27093" Score="7" Statut="D"/>
+              <Tireur REF="19878" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="9" Date="14:50" Piste="7">
+                            <Arbitre REF="12141" Role="P"/>
+                                                                                                  <Arbitre REF="-166485" Role="V"/>
+                            <Tireur REF="23447" Score="15" Statut="V"/>
+              <Tireur REF="31645" Score="3" Statut="D"/>             
+                          </Match>           
+                                                <Match ID="10" Date="15:10" Piste="7">
+                            <Arbitre REF="5389" Role="P"/>
+                                                                                                  <Arbitre REF="-166485" Role="V"/>
+                            <Tireur REF="16054" Score="9" Statut="D"/>
+              <Tireur REF="33746" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="11" Date="15:30" Piste="7">
+                            <Arbitre REF="-166485" Role="P"/>
+                                                                                                  <Arbitre REF="12141" Role="V"/>
+                            <Tireur REF="37965" Score="13" Statut="D"/>
+              <Tireur REF="32657" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="12" Date="15:50" Piste="7">
+                            <Arbitre REF="5389" Role="P"/>
+                                                                                                  <Arbitre REF="-166485" Role="V"/>
+                            <Tireur REF="28761" Score="4" Statut="D"/>
+              <Tireur REF="4464" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="13" Date="14:50" Piste="8">
+                            <Arbitre REF="8848" Role="P"/>
+                                                                                                  <Arbitre REF="25724" Role="V"/>
+                            <Tireur REF="10688" Score="15" Statut="V"/>
+              <Tireur REF="17524" Score="3" Statut="D"/>             
+                          </Match>           
+                                                <Match ID="14" Date="15:10" Piste="8">
+                            <Arbitre REF="25724" Role="P"/>
+                                                                                                  <Arbitre REF="8848" Role="V"/>
+                            <Tireur REF="42286" Score="14" Statut="D"/>
+              <Tireur REF="12780" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="15" Date="15:30" Piste="8">
+                            <Arbitre REF="8848" Role="P"/>
+                                                                                                  <Arbitre REF="25724" Role="V"/>
+                            <Tireur REF="9908" Score="11" Statut="D"/>
+              <Tireur REF="25834" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="16" Date="15:50" Piste="8">
+                            <Arbitre REF="25724" Role="P"/>
+                                                                                                  <Arbitre REF="8848" Role="V"/>
+                            <Tireur REF="20514" Score="15" Statut="V"/>
+              <Tireur REF="25514" Score="13" Statut="D"/>             
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="A16" Titre="Tableau de 16" Taille="16"  DestinationDesElimines="">
+                                    <Match ID="1" Date="16:20" Piste="BLUE">
+                            <Arbitre REF="537" Role="P"/>
+                                                                                                  <Arbitre REF="7705" Role="V"/>
+                            <Tireur REF="9377" Score="11" Statut="D"/>
+              <Tireur REF="20744" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="2" Date="16:45" Piste="BLUE">
+                            <Arbitre REF="537" Role="P"/>
+                                                                                                  <Arbitre REF="24753" Role="V"/>
+                            <Tireur REF="18831" Score="15" Statut="V"/>
+              <Tireur REF="17481" Score="6" Statut="D"/>             
+                          </Match>           
+                                                <Match ID="3" Date="16:20" Piste="YELLOW">
+                            <Arbitre REF="23648" Role="P"/>
+                                                                                                  <Arbitre REF="2297" Role="V"/>
+                            <Tireur REF="34259" Score="10" Statut="D"/>
+              <Tireur REF="28249" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="4" Date="16:45" Piste="YELLOW">
+                            <Arbitre REF="2297" Role="P"/>
+                                                                                                  <Arbitre REF="23648" Role="V"/>
+                            <Tireur REF="4164" Score="6" Statut="D"/>
+              <Tireur REF="19878" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="5" Date="16:20" Piste="GREEN">
+                            <Arbitre REF="12141" Role="P"/>
+                                                                                                  <Arbitre REF="5389" Role="V"/>
+                            <Tireur REF="23447" Score="13" Statut="D"/>
+              <Tireur REF="33746" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="6" Date="16:45" Piste="GREEN">
+                            <Arbitre REF="5389" Role="P"/>
+                                                                                                  <Arbitre REF="12141" Role="V"/>
+                            <Tireur REF="32657" Score="12" Statut="D"/>
+              <Tireur REF="4464" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="7" Date="16:20" Piste="RED">
+                            <Arbitre REF="8848" Role="P"/>
+                                                                                                  <Arbitre REF="25724" Role="V"/>
+                            <Tireur REF="10688" Score="15" Statut="V"/>
+              <Tireur REF="12780" Score="10" Statut="D"/>             
+                          </Match>           
+                                                <Match ID="8" Date="16:45" Piste="RED">
+                            <Arbitre REF="25724" Role="P"/>
+                                                                                                  <Arbitre REF="8848" Role="V"/>
+                            <Tireur REF="25834" Score="10" Statut="D"/>
+              <Tireur REF="20514" Score="15" Statut="V"/>             
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="A8" Titre="Tableau de 8" Taille="8"  DestinationDesElimines="">
+                                    <Match ID="1" Date="17:25" Piste="BLUE">
+                            <Arbitre REF="537" Role="P"/>
+                                                                                                  <Arbitre REF="7705" Role="V"/>
+                            <Tireur REF="20744" Score="6" Statut="D"/>
+              <Tireur REF="18831" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="2" Date="17:25" Piste="YELLOW">
+                            <Arbitre REF="23648" Role="P"/>
+                                                                                                  <Arbitre REF="2297" Role="V"/>
+                            <Tireur REF="28249" Score="13" Statut="D"/>
+              <Tireur REF="19878" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="3" Date="17:25" Piste="GREEN">
+                            <Arbitre REF="12141" Role="P"/>
+                                                                                                  <Arbitre REF="5389" Role="V"/>
+                            <Tireur REF="33746" Score="5" Statut="D"/>
+              <Tireur REF="4464" Score="15" Statut="V"/>             
+                          </Match>           
+                                                <Match ID="4" Date="17:25" Piste="RED">
+                            <Arbitre REF="25724" Role="P"/>
+                                                                                                  <Arbitre REF="8848" Role="V"/>
+                            <Tireur REF="10688" Score="11" Statut="D"/>
+              <Tireur REF="20514" Score="15" Statut="V"/>             
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="A4" Titre="Semi-Finale" Taille="4"  DestinationDesElimines="">
+                                    <Match ID="1" Date="18:40" Piste="FINAL">
+                            <Arbitre REF="5389" Role="P"/>
+                                                                      <Arbitre REF="7705" Role="A"/>
+                                          <Arbitre REF="25724" Role="A"/>
+                                          <Arbitre REF="12141" Role="V"/>
+                            <Tireur REF="18831" Score="15" Statut="V"/>
+              <Tireur REF="19878" Score="11" Statut="D"/>             
+                          </Match>           
+                                                <Match ID="2" Date="19:00" Piste="FINAL">
+                            <Arbitre REF="25724" Role="P"/>
+                                                                      <Arbitre REF="12141" Role="A"/>
+                                          <Arbitre REF="5389" Role="A"/>
+                                          <Arbitre REF="7705" Role="V"/>
+                            <Tireur REF="4464" Score="15" Statut="V"/>
+              <Tireur REF="20514" Score="13" Statut="D"/>             
+                          </Match>           
+                                  </Tableau>
+                  <Tableau ID="A2" Titre="Finale" Taille="2"  DestinationDesElimines="">
+                                    <Match ID="1" Date="19:40" Piste="FINAL">
+                            <Arbitre REF="12141" Role="P"/>
+                                                                      <Arbitre REF="7705" Role="A"/>
+                                          <Arbitre REF="5389" Role="A"/>
+                                          <Arbitre REF="25724" Role="V"/>
+                            <Tireur REF="18831" Score="8" Statut="D"/>
+              <Tireur REF="4464" Score="15" Statut="V"/>             
+                          </Match>           
+                                  </Tableau>
+                
+      </SuiteDeTableaux>
+          </PhaseDeTableaux>
+    	</Phases>
+</CompetitionIndividuelle> 
