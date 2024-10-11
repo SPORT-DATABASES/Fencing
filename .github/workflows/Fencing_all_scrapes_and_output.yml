@@ -68,9 +68,10 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add Eurofencing_Individual_Rankings.csv FIE_Ranking_data.csv Ranking_PDF_reports/Fencing_Ranking_Report_*.pdf
+          git add Eurofencing_Individual_Rankings.csv FIE_Ranking_data.csv Eurofencing_Team_Rankings.csv Ranking_PDF_reports/Fencing_Ranking_Report_*.pdf
           git commit -m "Update weekly FIE and Eurofencing csvs, push to Databases, PDF and email"
           git push origin HEAD:main
+
 
       - name: Run PDF and Email script
         run: |
