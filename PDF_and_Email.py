@@ -157,7 +157,7 @@ body = "Please find attached the latest Fencing Athlete Rankings report."
 ################Create the email
 
 sender_email = "kennymcmillan29@gmail.com"
-receiver_emails = ["kennymcmillan29@gmail.com","massimo.omeri@aspire.qa"]
+receiver_emails = ["kennymcmillan29@gmail.com" ,"massimo.omeri@aspire.qa"]
 password = "lcsc pcuy pgxb zcri"
 
 msg = MIMEMultipart()
