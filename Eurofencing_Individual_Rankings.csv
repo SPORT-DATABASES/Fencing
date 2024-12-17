@@ -1418,21 +1418,21 @@ Comp_1,Comp_2,Comp_3,Comp_4,Comp_5,Comp_6,Comp_7,Comp_8,Comp_9,Age,Gender,Name,N
 -,3,12,12,-,3,-,-,10,Cadets,Men,BRYDEN Joshua,GBR,40.0,45,Sabre,2008
 8,12,6,12,-,-,-,-,-,Cadets,Men,AKPINAR ali baris,TUR,38.0,46,Sabre,2008
 -,12,12,3,(0),-,6,-,5,Cadets,Men,KONG Kenneth,SWE,38.0,47,Sabre,2009
--,3,-,3,24,6,-,-,-,Cadets,Men,MODOS Ferenc,HUN,36.0,48,Sabre,2008
--,-,-,12,-,24,-,-,0,Cadets,Men,AMAT BAZTARRIKA Markel,ESP,36.0,49,Sabre,2008
--,12,-,12,12,-,-,-,-,Cadets,Men,ANTHONY Devyn,USA,36.0,50,Sabre,2009
--,(3),-,6,3,6,-,20,-,Cadets,Men,WEISER Tim,GER,35.0,51,Sabre,2008
--,-,-,-,3,6,24,-,-,Cadets,Men,BLOIN Maxence,FRA,33.0,52,Sabre,2008
--,3,-,24,6,-,-,-,-,Cadets,Men,CIRKOS Sebestyen,HUN,33.0,53,Sabre,2009
--,12,-,12,3,6,-,-,-,Cadets,Men,KANG Evan,USA,33.0,54,Sabre,2009
--,-,-,-,6,-,24,-,-,Cadets,Men,HOSPITAL BAPTISTE,FRA,30.0,55,Sabre,2008
--,(3),12,6,6,6,-,-,-,Cadets,Men,BEDFORD Raphael,GBR,30.0,56,Sabre,2008
--,24,-,-,0,3,-,-,-,Cadets,Men,DI PROSPERO Lorenzo,ITA,27.0,57,Sabre,2009
--,12,12,3,-,-,-,-,-,Cadets,Men,EVANS Joe,GBR,27.0,58,Sabre,2008
--,12,-,12,3,-,-,-,-,Cadets,Men,MOLNAR Milan,HUN,27.0,59,Sabre,2009
-8,3,12,3,-,-,-,-,-,Cadets,Men,OSMANAGAOGLU ziya arda,TUR,26.0,60,Sabre,2010
--,-,-,-,24,-,-,-,-,Cadets,Men,LI Howard,USA,24.0,61,Sabre,2011
--,-,-,-,24,-,-,-,-,Cadets,Men,LE GAC BRIAND ulysse,FRA,24.0,62,Sabre,2008
+-,-,-,-,24,6,6,-,-,Cadets,Men,LE GAC BRIAND Ulysse,FRA,36.0,48,Sabre,2008
+-,3,-,3,24,6,-,-,-,Cadets,Men,MODOS Ferenc,HUN,36.0,49,Sabre,2008
+-,-,-,12,-,24,-,-,0,Cadets,Men,AMAT BAZTARRIKA Markel,ESP,36.0,50,Sabre,2008
+-,12,-,12,12,-,-,-,-,Cadets,Men,ANTHONY Devyn,USA,36.0,51,Sabre,2009
+-,(3),-,6,3,6,-,20,-,Cadets,Men,WEISER Tim,GER,35.0,52,Sabre,2008
+-,-,-,-,3,6,24,-,-,Cadets,Men,BLOIN Maxence,FRA,33.0,53,Sabre,2008
+-,3,-,24,6,-,-,-,-,Cadets,Men,CIRKOS Sebestyen,HUN,33.0,54,Sabre,2009
+-,12,-,12,3,6,-,-,-,Cadets,Men,KANG Evan,USA,33.0,55,Sabre,2009
+-,-,-,-,6,-,24,-,-,Cadets,Men,HOSPITAL BAPTISTE,FRA,30.0,56,Sabre,2008
+-,(3),12,6,6,6,-,-,-,Cadets,Men,BEDFORD Raphael,GBR,30.0,57,Sabre,2008
+-,24,-,-,0,3,-,-,-,Cadets,Men,DI PROSPERO Lorenzo,ITA,27.0,58,Sabre,2009
+-,12,12,3,-,-,-,-,-,Cadets,Men,EVANS Joe,GBR,27.0,59,Sabre,2008
+-,12,-,12,3,-,-,-,-,Cadets,Men,MOLNAR Milan,HUN,27.0,60,Sabre,2009
+8,3,12,3,-,-,-,-,-,Cadets,Men,OSMANAGAOGLU ziya arda,TUR,26.0,61,Sabre,2010
+-,-,-,-,24,-,-,-,-,Cadets,Men,LI Howard,USA,24.0,62,Sabre,2011
 -,-,24,-,-,-,-,-,-,Cadets,Men,SALEH adam,EGY,24.0,63,Sabre,2008
 -,-,24,-,-,-,-,-,-,Cadets,Men,ABULOV Shannazar,UZB,24.0,64,Sabre,2008
 -,3,12,3,-,-,6,-,-,Cadets,Men,LEE WILLIAM NIGEL,MAS,24.0,65,Sabre,2010
@@ -1491,437 +1491,436 @@ Comp_1,Comp_2,Comp_3,Comp_4,Comp_5,Comp_6,Comp_7,Comp_8,Comp_9,Age,Gender,Name,N
 -,-,12,-,-,-,-,-,-,Cadets,Men,KENESBAEV Nursultan,UZB,12.0,118,Sabre,2008
 -,-,-,-,12,-,-,-,-,Cadets,Men,NAGASHIMA Tsubasa,JPN,12.0,118,Sabre,2010
 -,-,12,-,-,-,-,-,-,Cadets,Men,KAIYM Aibar,KAZ,12.0,120,Sabre,2009
--,-,-,-,-,6,6,-,-,Cadets,Men,LE GAC BRIAND Ulysse,FRA,12.0,121,Sabre,2008
--,0,-,6,-,-,6,-,-,Cadets,Men,SYDORENKO ILLIA,UKR,12.0,122,Sabre,2008
--,0,6,0,-,-,6,-,-,Cadets,Men,MILANOV Nikola,BUL,12.0,123,Sabre,2008
--,6,-,-,6,-,-,-,-,Cadets,Men,MAESTRI Riccardo,ITA,12.0,124,Sabre,2008
--,6,-,6,-,-,-,-,-,Cadets,Men,HUANG Alex,USA,12.0,125,Sabre,2010
--,3,-,6,-,3,-,-,-,Cadets,Men,DE ANDRES JIMENEZ Jose Antonio,ESP,12.0,126,Sabre,2009
--,3,-,3,-,-,6,-,-,Cadets,Men,TETRADIS Loukas Athanasios,GRE,12.0,127,Sabre,2008
--,3,-,3,6,-,-,-,-,Cadets,Men,FARSANG Lorant,HUN,12.0,128,Sabre,2010
--,0,6,(0),3,-,3,-,-,Cadets,Men,BETEAGU Rares,ROU,12.0,129,Sabre,2008
--,3,-,3,6,-,-,-,-,Cadets,Men,THIEL Alexander,GER,12.0,130,Sabre,2009
--,3,-,6,-,-,3,-,-,Cadets,Men,SKOUNTZOS Iraklis,GRE,12.0,131,Sabre,2008
--,0,3,3,-,-,6,-,-,Cadets,Men,TATULESCU Chrisley,ROU,12.0,132,Sabre,2008
--,3,6,0,3,(0),-,-,-,Cadets,Men,SAUNDERS Maximillian,GBR,12.0,133,Sabre,2008
--,6,-,3,3,-,-,-,-,Cadets,Men,FODOR Bendeguz,HUN,12.0,134,Sabre,2009
--,(0),3,3,3,-,3,-,-,Cadets,Men,CAPATINA Sebastian,ROU,12.0,135,Sabre,2008
--,(0),-,6,3,0,-,25,-,Cadets,Men,JAMSIN Jorian,BEL,12.0,136,Sabre,2008
-8,-,3,0,-,-,-,-,-,Cadets,Men,GUNGOR Berk,TUR,11.0,137,Sabre,2008
--,-,-,6,-,-,-,5,-,Cadets,Men,ARPAIA Leandro,ITA,11.0,138,Sabre,2008
--,3,-,0,-,-,3,5,-,Cadets,Men,KULESHA Iurii,UKR,11.0,139,Sabre,2010
-4,-,6,-,-,-,-,-,-,Cadets,Men,GAR umut,TUR,10.0,140,Sabre,2008
-4,0,6,0,-,-,-,-,-,Cadets,Men,COSKUN erturk selim,TUR,10.0,141,Sabre,2010
-4,-,6,-,-,-,-,-,-,Cadets,Men,ISLAMZADE Aykhan,AZE,10.0,142,Sabre,2009
-4,3,3,0,-,-,-,-,-,Cadets,Men,VAPURCU Ege,TUR,10.0,143,Sabre,2009
-4,-,6,-,-,-,-,-,-,Cadets,Men,KURALOV Yerkanat,KAZ,10.0,144,Sabre,2009
--,-,-,-,-,-,-,10,-,Cadets,Men,TREJO Victor,MEX,10.0,145,Sabre,2008
--,-,-,3,6,-,-,-,-,Cadets,Men,BERA Enzo,POL,9.0,146,Sabre,2008
--,0,6,0,-,-,3,-,-,Cadets,Men,MUNTEANU Mihnea,ROU,9.0,147,Sabre,2009
--,6,-,3,0,-,-,-,-,Cadets,Men,STEINBACHER Janos,HUN,9.0,148,Sabre,2008
--,0,3,0,-,-,6,-,-,Cadets,Men,SOARE Calin,ROU,9.0,149,Sabre,2009
--,3,-,-,6,-,-,-,-,Cadets,Men,VINCENZI GIORDANO,ITA,9.0,150,Sabre,2010
--,3,-,6,0,-,-,-,-,Cadets,Men,PINTO Marcus,BRA,9.0,151,Sabre,2010
--,0,-,6,3,-,-,-,-,Cadets,Men,VANGEEL Florian,BEL,9.0,152,Sabre,2008
--,6,-,-,3,-,-,-,-,Cadets,Men,PELLEGATTA Vittorio,ITA,9.0,153,Sabre,2010
--,-,3,6,-,-,-,-,-,Cadets,Men,SAMSA deniz osman,TUR,9.0,154,Sabre,2011
--,6,-,-,3,-,-,-,-,Cadets,Men,BOTTEGA Mattia,ITA,9.0,155,Sabre,2010
--,-,-,6,-,3,-,-,-,Cadets,Men,ROMAN BLANQUE Alejandro,ESP,9.0,156,Sabre,2009
--,0,3,0,-,-,6,-,-,Cadets,Men,NASTASE Mihnea,ROU,9.0,157,Sabre,2009
--,-,-,3,0,6,-,-,-,Cadets,Men,LIAN Marcus Kang Jing,SGP,9.0,158,Sabre,2009
--,3,-,3,3,0,-,-,-,Cadets,Men,SCHIFFER Matti,GER,9.0,159,Sabre,2009
--,3,-,3,3,-,-,-,-,Cadets,Men,BANHAZI Bulcsu,HUN,9.0,160,Sabre,2009
--,3,3,-,-,-,3,-,-,Cadets,Men,KOUMPAROS Michail,GRE,9.0,161,Sabre,2009
--,-,-,3,3,3,-,-,-,Cadets,Men,TAN Julius Xuan Lin,SGP,9.0,162,Sabre,2008
--,-,3,3,3,-,-,-,-,Cadets,Men,TOMAC Stefan,ROU,9.0,163,Sabre,2010
--,-,-,3,3,3,-,-,-,Cadets,Men,LEE Herald Lloyd,SGP,9.0,164,Sabre,2008
--,3,3,0,(0),-,3,-,-,Cadets,Men,MANEA Noah Stefan,ROU,9.0,165,Sabre,2008
--,3,-,3,3,-,-,-,-,Cadets,Men,KRYCH Alan,POL,9.0,166,Sabre,2008
--,-,-,-,3,3,3,-,-,Cadets,Men,RISCH RIFFARTH VINCENT,FRA,9.0,167,Sabre,2009
--,0,-,3,3,3,-,-,-,Cadets,Men,SPIELBERG Severin,GER,9.0,168,Sabre,2009
--,3,3,0,3,-,-,-,-,Cadets,Men,ILIEV Viktor,BUL,9.0,169,Sabre,2008
--,0,-,-,3,-,-,5,-,Cadets,Men,LEWKOWSKI Wiktor,POL,8.0,170,Sabre,2008
--,-,3,-,-,-,-,5,-,Cadets,Men,SAFONOV Georgi,EST,8.0,171,Sabre,2009
--,0,3,(0),(0),0,-,5,-,Cadets,Men,WIELEMANS DE MARCHANT ET D'ANSEMBOURG Aymeric,BEL,8.0,172,Sabre,2008
--,-,3,0,(0),0,-,5,-,Cadets,Men,ALEXANDROV Daniel,BUL,8.0,173,Sabre,2008
--,3,-,0,0,-,-,5,0,Cadets,Men,MACHAJ Vojtech,CZE,8.0,174,Sabre,2009
-4,0,-,3,-,-,-,-,-,Cadets,Men,ZUFFA CONSTANTINO,GEO,7.0,175,Sabre,2010
-4,0,0,3,-,-,-,-,-,Cadets,Men,CALISKAN tuna,TUR,7.0,176,Sabre,2009
-4,0,3,-,-,-,-,-,-,Cadets,Men,MERT kuzey gazi,TUR,7.0,177,Sabre,2009
-4,3,0,0,-,-,-,-,-,Cadets,Men,BOZKUS berken,TUR,7.0,178,Sabre,2009
-4,0,-,0,-,-,3,-,0,Cadets,Men,JIMSHELEISHVILI DAVITI,GEO,7.0,179,Sabre,2008
--,-,-,-,6,-,-,-,-,Cadets,Men,SATO Shugo,JPN,6.0,180,Sabre,2009
--,0,6,0,-,-,-,-,-,Cadets,Men,VALEV Veselin,BUL,6.0,181,Sabre,2009
--,-,-,6,-,-,-,-,-,Cadets,Men,RAMANAN Govind,USA,6.0,182,Sabre,2008
--,6,-,-,-,-,-,-,-,Cadets,Men,YUEN Lucas,HKG,6.0,183,Sabre,2008
--,-,-,-,6,-,-,-,-,Cadets,Men,POUHAER Esteban,FRA,6.0,184,Sabre,2008
--,-,6,-,-,-,-,-,-,Cadets,Men,ABOULNEEL Omar,EGY,6.0,184,Sabre,2008
--,-,6,-,-,-,-,-,-,Cadets,Men,ABOUELSOUD saher,EGY,6.0,186,Sabre,2010
--,-,6,-,-,-,-,-,-,Cadets,Men,BEGJANOV Artur,UZB,6.0,187,Sabre,2009
--,-,6,-,-,-,-,-,-,Cadets,Men,ABDELKADER youssef,EGY,6.0,188,Sabre,2008
--,-,-,6,0,-,-,-,-,Cadets,Men,ZHENG Leon,CAN,6.0,189,Sabre,2008
--,0,6,0,-,-,-,-,-,Cadets,Men,DOCHEV Angel,BUL,6.0,190,Sabre,2008
--,0,-,0,-,0,6,-,0,Cadets,Men,SIBELIUS Etienne,FIN,6.0,191,Sabre,2009
--,0,6,-,-,-,-,-,-,Cadets,Men,KARAGULLE emir,TUR,6.0,192,Sabre,2010
--,-,6,-,-,-,-,-,-,Cadets,Men,OZGUR Tuna Kerem,TUR,6.0,193,Sabre,2008
--,6,-,-,-,-,-,-,-,Cadets,Men,PATEL Rayn,USA,6.0,193,Sabre,2009
--,-,-,0,0,6,-,-,-,Cadets,Men,LOW DE JIE Samuel,SGP,6.0,195,Sabre,2008
--,0,6,0,-,-,-,-,-,Cadets,Men,ZILELI alp seref,TUR,6.0,196,Sabre,2009
--,6,-,-,0,-,-,-,-,Cadets,Men,LANDI Filippo,ITA,6.0,197,Sabre,2010
--,-,-,-,6,-,-,-,-,Cadets,Men,NAGARA Itsuki,JPN,6.0,198,Sabre,2010
--,-,-,-,6,-,-,-,-,Cadets,Men,DUBOEUF TRISTAN,FRA,6.0,199,Sabre,2009
--,-,6,-,-,-,-,-,-,Cadets,Men,ABUHALWA Hamza,EGY,6.0,200,Sabre,2009
--,-,6,-,-,-,-,-,-,Cadets,Men,ALIMOV Saidibrokhim Saidagzamovich,UZB,6.0,201,Sabre,2010
--,-,-,-,6,-,-,-,-,Cadets,Men,OTSUKA Reo,JPN,6.0,202,Sabre,2008
--,-,6,-,-,-,-,-,-,Cadets,Men,NOURELDIN seifeldin,EGY,6.0,203,Sabre,2009
--,-,-,6,-,-,-,-,-,Cadets,Men,LIBERATO Salvatore,ITA,6.0,204,Sabre,2008
--,-,-,-,6,-,-,-,-,Cadets,Men,NG Jonathan,USA,6.0,204,Sabre,2010
--,3,3,0,0,-,-,-,-,Cadets,Men,VOCHIN Andrei,ROU,6.0,206,Sabre,2009
--,3,-,3,-,-,-,-,-,Cadets,Men,WANG Will Yiyu,CAN,6.0,207,Sabre,2009
--,(0),-,0,(0),3,3,0,0,Cadets,Men,ANSERMET Loic,SUI,6.0,208,Sabre,2009
--,-,-,3,-,3,-,-,-,Cadets,Men,VERDE ALONSO Manuel,ESP,6.0,209,Sabre,2009
--,(0),3,0,0,3,-,-,-,Cadets,Men,BUXTON William,GBR,6.0,210,Sabre,2009
--,0,-,3,3,-,-,-,-,Cadets,Men,BEN AMMOU Mohamed,BEL,6.0,211,Sabre,2009
--,-,-,3,-,3,-,-,-,Cadets,Men,GARCIA FERNANDEZ Leon,ESP,6.0,212,Sabre,2008
--,(0),3,(0),3,0,0,-,-,Cadets,Men,GREENE Alexander,GBR,6.0,213,Sabre,2009
--,(0),3,0,(0),-,3,0,-,Cadets,Men,WHITE John,GBR,6.0,214,Sabre,2008
--,3,-,3,-,-,0,-,-,Cadets,Men,BOULTADAKIS Emmanouil Marios,GRE,6.0,215,Sabre,2009
--,0,3,(0),0,-,3,-,-,Cadets,Men,CRICA Vlad,ROU,6.0,216,Sabre,2010
--,-,-,-,3,3,-,-,-,Cadets,Men,PICCIOLI BAPTISTE,FRA,6.0,217,Sabre,2008
--,0,3,0,-,-,3,-,-,Cadets,Men,ANDREEV Preslav,BUL,6.0,218,Sabre,2009
--,0,3,(0),3,-,0,-,-,Cadets,Men,VINTILA Eduard Florin,ROU,6.0,219,Sabre,2009
--,3,-,-,3,-,-,-,-,Cadets,Men,KEZDI-KOVACS Boldizsar,HUN,6.0,220,Sabre,2010
--,3,-,-,3,-,-,-,-,Cadets,Men,BODI Ignac Gedeon,HUN,6.0,221,Sabre,2008
--,0,-,0,-,-,3,25,-,Cadets,Men,OBUKHOV Nikita,UKR,6.0,222,Sabre,2009
--,0,-,0,3,-,-,25,-,Cadets,Men,RATAJ Tomasz,POL,6.0,223,Sabre,2009
--,0,-,-,3,-,-,25,-,Cadets,Men,MIODUSZEWSKI Szymon,POL,6.0,224,Sabre,2009
--,0,-,-,-,0,-,5,-,Cadets,Men,WIEKHORST Kajetan,GER,5.0,225,Sabre,2008
--,-,-,0,-,-,-,5,-,Cadets,Men,TIROTTI Tommaso,ITA,5.0,226,Sabre,2008
--,-,-,0,0,0,-,5,-,Cadets,Men,ROELOFS Erwan,SUI,5.0,227,Sabre,2008
--,0,-,-,0,-,-,5,-,Cadets,Men,GRADON Krzysztof,POL,5.0,228,Sabre,2009
--,-,-,-,-,-,-,5,-,Cadets,Men,BRUNO Simone,ITA,5.0,229,Sabre,2008
--,-,-,0,0,-,-,5,-,Cadets,Men,GROHMANN Jannis,GER,5.0,230,Sabre,2010
--,0,-,0,-,-,0,5,-,Cadets,Men,SKRYPNYK Ilia,UKR,5.0,231,Sabre,2009
-4,-,-,-,-,-,-,-,-,Cadets,Men,ALAKBARZADE Ismayil,AZE,4.0,232,Sabre,2008
-4,-,-,-,-,-,-,-,-,Cadets,Men,BOBOKHIDZE GIORGI,GEO,4.0,233,Sabre,2009
--,-,3,-,-,-,-,-,-,Cadets,Men,KARAMAN Yerkhan,KAZ,3.0,234,Sabre,2008
--,-,-,3,-,-,-,-,-,Cadets,Men,LI Yiwei,CHN,3.0,235,Sabre,2008
--,-,3,-,-,-,-,-,-,Cadets,Men,TAJETDINOV Begzad,UZB,3.0,235,Sabre,2008
--,-,-,-,-,-,3,-,0,Cadets,Men,GOGOKHIA SABA,GEO,3.0,237,Sabre,2009
--,-,3,-,-,-,-,-,-,Cadets,Men,DOGAN arda,TUR,3.0,238,Sabre,2008
--,-,-,-,3,-,-,-,-,Cadets,Men,GNABA NOE FRANCESCO,FRA,3.0,239,Sabre,2008
--,-,-,-,3,-,-,-,-,Cadets,Men,MASTROLITTO Pietro Gianni,ITA,3.0,240,Sabre,2008
--,0,-,-,3,-,-,-,-,Cadets,Men,TARPATAKY-HARY Botond,HUN,3.0,241,Sabre,2010
--,-,-,-,-,3,-,-,-,Cadets,Men,TALLARICO Tommaso,ITA,3.0,242,Sabre,2009
--,-,-,3,-,-,-,-,-,Cadets,Men,HIRSCH BUTTE' Pietro,ITA,3.0,243,Sabre,2009
--,-,-,3,0,-,-,-,-,Cadets,Men,AUW Ashton Sen Hon,SGP,3.0,244,Sabre,2009
--,-,-,-,3,-,-,-,-,Cadets,Men,THOMAS NOAH,FRA,3.0,245,Sabre,2009
--,-,-,-,3,0,-,-,-,Cadets,Men,SIROU ANTOINE,FRA,3.0,246,Sabre,2008
--,0,3,0,(0),-,0,-,-,Cadets,Men,PANDELESCU Tiberiu,ROU,3.0,247,Sabre,2009
--,3,-,0,-,-,-,-,-,Cadets,Men,BODAY Domonkos,HUN,3.0,248,Sabre,2010
--,-,-,3,-,-,-,-,-,Cadets,Men,PASQUALINO Mattia,ITA,3.0,249,Sabre,2008
--,0,3,-,-,-,-,-,-,Cadets,Men,MERMUTLUOGLU semi,TUR,3.0,250,Sabre,2011
--,0,-,-,3,-,-,-,-,Cadets,Men,SZEPESI Vince,HUN,3.0,251,Sabre,2008
--,3,-,-,-,-,-,-,-,Cadets,Men,LATHAM GASPAR,CHI,3.0,252,Sabre,2008
--,0,0,0,-,-,3,-,-,Cadets,Men,BONEV Nikita,BUL,3.0,253,Sabre,2009
--,-,-,-,3,-,-,-,-,Cadets,Men,WANG Weiyun,CAN,3.0,254,Sabre,2008
--,3,-,0,0,-,-,0,-,Cadets,Men,MATIKKE Matthew,GER,3.0,255,Sabre,2010
--,-,3,-,-,-,-,-,-,Cadets,Men,OZBEY Ozan,TUR,3.0,256,Sabre,2008
--,-,-,-,0,-,3,-,-,Cadets,Men,PAYAN GASTON,FRA,3.0,257,Sabre,2008
--,-,-,0,3,-,-,-,-,Cadets,Men,SOLIANO Cameron Alexander Tan,SGP,3.0,258,Sabre,2010
--,-,-,3,0,-,-,-,-,Cadets,Men,FLOREZ DE VARGAS Alejandro,ESP,3.0,259,Sabre,2010
--,0,3,-,-,-,-,-,-,Cadets,Men,MARGINEAN Vlad Luca,ROU,3.0,260,Sabre,2009
--,-,-,0,0,-,3,-,-,Cadets,Men,ANYFANTIS Christos,GRE,3.0,261,Sabre,2008
--,-,3,-,0,-,-,-,-,Cadets,Men,LUCAS George,GBR,3.0,262,Sabre,2010
--,0,-,-,-,-,3,-,-,Cadets,Men,STEFANOV Todor,BUL,3.0,263,Sabre,2009
--,0,-,3,-,-,-,-,-,Cadets,Men,BELOS Panagiotis Maximos,GRE,3.0,264,Sabre,2008
--,-,3,-,-,-,-,-,-,Cadets,Men,ASLAN Eren,TUR,3.0,265,Sabre,2009
--,0,-,3,-,-,0,-,-,Cadets,Men,AVRAMIDIS Aristotelis,GRE,3.0,266,Sabre,2008
--,-,3,-,-,-,-,-,-,Cadets,Men,OZKAN mehmet doruk,TUR,3.0,267,Sabre,2011
--,3,-,0,0,-,-,-,-,Cadets,Men,WALD Simon Alexander,GER,3.0,268,Sabre,2010
--,-,-,3,-,-,-,-,-,Cadets,Men,WOO Hei Lim Jayden,HKG,3.0,269,Sabre,2011
--,-,-,3,-,-,-,-,-,Cadets,Men,CHEN Samuel,CAN,3.0,269,Sabre,2008
--,-,-,0,-,-,3,-,-,Cadets,Men,KARAGKIOZOPOULOS Thomas,GRE,3.0,271,Sabre,2008
--,3,-,-,-,-,-,-,-,Cadets,Men,KORZENIOWSKI Mikolaj,POL,3.0,272,Sabre,2008
--,-,3,-,-,-,-,-,-,Cadets,Men,KARADERE kadir,TUR,3.0,272,Sabre,2010
--,0,-,0,-,3,-,-,-,Cadets,Men,SUAREZ ZAS Gabriel Ricardo,ESP,3.0,274,Sabre,2009
--,-,-,-,3,-,-,-,-,Cadets,Men,LIU Shangshang Mike,CHN,3.0,275,Sabre,2011
--,0,3,-,-,-,-,-,-,Cadets,Men,HEWETT Oliver,GBR,3.0,276,Sabre,2010
--,-,3,-,-,-,-,-,-,Cadets,Men,BILGI emir efe,TUR,3.0,277,Sabre,2010
--,-,3,-,-,-,-,-,-,Cadets,Men,TETIK tarik tugra,TUR,3.0,277,Sabre,2011
--,-,-,3,-,-,-,-,-,Cadets,Men,LEONI Nicolo,ITA,3.0,277,Sabre,2008
--,0,-,3,-,-,-,-,-,Cadets,Men,ROKAS Konstantinos,GRE,3.0,280,Sabre,2009
--,-,3,-,-,-,-,-,-,Cadets,Men,ERGUL Yigit Kagan,TUR,3.0,281,Sabre,2008
--,-,-,-,-,-,3,-,-,Cadets,Men,SURCEL Stefan,ROU,3.0,281,Sabre,2010
--,0,0,0,-,-,3,-,-,Cadets,Men,RADEV Maxim,BUL,3.0,283,Sabre,2009
--,-,3,-,-,-,-,-,-,Cadets,Men,MIHHAILOV Artur,EST,3.0,284,Sabre,2009
--,0,-,3,0,-,-,-,-,Cadets,Men,KOSZTA-AJVASZ Imre,HUN,3.0,285,Sabre,2009
--,3,-,0,0,-,-,-,-,Cadets,Men,LIPINSKI Jakub,POL,3.0,286,Sabre,2010
--,-,-,-,-,-,3,-,-,Cadets,Men,ENE Alexander,ROU,3.0,287,Sabre,2011
--,-,3,-,-,-,-,-,-,Cadets,Men,GROLLIOS Aristotelis,GRE,3.0,288,Sabre,2011
--,-,-,3,-,-,-,-,-,Cadets,Men,GYORKE Marton,HUN,3.0,288,Sabre,2009
--,-,-,-,-,3,-,-,-,Cadets,Men,KOKUBO Yui,JPN,3.0,288,Sabre,2009
--,-,3,-,-,-,-,-,-,Cadets,Men,RAKHMONOV Saidamir,UZB,3.0,288,Sabre,2011
--,-,3,0,-,-,-,-,-,Cadets,Men,IVANOV Aleksandar,BUL,3.0,292,Sabre,2010
--,0,3,0,-,-,-,-,-,Cadets,Men,NANCHEV Georgi,BUL,3.0,293,Sabre,2009
--,-,3,-,-,-,-,-,-,Cadets,Men,GOKDEMIR tuna,TUR,3.0,294,Sabre,2010
--,3,-,0,0,-,-,-,-,Cadets,Men,LIN Jifeng,NED,3.0,295,Sabre,2009
--,0,-,-,3,-,-,-,-,Cadets,Men,HORVATH Hunor,HUN,3.0,296,Sabre,2009
--,-,3,-,-,-,-,-,-,Cadets,Men,ANIT Yigit Onur,TUR,3.0,297,Sabre,2008
--,-,-,-,-,-,3,-,-,Cadets,Men,TONCU Vlad,ROU,3.0,297,Sabre,2010
--,-,3,-,-,-,-,-,-,Cadets,Men,GUVEN kaan leo,TUR,3.0,299,Sabre,2010
--,-,3,-,-,-,-,-,-,Cadets,Men,SHABANLI Najaf,AZE,3.0,299,Sabre,2010
--,-,-,-,3,-,-,-,-,Cadets,Men,TAMARU Hiroshi,JPN,3.0,299,Sabre,2008
--,0,-,-,3,-,-,-,-,Cadets,Men,LEHNERT Tobias,GER,3.0,302,Sabre,2008
--,0,-,0,0,3,-,-,-,Cadets,Men,WITTOUCK Corto,BEL,3.0,303,Sabre,2008
--,0,3,0,-,-,0,-,-,Cadets,Men,AIVAZIS Filippos,GRE,3.0,304,Sabre,2008
--,3,0,0,-,-,0,-,-,Cadets,Men,LEARNER Henry,GBR,3.0,305,Sabre,2009
--,-,3,-,-,-,-,-,-,Cadets,Men,BASER cinar,TUR,3.0,306,Sabre,2012
--,-,-,3,0,-,-,-,-,Cadets,Men,OOI Shane Jun Ming,SGP,3.0,307,Sabre,2008
--,0,-,0,3,-,-,-,-,Cadets,Men,BRUZIK Roch,POL,3.0,308,Sabre,2009
--,3,-,-,-,-,-,-,-,Cadets,Men,FULOP Zsombor Vince,HUN,3.0,309,Sabre,2010
--,0,-,-,3,-,-,-,-,Cadets,Men,ZUBKO Dominik,POL,3.0,310,Sabre,2010
--,-,-,3,-,-,-,-,-,Cadets,Men,FANELLI Alessandro,ITA,3.0,311,Sabre,2010
--,-,-,-,3,-,-,-,-,Cadets,Men,KIMURA Rinnosuke,JPN,3.0,312,Sabre,2009
--,3,-,-,-,-,-,-,-,Cadets,Men,KISBAN Lukacs Peter,HUN,3.0,313,Sabre,2009
--,-,-,-,-,0,-,25,-,Cadets,Men,SILVESTRE Ethan,SUI,3.0,314,Sabre,2008
--,0,-,-,-,-,-,25,-,Cadets,Men,VENCLIK Jan,CZE,3.0,315,Sabre,2008
--,0,-,0,0,-,-,25,0,Cadets,Men,MACHAJ Jiri,CZE,3.0,316,Sabre,2009
--,-,-,0,0,-,0,25,-,Cadets,Men,DEMBOVSKYI Andrii,UKR,3.0,317,Sabre,2010
--,0,-,-,-,-,-,25,-,Cadets,Men,HORDIIUK Nazar,UKR,3.0,318,Sabre,2009
--,-,-,-,0,-,0,25,-,Cadets,Men,KAPITANOV Dmytro,UKR,3.0,319,Sabre,2010
--,0,-,-,-,0,-,25,-,Cadets,Men,PRAIZOVIC Vukasin,SRB,3.0,320,Sabre,2009
-0,-,-,-,-,-,-,-,-,Cadets,Men,MAMMADLI GARAY,AZE,0.0,321,Sabre,2010
-0,-,-,-,-,-,-,-,-,Cadets,Men,ALANAZI ABDULSALAM,KSA,0.0,322,Sabre,2008
-0,-,-,-,-,-,-,-,-,Cadets,Men,ALOTAISHAN TAMIM,KSA,0.0,322,Sabre,2011
-0,-,-,-,-,-,-,-,-,Cadets,Men,ALMTIRI HUSSAM,KSA,0.0,324,Sabre,2009
-0,-,-,-,-,-,-,-,-,Cadets,Men,ONIANI GABRIEL,GEO,0.0,325,Sabre,2010
-0,-,-,-,-,-,-,-,-,Cadets,Men,JIKIA DEMURI,GEO,0.0,325,Sabre,2011
-0,-,0,-,-,-,-,-,-,Cadets,Men,OZERDEM can,TUR,0.0,327,Sabre,2010
--,-,-,-,-,-,-,-,0,Cadets,Men,BAR ON YONATAN,ISR,0.0,328,Sabre,2009
--,-,-,-,-,-,-,-,0,Cadets,Men,LIMA Jose,POR,0.0,329,Sabre,2008
--,0,-,-,0,0,-,-,0,Cadets,Men,NORSK Frederik Dahl,DEN,0.0,330,Sabre,2009
--,0,-,-,-,-,-,0,-,Cadets,Men,PALMOWSKI Blazej,POL,0.0,331,Sabre,2009
--,0,-,0,-,-,-,0,-,Cadets,Men,LYSENKO Yehor,UKR,0.0,332,Sabre,2010
--,0,-,0,-,-,0,0,-,Cadets,Men,YUZYK IVAN,UKR,0.0,333,Sabre,2010
--,0,-,-,-,-,-,0,-,Cadets,Men,GLISIC Nemanja,SRB,0.0,334,Sabre,2008
--,0,-,0,0,-,-,0,-,Cadets,Men,HORAK Andrej Vit,CZE,0.0,335,Sabre,2010
--,-,-,-,-,-,-,0,-,Cadets,Men,HABENICHT Luz,GBR,0.0,336,Sabre,2009
--,-,-,-,-,-,-,0,-,Cadets,Men,BULA Lukas,CZE,0.0,337,Sabre,2011
--,-,-,-,-,-,-,0,-,Cadets,Men,SEDLAR Michal,CZE,0.0,338,Sabre,2009
--,-,-,-,-,-,-,0,-,Cadets,Men,JERABEK Vitezslav,CZE,0.0,338,Sabre,2009
--,-,-,-,-,-,-,0,-,Cadets,Men,FAIFURA Orest,UKR,0.0,340,Sabre,2008
--,-,-,-,-,-,-,0,-,Cadets,Men,RYTINA Vaclav,CZE,0.0,341,Sabre,2009
--,-,-,-,-,-,0,-,-,Cadets,Men,IONESCU Andrei,ROU,0.0,342,Sabre,2009
--,-,0,-,-,-,-,-,-,Cadets,Men,GULERER berke benjamin,TUR,0.0,343,Sabre,2010
--,0,-,0,0,-,0,-,-,Cadets,Men,NTIVIS Angelos,GRE,0.0,344,Sabre,2009
--,-,0,-,-,-,-,-,-,Cadets,Men,ERDOL osman ibrahim,TUR,0.0,345,Sabre,2012
--,0,0,0,-,-,-,-,-,Cadets,Men,FERNANDEZ Ruben,GBR,0.0,346,Sabre,2009
--,-,0,0,-,-,-,-,-,Cadets,Men,EREN halit,TUR,0.0,347,Sabre,2009
--,0,0,0,-,-,-,-,-,Cadets,Men,KIRKOV Nikola,BUL,0.0,348,Sabre,2009
--,0,0,0,-,-,-,-,-,Cadets,Men,VAN LIER Arthur,BEL,0.0,349,Sabre,2008
--,-,-,0,-,-,0,-,-,Cadets,Men,MPOURVANIS Antonios,GRE,0.0,350,Sabre,2009
--,-,0,-,-,-,-,-,-,Cadets,Men,KOROBEINIKOV Denis,EST,0.0,351,Sabre,2011
--,0,0,0,-,-,-,-,-,Cadets,Men,WOODCOCK Alex,GBR,0.0,352,Sabre,2009
--,-,-,-,-,-,0,-,-,Cadets,Men,ALBU Serban,ROU,0.0,353,Sabre,2008
--,-,0,-,-,-,-,-,-,Cadets,Men,KACMAZ mehmet kuzey,TUR,0.0,353,Sabre,2009
--,0,-,-,-,-,0,-,-,Cadets,Men,SEELMANN Friedrich,GER,0.0,355,Sabre,2009
--,-,0,-,-,-,-,-,-,Cadets,Men,AYAZ ruzgar,TUR,0.0,356,Sabre,2012
--,-,-,0,-,-,0,-,-,Cadets,Men,CHATZIS Zois Georgios,GRE,0.0,357,Sabre,2008
--,-,-,-,-,-,0,-,-,Cadets,Men,DANILA Felix,ROU,0.0,358,Sabre,2009
--,0,-,0,0,-,-,-,-,Cadets,Men,MOHSLER Jakob,GER,0.0,359,Sabre,2008
--,-,0,-,-,-,-,-,-,Cadets,Men,MACLEOD Austin,GBR,0.0,360,Sabre,2009
--,0,0,-,0,-,0,-,-,Cadets,Men,GIAKOUSTIDIS Efthymios,GRE,0.0,361,Sabre,2008
--,-,0,-,-,-,-,-,-,Cadets,Men,THEODOROPOULOS Vasilios Ilias,GRE,0.0,362,Sabre,2010
--,0,-,0,-,-,-,-,-,Cadets,Men,GARCIA-MEGYESI Javier,HUN,0.0,363,Sabre,2010
--,-,0,-,-,-,-,-,-,Cadets,Men,EROL yavuz alp,TUR,0.0,364,Sabre,2008
--,-,-,-,0,-,-,-,-,Cadets,Men,TOUCOUERE SCHMITZ Romain,FRA,0.0,365,Sabre,2009
--,-,0,-,-,-,-,-,-,Cadets,Men,SAYDUT suer bulut aras,TUR,0.0,365,Sabre,2011
--,-,0,-,-,-,-,-,-,Cadets,Men,ARIN ege,TUR,0.0,365,Sabre,2009
--,-,-,-,-,-,0,-,-,Cadets,Men,VERZEA Victor,ITA,0.0,368,Sabre,2008
--,-,-,0,0,0,-,-,-,Cadets,Men,SERINO Mattia,SUI,0.0,369,Sabre,2009
--,0,-,-,-,-,-,-,-,Cadets,Men,MARCELLI Samuel,ITA,0.0,370,Sabre,2008
--,0,-,0,0,-,-,-,-,Cadets,Men,THIEL Philipp,GER,0.0,371,Sabre,2009
--,0,-,0,-,0,-,-,-,Cadets,Men,PRIETO DIEZ Eric,ESP,0.0,372,Sabre,2009
--,-,-,-,-,-,0,-,-,Cadets,Men,SOMOIOG Madalin,ROU,0.0,373,Sabre,2008
--,-,0,-,-,-,-,-,-,Cadets,Men,BEZCI selim,TUR,0.0,373,Sabre,2012
--,-,-,-,-,0,-,-,-,Cadets,Men,SPINELLI Pier Francesco,ITA,0.0,373,Sabre,2009
--,-,0,-,-,-,-,-,-,Cadets,Men,GULUMSER ali,TUR,0.0,376,Sabre,2012
--,-,-,0,-,0,-,-,-,Cadets,Men,RODRIGUEZ BASTIANI Milan,ESP,0.0,377,Sabre,2008
--,-,-,0,0,-,-,-,-,Cadets,Men,SA Kai XI,GER,0.0,378,Sabre,2010
--,-,-,-,-,-,0,-,-,Cadets,Men,GRECU Luca Stefan,ROU,0.0,379,Sabre,2009
--,-,0,-,-,-,-,-,-,Cadets,Men,ERGUL ozgur aras,TUR,0.0,379,Sabre,2012
--,-,-,-,0,-,-,-,-,Cadets,Men,WANG Michael Xuan,CAN,0.0,379,Sabre,2009
--,0,-,0,-,-,-,-,-,Cadets,Men,REVESZ Bence,HUN,0.0,382,Sabre,2010
--,-,-,-,-,-,0,-,-,Cadets,Men,TOADER Matei,ROU,0.0,383,Sabre,2010
--,-,-,-,0,-,-,-,-,Cadets,Men,TORI CHARLES ALEXANDRE,FRA,0.0,383,Sabre,2010
--,0,-,0,-,0,-,-,-,Cadets,Men,ZUBELDIA RODRIGUEZ Inigo,ESP,0.0,385,Sabre,2009
--,0,-,0,-,0,-,-,-,Cadets,Men,MARTOS MENA Javier,ESP,0.0,386,Sabre,2010
--,-,0,-,-,-,-,-,-,Cadets,Men,OZKUTUKCU Yaman,TUR,0.0,387,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,BARTOLOME MATISSE,FRA,0.0,387,Sabre,2009
--,-,0,-,-,-,-,-,-,Cadets,Men,YAVUZASLAN oruc yavuz serhan,TUR,0.0,389,Sabre,2011
--,-,-,-,-,-,0,-,-,Cadets,Men,TOMAC Nichita,ROU,0.0,389,Sabre,2012
--,-,0,-,-,-,-,-,-,Cadets,Men,ELSHAZLEY Hashem,EGY,0.0,389,Sabre,2010
--,0,-,0,0,0,-,-,-,Cadets,Men,LANZMICH Oskar,GER,0.0,392,Sabre,2008
--,-,-,-,-,-,0,-,-,Cadets,Men,DUMITRELEA Alexandru,ROU,0.0,393,Sabre,2008
--,0,-,0,-,-,0,-,-,Cadets,Men,HELCIOIU Vladimir,ROU,0.0,394,Sabre,2009
--,-,0,-,-,-,-,-,-,Cadets,Men,HORASAN burak,TUR,0.0,395,Sabre,2010
--,0,-,0,-,-,-,-,-,Cadets,Men,RAZPOTNIK SIMENC Azbe,SLO,0.0,396,Sabre,2008
--,-,0,-,-,-,-,-,-,Cadets,Men,CALGIN poyraz efe,TUR,0.0,397,Sabre,2011
--,0,-,-,0,-,-,-,-,Cadets,Men,SIMONS Gereon,GER,0.0,398,Sabre,2009
--,-,0,-,-,-,-,-,-,Cadets,Men,TURKILERI guven doruk,TUR,0.0,399,Sabre,2012
--,-,-,0,-,0,-,-,-,Cadets,Men,VAN GENT CASTANO Eric,ESP,0.0,400,Sabre,2009
--,-,0,-,-,-,-,-,-,Cadets,Men,ILGAR emre,TUR,0.0,401,Sabre,2010
--,-,0,-,-,-,-,-,-,Cadets,Men,KARSLI muhammed fatih,TUR,0.0,401,Sabre,2011
--,-,-,-,0,-,-,-,-,Cadets,Men,NIIZEKI Oscar,AUS,0.0,401,Sabre,2008
--,0,-,-,0,0,-,-,-,Cadets,Men,STEINBERG Jesko,GER,0.0,404,Sabre,2009
--,-,-,0,-,0,-,-,-,Cadets,Men,LLORET LACOMBA Etienne,ESP,0.0,405,Sabre,2009
--,0,-,0,-,-,-,-,-,Cadets,Men,LIAKH Oleksandr,UKR,0.0,406,Sabre,2010
--,-,0,-,-,-,-,-,-,Cadets,Men,YESILDAL yavuz selim,TUR,0.0,407,Sabre,2012
--,-,0,-,-,-,-,-,-,Cadets,Men,ANGELOPOULOS Marios,GRE,0.0,407,Sabre,2009
--,0,-,0,-,-,-,-,-,Cadets,Men,GOSPODINOV Deyan,BUL,0.0,409,Sabre,2010
--,-,-,0,-,-,-,-,-,Cadets,Men,FRAGOMENI Domenico Giuseppe,ITA,0.0,410,Sabre,2009
--,-,0,-,-,-,-,-,-,Cadets,Men,BOZBAS doruk,TUR,0.0,411,Sabre,2011
--,-,-,-,-,0,-,-,-,Cadets,Men,GARCIA DE LA PUENTE Hugo Bernardo,ESP,0.0,411,Sabre,2008
--,-,0,-,-,-,-,-,-,Cadets,Men,GURUN mustafa kaan,TUR,0.0,413,Sabre,2011
--,0,-,0,-,-,-,-,-,Cadets,Men,DECSI Hunor,HUN,0.0,414,Sabre,2012
--,-,-,-,0,-,-,-,-,Cadets,Men,CALLAY Arthur,FRA,0.0,415,Sabre,2008
--,0,-,-,0,-,-,-,-,Cadets,Men,SCIULLO JACOPO,ITA,0.0,416,Sabre,2010
--,0,-,-,0,-,-,-,-,Cadets,Men,ISTED Ben,GBR,0.0,417,Sabre,2008
--,0,-,-,0,0,-,-,-,Cadets,Men,SCHALL Patrick,GER,0.0,418,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,LOESCHBURG Marlon,GER,0.0,419,Sabre,2011
--,0,-,0,0,0,-,-,-,Cadets,Men,VAN INGELGEM Cyriel,BEL,0.0,420,Sabre,2008
--,-,-,-,-,0,-,-,-,Cadets,Men,GETTEMANS Jef,BEL,0.0,421,Sabre,2009
--,0,-,-,0,-,-,-,-,Cadets,Men,KORINEK - VEGH Marcell,HUN,0.0,422,Sabre,2009
--,0,-,0,0,-,-,-,-,Cadets,Men,VILLAMOR RODRIGUEZ Matias,ESP,0.0,423,Sabre,2009
--,0,-,-,-,0,-,-,-,Cadets,Men,PERESZLENYI Tamas,HUN,0.0,424,Sabre,2008
--,-,-,-,-,0,-,-,-,Cadets,Men,LLORENTE LOPEZ Ignacio,ESP,0.0,425,Sabre,2008
--,-,-,0,0,-,-,-,-,Cadets,Men,TAN Gilbert Hong Hao,SGP,0.0,426,Sabre,2010
--,0,-,0,-,-,-,-,-,Cadets,Men,BUENO FALCON Rodrigo Zheng,ESP,0.0,427,Sabre,2010
--,0,-,-,-,-,-,-,-,Cadets,Men,HENDERSON Lucas Lin,CAN,0.0,428,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,DI PIETRA MATTIS,FRA,0.0,429,Sabre,2009
--,-,-,0,0,-,-,-,-,Cadets,Men,NG Roy,SGP,0.0,430,Sabre,2008
--,-,-,-,-,0,-,-,-,Cadets,Men,SANCHEZ BOIX Bruno,ESP,0.0,431,Sabre,2008
--,0,-,-,-,-,-,-,-,Cadets,Men,BRANDHUBER Adam,HUN,0.0,431,Sabre,2010
--,0,-,0,0,-,-,-,-,Cadets,Men,SANTOS Jose,BRA,0.0,433,Sabre,2010
--,-,-,0,-,0,-,-,-,Cadets,Men,LUJAN TORRES Leo,ESP,0.0,434,Sabre,2009
--,0,-,-,-,-,-,-,-,Cadets,Men,PETHO Oliver,HUN,0.0,435,Sabre,2009
--,-,-,-,-,0,-,-,-,Cadets,Men,SANCHEZ CASALS Janot,ESP,0.0,435,Sabre,2009
--,0,-,0,-,-,-,-,-,Cadets,Men,KROCHMALSKI Jakub,POL,0.0,437,Sabre,2008
--,0,-,0,0,-,-,-,-,Cadets,Men,KIECA Jakub,POL,0.0,438,Sabre,2008
--,-,-,-,-,0,-,-,-,Cadets,Men,ESNAL HUEGUN Eki,ESP,0.0,439,Sabre,2008
--,-,-,0,0,0,-,-,-,Cadets,Men,TAN Jacob Jae Kijb,SGP,0.0,440,Sabre,2010
--,0,-,-,-,-,-,-,-,Cadets,Men,BALOGH Lazar,HUN,0.0,441,Sabre,2010
--,-,-,-,0,-,-,-,-,Cadets,Men,FERENCZI Ambrus,GER,0.0,442,Sabre,2011
--,0,-,-,-,-,-,-,-,Cadets,Men,MIKLUSICSAK Mate,HUN,0.0,443,Sabre,2008
--,-,-,-,0,-,-,-,-,Cadets,Men,BAJRACHARYA HUGO,FRA,0.0,443,Sabre,2008
--,-,-,0,-,-,-,-,-,Cadets,Men,MICCIO Gianmarco,ITA,0.0,445,Sabre,2008
--,-,-,-,-,0,-,-,-,Cadets,Men,HREINSSON Ymir Darri,ISL,0.0,446,Sabre,2008
--,-,-,-,-,0,-,-,-,Cadets,Men,MARTI LOZANO Nacho,ESP,0.0,447,Sabre,2010
--,-,-,-,0,-,-,-,-,Cadets,Men,POPOTNIK Felix,AUT,0.0,447,Sabre,2008
--,-,-,-,-,0,-,-,-,Cadets,Men,MATTHIASSON Magnus,ISL,0.0,449,Sabre,2009
--,-,-,-,-,0,-,-,-,Cadets,Men,RAMIREZ MURCIANO Aitor,ESP,0.0,450,Sabre,2008
--,-,-,-,0,-,-,-,-,Cadets,Men,RADOCH Igor,POL,0.0,450,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,WONG KEAGAN ZI XIAN,MAS,0.0,452,Sabre,2010
--,0,-,0,-,-,-,-,-,Cadets,Men,DONNACHIE Tyree,GBR,0.0,453,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,RAUCY BAPTISTE,FRA,0.0,454,Sabre,2009
--,-,-,-,-,0,-,-,-,Cadets,Men,KUMAR Vikram,AUS,0.0,455,Sabre,2008
--,-,-,-,-,0,-,-,-,Cadets,Men,BARBERAN MORENO Nico,ESP,0.0,455,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,KOBAYASHI Keiichiro,JPN,0.0,455,Sabre,2010
--,-,-,0,0,-,-,-,-,Cadets,Men,EBERHARDT Gero,GER,0.0,458,Sabre,2009
--,-,-,0,0,-,-,-,-,Cadets,Men,SCHMIERER Ben,GER,0.0,459,Sabre,2011
--,-,-,-,0,-,-,-,-,Cadets,Men,BECHSTEIN Oskar,GER,0.0,460,Sabre,2010
--,-,-,0,-,0,-,-,-,Cadets,Men,CHUPRYNA Tymur,UKR,0.0,461,Sabre,2009
--,0,-,0,-,-,-,-,-,Cadets,Men,GOLUB zan,SLO,0.0,462,Sabre,2010
--,0,-,-,-,-,-,-,-,Cadets,Men,KWOK King Leung,HKG,0.0,463,Sabre,2008
--,-,-,0,-,-,-,-,-,Cadets,Men,POPILIEV Zdravko,BUL,0.0,463,Sabre,2011
--,-,-,-,-,0,-,-,-,Cadets,Men,VICENTE ROVIRA Biel,ESP,0.0,463,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,SCHILLER Samuel,GER,0.0,463,Sabre,2010
--,-,-,-,0,-,-,-,-,Cadets,Men,WEIDE Timo Caspar,GER,0.0,467,Sabre,2008
--,-,-,-,0,-,-,-,-,Cadets,Men,BRAMMER Tristan,GER,0.0,468,Sabre,2008
--,-,-,-,0,-,-,-,-,Cadets,Men,GUGGENBICHLER Vincent,GER,0.0,469,Sabre,2008
--,0,-,-,0,-,-,-,-,Cadets,Men,PALKOWSKI Damian,POL,0.0,470,Sabre,2008
--,0,-,0,-,-,-,-,-,Cadets,Men,MIHAYLOV Nikolay,BUL,0.0,471,Sabre,2008
--,0,-,-,-,-,-,-,-,Cadets,Men,MATTYUS Barnabas,HUN,0.0,472,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,REINHARDT Felix,GER,0.0,472,Sabre,2009
--,0,-,0,0,-,-,-,-,Cadets,Men,BOSMANS Mael,BEL,0.0,474,Sabre,2009
--,0,-,-,0,-,-,-,-,Cadets,Men,MASLOWIECKI Tomasz,POL,0.0,475,Sabre,2008
--,0,-,-,0,-,-,-,-,Cadets,Men,MICHON Jan,POL,0.0,476,Sabre,2009
--,0,-,-,-,-,-,-,-,Cadets,Men,DENES Benedek,HUN,0.0,477,Sabre,2008
--,-,-,0,-,-,-,-,-,Cadets,Men,LOTTI Christian Francesco Paolo,ITA,0.0,477,Sabre,2010
--,0,-,0,-,-,-,-,-,Cadets,Men,KAMBULOV Yehor,UKR,0.0,479,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,GEPP Matti,GER,0.0,480,Sabre,2010
--,0,-,-,-,-,-,-,-,Cadets,Men,ALMARZOOQI OMAR,UAE,0.0,481,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,SATO Kaisei,JPN,0.0,481,Sabre,2010
--,-,-,-,0,-,-,-,-,Cadets,Men,TAN Oliver Jinjie,SGP,0.0,483,Sabre,2010
--,0,-,-,-,-,-,-,-,Cadets,Men,PROSITS Denes,HUN,0.0,484,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,PAGLIARIN ANTOINE,FRA,0.0,485,Sabre,2010
--,-,-,-,0,-,-,-,-,Cadets,Men,SICHWARDT Viktor,GER,0.0,486,Sabre,2009
--,0,-,-,-,-,-,-,-,Cadets,Men,SZEKULESZ Marton,HUN,0.0,487,Sabre,2008
--,-,-,-,0,-,-,-,-,Cadets,Men,FENG Felix,GER,0.0,488,Sabre,2011
--,-,-,0,-,-,-,-,-,Cadets,Men,IORIO Gerardo,ITA,0.0,488,Sabre,2010
--,0,-,0,-,-,-,-,-,Cadets,Men,KORMANIATIS Dimitrios Bonigia,GRE,0.0,490,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,ELLEBRECHT Jona,GER,0.0,491,Sabre,2008
--,0,-,-,0,-,-,-,-,Cadets,Men,MAY Thiemo,AUT,0.0,492,Sabre,2008
--,-,-,-,0,-,-,-,-,Cadets,Men,POREISZ Hunor David,GER,0.0,493,Sabre,2010
--,-,-,0,-,-,-,-,-,Cadets,Men,GENOV Doichin,BUL,0.0,494,Sabre,2010
--,-,-,-,0,-,-,-,-,Cadets,Men,FALK Milo,GER,0.0,494,Sabre,2011
--,0,-,-,-,-,-,-,-,Cadets,Men,KAZSIMER-BALINT Laszlo,HUN,0.0,494,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,WITT Damien,GER,0.0,497,Sabre,2009
--,0,-,-,-,-,-,-,-,Cadets,Men,JOVANOVIC Vuk,SRB,0.0,498,Sabre,2010
--,-,-,-,0,-,-,-,-,Cadets,Men,SCHUMACHER Liam,GER,0.0,499,Sabre,2009
--,0,-,0,0,-,-,-,-,Cadets,Men,ZORE Tilen,SLO,0.0,500,Sabre,2009
--,0,-,-,-,-,-,-,-,Cadets,Men,ALEBRI HAZZA,UAE,0.0,501,Sabre,2009
--,0,-,0,0,-,-,-,-,Cadets,Men,VAN WIJK Cas,NED,0.0,502,Sabre,2010
--,0,-,-,-,-,-,-,-,Cadets,Men,WALDSTEIN-WARTENBERG Jonathan,AUT,0.0,503,Sabre,2010
--,0,-,-,0,-,-,-,-,Cadets,Men,BANDER Laszlo,HUN,0.0,504,Sabre,2008
--,0,-,-,0,-,-,-,-,Cadets,Men,NOWINOWSKI Bartosz,POL,0.0,505,Sabre,2009
--,0,-,0,0,-,-,-,-,Cadets,Men,KRUIT Samuel,NED,0.0,506,Sabre,2008
--,-,-,0,-,-,-,-,-,Cadets,Men,VOITKO Lev,UKR,0.0,507,Sabre,2011
--,0,-,-,-,-,-,-,-,Cadets,Men,NGO Maximus,CAN,0.0,508,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,GANSE Jascha,GER,0.0,509,Sabre,2011
--,0,-,0,0,-,-,-,-,Cadets,Men,PSZOTA Akos,HUN,0.0,510,Sabre,2008
--,-,-,-,0,-,-,-,-,Cadets,Men,NEGRI Jakob Johann,GER,0.0,511,Sabre,2011
--,-,-,0,-,-,-,-,-,Cadets,Men,ALONSO DE LINAJE DIEZ Hector,ESP,0.0,511,Sabre,2010
--,-,-,-,0,-,-,-,-,Cadets,Men,LUTZ Andre,GER,0.0,513,Sabre,2010
--,-,-,0,-,-,-,-,-,Cadets,Men,FERNANDEZ AVILA Lucas,ESP,0.0,514,Sabre,2009
--,-,-,0,-,-,-,-,-,Cadets,Men,CATALA MATEU Joan,ESP,0.0,515,Sabre,2008
--,-,-,-,0,-,-,-,-,Cadets,Men,KREUTZ Lennart,GER,0.0,515,Sabre,2011
--,-,-,-,0,-,-,-,-,Cadets,Men,PLUETZER Floyd,GER,0.0,515,Sabre,2010
--,-,-,-,0,-,-,-,-,Cadets,Men,MCMANUS Eric,GER,0.0,518,Sabre,2011
--,-,-,-,0,-,-,-,-,Cadets,Men,STAHMANN Hendrik,GER,0.0,519,Sabre,2008
--,0,-,-,-,-,-,-,-,Cadets,Men,GYURCSIK Aron,HUN,0.0,520,Sabre,2008
--,-,-,0,-,-,-,-,-,Cadets,Men,BALOS Georgios,GRE,0.0,521,Sabre,2008
--,-,-,-,0,-,-,-,-,Cadets,Men,GAERTNER David,GER,0.0,521,Sabre,2010
--,-,-,-,0,-,-,-,-,Cadets,Men,RUCAREANU Matei,ROU,0.0,521,Sabre,2010
--,0,-,-,-,-,-,-,-,Cadets,Men,KOMLOSI Milan,HUN,0.0,524,Sabre,2008
--,-,-,0,-,-,-,-,-,Cadets,Men,BEREZOVSKYI Klym,UKR,0.0,524,Sabre,2010
--,-,-,-,0,-,-,-,-,Cadets,Men,STOLZ Vincent,GER,0.0,526,Sabre,2009
--,-,-,-,0,-,-,-,-,Cadets,Men,SITZENSTUHL Maximilian,GER,0.0,527,Sabre,2010
--,-,-,0,-,-,-,-,-,Cadets,Men,PROKOPOV Yavor,BUL,0.0,528,Sabre,2011
--,-,-,0,-,-,-,-,-,Cadets,Men,RUSKOV Zahari,BUL,0.0,529,Sabre,2009
--,0,-,-,-,-,-,-,-,Cadets,Men,RODRIGUEZ CASTILLO Manuel,ESP,0.0,529,Sabre,2010
--,0,-,-,-,-,-,-,-,Cadets,Men,ILLERA SAN EMETERIO Santiago,ESP,0.0,529,Sabre,2009
--,0,-,-,-,-,-,-,-,Cadets,Men,HOSCHNA Stepan,CZE,0.0,529,Sabre,2008
--,-,-,0,-,-,-,-,-,Cadets,Men,NG Luke,SGP,0.0,533,Sabre,2009
--,-,-,0,-,-,-,-,-,Cadets,Men,KADISKI Atanas,BUL,0.0,534,Sabre,2011
--,-,-,0,-,-,-,-,-,Cadets,Men,VERDE ALONSO Fabio,ESP,0.0,535,Sabre,2011
--,-,-,0,-,-,-,-,-,Cadets,Men,ZENI Adriano,GRE,0.0,536,Sabre,2009
--,0,-,-,-,-,-,-,-,Cadets,Men,HUMEN Mykola,UKR,0.0,537,Sabre,2010
--,0,-,-,-,-,-,-,-,Cadets,Men,BOZSO-ANDRASSY Marton,HUN,0.0,538,Sabre,2008
--,-,-,0,-,-,-,-,-,Cadets,Men,TESIO Giacomo,ITA,0.0,539,Sabre,2008
--,-,-,0,-,-,-,-,-,Cadets,Men,MATEEV Matei,BUL,0.0,540,Sabre,2011
--,-,-,0,-,-,-,-,-,Cadets,Men,IVANOV Boris,BUL,0.0,541,Sabre,2010
--,-,-,0,-,-,-,-,-,Cadets,Men,CAPORASO Niccolo Giuseppe,ITA,0.0,542,Sabre,2010
--,-,-,0,-,-,-,-,-,Cadets,Men,KARASHCHENKO Nazar,UKR,0.0,542,Sabre,2011
--,0,-,-,-,-,-,-,-,Cadets,Men,ALMASSI Marcell,HUN,0.0,544,Sabre,2010
--,0,-,-,-,-,-,-,-,Cadets,Men,NIKOLIC Filip,SRB,0.0,545,Sabre,2009
--,0,-,-,-,-,-,-,-,Cadets,Men,IRELAND Innes,GBR,0.0,546,Sabre,2010
--,0,-,-,-,-,-,-,-,Cadets,Men,NAGY Akos,HUN,0.0,546,Sabre,2010
--,0,-,-,-,-,-,-,-,Cadets,Men,SERLEGI Balint,HUN,0.0,548,Sabre,2010
--,0,-,-,-,-,-,-,-,Cadets,Men,HOELLRIGL Aron,AUT,0.0,549,Sabre,2010
--,0,-,-,-,-,-,-,-,Cadets,Men,CSALLO Zoltan,HUN,0.0,550,Sabre,2009
--,0,-,-,-,-,-,-,-,Cadets,Men,PALFALVY Bejamin,HUN,0.0,550,Sabre,2010
+-,0,-,6,-,-,6,-,-,Cadets,Men,SYDORENKO ILLIA,UKR,12.0,121,Sabre,2008
+-,0,6,0,-,-,6,-,-,Cadets,Men,MILANOV Nikola,BUL,12.0,122,Sabre,2008
+-,6,-,-,6,-,-,-,-,Cadets,Men,MAESTRI Riccardo,ITA,12.0,123,Sabre,2008
+-,6,-,6,-,-,-,-,-,Cadets,Men,HUANG Alex,USA,12.0,124,Sabre,2010
+-,3,-,6,-,3,-,-,-,Cadets,Men,DE ANDRES JIMENEZ Jose Antonio,ESP,12.0,125,Sabre,2009
+-,3,-,3,-,-,6,-,-,Cadets,Men,TETRADIS Loukas Athanasios,GRE,12.0,126,Sabre,2008
+-,3,-,3,6,-,-,-,-,Cadets,Men,FARSANG Lorant,HUN,12.0,127,Sabre,2010
+-,0,6,(0),3,-,3,-,-,Cadets,Men,BETEAGU Rares,ROU,12.0,128,Sabre,2008
+-,3,-,3,6,-,-,-,-,Cadets,Men,THIEL Alexander,GER,12.0,129,Sabre,2009
+-,3,-,6,-,-,3,-,-,Cadets,Men,SKOUNTZOS Iraklis,GRE,12.0,130,Sabre,2008
+-,0,3,3,-,-,6,-,-,Cadets,Men,TATULESCU Chrisley,ROU,12.0,131,Sabre,2008
+-,3,6,0,3,(0),-,-,-,Cadets,Men,SAUNDERS Maximillian,GBR,12.0,132,Sabre,2008
+-,6,-,3,3,-,-,-,-,Cadets,Men,FODOR Bendeguz,HUN,12.0,133,Sabre,2009
+-,(0),3,3,3,-,3,-,-,Cadets,Men,CAPATINA Sebastian,ROU,12.0,134,Sabre,2008
+-,(0),-,6,3,0,-,25,-,Cadets,Men,JAMSIN Jorian,BEL,12.0,135,Sabre,2008
+8,-,3,0,-,-,-,-,-,Cadets,Men,GUNGOR Berk,TUR,11.0,136,Sabre,2008
+-,-,-,6,-,-,-,5,-,Cadets,Men,ARPAIA Leandro,ITA,11.0,137,Sabre,2008
+-,3,-,0,-,-,3,5,-,Cadets,Men,KULESHA Iurii,UKR,11.0,138,Sabre,2010
+4,-,6,-,-,-,-,-,-,Cadets,Men,GAR umut,TUR,10.0,139,Sabre,2008
+4,0,6,0,-,-,-,-,-,Cadets,Men,COSKUN erturk selim,TUR,10.0,140,Sabre,2010
+4,-,6,-,-,-,-,-,-,Cadets,Men,ISLAMZADE Aykhan,AZE,10.0,141,Sabre,2009
+4,3,3,0,-,-,-,-,-,Cadets,Men,VAPURCU Ege,TUR,10.0,142,Sabre,2009
+4,-,6,-,-,-,-,-,-,Cadets,Men,KURALOV Yerkanat,KAZ,10.0,143,Sabre,2009
+-,-,-,-,-,-,-,10,-,Cadets,Men,TREJO Victor,MEX,10.0,144,Sabre,2008
+-,-,-,3,6,-,-,-,-,Cadets,Men,BERA Enzo,POL,9.0,145,Sabre,2008
+-,0,6,0,-,-,3,-,-,Cadets,Men,MUNTEANU Mihnea,ROU,9.0,146,Sabre,2009
+-,6,-,3,0,-,-,-,-,Cadets,Men,STEINBACHER Janos,HUN,9.0,147,Sabre,2008
+-,0,3,0,-,-,6,-,-,Cadets,Men,SOARE Calin,ROU,9.0,148,Sabre,2009
+-,3,-,-,6,-,-,-,-,Cadets,Men,VINCENZI GIORDANO,ITA,9.0,149,Sabre,2010
+-,3,-,6,0,-,-,-,-,Cadets,Men,PINTO Marcus,BRA,9.0,150,Sabre,2010
+-,0,-,6,3,-,-,-,-,Cadets,Men,VANGEEL Florian,BEL,9.0,151,Sabre,2008
+-,6,-,-,3,-,-,-,-,Cadets,Men,PELLEGATTA Vittorio,ITA,9.0,152,Sabre,2010
+-,-,3,6,-,-,-,-,-,Cadets,Men,SAMSA deniz osman,TUR,9.0,153,Sabre,2011
+-,6,-,-,3,-,-,-,-,Cadets,Men,BOTTEGA Mattia,ITA,9.0,154,Sabre,2010
+-,-,-,6,-,3,-,-,-,Cadets,Men,ROMAN BLANQUE Alejandro,ESP,9.0,155,Sabre,2009
+-,0,3,0,-,-,6,-,-,Cadets,Men,NASTASE Mihnea,ROU,9.0,156,Sabre,2009
+-,-,-,3,0,6,-,-,-,Cadets,Men,LIAN Marcus Kang Jing,SGP,9.0,157,Sabre,2009
+-,3,-,3,3,0,-,-,-,Cadets,Men,SCHIFFER Matti,GER,9.0,158,Sabre,2009
+-,3,-,3,3,-,-,-,-,Cadets,Men,BANHAZI Bulcsu,HUN,9.0,159,Sabre,2009
+-,3,3,-,-,-,3,-,-,Cadets,Men,KOUMPAROS Michail,GRE,9.0,160,Sabre,2009
+-,-,-,3,3,3,-,-,-,Cadets,Men,TAN Julius Xuan Lin,SGP,9.0,161,Sabre,2008
+-,-,3,3,3,-,-,-,-,Cadets,Men,TOMAC Stefan,ROU,9.0,162,Sabre,2010
+-,-,-,3,3,3,-,-,-,Cadets,Men,LEE Herald Lloyd,SGP,9.0,163,Sabre,2008
+-,3,3,0,(0),-,3,-,-,Cadets,Men,MANEA Noah Stefan,ROU,9.0,164,Sabre,2008
+-,3,-,3,3,-,-,-,-,Cadets,Men,KRYCH Alan,POL,9.0,165,Sabre,2008
+-,-,-,-,3,3,3,-,-,Cadets,Men,RISCH RIFFARTH VINCENT,FRA,9.0,166,Sabre,2009
+-,0,-,3,3,3,-,-,-,Cadets,Men,SPIELBERG Severin,GER,9.0,167,Sabre,2009
+-,3,3,0,3,-,-,-,-,Cadets,Men,ILIEV Viktor,BUL,9.0,168,Sabre,2008
+-,0,-,-,3,-,-,5,-,Cadets,Men,LEWKOWSKI Wiktor,POL,8.0,169,Sabre,2008
+-,-,3,-,-,-,-,5,-,Cadets,Men,SAFONOV Georgi,EST,8.0,170,Sabre,2009
+-,0,3,(0),(0),0,-,5,-,Cadets,Men,WIELEMANS DE MARCHANT ET D'ANSEMBOURG Aymeric,BEL,8.0,171,Sabre,2008
+-,-,3,0,(0),0,-,5,-,Cadets,Men,ALEXANDROV Daniel,BUL,8.0,172,Sabre,2008
+-,3,-,0,0,-,-,5,0,Cadets,Men,MACHAJ Vojtech,CZE,8.0,173,Sabre,2009
+4,0,-,3,-,-,-,-,-,Cadets,Men,ZUFFA CONSTANTINO,GEO,7.0,174,Sabre,2010
+4,0,0,3,-,-,-,-,-,Cadets,Men,CALISKAN tuna,TUR,7.0,175,Sabre,2009
+4,0,3,-,-,-,-,-,-,Cadets,Men,MERT kuzey gazi,TUR,7.0,176,Sabre,2009
+4,3,0,0,-,-,-,-,-,Cadets,Men,BOZKUS berken,TUR,7.0,177,Sabre,2009
+4,0,-,0,-,-,3,-,0,Cadets,Men,JIMSHELEISHVILI DAVITI,GEO,7.0,178,Sabre,2008
+-,-,-,-,6,-,-,-,-,Cadets,Men,SATO Shugo,JPN,6.0,179,Sabre,2009
+-,0,6,0,-,-,-,-,-,Cadets,Men,VALEV Veselin,BUL,6.0,180,Sabre,2009
+-,-,-,6,-,-,-,-,-,Cadets,Men,RAMANAN Govind,USA,6.0,181,Sabre,2008
+-,6,-,-,-,-,-,-,-,Cadets,Men,YUEN Lucas,HKG,6.0,182,Sabre,2008
+-,-,-,-,6,-,-,-,-,Cadets,Men,POUHAER Esteban,FRA,6.0,183,Sabre,2008
+-,-,6,-,-,-,-,-,-,Cadets,Men,ABOULNEEL Omar,EGY,6.0,183,Sabre,2008
+-,-,6,-,-,-,-,-,-,Cadets,Men,ABOUELSOUD saher,EGY,6.0,185,Sabre,2010
+-,-,6,-,-,-,-,-,-,Cadets,Men,BEGJANOV Artur,UZB,6.0,186,Sabre,2009
+-,-,6,-,-,-,-,-,-,Cadets,Men,ABDELKADER youssef,EGY,6.0,187,Sabre,2008
+-,-,-,6,0,-,-,-,-,Cadets,Men,ZHENG Leon,CAN,6.0,188,Sabre,2008
+-,0,6,0,-,-,-,-,-,Cadets,Men,DOCHEV Angel,BUL,6.0,189,Sabre,2008
+-,0,-,0,-,0,6,-,0,Cadets,Men,SIBELIUS Etienne,FIN,6.0,190,Sabre,2009
+-,0,6,-,-,-,-,-,-,Cadets,Men,KARAGULLE emir,TUR,6.0,191,Sabre,2010
+-,-,6,-,-,-,-,-,-,Cadets,Men,OZGUR Tuna Kerem,TUR,6.0,192,Sabre,2008
+-,6,-,-,-,-,-,-,-,Cadets,Men,PATEL Rayn,USA,6.0,192,Sabre,2009
+-,-,-,0,0,6,-,-,-,Cadets,Men,LOW DE JIE Samuel,SGP,6.0,194,Sabre,2008
+-,0,6,0,-,-,-,-,-,Cadets,Men,ZILELI alp seref,TUR,6.0,195,Sabre,2009
+-,6,-,-,0,-,-,-,-,Cadets,Men,LANDI Filippo,ITA,6.0,196,Sabre,2010
+-,-,-,-,6,-,-,-,-,Cadets,Men,NAGARA Itsuki,JPN,6.0,197,Sabre,2010
+-,-,-,-,6,-,-,-,-,Cadets,Men,DUBOEUF TRISTAN,FRA,6.0,198,Sabre,2009
+-,-,6,-,-,-,-,-,-,Cadets,Men,ABUHALWA Hamza,EGY,6.0,199,Sabre,2009
+-,-,6,-,-,-,-,-,-,Cadets,Men,ALIMOV Saidibrokhim Saidagzamovich,UZB,6.0,200,Sabre,2010
+-,-,-,-,6,-,-,-,-,Cadets,Men,OTSUKA Reo,JPN,6.0,201,Sabre,2008
+-,-,6,-,-,-,-,-,-,Cadets,Men,NOURELDIN seifeldin,EGY,6.0,202,Sabre,2009
+-,-,-,6,-,-,-,-,-,Cadets,Men,LIBERATO Salvatore,ITA,6.0,203,Sabre,2008
+-,-,-,-,6,-,-,-,-,Cadets,Men,NG Jonathan,USA,6.0,203,Sabre,2010
+-,3,3,0,0,-,-,-,-,Cadets,Men,VOCHIN Andrei,ROU,6.0,205,Sabre,2009
+-,3,-,3,-,-,-,-,-,Cadets,Men,WANG Will Yiyu,CAN,6.0,206,Sabre,2009
+-,(0),-,0,(0),3,3,0,0,Cadets,Men,ANSERMET Loic,SUI,6.0,207,Sabre,2009
+-,-,-,3,-,3,-,-,-,Cadets,Men,VERDE ALONSO Manuel,ESP,6.0,208,Sabre,2009
+-,(0),3,0,0,3,-,-,-,Cadets,Men,BUXTON William,GBR,6.0,209,Sabre,2009
+-,0,-,3,3,-,-,-,-,Cadets,Men,BEN AMMOU Mohamed,BEL,6.0,210,Sabre,2009
+-,-,-,3,-,3,-,-,-,Cadets,Men,GARCIA FERNANDEZ Leon,ESP,6.0,211,Sabre,2008
+-,(0),3,(0),3,0,0,-,-,Cadets,Men,GREENE Alexander,GBR,6.0,212,Sabre,2009
+-,(0),3,0,(0),-,3,0,-,Cadets,Men,WHITE John,GBR,6.0,213,Sabre,2008
+-,3,-,3,-,-,0,-,-,Cadets,Men,BOULTADAKIS Emmanouil Marios,GRE,6.0,214,Sabre,2009
+-,0,3,(0),0,-,3,-,-,Cadets,Men,CRICA Vlad,ROU,6.0,215,Sabre,2010
+-,-,-,-,3,3,-,-,-,Cadets,Men,PICCIOLI BAPTISTE,FRA,6.0,216,Sabre,2008
+-,0,3,0,-,-,3,-,-,Cadets,Men,ANDREEV Preslav,BUL,6.0,217,Sabre,2009
+-,0,3,(0),3,-,0,-,-,Cadets,Men,VINTILA Eduard Florin,ROU,6.0,218,Sabre,2009
+-,3,-,-,3,-,-,-,-,Cadets,Men,KEZDI-KOVACS Boldizsar,HUN,6.0,219,Sabre,2010
+-,3,-,-,3,-,-,-,-,Cadets,Men,BODI Ignac Gedeon,HUN,6.0,220,Sabre,2008
+-,0,-,0,-,-,3,25,-,Cadets,Men,OBUKHOV Nikita,UKR,6.0,221,Sabre,2009
+-,0,-,0,3,-,-,25,-,Cadets,Men,RATAJ Tomasz,POL,6.0,222,Sabre,2009
+-,0,-,-,3,-,-,25,-,Cadets,Men,MIODUSZEWSKI Szymon,POL,6.0,223,Sabre,2009
+-,0,-,-,-,0,-,5,-,Cadets,Men,WIEKHORST Kajetan,GER,5.0,224,Sabre,2008
+-,-,-,0,-,-,-,5,-,Cadets,Men,TIROTTI Tommaso,ITA,5.0,225,Sabre,2008
+-,-,-,0,0,0,-,5,-,Cadets,Men,ROELOFS Erwan,SUI,5.0,226,Sabre,2008
+-,0,-,-,0,-,-,5,-,Cadets,Men,GRADON Krzysztof,POL,5.0,227,Sabre,2009
+-,-,-,-,-,-,-,5,-,Cadets,Men,BRUNO Simone,ITA,5.0,228,Sabre,2008
+-,-,-,0,0,-,-,5,-,Cadets,Men,GROHMANN Jannis,GER,5.0,229,Sabre,2010
+-,0,-,0,-,-,0,5,-,Cadets,Men,SKRYPNYK Ilia,UKR,5.0,230,Sabre,2009
+4,-,-,-,-,-,-,-,-,Cadets,Men,ALAKBARZADE Ismayil,AZE,4.0,231,Sabre,2008
+4,-,-,-,-,-,-,-,-,Cadets,Men,BOBOKHIDZE GIORGI,GEO,4.0,232,Sabre,2009
+-,-,3,-,-,-,-,-,-,Cadets,Men,KARAMAN Yerkhan,KAZ,3.0,233,Sabre,2008
+-,-,-,3,-,-,-,-,-,Cadets,Men,LI Yiwei,CHN,3.0,234,Sabre,2008
+-,-,3,-,-,-,-,-,-,Cadets,Men,TAJETDINOV Begzad,UZB,3.0,234,Sabre,2008
+-,-,-,-,-,-,3,-,0,Cadets,Men,GOGOKHIA SABA,GEO,3.0,236,Sabre,2009
+-,-,3,-,-,-,-,-,-,Cadets,Men,DOGAN arda,TUR,3.0,237,Sabre,2008
+-,-,-,-,3,-,-,-,-,Cadets,Men,GNABA NOE FRANCESCO,FRA,3.0,238,Sabre,2008
+-,-,-,-,3,-,-,-,-,Cadets,Men,MASTROLITTO Pietro Gianni,ITA,3.0,239,Sabre,2008
+-,0,-,-,3,-,-,-,-,Cadets,Men,TARPATAKY-HARY Botond,HUN,3.0,240,Sabre,2010
+-,-,-,-,-,3,-,-,-,Cadets,Men,TALLARICO Tommaso,ITA,3.0,241,Sabre,2009
+-,-,-,3,-,-,-,-,-,Cadets,Men,HIRSCH BUTTE' Pietro,ITA,3.0,242,Sabre,2009
+-,-,-,3,0,-,-,-,-,Cadets,Men,AUW Ashton Sen Hon,SGP,3.0,243,Sabre,2009
+-,-,-,-,3,-,-,-,-,Cadets,Men,THOMAS NOAH,FRA,3.0,244,Sabre,2009
+-,-,-,-,3,0,-,-,-,Cadets,Men,SIROU ANTOINE,FRA,3.0,245,Sabre,2008
+-,0,3,0,(0),-,0,-,-,Cadets,Men,PANDELESCU Tiberiu,ROU,3.0,246,Sabre,2009
+-,3,-,0,-,-,-,-,-,Cadets,Men,BODAY Domonkos,HUN,3.0,247,Sabre,2010
+-,-,-,3,-,-,-,-,-,Cadets,Men,PASQUALINO Mattia,ITA,3.0,248,Sabre,2008
+-,0,3,-,-,-,-,-,-,Cadets,Men,MERMUTLUOGLU semi,TUR,3.0,249,Sabre,2011
+-,0,-,-,3,-,-,-,-,Cadets,Men,SZEPESI Vince,HUN,3.0,250,Sabre,2008
+-,3,-,-,-,-,-,-,-,Cadets,Men,LATHAM GASPAR,CHI,3.0,251,Sabre,2008
+-,0,0,0,-,-,3,-,-,Cadets,Men,BONEV Nikita,BUL,3.0,252,Sabre,2009
+-,-,-,-,3,-,-,-,-,Cadets,Men,WANG Weiyun,CAN,3.0,253,Sabre,2008
+-,3,-,0,0,-,-,0,-,Cadets,Men,MATIKKE Matthew,GER,3.0,254,Sabre,2010
+-,-,3,-,-,-,-,-,-,Cadets,Men,OZBEY Ozan,TUR,3.0,255,Sabre,2008
+-,-,-,-,0,-,3,-,-,Cadets,Men,PAYAN GASTON,FRA,3.0,256,Sabre,2008
+-,-,-,0,3,-,-,-,-,Cadets,Men,SOLIANO Cameron Alexander Tan,SGP,3.0,257,Sabre,2010
+-,-,-,3,0,-,-,-,-,Cadets,Men,FLOREZ DE VARGAS Alejandro,ESP,3.0,258,Sabre,2010
+-,0,3,-,-,-,-,-,-,Cadets,Men,MARGINEAN Vlad Luca,ROU,3.0,259,Sabre,2009
+-,-,-,0,0,-,3,-,-,Cadets,Men,ANYFANTIS Christos,GRE,3.0,260,Sabre,2008
+-,-,3,-,0,-,-,-,-,Cadets,Men,LUCAS George,GBR,3.0,261,Sabre,2010
+-,0,-,-,-,-,3,-,-,Cadets,Men,STEFANOV Todor,BUL,3.0,262,Sabre,2009
+-,0,-,3,-,-,-,-,-,Cadets,Men,BELOS Panagiotis Maximos,GRE,3.0,263,Sabre,2008
+-,-,3,-,-,-,-,-,-,Cadets,Men,ASLAN Eren,TUR,3.0,264,Sabre,2009
+-,0,-,3,-,-,0,-,-,Cadets,Men,AVRAMIDIS Aristotelis,GRE,3.0,265,Sabre,2008
+-,-,3,-,-,-,-,-,-,Cadets,Men,OZKAN mehmet doruk,TUR,3.0,266,Sabre,2011
+-,3,-,0,0,-,-,-,-,Cadets,Men,WALD Simon Alexander,GER,3.0,267,Sabre,2010
+-,-,-,3,-,-,-,-,-,Cadets,Men,WOO Hei Lim Jayden,HKG,3.0,268,Sabre,2011
+-,-,-,3,-,-,-,-,-,Cadets,Men,CHEN Samuel,CAN,3.0,268,Sabre,2008
+-,-,-,0,-,-,3,-,-,Cadets,Men,KARAGKIOZOPOULOS Thomas,GRE,3.0,270,Sabre,2008
+-,3,-,-,-,-,-,-,-,Cadets,Men,KORZENIOWSKI Mikolaj,POL,3.0,271,Sabre,2008
+-,-,3,-,-,-,-,-,-,Cadets,Men,KARADERE kadir,TUR,3.0,271,Sabre,2010
+-,0,-,0,-,3,-,-,-,Cadets,Men,SUAREZ ZAS Gabriel Ricardo,ESP,3.0,273,Sabre,2009
+-,-,-,-,3,-,-,-,-,Cadets,Men,LIU Shangshang Mike,CHN,3.0,274,Sabre,2011
+-,0,3,-,-,-,-,-,-,Cadets,Men,HEWETT Oliver,GBR,3.0,275,Sabre,2010
+-,-,3,-,-,-,-,-,-,Cadets,Men,BILGI emir efe,TUR,3.0,276,Sabre,2010
+-,-,3,-,-,-,-,-,-,Cadets,Men,TETIK tarik tugra,TUR,3.0,276,Sabre,2011
+-,-,-,3,-,-,-,-,-,Cadets,Men,LEONI Nicolo,ITA,3.0,276,Sabre,2008
+-,0,-,3,-,-,-,-,-,Cadets,Men,ROKAS Konstantinos,GRE,3.0,279,Sabre,2009
+-,-,3,-,-,-,-,-,-,Cadets,Men,ERGUL Yigit Kagan,TUR,3.0,280,Sabre,2008
+-,-,-,-,-,-,3,-,-,Cadets,Men,SURCEL Stefan,ROU,3.0,280,Sabre,2010
+-,0,0,0,-,-,3,-,-,Cadets,Men,RADEV Maxim,BUL,3.0,282,Sabre,2009
+-,-,3,-,-,-,-,-,-,Cadets,Men,MIHHAILOV Artur,EST,3.0,283,Sabre,2009
+-,0,-,3,0,-,-,-,-,Cadets,Men,KOSZTA-AJVASZ Imre,HUN,3.0,284,Sabre,2009
+-,3,-,0,0,-,-,-,-,Cadets,Men,LIPINSKI Jakub,POL,3.0,285,Sabre,2010
+-,-,-,-,-,-,3,-,-,Cadets,Men,ENE Alexander,ROU,3.0,286,Sabre,2011
+-,-,3,-,-,-,-,-,-,Cadets,Men,GROLLIOS Aristotelis,GRE,3.0,287,Sabre,2011
+-,-,-,3,-,-,-,-,-,Cadets,Men,GYORKE Marton,HUN,3.0,287,Sabre,2009
+-,-,-,-,-,3,-,-,-,Cadets,Men,KOKUBO Yui,JPN,3.0,287,Sabre,2009
+-,-,3,-,-,-,-,-,-,Cadets,Men,RAKHMONOV Saidamir,UZB,3.0,287,Sabre,2011
+-,-,3,0,-,-,-,-,-,Cadets,Men,IVANOV Aleksandar,BUL,3.0,291,Sabre,2010
+-,0,3,0,-,-,-,-,-,Cadets,Men,NANCHEV Georgi,BUL,3.0,292,Sabre,2009
+-,-,3,-,-,-,-,-,-,Cadets,Men,GOKDEMIR tuna,TUR,3.0,293,Sabre,2010
+-,3,-,0,0,-,-,-,-,Cadets,Men,LIN Jifeng,NED,3.0,294,Sabre,2009
+-,0,-,-,3,-,-,-,-,Cadets,Men,HORVATH Hunor,HUN,3.0,295,Sabre,2009
+-,-,3,-,-,-,-,-,-,Cadets,Men,ANIT Yigit Onur,TUR,3.0,296,Sabre,2008
+-,-,-,-,-,-,3,-,-,Cadets,Men,TONCU Vlad,ROU,3.0,296,Sabre,2010
+-,-,3,-,-,-,-,-,-,Cadets,Men,GUVEN kaan leo,TUR,3.0,298,Sabre,2010
+-,-,3,-,-,-,-,-,-,Cadets,Men,SHABANLI Najaf,AZE,3.0,298,Sabre,2010
+-,-,-,-,3,-,-,-,-,Cadets,Men,TAMARU Hiroshi,JPN,3.0,298,Sabre,2008
+-,0,-,-,3,-,-,-,-,Cadets,Men,LEHNERT Tobias,GER,3.0,301,Sabre,2008
+-,0,-,0,0,3,-,-,-,Cadets,Men,WITTOUCK Corto,BEL,3.0,302,Sabre,2008
+-,0,3,0,-,-,0,-,-,Cadets,Men,AIVAZIS Filippos,GRE,3.0,303,Sabre,2008
+-,3,0,0,-,-,0,-,-,Cadets,Men,LEARNER Henry,GBR,3.0,304,Sabre,2009
+-,-,3,-,-,-,-,-,-,Cadets,Men,BASER cinar,TUR,3.0,305,Sabre,2012
+-,-,-,3,0,-,-,-,-,Cadets,Men,OOI Shane Jun Ming,SGP,3.0,306,Sabre,2008
+-,0,-,0,3,-,-,-,-,Cadets,Men,BRUZIK Roch,POL,3.0,307,Sabre,2009
+-,3,-,-,-,-,-,-,-,Cadets,Men,FULOP Zsombor Vince,HUN,3.0,308,Sabre,2010
+-,0,-,-,3,-,-,-,-,Cadets,Men,ZUBKO Dominik,POL,3.0,309,Sabre,2010
+-,-,-,3,-,-,-,-,-,Cadets,Men,FANELLI Alessandro,ITA,3.0,310,Sabre,2010
+-,-,-,-,3,-,-,-,-,Cadets,Men,KIMURA Rinnosuke,JPN,3.0,311,Sabre,2009
+-,3,-,-,-,-,-,-,-,Cadets,Men,KISBAN Lukacs Peter,HUN,3.0,312,Sabre,2009
+-,-,-,-,-,0,-,25,-,Cadets,Men,SILVESTRE Ethan,SUI,3.0,313,Sabre,2008
+-,0,-,-,-,-,-,25,-,Cadets,Men,VENCLIK Jan,CZE,3.0,314,Sabre,2008
+-,0,-,0,0,-,-,25,0,Cadets,Men,MACHAJ Jiri,CZE,3.0,315,Sabre,2009
+-,-,-,0,0,-,0,25,-,Cadets,Men,DEMBOVSKYI Andrii,UKR,3.0,316,Sabre,2010
+-,0,-,-,-,-,-,25,-,Cadets,Men,HORDIIUK Nazar,UKR,3.0,317,Sabre,2009
+-,-,-,-,0,-,0,25,-,Cadets,Men,KAPITANOV Dmytro,UKR,3.0,318,Sabre,2010
+-,0,-,-,-,0,-,25,-,Cadets,Men,PRAIZOVIC Vukasin,SRB,3.0,319,Sabre,2009
+0,-,-,-,-,-,-,-,-,Cadets,Men,MAMMADLI GARAY,AZE,0.0,320,Sabre,2010
+0,-,-,-,-,-,-,-,-,Cadets,Men,ALANAZI ABDULSALAM,KSA,0.0,321,Sabre,2008
+0,-,-,-,-,-,-,-,-,Cadets,Men,ALOTAISHAN TAMIM,KSA,0.0,321,Sabre,2011
+0,-,-,-,-,-,-,-,-,Cadets,Men,ALMTIRI HUSSAM,KSA,0.0,323,Sabre,2009
+0,-,-,-,-,-,-,-,-,Cadets,Men,ONIANI GABRIEL,GEO,0.0,324,Sabre,2010
+0,-,-,-,-,-,-,-,-,Cadets,Men,JIKIA DEMURI,GEO,0.0,324,Sabre,2011
+0,-,0,-,-,-,-,-,-,Cadets,Men,OZERDEM can,TUR,0.0,326,Sabre,2010
+-,-,-,-,-,-,-,-,0,Cadets,Men,BAR ON YONATAN,ISR,0.0,327,Sabre,2009
+-,-,-,-,-,-,-,-,0,Cadets,Men,LIMA Jose,POR,0.0,328,Sabre,2008
+-,0,-,-,0,0,-,-,0,Cadets,Men,NORSK Frederik Dahl,DEN,0.0,329,Sabre,2009
+-,0,-,-,-,-,-,0,-,Cadets,Men,PALMOWSKI Blazej,POL,0.0,330,Sabre,2009
+-,0,-,0,-,-,-,0,-,Cadets,Men,LYSENKO Yehor,UKR,0.0,331,Sabre,2010
+-,0,-,0,-,-,0,0,-,Cadets,Men,YUZYK IVAN,UKR,0.0,332,Sabre,2010
+-,0,-,-,-,-,-,0,-,Cadets,Men,GLISIC Nemanja,SRB,0.0,333,Sabre,2008
+-,0,-,0,0,-,-,0,-,Cadets,Men,HORAK Andrej Vit,CZE,0.0,334,Sabre,2010
+-,-,-,-,-,-,-,0,-,Cadets,Men,HABENICHT Luz,GBR,0.0,335,Sabre,2009
+-,-,-,-,-,-,-,0,-,Cadets,Men,BULA Lukas,CZE,0.0,336,Sabre,2011
+-,-,-,-,-,-,-,0,-,Cadets,Men,SEDLAR Michal,CZE,0.0,337,Sabre,2009
+-,-,-,-,-,-,-,0,-,Cadets,Men,JERABEK Vitezslav,CZE,0.0,337,Sabre,2009
+-,-,-,-,-,-,-,0,-,Cadets,Men,FAIFURA Orest,UKR,0.0,339,Sabre,2008
+-,-,-,-,-,-,-,0,-,Cadets,Men,RYTINA Vaclav,CZE,0.0,340,Sabre,2009
+-,-,-,-,-,-,0,-,-,Cadets,Men,IONESCU Andrei,ROU,0.0,341,Sabre,2009
+-,-,0,-,-,-,-,-,-,Cadets,Men,GULERER berke benjamin,TUR,0.0,342,Sabre,2010
+-,0,-,0,0,-,0,-,-,Cadets,Men,NTIVIS Angelos,GRE,0.0,343,Sabre,2009
+-,-,0,-,-,-,-,-,-,Cadets,Men,ERDOL osman ibrahim,TUR,0.0,344,Sabre,2012
+-,0,0,0,-,-,-,-,-,Cadets,Men,FERNANDEZ Ruben,GBR,0.0,345,Sabre,2009
+-,-,0,0,-,-,-,-,-,Cadets,Men,EREN halit,TUR,0.0,346,Sabre,2009
+-,0,0,0,-,-,-,-,-,Cadets,Men,KIRKOV Nikola,BUL,0.0,347,Sabre,2009
+-,0,0,0,-,-,-,-,-,Cadets,Men,VAN LIER Arthur,BEL,0.0,348,Sabre,2008
+-,-,-,0,-,-,0,-,-,Cadets,Men,MPOURVANIS Antonios,GRE,0.0,349,Sabre,2009
+-,-,0,-,-,-,-,-,-,Cadets,Men,KOROBEINIKOV Denis,EST,0.0,350,Sabre,2011
+-,0,0,0,-,-,-,-,-,Cadets,Men,WOODCOCK Alex,GBR,0.0,351,Sabre,2009
+-,-,-,-,-,-,0,-,-,Cadets,Men,ALBU Serban,ROU,0.0,352,Sabre,2008
+-,-,0,-,-,-,-,-,-,Cadets,Men,KACMAZ mehmet kuzey,TUR,0.0,352,Sabre,2009
+-,0,-,-,-,-,0,-,-,Cadets,Men,SEELMANN Friedrich,GER,0.0,354,Sabre,2009
+-,-,0,-,-,-,-,-,-,Cadets,Men,AYAZ ruzgar,TUR,0.0,355,Sabre,2012
+-,-,-,0,-,-,0,-,-,Cadets,Men,CHATZIS Zois Georgios,GRE,0.0,356,Sabre,2008
+-,-,-,-,-,-,0,-,-,Cadets,Men,DANILA Felix,ROU,0.0,357,Sabre,2009
+-,0,-,0,0,-,-,-,-,Cadets,Men,MOHSLER Jakob,GER,0.0,358,Sabre,2008
+-,-,0,-,-,-,-,-,-,Cadets,Men,MACLEOD Austin,GBR,0.0,359,Sabre,2009
+-,0,0,-,0,-,0,-,-,Cadets,Men,GIAKOUSTIDIS Efthymios,GRE,0.0,360,Sabre,2008
+-,-,0,-,-,-,-,-,-,Cadets,Men,THEODOROPOULOS Vasilios Ilias,GRE,0.0,361,Sabre,2010
+-,0,-,0,-,-,-,-,-,Cadets,Men,GARCIA-MEGYESI Javier,HUN,0.0,362,Sabre,2010
+-,-,0,-,-,-,-,-,-,Cadets,Men,EROL yavuz alp,TUR,0.0,363,Sabre,2008
+-,-,-,-,0,-,-,-,-,Cadets,Men,TOUCOUERE SCHMITZ Romain,FRA,0.0,364,Sabre,2009
+-,-,0,-,-,-,-,-,-,Cadets,Men,SAYDUT suer bulut aras,TUR,0.0,364,Sabre,2011
+-,-,0,-,-,-,-,-,-,Cadets,Men,ARIN ege,TUR,0.0,364,Sabre,2009
+-,-,-,-,-,-,0,-,-,Cadets,Men,VERZEA Victor,ITA,0.0,367,Sabre,2008
+-,-,-,0,0,0,-,-,-,Cadets,Men,SERINO Mattia,SUI,0.0,368,Sabre,2009
+-,0,-,-,-,-,-,-,-,Cadets,Men,MARCELLI Samuel,ITA,0.0,369,Sabre,2008
+-,0,-,0,0,-,-,-,-,Cadets,Men,THIEL Philipp,GER,0.0,370,Sabre,2009
+-,0,-,0,-,0,-,-,-,Cadets,Men,PRIETO DIEZ Eric,ESP,0.0,371,Sabre,2009
+-,-,-,-,-,-,0,-,-,Cadets,Men,SOMOIOG Madalin,ROU,0.0,372,Sabre,2008
+-,-,0,-,-,-,-,-,-,Cadets,Men,BEZCI selim,TUR,0.0,372,Sabre,2012
+-,-,-,-,-,0,-,-,-,Cadets,Men,SPINELLI Pier Francesco,ITA,0.0,372,Sabre,2009
+-,-,0,-,-,-,-,-,-,Cadets,Men,GULUMSER ali,TUR,0.0,375,Sabre,2012
+-,-,-,0,-,0,-,-,-,Cadets,Men,RODRIGUEZ BASTIANI Milan,ESP,0.0,376,Sabre,2008
+-,-,-,0,0,-,-,-,-,Cadets,Men,SA Kai XI,GER,0.0,377,Sabre,2010
+-,-,-,-,-,-,0,-,-,Cadets,Men,GRECU Luca Stefan,ROU,0.0,378,Sabre,2009
+-,-,0,-,-,-,-,-,-,Cadets,Men,ERGUL ozgur aras,TUR,0.0,378,Sabre,2012
+-,-,-,-,0,-,-,-,-,Cadets,Men,WANG Michael Xuan,CAN,0.0,378,Sabre,2009
+-,0,-,0,-,-,-,-,-,Cadets,Men,REVESZ Bence,HUN,0.0,381,Sabre,2010
+-,-,-,-,-,-,0,-,-,Cadets,Men,TOADER Matei,ROU,0.0,382,Sabre,2010
+-,-,-,-,0,-,-,-,-,Cadets,Men,TORI CHARLES ALEXANDRE,FRA,0.0,382,Sabre,2010
+-,0,-,0,-,0,-,-,-,Cadets,Men,ZUBELDIA RODRIGUEZ Inigo,ESP,0.0,384,Sabre,2009
+-,0,-,0,-,0,-,-,-,Cadets,Men,MARTOS MENA Javier,ESP,0.0,385,Sabre,2010
+-,-,0,-,-,-,-,-,-,Cadets,Men,OZKUTUKCU Yaman,TUR,0.0,386,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,BARTOLOME MATISSE,FRA,0.0,386,Sabre,2009
+-,-,0,-,-,-,-,-,-,Cadets,Men,YAVUZASLAN oruc yavuz serhan,TUR,0.0,388,Sabre,2011
+-,-,-,-,-,-,0,-,-,Cadets,Men,TOMAC Nichita,ROU,0.0,388,Sabre,2012
+-,-,0,-,-,-,-,-,-,Cadets,Men,ELSHAZLEY Hashem,EGY,0.0,388,Sabre,2010
+-,0,-,0,0,0,-,-,-,Cadets,Men,LANZMICH Oskar,GER,0.0,391,Sabre,2008
+-,-,-,-,-,-,0,-,-,Cadets,Men,DUMITRELEA Alexandru,ROU,0.0,392,Sabre,2008
+-,0,-,0,-,-,0,-,-,Cadets,Men,HELCIOIU Vladimir,ROU,0.0,393,Sabre,2009
+-,-,0,-,-,-,-,-,-,Cadets,Men,HORASAN burak,TUR,0.0,394,Sabre,2010
+-,0,-,0,-,-,-,-,-,Cadets,Men,RAZPOTNIK SIMENC Azbe,SLO,0.0,395,Sabre,2008
+-,-,0,-,-,-,-,-,-,Cadets,Men,CALGIN poyraz efe,TUR,0.0,396,Sabre,2011
+-,0,-,-,0,-,-,-,-,Cadets,Men,SIMONS Gereon,GER,0.0,397,Sabre,2009
+-,-,0,-,-,-,-,-,-,Cadets,Men,TURKILERI guven doruk,TUR,0.0,398,Sabre,2012
+-,-,-,0,-,0,-,-,-,Cadets,Men,VAN GENT CASTANO Eric,ESP,0.0,399,Sabre,2009
+-,-,0,-,-,-,-,-,-,Cadets,Men,ILGAR emre,TUR,0.0,400,Sabre,2010
+-,-,0,-,-,-,-,-,-,Cadets,Men,KARSLI muhammed fatih,TUR,0.0,400,Sabre,2011
+-,-,-,-,0,-,-,-,-,Cadets,Men,NIIZEKI Oscar,AUS,0.0,400,Sabre,2008
+-,0,-,-,0,0,-,-,-,Cadets,Men,STEINBERG Jesko,GER,0.0,403,Sabre,2009
+-,-,-,0,-,0,-,-,-,Cadets,Men,LLORET LACOMBA Etienne,ESP,0.0,404,Sabre,2009
+-,0,-,0,-,-,-,-,-,Cadets,Men,LIAKH Oleksandr,UKR,0.0,405,Sabre,2010
+-,-,0,-,-,-,-,-,-,Cadets,Men,YESILDAL yavuz selim,TUR,0.0,406,Sabre,2012
+-,-,0,-,-,-,-,-,-,Cadets,Men,ANGELOPOULOS Marios,GRE,0.0,406,Sabre,2009
+-,0,-,0,-,-,-,-,-,Cadets,Men,GOSPODINOV Deyan,BUL,0.0,408,Sabre,2010
+-,-,-,0,-,-,-,-,-,Cadets,Men,FRAGOMENI Domenico Giuseppe,ITA,0.0,409,Sabre,2009
+-,-,0,-,-,-,-,-,-,Cadets,Men,BOZBAS doruk,TUR,0.0,410,Sabre,2011
+-,-,-,-,-,0,-,-,-,Cadets,Men,GARCIA DE LA PUENTE Hugo Bernardo,ESP,0.0,410,Sabre,2008
+-,-,0,-,-,-,-,-,-,Cadets,Men,GURUN mustafa kaan,TUR,0.0,412,Sabre,2011
+-,0,-,0,-,-,-,-,-,Cadets,Men,DECSI Hunor,HUN,0.0,413,Sabre,2012
+-,-,-,-,0,-,-,-,-,Cadets,Men,CALLAY Arthur,FRA,0.0,414,Sabre,2008
+-,0,-,-,0,-,-,-,-,Cadets,Men,SCIULLO JACOPO,ITA,0.0,415,Sabre,2010
+-,0,-,-,0,-,-,-,-,Cadets,Men,ISTED Ben,GBR,0.0,416,Sabre,2008
+-,0,-,-,0,0,-,-,-,Cadets,Men,SCHALL Patrick,GER,0.0,417,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,LOESCHBURG Marlon,GER,0.0,418,Sabre,2011
+-,0,-,0,0,0,-,-,-,Cadets,Men,VAN INGELGEM Cyriel,BEL,0.0,419,Sabre,2008
+-,-,-,-,-,0,-,-,-,Cadets,Men,GETTEMANS Jef,BEL,0.0,420,Sabre,2009
+-,0,-,-,0,-,-,-,-,Cadets,Men,KORINEK - VEGH Marcell,HUN,0.0,421,Sabre,2009
+-,0,-,0,0,-,-,-,-,Cadets,Men,VILLAMOR RODRIGUEZ Matias,ESP,0.0,422,Sabre,2009
+-,0,-,-,-,0,-,-,-,Cadets,Men,PERESZLENYI Tamas,HUN,0.0,423,Sabre,2008
+-,-,-,-,-,0,-,-,-,Cadets,Men,LLORENTE LOPEZ Ignacio,ESP,0.0,424,Sabre,2008
+-,-,-,0,0,-,-,-,-,Cadets,Men,TAN Gilbert Hong Hao,SGP,0.0,425,Sabre,2010
+-,0,-,0,-,-,-,-,-,Cadets,Men,BUENO FALCON Rodrigo Zheng,ESP,0.0,426,Sabre,2010
+-,0,-,-,-,-,-,-,-,Cadets,Men,HENDERSON Lucas Lin,CAN,0.0,427,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,DI PIETRA MATTIS,FRA,0.0,428,Sabre,2009
+-,-,-,0,0,-,-,-,-,Cadets,Men,NG Roy,SGP,0.0,429,Sabre,2008
+-,-,-,-,-,0,-,-,-,Cadets,Men,SANCHEZ BOIX Bruno,ESP,0.0,430,Sabre,2008
+-,0,-,-,-,-,-,-,-,Cadets,Men,BRANDHUBER Adam,HUN,0.0,430,Sabre,2010
+-,0,-,0,0,-,-,-,-,Cadets,Men,SANTOS Jose,BRA,0.0,432,Sabre,2010
+-,-,-,0,-,0,-,-,-,Cadets,Men,LUJAN TORRES Leo,ESP,0.0,433,Sabre,2009
+-,0,-,-,-,-,-,-,-,Cadets,Men,PETHO Oliver,HUN,0.0,434,Sabre,2009
+-,-,-,-,-,0,-,-,-,Cadets,Men,SANCHEZ CASALS Janot,ESP,0.0,434,Sabre,2009
+-,0,-,0,-,-,-,-,-,Cadets,Men,KROCHMALSKI Jakub,POL,0.0,436,Sabre,2008
+-,0,-,0,0,-,-,-,-,Cadets,Men,KIECA Jakub,POL,0.0,437,Sabre,2008
+-,-,-,-,-,0,-,-,-,Cadets,Men,ESNAL HUEGUN Eki,ESP,0.0,438,Sabre,2008
+-,-,-,0,0,0,-,-,-,Cadets,Men,TAN Jacob Jae Kijb,SGP,0.0,439,Sabre,2010
+-,0,-,-,-,-,-,-,-,Cadets,Men,BALOGH Lazar,HUN,0.0,440,Sabre,2010
+-,-,-,-,0,-,-,-,-,Cadets,Men,FERENCZI Ambrus,GER,0.0,441,Sabre,2011
+-,0,-,-,-,-,-,-,-,Cadets,Men,MIKLUSICSAK Mate,HUN,0.0,442,Sabre,2008
+-,-,-,-,0,-,-,-,-,Cadets,Men,BAJRACHARYA HUGO,FRA,0.0,442,Sabre,2008
+-,-,-,0,-,-,-,-,-,Cadets,Men,MICCIO Gianmarco,ITA,0.0,444,Sabre,2008
+-,-,-,-,-,0,-,-,-,Cadets,Men,HREINSSON Ymir Darri,ISL,0.0,445,Sabre,2008
+-,-,-,-,-,0,-,-,-,Cadets,Men,MARTI LOZANO Nacho,ESP,0.0,446,Sabre,2010
+-,-,-,-,0,-,-,-,-,Cadets,Men,POPOTNIK Felix,AUT,0.0,446,Sabre,2008
+-,-,-,-,-,0,-,-,-,Cadets,Men,MATTHIASSON Magnus,ISL,0.0,448,Sabre,2009
+-,-,-,-,-,0,-,-,-,Cadets,Men,RAMIREZ MURCIANO Aitor,ESP,0.0,449,Sabre,2008
+-,-,-,-,0,-,-,-,-,Cadets,Men,RADOCH Igor,POL,0.0,449,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,WONG KEAGAN ZI XIAN,MAS,0.0,451,Sabre,2010
+-,0,-,0,-,-,-,-,-,Cadets,Men,DONNACHIE Tyree,GBR,0.0,452,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,RAUCY BAPTISTE,FRA,0.0,453,Sabre,2009
+-,-,-,-,-,0,-,-,-,Cadets,Men,KUMAR Vikram,AUS,0.0,454,Sabre,2008
+-,-,-,-,-,0,-,-,-,Cadets,Men,BARBERAN MORENO Nico,ESP,0.0,454,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,KOBAYASHI Keiichiro,JPN,0.0,454,Sabre,2010
+-,-,-,0,0,-,-,-,-,Cadets,Men,EBERHARDT Gero,GER,0.0,457,Sabre,2009
+-,-,-,0,0,-,-,-,-,Cadets,Men,SCHMIERER Ben,GER,0.0,458,Sabre,2011
+-,-,-,-,0,-,-,-,-,Cadets,Men,BECHSTEIN Oskar,GER,0.0,459,Sabre,2010
+-,-,-,0,-,0,-,-,-,Cadets,Men,CHUPRYNA Tymur,UKR,0.0,460,Sabre,2009
+-,0,-,0,-,-,-,-,-,Cadets,Men,GOLUB zan,SLO,0.0,461,Sabre,2010
+-,0,-,-,-,-,-,-,-,Cadets,Men,KWOK King Leung,HKG,0.0,462,Sabre,2008
+-,-,-,0,-,-,-,-,-,Cadets,Men,POPILIEV Zdravko,BUL,0.0,462,Sabre,2011
+-,-,-,-,-,0,-,-,-,Cadets,Men,VICENTE ROVIRA Biel,ESP,0.0,462,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,SCHILLER Samuel,GER,0.0,462,Sabre,2010
+-,-,-,-,0,-,-,-,-,Cadets,Men,WEIDE Timo Caspar,GER,0.0,466,Sabre,2008
+-,-,-,-,0,-,-,-,-,Cadets,Men,BRAMMER Tristan,GER,0.0,467,Sabre,2008
+-,-,-,-,0,-,-,-,-,Cadets,Men,GUGGENBICHLER Vincent,GER,0.0,468,Sabre,2008
+-,0,-,-,0,-,-,-,-,Cadets,Men,PALKOWSKI Damian,POL,0.0,469,Sabre,2008
+-,0,-,0,-,-,-,-,-,Cadets,Men,MIHAYLOV Nikolay,BUL,0.0,470,Sabre,2008
+-,0,-,-,-,-,-,-,-,Cadets,Men,MATTYUS Barnabas,HUN,0.0,471,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,REINHARDT Felix,GER,0.0,471,Sabre,2009
+-,0,-,0,0,-,-,-,-,Cadets,Men,BOSMANS Mael,BEL,0.0,473,Sabre,2009
+-,0,-,-,0,-,-,-,-,Cadets,Men,MASLOWIECKI Tomasz,POL,0.0,474,Sabre,2008
+-,0,-,-,0,-,-,-,-,Cadets,Men,MICHON Jan,POL,0.0,475,Sabre,2009
+-,0,-,-,-,-,-,-,-,Cadets,Men,DENES Benedek,HUN,0.0,476,Sabre,2008
+-,-,-,0,-,-,-,-,-,Cadets,Men,LOTTI Christian Francesco Paolo,ITA,0.0,476,Sabre,2010
+-,0,-,0,-,-,-,-,-,Cadets,Men,KAMBULOV Yehor,UKR,0.0,478,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,GEPP Matti,GER,0.0,479,Sabre,2010
+-,0,-,-,-,-,-,-,-,Cadets,Men,ALMARZOOQI OMAR,UAE,0.0,480,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,SATO Kaisei,JPN,0.0,480,Sabre,2010
+-,-,-,-,0,-,-,-,-,Cadets,Men,TAN Oliver Jinjie,SGP,0.0,482,Sabre,2010
+-,0,-,-,-,-,-,-,-,Cadets,Men,PROSITS Denes,HUN,0.0,483,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,PAGLIARIN ANTOINE,FRA,0.0,484,Sabre,2010
+-,-,-,-,0,-,-,-,-,Cadets,Men,SICHWARDT Viktor,GER,0.0,485,Sabre,2009
+-,0,-,-,-,-,-,-,-,Cadets,Men,SZEKULESZ Marton,HUN,0.0,486,Sabre,2008
+-,-,-,-,0,-,-,-,-,Cadets,Men,FENG Felix,GER,0.0,487,Sabre,2011
+-,-,-,0,-,-,-,-,-,Cadets,Men,IORIO Gerardo,ITA,0.0,487,Sabre,2010
+-,0,-,0,-,-,-,-,-,Cadets,Men,KORMANIATIS Dimitrios Bonigia,GRE,0.0,489,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,ELLEBRECHT Jona,GER,0.0,490,Sabre,2008
+-,0,-,-,0,-,-,-,-,Cadets,Men,MAY Thiemo,AUT,0.0,491,Sabre,2008
+-,-,-,-,0,-,-,-,-,Cadets,Men,POREISZ Hunor David,GER,0.0,492,Sabre,2010
+-,-,-,0,-,-,-,-,-,Cadets,Men,GENOV Doichin,BUL,0.0,493,Sabre,2010
+-,-,-,-,0,-,-,-,-,Cadets,Men,FALK Milo,GER,0.0,493,Sabre,2011
+-,0,-,-,-,-,-,-,-,Cadets,Men,KAZSIMER-BALINT Laszlo,HUN,0.0,493,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,WITT Damien,GER,0.0,496,Sabre,2009
+-,0,-,-,-,-,-,-,-,Cadets,Men,JOVANOVIC Vuk,SRB,0.0,497,Sabre,2010
+-,-,-,-,0,-,-,-,-,Cadets,Men,SCHUMACHER Liam,GER,0.0,498,Sabre,2009
+-,0,-,0,0,-,-,-,-,Cadets,Men,ZORE Tilen,SLO,0.0,499,Sabre,2009
+-,0,-,-,-,-,-,-,-,Cadets,Men,ALEBRI HAZZA,UAE,0.0,500,Sabre,2009
+-,0,-,0,0,-,-,-,-,Cadets,Men,VAN WIJK Cas,NED,0.0,501,Sabre,2010
+-,0,-,-,-,-,-,-,-,Cadets,Men,WALDSTEIN-WARTENBERG Jonathan,AUT,0.0,502,Sabre,2010
+-,0,-,-,0,-,-,-,-,Cadets,Men,BANDER Laszlo,HUN,0.0,503,Sabre,2008
+-,0,-,-,0,-,-,-,-,Cadets,Men,NOWINOWSKI Bartosz,POL,0.0,504,Sabre,2009
+-,0,-,0,0,-,-,-,-,Cadets,Men,KRUIT Samuel,NED,0.0,505,Sabre,2008
+-,-,-,0,-,-,-,-,-,Cadets,Men,VOITKO Lev,UKR,0.0,506,Sabre,2011
+-,0,-,-,-,-,-,-,-,Cadets,Men,NGO Maximus,CAN,0.0,507,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,GANSE Jascha,GER,0.0,508,Sabre,2011
+-,0,-,0,0,-,-,-,-,Cadets,Men,PSZOTA Akos,HUN,0.0,509,Sabre,2008
+-,-,-,-,0,-,-,-,-,Cadets,Men,NEGRI Jakob Johann,GER,0.0,510,Sabre,2011
+-,-,-,0,-,-,-,-,-,Cadets,Men,ALONSO DE LINAJE DIEZ Hector,ESP,0.0,510,Sabre,2010
+-,-,-,-,0,-,-,-,-,Cadets,Men,LUTZ Andre,GER,0.0,512,Sabre,2010
+-,-,-,0,-,-,-,-,-,Cadets,Men,FERNANDEZ AVILA Lucas,ESP,0.0,513,Sabre,2009
+-,-,-,0,-,-,-,-,-,Cadets,Men,CATALA MATEU Joan,ESP,0.0,514,Sabre,2008
+-,-,-,-,0,-,-,-,-,Cadets,Men,KREUTZ Lennart,GER,0.0,514,Sabre,2011
+-,-,-,-,0,-,-,-,-,Cadets,Men,PLUETZER Floyd,GER,0.0,514,Sabre,2010
+-,-,-,-,0,-,-,-,-,Cadets,Men,MCMANUS Eric,GER,0.0,517,Sabre,2011
+-,-,-,-,0,-,-,-,-,Cadets,Men,STAHMANN Hendrik,GER,0.0,518,Sabre,2008
+-,0,-,-,-,-,-,-,-,Cadets,Men,GYURCSIK Aron,HUN,0.0,519,Sabre,2008
+-,-,-,0,-,-,-,-,-,Cadets,Men,BALOS Georgios,GRE,0.0,520,Sabre,2008
+-,-,-,-,0,-,-,-,-,Cadets,Men,GAERTNER David,GER,0.0,520,Sabre,2010
+-,-,-,-,0,-,-,-,-,Cadets,Men,RUCAREANU Matei,ROU,0.0,520,Sabre,2010
+-,0,-,-,-,-,-,-,-,Cadets,Men,KOMLOSI Milan,HUN,0.0,523,Sabre,2008
+-,-,-,0,-,-,-,-,-,Cadets,Men,BEREZOVSKYI Klym,UKR,0.0,523,Sabre,2010
+-,-,-,-,0,-,-,-,-,Cadets,Men,STOLZ Vincent,GER,0.0,525,Sabre,2009
+-,-,-,-,0,-,-,-,-,Cadets,Men,SITZENSTUHL Maximilian,GER,0.0,526,Sabre,2010
+-,-,-,0,-,-,-,-,-,Cadets,Men,PROKOPOV Yavor,BUL,0.0,527,Sabre,2011
+-,-,-,0,-,-,-,-,-,Cadets,Men,RUSKOV Zahari,BUL,0.0,528,Sabre,2009
+-,0,-,-,-,-,-,-,-,Cadets,Men,RODRIGUEZ CASTILLO Manuel,ESP,0.0,528,Sabre,2010
+-,0,-,-,-,-,-,-,-,Cadets,Men,ILLERA SAN EMETERIO Santiago,ESP,0.0,528,Sabre,2009
+-,0,-,-,-,-,-,-,-,Cadets,Men,HOSCHNA Stepan,CZE,0.0,528,Sabre,2008
+-,-,-,0,-,-,-,-,-,Cadets,Men,NG Luke,SGP,0.0,532,Sabre,2009
+-,-,-,0,-,-,-,-,-,Cadets,Men,KADISKI Atanas,BUL,0.0,533,Sabre,2011
+-,-,-,0,-,-,-,-,-,Cadets,Men,VERDE ALONSO Fabio,ESP,0.0,534,Sabre,2011
+-,-,-,0,-,-,-,-,-,Cadets,Men,ZENI Adriano,GRE,0.0,535,Sabre,2009
+-,0,-,-,-,-,-,-,-,Cadets,Men,HUMEN Mykola,UKR,0.0,536,Sabre,2010
+-,0,-,-,-,-,-,-,-,Cadets,Men,BOZSO-ANDRASSY Marton,HUN,0.0,537,Sabre,2008
+-,-,-,0,-,-,-,-,-,Cadets,Men,TESIO Giacomo,ITA,0.0,538,Sabre,2008
+-,-,-,0,-,-,-,-,-,Cadets,Men,MATEEV Matei,BUL,0.0,539,Sabre,2011
+-,-,-,0,-,-,-,-,-,Cadets,Men,IVANOV Boris,BUL,0.0,540,Sabre,2010
+-,-,-,0,-,-,-,-,-,Cadets,Men,CAPORASO Niccolo Giuseppe,ITA,0.0,541,Sabre,2010
+-,-,-,0,-,-,-,-,-,Cadets,Men,KARASHCHENKO Nazar,UKR,0.0,541,Sabre,2011
+-,0,-,-,-,-,-,-,-,Cadets,Men,ALMASSI Marcell,HUN,0.0,543,Sabre,2010
+-,0,-,-,-,-,-,-,-,Cadets,Men,NIKOLIC Filip,SRB,0.0,544,Sabre,2009
+-,0,-,-,-,-,-,-,-,Cadets,Men,IRELAND Innes,GBR,0.0,545,Sabre,2010
+-,0,-,-,-,-,-,-,-,Cadets,Men,NAGY Akos,HUN,0.0,545,Sabre,2010
+-,0,-,-,-,-,-,-,-,Cadets,Men,SERLEGI Balint,HUN,0.0,547,Sabre,2010
+-,0,-,-,-,-,-,-,-,Cadets,Men,HOELLRIGL Aron,AUT,0.0,548,Sabre,2010
+-,0,-,-,-,-,-,-,-,Cadets,Men,CSALLO Zoltan,HUN,0.0,549,Sabre,2009
+-,0,-,-,-,-,-,-,-,Cadets,Men,PALFALVY Bejamin,HUN,0.0,549,Sabre,2010
 -,-,-,42,96,12,96,-,-,Cadets,Women,LEE Lavender,USA,246.0,1,Foil,2009
 -,-,-,60,60,24,78,-,-,Cadets,Women,FEDELI Caterina,USA,222.0,2,Foil,2009
 12,65,60,60,(12),(6),(3),-,10,Cadets,Women,ILLEKOVA Katerina,CZE,207.0,3,Foil,2008
